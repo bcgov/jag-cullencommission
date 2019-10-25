@@ -1,0 +1,466 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,600,800&display=swap');
+
+$bgColor: white;
+$mainTextColor: #666;
+$sectionBorderRadius: 25px;
+$gradientLighter: #001c82;
+$gradientDarker: #000d3d;
+$contentSidePadding: 40px;
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: darken($gradientLighter, 7%);
+  overflow-y: scroll;
+}
+
+img {
+  display: block;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #002bc5;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.25s;
+}
+
+a:hover {
+  color: #333;
+  border-radius: 3px;
+  background-color: #cee2ff;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 100;
+  padding: 0px;
+  margin: 0px 0px 30px 0px;
+}
+
+h2, h3 {
+  color: #666;
+}
+
+ol > li, ul > li {
+  margin: 0px;
+  padding: 0px 0px 8px 0px;
+}
+
+strong {
+  font-weight: 600;
+}
+
+#Header {
+  width: 100%;
+}
+
+#MainContent {
+  width: 94.75%;
+  max-width: 1500px;
+  min-width: 300px;
+  margin: 0px auto;
+  padding: 1px;
+}
+
+#Navbar {
+  float: left;
+  width: 25%;
+  height: 100%;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+#Content {
+  width: 74%;
+  background-color: white;
+  float: right;
+  border-radius: $sectionBorderRadius;
+  padding: 40px $contentSidePadding 35px $contentSidePadding;
+  margin: 0px 0px 40px 0px;
+  box-shadow: 0px 0px 80px rgba(#000000, 0.75);
+}
+
+#Footer {
+  color: lighten($mainTextColor, 10%);
+  text-align: center;
+  margin: 80px 0px 20px 0px;
+}
+
+#SiteHeaderDiv {
+  text-align: center;
+  margin: 10px 0px 40px 0px;
+}
+
+.SiteHeaderMain {
+  color: white;
+  text-align: center;
+}
+
+.HeaderCommissionerName {
+  text-transform: uppercase;
+  font-size: 1.8rem;
+  font-weight: 100;
+  padding: 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+.HeaderInquiry {
+  text-transform: uppercase;
+  font-size: 3.65rem;
+  font-weight: 100;
+  word-spacing: 10px;
+  padding: 0px;
+  margin: 0px 0px 0px 0px;
+
+}
+
+.HeaderCommissionTitle {
+  text-transform: uppercase;
+  font-size: 2.57rem;
+  font-weight: 700;
+  padding: 0px;
+  margin: 0px;
+}
+
+$navbarSpacing: 6px;
+$navbarItemMargin: $navbarSpacing 10px $navbarSpacing 20px;
+$navbarItemPadding: 10px 30px;
+$navbarItemOffsetPadding: 50px;
+
+.NavbarItem {
+  margin: $navbarItemMargin;
+  padding: $navbarItemPadding;
+  color: white;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(#fff, 0.35);
+  background-color: rgba(#fff, 0.25);
+  transition: all 0.25s;
+
+  p {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+}
+
+.active, .NavbarItem:hover {
+  border-color: #fff;
+  background-color: white;
+  color: #666;
+  margin-left: 0px;
+  padding-left: $navbarItemOffsetPadding;
+}
+
+.NavbarItem:first-child {
+  margin-top: 0px !important;
+}
+
+a.NavbarLink {
+  color: inherit;
+  text-decoration: none;
+  font-weight: 600;
+  background-color: transparent;
+}
+
+.HasSubNav::after {
+  content: '\002B';
+  font-weight: bold;
+  font-size: 1.25rem;
+  line-height: 1rem;;
+  float: right;
+  padding: 0px;
+  margin: 0px;
+}
+
+.active::after {
+  content: '\2212';
+}
+
+.SubNavList {
+  margin: 0px 10px $navbarSpacing 0px;
+  padding: 0px;
+  border-radius: 5px;
+  background-color: white;
+  display: none;
+
+  p {
+    color: #666;
+    margin: 0px;
+    padding: 5px 30px;
+    transition: background-color 0.35s ease-in-out;
+  }
+  
+  p:hover {
+    background-color: rgba($gradientLighter, 0.75);
+    color: white;
+  }
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+}
+
+.CurrentPage {
+  border-color: rgba(#fff, 0.35) !important;
+  background-color: #006891 !important;
+  color: white !important;
+  margin-left: 0px !important;
+  padding-left: $navbarItemOffsetPadding !important;
+}
+
+// .SubNavList {
+//   margin: $subNavbarItemMargin;
+//   padding: 0px;
+//   color: white;
+//   border-radius: 5px;
+//   background-color: white;
+//   max-height: 0px;
+//   overflow: hidden;
+//   transition: all 0.25s ease-in-out;
+
+//   p {
+//     color: #666;
+//     margin: 0px;
+//     padding: 5px 30px;
+//     transition: background-color 0.35s ease-in-out;
+//   }
+  
+//   p:hover {
+//     background-color: rgba($gradientLighter, 0.75);
+//     color: white;
+//   }
+  
+//   a {
+//     color: inherit;
+//     text-decoration: none;
+//     font-weight: 600;
+//   }
+  
+// }
+
+.fa-bars {
+  color: white;
+}
+
+.fa-external-link-alt {
+  color: black;
+}
+
+#MenuDisplay {
+  display: none;
+  font-size: 2rem;
+  text-align: left;
+}
+
+.NumberedList {
+  list-style-type: decimal;
+}
+
+.LowerAlphaList {
+  list-style-type: lower-alpha;
+}
+
+.UpperAlphaList {
+  list-style-type: upper-alpha;
+}
+
+.LowerRomanList {
+  list-style-type: lower-roman;
+}
+
+.UpperRomanList {
+  list-style-type: upper-roman;
+}
+
+$ReleaseBGLight: #eee;
+$ReleaseBGDark: #ccc;
+$ReleaseTextColor: #666;
+
+.ReleaseAccordion {
+  // border-radius: 0px;
+  // padding: 0px;
+  // background-image: linear-gradient(to left, $ReleaseBGLight, $ReleaseBGDark);
+  // margin: 40px -$contentSidePadding 0px -$contentSidePadding;
+}
+
+.ReleaseTitleContainer {
+  display: grid;
+  border-radius: 5px;
+  grid-template-columns: 1fr 1fr;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #666;
+  background-image: linear-gradient(to bottom, $ReleaseBGLight, $ReleaseBGDark);
+  box-shadow: 0px 0px 0px black;
+  padding: 20px 30px;
+  margin: 8px 0px;
+  cursor: pointer;
+  transition: box-shadow 0.25s, background-image 0.25s;
+}
+
+.ReleaseTitleContainer:hover {
+  background-image: linear-gradient(to bottom, $ReleaseBGDark, $ReleaseBGLight);
+  box-shadow: 0px 5px 20px black;
+  position: relative;
+}
+
+.ReleaseTitle {
+  grid-column: span 2;
+  color: $ReleaseTextColor;
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin: 0px;
+  padding: 0px;
+}
+
+.ReleaseUnderTitleLeft {
+  color: $ReleaseTextColor;
+  font-weight: 600;
+  font-size: 0.85rem;
+  justify-self: start;
+  margin: 0px;
+  padding: 0px;
+}
+
+.ReleaseUnderTitleRight {
+  color: $ReleaseTextColor;
+  font-weight: 600;
+  font-size: 0.85rem;
+  justify-self: end;
+  margin: 0px;
+  padding: 0px;
+}
+
+.Release {
+  display: none;
+  background-color: white;
+  padding: 25px;
+}
+
+@media only screen and (max-width: 1000px) {
+  #Navbar {
+    float: initial;
+    width: initial;
+    height: initial;
+  }
+
+  #NavbarContainer {
+    width: 100%;
+    max-height: 0px;
+    overflow: hidden;
+    border-radius: 25px;
+    position: absolute;
+    margin: 10px 0px 10px 0px;
+    padding: 0px;
+    background-color: white;
+    transition: max-height 0.25s ease-in-out;
+  }
+
+  #NavbarList {
+    padding: 20px 0px 20px 0px;
+  }
+  
+  #MenuDisplay {
+    display: block;
+  }
+
+  #MainContent {
+    width: 100%;
+    max-width: initial;
+    min-width: initial;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  #Content {
+    width: 100%;
+    float: initial;
+    border-radius: initial;
+    box-shadow: none;
+  }
+  
+  .NavbarItem {
+    width: 250px;
+    border-radius: 5px !important;
+    border-width: 0px;
+    background-color: $gradientLighter;
+    transition: all 0.25s;
+  }
+  
+  .active, .NavbarItem:hover {
+    border-radius: 5px;
+    background-color: lighten($gradientLighter, 15%);
+    margin: $navbarItemMargin;
+    padding: $navbarItemPadding;
+  }
+  
+}
+
+@supports (display: grid) {
+
+  html, body {
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: $gradientDarker;
+    background-image: linear-gradient(to top, $gradientDarker, $gradientLighter);
+  }
+  
+  #MainContent {
+    display: grid;
+    grid-template-columns: minmax(200px, 300px) 1fr;
+    width: 94.75vw;
+    margin: 0px auto;
+  }
+  
+  #Navbar {
+    float: none;
+    width: initial;
+    height: initial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
+  
+  #Content {
+    width: initial;
+    background-color: white;
+    float: none;
+    border-radius: $sectionBorderRadius;
+    box-shadow: 0px 0px 80px rgba($color: #000000, $alpha: 0.75);
+  }
+  
+  #Footer {
+    color: lighten($mainTextColor, 10%);
+    text-align: center;
+    margin: 80px 0px 20px 0px;
+  }
+    
+  #NavbarList {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  @media only screen and (max-width: 1000px) {
+
+    #MainContent {
+      grid-template-columns: 1fr;
+    }
+
+  }
+  
+}
