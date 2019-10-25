@@ -7,6 +7,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Participants</h1>
+<p><a href="/files/003-Ruling-3-re-Applications-for-Standing.pdf" target="_blank">Participants Rulings #3</a></p>
 <p><a href="/files/2019-16-06-Standing-Ruling-2.pdf" target="_blank">Participant Application Ruling #2</a></p>
 <p><a href="/files/Participants-applications-ruling.pdf" target="_blank">Participants Applications Ruling #1</a></p>
 <h2>Transcripts</h2>
