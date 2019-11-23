@@ -19,6 +19,10 @@ class config {
 
   // Apps - Listed in the order they should be tagged
   public static final String[] APPS = ['website']
+
+  // Build configuration
+  public static final String  APP_NAME = "${this.APPS[0]}"
+  public static final String[] BUILDS = ["${this.APPS[0]}"]
 }
 
 return new config();
