@@ -1,0 +1,20 @@
+#=========================================================
+# OpenShift template parameters for:
+# Component: .
+# Template File: ../openshift/templates/website/website-deploy.yaml
+#=========================================================
+# NAME=website
+# SUFFIX=
+# APP_NAME=Cullen-Commission-Website
+# APP_GROUP=cullen-commission
+# ROLE=web
+# HTTP_PORT=8080
+APPLICATION_DOMAIN=cullen-commission-prod.pathfinder.gov.bc.ca
+# IMAGE_NAMESPACE=kyrwwq-tools
+TAG_NAME=prod
+# MIN_REPLICAS=3
+# MAX_REPLICAS=6
+# CPU_REQUEST=10m
+# CPU_LIMIT=250m
+# MEMORY_REQUEST=10Mi
+# MEMORY_LIMIT=256Mi
