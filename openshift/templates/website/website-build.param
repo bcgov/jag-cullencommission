@@ -1,0 +1,18 @@
+#=========================================================
+# OpenShift template parameters for:
+# Component: .
+# Template File: ../openshift/templates/website/website-build.yaml
+#=========================================================
+NAME=website
+SUFFIX=
+APP_NAME=Cullen-Commission-Website
+APP_GROUP=cullen-commission
+ENV_NAME=tools
+GIT_REPO_URL=https://github.com/bcgov/jag-cullencommission.git
+GIT_REF=master
+SOURCE_CONTEXT_DIR=
+SOURCE_IMAGE_TYPE=ImageStreamTag
+SOURCE_IMAGE_NAME=php
+SOURCE_IMAGE_TAG=7.1
+SOURCE_IMAGE_NAMESPACE=openshift
+OUTPUT_IMAGE_TAG=latest
