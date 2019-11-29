@@ -1,5 +1,7 @@
             <div id="Footer">
-                <p>&copy; 2019 Cullen Commission</p>
+                <p><a href="/" class="FooterNavbarLink">Home</a> - <a href="/introductory-statement/" class="FooterNavbarLink">Introductory Statement</a> - <a href="/inquiry-team/" class="FooterNavbarLink">Inquiry Team</a> - <a href="/participants/" class="FooterNavbarLink">Participants</a> - <a href="/public-meetings-information/" class="FooterNavbarLink">Public Meetings</a> - <a href="/about/" class="FooterNavbarLink">About</a> - <a href="/contact/" class="FooterNavbarLink">Contact</a> - <a href="/media-inquires/" class="FooterNavbarLink">Media</a></p>
+                <p class="FooterDisclaimer"><a href="/files/DisclaimerV.4-22-Oct-2019-002.pdf" target="_blank">Disclaimer/Copyright/Privacy Statement</a></p>
+                <p style="margin-bottom: 0px">&copy; 2019 Cullen Commission</p>
             </div>
         </div>
     </div>

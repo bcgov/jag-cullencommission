@@ -1,6 +1,8 @@
 <?php
+include($_SERVER['DOCUMENT_ROOT'] . '/includes/pageVariables.php');
+
 $title = 'Contact';
-$navbarContact = 'CurrentPage';
+$navbarContact = $currentPageCSS;
 
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
@@ -21,14 +23,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>If you are a member of the media and would like information or to set up an interview, please contact the Commission’s Director of Communications, Ruth Atherley (AHA Creative Strategies), at: <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a>.</p>
 <h2><strong>Commission Contact Information</strong></h2>
 <p>Commission of Inquiry into Money Laundering in British Columbia<br />
-PO Box 10073<br />
-601 – 700 West Georgia Street<br />
-Vancouver, BC<br />
-V7Y 1B6</p>
+    PO Box 10073<br />
+    601 – 700 West Georgia Street<br />
+    Vancouver, BC<br />
+    V7Y 1B6</p>
 <p>Telephone: (236) 468-1772<br />
-Toll free: 1-855-788-3661<br />
-Fax: (604) 669-1207<br />
-Email: <a href="mailto:info@cullencommission.ca">info@cullencommission.ca</a></p>
+    Toll free: 1-855-788-3661<br />
+    Fax: (604) 669-1207<br />
+    Email: <a href="mailto:info@cullencommission.ca">info@cullencommission.ca</a></p>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>

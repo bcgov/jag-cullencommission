@@ -1,8 +1,10 @@
 <?php
+include($_SERVER['DOCUMENT_ROOT'] . '/includes/pageVariables.php');
+
 $title = 'Inquiry Team';
+$navbarTeam = $currentPageCSS;
 
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
-echo '<script>$(document).ready(function () {$("#NavbarTeam").toggleClass("CurrentPage");});</script>';
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
