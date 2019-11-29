@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,600,800&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Baskervville&display=swap");
 body {
   margin: 0px;
   padding: 0px;
   font-family: 'Montserrat', sans-serif;
-  background-color: #00145e;
   overflow-y: scroll;
 }
 
@@ -76,7 +76,7 @@ strong {
   width: 74%;
   background-color: white;
   float: right;
-  border-radius: 25px;
+  border-radius: 5px;
   padding: 40px 40px 35px 40px;
   margin: 0px 0px 40px 0px;
   -webkit-box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.75);
@@ -99,27 +99,17 @@ strong {
   text-align: center;
 }
 
-.HeaderCommissionerName {
-  text-transform: uppercase;
-  font-size: 1.8rem;
-  font-weight: 100;
-  padding: 0px;
-  margin: 0px 0px 0px 0px;
-}
-
 .HeaderInquiry {
-  text-transform: uppercase;
-  font-size: 3.65rem;
-  font-weight: 100;
-  word-spacing: 10px;
+  font-family: 'Baskervville', sans-serif;
+  font-size: 1.5rem;
   padding: 0px;
-  margin: 0px 0px 0px 0px;
+  margin: 20px 0px 0px 0px;
 }
 
 .HeaderCommissionTitle {
-  text-transform: uppercase;
-  font-size: 2.57rem;
-  font-weight: 700;
+  font-family: 'Baskervville', sans-serif;
+  font-size: 3.25rem;
+  font-weight: 300;
   padding: 0px;
   margin: 0px;
 }
@@ -130,9 +120,13 @@ strong {
   color: white;
   border-radius: 5px;
   border-style: solid;
-  border-width: 1px;
-  border-color: rgba(255, 255, 255, 0.35);
-  background-color: rgba(255, 255, 255, 0.25);
+  border-width: 1px 1px 1px 1px;
+  border-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.35)), to(rgba(255, 255, 255, 0.05)));
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0.05));
+  -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.45) inset;
+          box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.45) inset;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
 }
@@ -143,7 +137,7 @@ strong {
 }
 
 .active, .NavbarItem:hover {
-  border-color: #fff;
+  border-color: #666;
   background-color: white;
   color: #666;
   margin-left: 0px;
@@ -210,6 +204,22 @@ a.NavbarLink {
   padding-left: 50px !important;
 }
 
+.FooterNavbarLink {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: #666;
+  text-decoration: underline;
+}
+
+.FooterDisclaimer {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: #000d3d;
+  text-decoration: underline;
+  text-align: center;
+  margin: 0px 0px 30px 0px;
+}
+
 .fa-bars {
   color: white;
 }
@@ -245,20 +255,16 @@ a.NavbarLink {
 }
 
 .ReleaseTitleContainer {
-  display: -ms-grid;
-  display: grid;
-  border-radius: 5px;
-  -ms-grid-columns: 1fr 1fr;
-      grid-template-columns: 1fr 1fr;
+  position: relative;
   border-style: solid;
   border-width: 1px;
   border-color: #666;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#ccc));
-  background-image: linear-gradient(to bottom, #eee, #ccc);
-  -webkit-box-shadow: 0px 0px 0px black;
-          box-shadow: 0px 0px 0px black;
+  background-color: #eee;
+  -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+          box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
   padding: 20px 30px;
-  margin: 8px 0px;
+  margin: -1px 0px 0px 0px;
+  z-index: 0;
   cursor: pointer;
   -webkit-transition: background-image 0.25s, -webkit-box-shadow 0.25s;
   transition: background-image 0.25s, -webkit-box-shadow 0.25s;
@@ -267,15 +273,13 @@ a.NavbarLink {
 }
 
 .ReleaseTitleContainer:hover {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#ccc), to(#eee));
-  background-image: linear-gradient(to bottom, #ccc, #eee);
-  -webkit-box-shadow: 0px 5px 20px black;
-          box-shadow: 0px 5px 20px black;
-  position: relative;
+  background-color: white;
+  -webkit-box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.35);
+          box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.35);
+  z-index: 1;
 }
 
 .ReleaseTitle {
-  grid-column: span 2;
   color: #666;
   font-weight: 600;
   font-size: 1.5rem;
@@ -287,8 +291,7 @@ a.NavbarLink {
   color: #666;
   font-weight: 600;
   font-size: 0.85rem;
-  -ms-grid-column-align: start;
-      justify-self: start;
+  float: left;
   margin: 0px;
   padding: 0px;
 }
@@ -297,14 +300,16 @@ a.NavbarLink {
   color: #666;
   font-weight: 600;
   font-size: 0.85rem;
-  -ms-grid-column-align: end;
-      justify-self: end;
+  float: right;
   margin: 0px;
   padding: 0px;
 }
 
 .Release {
   display: none;
+  border-style: solid;
+  border-width: 0px 1px 1px 1px;
+  border-color: #ccc;
   background-color: white;
   padding: 25px;
 }
@@ -319,7 +324,6 @@ a.NavbarLink {
     width: 100%;
     max-height: 0px;
     overflow: hidden;
-    border-radius: 25px;
     position: absolute;
     margin: 10px 0px 10px 0px;
     padding: 0px;
@@ -328,13 +332,17 @@ a.NavbarLink {
     transition: max-height 0.25s ease-in-out;
   }
   #NavbarList {
-    padding: 20px 0px 20px 0px;
+    padding: 20px 0px 20px 20px;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #666;
   }
   #MenuDisplay {
     display: block;
+    margin-left: 20px;
   }
   #MainContent {
-    width: 100%;
+    width: initial;
     max-width: initial;
     min-width: initial;
     margin: 0px;
@@ -348,18 +356,17 @@ a.NavbarLink {
             box-shadow: none;
   }
   .NavbarItem {
-    width: 250px;
-    border-radius: 5px !important;
-    border-width: 0px;
+    width: 280px;
     background-color: #001c82;
-    -webkit-transition: all 0.25s;
-    transition: all 0.25s;
   }
   .active, .NavbarItem:hover {
-    border-radius: 5px;
-    background-color: #002ccf;
-    margin: 6px 10px 6px 20px;
-    padding: 10px 30px;
+    border-color: #999;
+  }
+  .HeaderInquiry {
+    font-size: 1.5rem;
+  }
+  .HeaderCommissionTitle {
+    font-size: 2.25rem;
   }
 }
 
@@ -393,7 +400,7 @@ a.NavbarLink {
     width: initial;
     background-color: white;
     float: none;
-    border-radius: 25px;
+    border-radius: 5px;
     -webkit-box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.75);
             box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.75);
   }
@@ -408,10 +415,64 @@ a.NavbarLink {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }
+  .ReleaseTitleContainer {
+    position: relative;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+    cursor: pointer;
+    -webkit-transition: background-image 0.25s, -webkit-box-shadow 0.25s;
+    transition: background-image 0.25s, -webkit-box-shadow 0.25s;
+    transition: box-shadow 0.25s, background-image 0.25s;
+    transition: box-shadow 0.25s, background-image 0.25s, -webkit-box-shadow 0.25s;
+  }
+  .ReleaseTitle {
+    grid-column: span 2;
+    color: #666;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin: 0px;
+    padding: 0px;
+  }
+  .ReleaseUnderTitleLeft {
+    color: #666;
+    font-weight: 600;
+    font-size: 0.85rem;
+    float: initial;
+    -ms-grid-column-align: start;
+        justify-self: start;
+    margin: 0px;
+    padding: 0px;
+  }
+  .ReleaseUnderTitleRight {
+    color: #666;
+    font-weight: 600;
+    font-size: 0.85rem;
+    float: initial;
+    -ms-grid-column-align: end;
+        justify-self: end;
+    margin: 0px;
+    padding: 0px;
+  }
+  .Release {
+    display: none;
+    background-color: transparent;
+    padding: 25px;
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 2;
+    grid-column: 1 / span 2;
+  }
   @media only screen and (max-width: 1000px) {
     #MainContent {
+      width: initial;
       -ms-grid-columns: 1fr;
           grid-template-columns: 1fr;
+    }
+    #Content {
+      width: initial;
+      border-radius: 0px;
+      margin: 0px;
     }
   }
 }

@@ -1,8 +1,10 @@
 <?php
+include($_SERVER['DOCUMENT_ROOT'] . '/includes/pageVariables.php');
+
 $title = 'Public Meetings';
+$navbarMeetings = $currentPageCSS;
 
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
-echo '<script>$(document).ready(function () {$("#NavbarMeetings").toggleClass("CurrentPage");});</script>';
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
@@ -33,30 +35,30 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h2>Meetings schedule</h2>
 <p><strong>All meetings start at 5:30 p.m.</strong></p>
 <p><strong>Vancouver:</strong> October 23, 2019<br />
-Fairmont Hotel Vancouver<br />
-Vancouver Island Ballroom<br />
-900 West Georgia Street<br />
-Vancouver, B.C.</p>
+    Fairmont Hotel Vancouver<br />
+    Vancouver Island Ballroom<br />
+    900 West Georgia Street<br />
+    Vancouver, B.C.</p>
 <p><strong>Kelowna:</strong> October 29, 2019<br />
-Best Western Plus<br />
-South Ballroom<br />
-2402 Hwy 97N<br />
-Kelowna, B.C.</p>
+    Best Western Plus<br />
+    South Ballroom<br />
+    2402 Hwy 97N<br />
+    Kelowna, B.C.</p>
 <p><strong>Victoria:</strong> November 4, 2019<br />
-Marriott Hotel Victoria Inner Harbour<br />
-Pacific Ballroom<br />
-728 Humboldt Street<br />
-Victoria, B.C.</p>
+    Marriott Hotel Victoria Inner Harbour<br />
+    Pacific Ballroom<br />
+    728 Humboldt Street<br />
+    Victoria, B.C.</p>
 <p><strong>Richmond: </strong>November 7, 2019<br />
-Hilton Vancouver Airport<br />
-Marsalis/Benson Room<br />
-5911 Minoru Boulevard<br />
-Richmond B.C.</p>
+    Hilton Vancouver Airport<br />
+    Marsalis/Benson Room<br />
+    5911 Minoru Boulevard<br />
+    Richmond B.C.</p>
 <p><strong>Prince George:</strong> November 14, 2019<br />
-Ramada Plaza<br />
-Cranbrook South Room<br />
-444 George Street<br />
-Prince George, B.C.</p>
+    Ramada Plaza<br />
+    Cranbrook South Room<br />
+    444 George Street<br />
+    Prince George, B.C.</p>
 <p>If there are any changes to the dates, times, locations or venues of a public meeting, they will be listed here on our website, and registered presenters will be contacted by email or telephone (if provided).</p>
 <h2>At the public meeting</h2>
 <ol class="NumberedList">

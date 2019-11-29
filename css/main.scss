@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,600,800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Baskervville&display=swap');
 
 $bgColor: white;
 $mainTextColor: #666;
-$sectionBorderRadius: 25px;
+$sectionBorderRadius: 5px;
 $gradientLighter: #001c82;
 $gradientDarker: #000d3d;
 $contentSidePadding: 40px;
@@ -11,7 +12,6 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: 'Montserrat', sans-serif;
-  background-color: darken($gradientLighter, 7%);
   overflow-y: scroll;
 }
 
@@ -104,28 +104,18 @@ strong {
   text-align: center;
 }
 
-.HeaderCommissionerName {
-  text-transform: uppercase;
-  font-size: 1.8rem;
-  font-weight: 100;
-  padding: 0px;
-  margin: 0px 0px 0px 0px;
-}
-
 .HeaderInquiry {
-  text-transform: uppercase;
-  font-size: 3.65rem;
-  font-weight: 100;
-  word-spacing: 10px;
+  font-family: 'Baskervville', sans-serif;
+  font-size: 1.5rem;
   padding: 0px;
-  margin: 0px 0px 0px 0px;
+  margin: 20px 0px 0px 0px;
 
 }
 
 .HeaderCommissionTitle {
-  text-transform: uppercase;
-  font-size: 2.57rem;
-  font-weight: 700;
+  font-family: 'Baskervville', sans-serif;
+  font-size: 3.25rem;
+  font-weight: 300;
   padding: 0px;
   margin: 0px;
 }
@@ -141,9 +131,11 @@ $navbarItemOffsetPadding: 50px;
   color: white;
   border-radius: 5px;
   border-style: solid;
-  border-width: 1px;
-  border-color: rgba(#fff, 0.35);
-  background-color: rgba(#fff, 0.25);
+  border-width: 1px 1px 1px 1px;
+  border-color: rgba(#fff, 0.3);
+  background-color: rgba(#fff, 0);
+  background-image: linear-gradient(to bottom, rgba(#fff, 0.35), rgba(#fff, 0.05));
+  box-shadow: 0px 0px 5px rgba(#000, 0.45) inset;
   transition: all 0.25s;
 
   p {
@@ -154,7 +146,7 @@ $navbarItemOffsetPadding: 50px;
 }
 
 .active, .NavbarItem:hover {
-  border-color: #fff;
+  border-color: #666;
   background-color: white;
   color: #666;
   margin-left: 0px;
@@ -221,35 +213,21 @@ a.NavbarLink {
   padding-left: $navbarItemOffsetPadding !important;
 }
 
-// .SubNavList {
-//   margin: $subNavbarItemMargin;
-//   padding: 0px;
-//   color: white;
-//   border-radius: 5px;
-//   background-color: white;
-//   max-height: 0px;
-//   overflow: hidden;
-//   transition: all 0.25s ease-in-out;
+.FooterNavbarLink {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: #666;
+  text-decoration: underline;
+}
 
-//   p {
-//     color: #666;
-//     margin: 0px;
-//     padding: 5px 30px;
-//     transition: background-color 0.35s ease-in-out;
-//   }
-  
-//   p:hover {
-//     background-color: rgba($gradientLighter, 0.75);
-//     color: white;
-//   }
-  
-//   a {
-//     color: inherit;
-//     text-decoration: none;
-//     font-weight: 600;
-//   }
-  
-// }
+.FooterDisclaimer {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: #000d3d;
+  text-decoration: underline;
+  text-align: center;
+  margin: 0px 0px 30px 0px;
+}
 
 .fa-bars {
   color: white;
@@ -286,39 +264,29 @@ a.NavbarLink {
 }
 
 $ReleaseBGLight: #eee;
-$ReleaseBGDark: #ccc;
 $ReleaseTextColor: #666;
 
-.ReleaseAccordion {
-  // border-radius: 0px;
-  // padding: 0px;
-  // background-image: linear-gradient(to left, $ReleaseBGLight, $ReleaseBGDark);
-  // margin: 40px -$contentSidePadding 0px -$contentSidePadding;
-}
-
 .ReleaseTitleContainer {
-  display: grid;
-  border-radius: 5px;
-  grid-template-columns: 1fr 1fr;
+  position: relative;
   border-style: solid;
   border-width: 1px;
   border-color: #666;
-  background-image: linear-gradient(to bottom, $ReleaseBGLight, $ReleaseBGDark);
-  box-shadow: 0px 0px 0px black;
+  background-color: $ReleaseBGLight;
+  box-shadow: 0px 0px 0px rgba(black, 0);
   padding: 20px 30px;
-  margin: 8px 0px;
+  margin: -1px 0px 0px 0px;
+  z-index: 0;
   cursor: pointer;
   transition: box-shadow 0.25s, background-image 0.25s;
 }
 
 .ReleaseTitleContainer:hover {
-  background-image: linear-gradient(to bottom, $ReleaseBGDark, $ReleaseBGLight);
-  box-shadow: 0px 5px 20px black;
-  position: relative;
+  background-color: white;
+  box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.35);
+  z-index: 1;
 }
 
 .ReleaseTitle {
-  grid-column: span 2;
   color: $ReleaseTextColor;
   font-weight: 600;
   font-size: 1.5rem;
@@ -330,7 +298,7 @@ $ReleaseTextColor: #666;
   color: $ReleaseTextColor;
   font-weight: 600;
   font-size: 0.85rem;
-  justify-self: start;
+  float: left;
   margin: 0px;
   padding: 0px;
 }
@@ -339,13 +307,16 @@ $ReleaseTextColor: #666;
   color: $ReleaseTextColor;
   font-weight: 600;
   font-size: 0.85rem;
-  justify-self: end;
+  float: right;
   margin: 0px;
   padding: 0px;
 }
 
 .Release {
   display: none;
+  border-style: solid;
+  border-width: 0px 1px 1px 1px;
+  border-color: #ccc;
   background-color: white;
   padding: 25px;
 }
@@ -361,7 +332,6 @@ $ReleaseTextColor: #666;
     width: 100%;
     max-height: 0px;
     overflow: hidden;
-    border-radius: 25px;
     position: absolute;
     margin: 10px 0px 10px 0px;
     padding: 0px;
@@ -370,15 +340,19 @@ $ReleaseTextColor: #666;
   }
 
   #NavbarList {
-    padding: 20px 0px 20px 0px;
+    padding: 20px 0px 20px 20px;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #666;
   }
   
   #MenuDisplay {
     display: block;
+    margin-left: 20px;
   }
 
   #MainContent {
-    width: 100%;
+    width: initial;
     max-width: initial;
     min-width: initial;
     margin: 0px;
@@ -393,20 +367,22 @@ $ReleaseTextColor: #666;
   }
   
   .NavbarItem {
-    width: 250px;
-    border-radius: 5px !important;
-    border-width: 0px;
+    width: 280px;
     background-color: $gradientLighter;
-    transition: all 0.25s;
   }
   
   .active, .NavbarItem:hover {
-    border-radius: 5px;
-    background-color: lighten($gradientLighter, 15%);
-    margin: $navbarItemMargin;
-    padding: $navbarItemPadding;
+    border-color: #999;
   }
-  
+
+  .HeaderInquiry {
+    font-size: 1.5rem;
+  }
+
+  .HeaderCommissionTitle {
+    font-size: 2.25rem;
+  }
+
 }
 
 @supports (display: grid) {
@@ -455,10 +431,61 @@ $ReleaseTextColor: #666;
     grid-template-columns: 1fr;
   }
 
+  .ReleaseTitleContainer {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    cursor: pointer;
+    transition: box-shadow 0.25s, background-image 0.25s;
+  }
+  
+  .ReleaseTitle {
+    grid-column: span 2;
+    color: $ReleaseTextColor;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .ReleaseUnderTitleLeft {
+    color: $ReleaseTextColor;
+    font-weight: 600;
+    font-size: 0.85rem;
+    float: initial;
+    justify-self: start;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .ReleaseUnderTitleRight {
+    color: $ReleaseTextColor;
+    font-weight: 600;
+    font-size: 0.85rem;
+    float: initial;
+    justify-self: end;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .Release {
+    display: none;
+    background-color: transparent;
+    padding: 25px;
+    grid-column: 1 / span 2;
+  }
+  
   @media only screen and (max-width: 1000px) {
 
     #MainContent {
+      width: initial;
       grid-template-columns: 1fr;
+    }
+
+    #Content {
+      width: initial;
+      border-radius: 0px;
+      margin: 0px;
     }
 
   }
