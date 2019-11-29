@@ -6,7 +6,7 @@ This project uses the [BCDevOps/openshift-developer-tools](https://github.com/BC
 
 ## Prerequisites
 
-The following instructions assume you have installed the [OpenShift scripts](https://github.com/BCDevOps/openshift-developer-tools/blob/master/bin/README.md) and they are accessible via your PATH environment variable.
+The following instructions assume you have installed the [OpenShift scripts](https://github.com/BCDevOps/openshift-developer-tools/blob/master/bin/README.md) and they are accessible via your PATH environment variable.  This scripts run in a GitBash shell.
 
 *All* commands are executed from the project's `./openshift` directory.
 
@@ -66,3 +66,46 @@ genDepls.sh -h      # Display full help documentation for the script.
 
 - The `-c <componentName>` flag can be used to limit the scope of the create/update to a given components template's.
 - The `-e <environmentName>` flag can be used to target an environment (for example, `test` or `prod`) other than `dev`.
+
+# Installing a Certificate on the Production Route
+
+The [certificate.conf](./certificate.conf) file for this project has already been created to install a certificate and private key on the route of the production deployment.  The gitignore file has also been setup to insure `*.crt` and `*.key` files do not get included in source control.  To install the certificate you will be using the [installCertificate.sh](https://github.com/BCDevOps/openshift-developer-tools/blob/master/bin/installCertificate.sh) from [BCDevOps/openshift-developer-tools](https://github.com/BCDevOps/openshift-developer-tools/tree/master/bin) so make sure you've followed the instructions to install these tools on your machine and they are running.
+
+## Preparing the Private Key
+
+If needed, make a copy of your private key and rename it `private.key`.  Place the file in the `.../jag-cullencommission/openshift` directory (the same directory as the `certificate.conf` file).
+
+## Preparing the Certificate
+
+If you received a certificate via iStore request from the government, it likely came as three separate files (and not as a bundled certificate); `G2Root.txt`, `L1KChain.txt`, and `<yourhostname>.txt`.  We need to install a bundled certificate on the route.
+
+1. Outside the project directory, make a copy of `<yourhostname>.txt` and rename it `Combined.crt`.
+2. Using as plain text editor (such as Visual Studio Code), open `Combined.crt` and append the whole content of `L1KChain.txt` to the end of the file.
+3. Now append the whole content of `G2Root.txt` to the end of the file.
+4. Save the file.  You should have something that looks like this;
+```
+-----BEGIN CERTIFICATE-----
+<YourCertHere>
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE----- 
+<IntermediateCert>
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE----- 
+<RootCert>
+-----END CERTIFICATE-----
+```
+5. Place the file in the `.../jag-cullencommission/openshift` directory (the same directory as the `certificate.conf` file).
+
+## Installing the Certificate
+
+Open a GitBash shell to the `.../jag-cullencommission/openshift` directory (the same directory as the `certificate.conf` file).
+
+Run the `installCertificate.sh` script, for example;
+```
+/c/jag-cullencommission/openshift (master)
+$ installCertificate.sh -e prod -f certificate.conf
+```
+
+## Clean up
+
+Make sure you make secure copies of the bundled certificate `Combined.crt` and private key `private.key` along with any other certificate related files.  Perminently delete all local copies of teh files once you have installed the certificate.
