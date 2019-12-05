@@ -114,55 +114,30 @@ strong {
   margin: 0px;
 }
 
-.NavbarItem {
-  font-size: 0.9rem;
-  margin: 6px 10px 6px 20px;
-  padding: 10px 20px;
+a.NavbarButton {
+  font-weight: 600;
   color: white;
+  white-space: nowrap;
   border-radius: 5px;
-  border-style: solid;
-  border-width: 1px 1px 1px 1px;
-  border-color: rgba(255, 255, 255, 0.3);
-  background-color: rgba(255, 255, 255, 0);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.35)), to(rgba(255, 255, 255, 0.05)));
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0.05));
-  -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.45) inset;
-          box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.45) inset;
+  margin: 0px 10px 6px 20px;
+  padding: 10px 10px;
+  text-shadow: 0px 1px 1px black;
+  background-color: #ffffff3b;
   cursor: pointer;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
 }
 
-.NavbarItem p {
-  margin: 0px;
-  padding: 0px;
-}
-
-.active, .NavbarItem:hover {
-  border-color: #666;
-  background-color: white;
-  color: #666;
-  margin-left: 0px;
-  padding-left: 40px;
-}
-
-.NavbarItem:first-child {
+a.NavbarButton:first-child {
   margin-top: 0px !important;
 }
 
-a.NavbarLink {
-  color: inherit;
-  text-decoration: none;
-  font-weight: 500;
-  background-color: transparent;
-}
-
-.HasSubNav {
-  padding: 10px;
-}
-
-.HasSubNav:hover {
+a.active, a.NavbarButton:hover {
+  margin-left: 0px;
   padding-left: 30px;
+  background-color: white;
+  text-shadow: 0px 1px 15px grey,  0px 1px 3px grey;
+  color: black;
 }
 
 .SubNavList {
@@ -316,9 +291,9 @@ a.NavbarLink {
     max-height: 0px;
     overflow: hidden;
     position: absolute;
-    margin: 10px 0px 10px 0px;
+    margin: 0px 0px 10px 0px;
     padding: 0px;
-    background-color: white;
+    background-color: #00104C;
     -webkit-transition: max-height 0.25s ease-in-out;
     transition: max-height 0.25s ease-in-out;
   }
