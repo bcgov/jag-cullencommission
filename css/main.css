@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,600,800&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,800&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Baskervville&display=swap");
 body {
   margin: 0px;
@@ -115,8 +115,9 @@ strong {
 }
 
 .NavbarItem {
+  font-size: 0.9rem;
   margin: 6px 10px 6px 20px;
-  padding: 10px 30px;
+  padding: 10px 20px;
   color: white;
   border-radius: 5px;
   border-style: solid;
@@ -127,6 +128,7 @@ strong {
   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0.05));
   -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.45) inset;
           box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.45) inset;
+  cursor: pointer;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
 }
@@ -141,7 +143,7 @@ strong {
   background-color: white;
   color: #666;
   margin-left: 0px;
-  padding-left: 50px;
+  padding-left: 40px;
 }
 
 .NavbarItem:first-child {
@@ -151,22 +153,16 @@ strong {
 a.NavbarLink {
   color: inherit;
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 500;
   background-color: transparent;
 }
 
-.HasSubNav::after {
-  content: '\002B';
-  font-weight: bold;
-  font-size: 1.25rem;
-  line-height: 1rem;
-  float: right;
-  padding: 0px;
-  margin: 0px;
+.HasSubNav {
+  padding: 10px;
 }
 
-.active::after {
-  content: '\2212';
+.HasSubNav:hover {
+  padding-left: 30px;
 }
 
 .SubNavList {
@@ -175,33 +171,28 @@ a.NavbarLink {
   border-radius: 5px;
   background-color: white;
   display: none;
+  overflow: hidden;
 }
 
 .SubNavList p {
   color: #666;
   margin: 0px;
-  padding: 5px 30px;
+  padding: 8px 20px;
   -webkit-transition: background-color 0.35s ease-in-out;
   transition: background-color 0.35s ease-in-out;
 }
 
 .SubNavList p:hover {
-  background-color: rgba(0, 28, 130, 0.75);
-  color: white;
+  background-color: #ccc;
+  color: black;
 }
 
 .SubNavList a {
   color: inherit;
   text-decoration: none;
-  font-weight: 600;
-}
-
-.CurrentPage {
-  border-color: rgba(255, 255, 255, 0.35) !important;
-  background-color: #006891 !important;
-  color: white !important;
-  margin-left: 0px !important;
-  padding-left: 50px !important;
+  font-size: 0.9rem;
+  font-weight: 500;
+  background-color: transparent;
 }
 
 .FooterNavbarLink {
