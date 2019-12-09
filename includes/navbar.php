@@ -3,12 +3,6 @@
         <h1 id="MenuDisplay" onclick="displayNavbar()"><i class="fas fa-bars"></i></h1>
         <div id="NavbarContainer">
             <div id="NavbarList">
-                <!-- <a href="#" class="NavbarLink"><div class="NavbarItem HasSubNav" id="NavbarTest">Link 01</div></a>
-                <div class="SubNavList" id="NavbarTestSubNav">
-                    <p><a href="#">Sub-Link 01</a></p>
-                    <p><a href="#">Sub-Link 02</a></p>
-                    <p><a href="#">Sub-Link 03</a></p>
-                </div> -->
                 <a href="/" class="NavbarButton">Home</a>
                 <a class="NavbarButton HasSubNav" id="NavbarComState"><i class="fas fa-chevron-down"></i> Commissioner’s Statements</a>
                 <div class="SubNavList" id="NavbarComStateSubNav">
@@ -51,9 +45,6 @@
                 </a>
                 <a href="/about/" class="NavbarLink">
                     <div class="NavbarItem" id="NavbarAbout">About</div>
-                </a>
-                <a href="/media-inquires/" class="NavbarLink">
-                    <div class="NavbarItem" id="NavbarMedia">Media</div>
                 </a> -->
             </div>
         </div>
