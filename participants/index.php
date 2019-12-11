@@ -5,47 +5,312 @@ $title = 'Participants';
 $navbarParticipants = $currentPageCSS;
 
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
+?>
+<style>
+    .rTable {
+        display: table;
+        width: 100%;
+        margin: 0px 0px 60px 0px;
+    }
+
+    .rTableHeading {
+        display: table-header-group;
+        font-weight: bold;
+    }
+
+    .rTableBody {
+        display: table-row-group;
+    }
+
+    .rTableRow {
+        display: table-row;
+    }
+
+    .rTableCell {
+        display: table-cell;
+        font-size: 0.85rem;
+        padding: 3px 5px;
+        border-style: solid;
+        border-color: #999;
+        border-width: 0px 0px 1px 0px;
+    }
+</style>
+<?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Participants</h1>
-<p><a href="/files/004-Ruling-4-Application-of-Bob-Mackin-for-Copies-of-Application-Materials-November-8-2019" target="_blank">Ruling #4 Application of Bob Mackin for Copies of Application Materials</a></p>
-<p><a href="/files/003-Ruling-3-re-Applications-for-Standing.pdf" target="_blank">Participants Rulings #3</a></p>
-<p><a href="/files/2019-16-06-Standing-Ruling-2.pdf" target="_blank">Participant Application Ruling #2</a></p>
-<p><a href="/files/Participants-applications-ruling.pdf" target="_blank">Participants Applications Ruling #1</a></p>
-<h2>Transcripts</h2>
-<p><a href="/files/2019-10-08-Application-Hearing-Transcript.pdf">Oral Hearing Participants Standing – Transcript from Oct 18, 2019</a></p>
-<p>The Inquiry is planning to engage with members of the public in a number of ways, and people can provide information to the commission by emailing <a href="mailto:info@cullencommission.ca">info@cullencommission.ca</a> There may be public meetings held this fall, to allow people to tell the Commissioner about their concerns with money laundering in the province. Information about those meetings and about how people can stay informed about our work will be available on this website, and will be updated regularly.</p>
-<p>For individuals who believe they have relevant information or who want to testify at the Inquiry public hearings, we suggest they contact commission counsel, which they can do by emailing <a href="mailto:info@cullencommission.ca">info@cullencommission.ca</a> and making the request.</p>
-<p>For individuals and organizations who seek formal standing as participants at the Inquiry’s hearings (similar to parties in a court case), the Commission has Rules for Standing that are available below. The Rules provide a due date of September 6, 2019, but the Commissioner has the discretion to extend that deadline, and anyone seeking to apply for participant status after that date is encouraged to apply in accordance with the Rules, and to seek an extension of time. Those applications will all be carefully considered and determined on their merits.</p>
-<h2>Rules for Standing</h2>
-<ol class="NumberedList">
-    <li>Commission counsel, who will assist the Commissioner to ensure the orderly conduct of the inquiry, have standing throughout the inquiry.</li>
-    <li>Commission counsel have the primary responsibility for representing the public interest at the inquiry, including the responsibility to ensure that all matters that bear upon the public interest are brought to the Commissioner’s attention.</li>
-    <li>Individuals, agencies, institutions or any other entities (collectively “persons”) who wish to participate in the inquiry may seek standing by submitting a written application to the Commission with the following information:
-        <ol class="LowerAlphaList">
-            <li>the person’s name, address, telephone number and email address;</li>
-            <li>the name of counsel, if any, representing the person, together with counsel’s address, telephone number and email address;</li>
-            <li>the nature of the person’s interest in the subject matter of the inquiry, why he or she wishes standing, and how he or she proposes to contribute to the inquiry, having specific regard to the terms of reference; and</li>
-            <li>the nature and extent of participation sought.</li>
-        </ol>
-    </li>
-    <li>Applications for standing must not exceed ten (10) double-spaced pages in length, unless otherwise ordered by the Commissioner.</li>
-    <li>Applications for standing must be filed with the Commission in electronic format at <a href="mailto:participants@cullencommission.ca">participants@cullencommission.ca</a> on or before September 6, 2019, or at the discretion of the Commissioner on any other date.</li>
-    <li>All applications for standing will be available to the public on the Commission’s website unless otherwise ordered by the Commissioner.</li>
-    <li>The Commissioner will determine the outcome of applications for standing on the basis of written applications, unless the Commissioner determines that an oral hearing is necessary. Any oral hearings on standing will take place on such dates as the Commissioner may determine.</li>
-    <li>The Commissioner may grant a person standing after considering all of the following:
-        <ol class="LowerAlphaList">
-            <li>whether, and to what extent, the person’s interests may be affected by the findings of the Commission;</li>
-            <li>whether the person’s participation would further the conduct of the inquiry; and</li>
-            <li>whether the person’s participation would contribute to the fairness of the inquiry (<em>Public Inquiry Act</em>, s. 11(4)).</li>
-        </ol>
-    </li>
-    <li>Those granted standing will be designated as participants before the inquiry.</li>
-    <li>The Commissioner will determine on what terms and in which parts of the inquiry a participant may participate, and the nature and extent of such participation. The Commissioner retains the discretion to vary a participant’s participation or rescind standing.</li>
-    <li>The Commissioner may direct that a number of applicants share in a single grant of standing.</li>
-</ol>
-<p><em>Note: Pursuant to Standing Rule 6, the Commissioner has directed that applications for standing will not be published, but will be summarized in rulings (see links above).</em></p>
+<p>The following have been granted Participant Status by Commissioner Cullen:</p>
+<div class="rTable">
+    <div class="rTableBody">
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p><strong>Applicant</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p></p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Counsel Name or Participant</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Law Firm</strong></p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Government of Canada</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Canada</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Jan Brongers<br /> Judith Hoffman<br /> BJ Wray</p>
+            </div>
+            <div class="rTableCell">
+                <p>Department of Justice<br /> BC Regional Office</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Ministry of Attorney General - Gaming Policy Enforcement Branch</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>GPEB</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Jacqueline D. Hughes<br /> J. Cherisse Friesen<br /> Chantelle Rajotte</p>
+            </div>
+            <div class="rTableCell">
+                <p>Ministry of Attorney General</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Ministry of Attorney General - Ministry of Finance</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Ministry of Finance</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Jacqueline D. Hughes<br /> J. Cherisse Friesen<br /> Chantelle Rajotte</p>
+            </div>
+            <div class="rTableCell">
+                <p>Ministry of Attorney General</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>British Columbia Civil Liberties Association</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>BCCLA</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Grace Pastine</p>
+            </div>
+            <div class="rTableCell">
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>British Columbia Government &amp; Service Employees' Untion (BCGEU)</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>BCGEU</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Jitesh Mistry</p>
+            </div>
+            <div class="rTableCell">
+                <p>General Counsel</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>British Columbia Lottery Corporation</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>BCLC</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>William B. Smart, QC<br /> Shannon P. Ramsay</p>
+            </div>
+            <div class="rTableCell">
+                <p>Hunter Litigation Chambers Law Corporation</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>BMW</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>BMW</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Shea Coulson</p>
+            </div>
+            <div class="rTableCell">
+                <p>Dentons Canada LLP</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Canadian Bar Association, BC Branch</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>CBA</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Jo-Anne Stark, Director o fAdvocacy, CBA, BC Branch</p>
+            </div>
+            <div class="rTableCell">
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Criminal Defence Advocacy Society</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>CDAS</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Kevin B. Westell</p>
+            </div>
+            <div class="rTableCell">
+                <p>Pender Litigation</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Canadian Gaming Association</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>CGA</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Paul Burns, President &amp; CEO</p>
+            </div>
+            <div class="rTableCell">
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Coalition: <br /> Transparency International Canada <strong>(TI Canada)</strong><br /> Canadians For Tax Fairness <strong>(C4TF)</strong><br /> Publish What you Pay Canada <strong>(PWYP)</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Coalition</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>James Cohen, Executive Director<br /> Sasha Caldera, Program Manager, Beneficial Ownership Project *Canadians for Tax Fairness*<br /> Emily Nickerson, Director</p>
+            </div>
+            <div class="rTableCell">
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Gateway Casinos &amp; Entertainment Ltd.</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Gateway</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>David Gruber<br /> Laura L. Bevan<br /> Meg Gaily</p>
+            </div>
+            <div class="rTableCell">
+                <p>Bennett Jones<br /> Lawson Lundell<br /> Lawson Lundell</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Great Canadian Gaming Commission</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>GCGC</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Mark L. Skwarok<br /> Melanie Harmer</p>
+            </div>
+            <div class="rTableCell">
+                <p>McMillan LLP</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Law Society of British Columbia</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>LSBC</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Ludmila B. Herbst, QC</p>
+            </div>
+            <div class="rTableCell">
+                <p>Farris LLP</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>The Society of Notaries Public of BC</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>SNPBC</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Ron Usher</p>
+            </div>
+            <div class="rTableCell">
+                <p>The Society of Notaries Public of B.C.</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Robert Kroeker</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Robert Kroeker</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Marie Henein<br /> Christine Mainville</p>
+            </div>
+            <div class="rTableCell">
+                <p>Henein Hutchison LLP</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>BC Real Estate Association</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>BCREA</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Chris Weafer<br /> Patrick Weafer</p>
+            </div>
+            <div class="rTableCell">
+                <p>Owen Bird Law Corporation</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>James Lightbody, President and CEO, BC Lottery Corporation</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>James Lightbody</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Robin N. McFee, QC<br /> Jessie Meikle-Kahs</p>
+            </div>
+            <div class="rTableCell">
+                <p>Sugden, McFee &amp; Roes LLP</p>
+            </div>
+        </div>
+    </div>
+</div>
+<p>Goto the <a href="/rulings/">Rulings page</a> to find the Commission’s Participants Application Rulings</p>
+<p class="ATTENTION">The Rules for Standing can be found here WHERE DOES THIS LINK TO?</p>
+<p>The Rules for Standing provided a deadline of September 6, 2019 to submit for Participant Standing. However, the Commissioner has the discretion to extend that deadline, and anyone seeking to apply for participant status after that date is encouraged to apply in accordance with the Rules and to seek an extension of time. Those applications will all be carefully considered and determined on their merits.</p>
+<p>There is a range of ways to provide information to the Commission. You can learn more about these avenues at the <a href="/contact/">Contact page</a>.</p>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>

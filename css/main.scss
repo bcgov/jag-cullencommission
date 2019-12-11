@@ -102,22 +102,11 @@ strong {
 .SiteHeaderMain {
   color: white;
   text-align: center;
-}
-
-.HeaderInquiry {
   font-family: 'Baskervville', sans-serif;
-  font-size: 1.5rem;
-  padding: 0px;
-  margin: 20px 0px 0px 0px;
-
-}
-
-.HeaderCommissionTitle {
-  font-family: 'Baskervville', sans-serif;
-  font-size: 3.25rem;
+  font-size: 2.75rem;
   font-weight: 300;
   padding: 0px;
-  margin: 0px;
+  margin: 50px 0px 10px 0px;
 }
 
 $navbarSpacing: 6px;
@@ -233,15 +222,19 @@ a.active, a.NavbarButton:hover {
   list-style-type: upper-roman;
 }
 
-$ReleaseBGLight: #eee;
-$ReleaseTextColor: #666;
+.UnorderedNoSymbolList {
+  list-style-type: none;
+}
 
-.ReleaseTitleContainer {
+$ExpandableSectionBGLight: #eee;
+$ExpandableSectionTextColor: #666;
+
+.ExpandableSectionTitleContainer {
   position: relative;
   border-style: solid;
   border-width: 1px;
   border-color: #666;
-  background-color: $ReleaseBGLight;
+  background-color: $ExpandableSectionBGLight;
   box-shadow: 0px 0px 0px rgba(black, 0);
   padding: 20px 30px;
   margin: -1px 0px 0px 0px;
@@ -250,22 +243,22 @@ $ReleaseTextColor: #666;
   transition: box-shadow 0.25s, background-image 0.25s;
 }
 
-.ReleaseTitleContainer:hover {
+.ExpandableSectionTitleContainer:hover {
   background-color: white;
   box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.35);
   z-index: 1;
 }
 
-.ReleaseTitle {
-  color: $ReleaseTextColor;
+.ExpandableSectionTitle {
+  color: $ExpandableSectionTextColor;
   font-weight: 600;
   font-size: 1.5rem;
   margin: 0px;
   padding: 0px;
 }
 
-.ReleaseUnderTitleLeft {
-  color: $ReleaseTextColor;
+.ExpandableSectionUnderTitleLeft {
+  color: $ExpandableSectionTextColor;
   font-weight: 600;
   font-size: 0.85rem;
   float: left;
@@ -273,8 +266,8 @@ $ReleaseTextColor: #666;
   padding: 0px;
 }
 
-.ReleaseUnderTitleRight {
-  color: $ReleaseTextColor;
+.ExpandableSectionUnderTitleRight {
+  color: $ExpandableSectionTextColor;
   font-weight: 600;
   font-size: 0.85rem;
   float: right;
@@ -282,13 +275,26 @@ $ReleaseTextColor: #666;
   padding: 0px;
 }
 
-.Release {
+.ExpandableSection {
   display: none;
   border-style: solid;
   border-width: 0px 1px 1px 1px;
   border-color: #ccc;
   background-color: white;
   padding: 25px;
+}
+
+.PdfIcon {
+  color: #e70000;
+  font-size: 1.25rem;
+  box-shadow: 1px 1px 2px black;
+}
+
+.ATTENTION {
+  background-color: #1eff00;
+  font-weight: 600;
+  padding: 5px;
+  color: #da00da;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -401,7 +407,7 @@ $ReleaseTextColor: #666;
     grid-template-columns: 1fr;
   }
 
-  .ReleaseTitleContainer {
+  .ExpandableSectionTitleContainer {
     position: relative;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -409,17 +415,17 @@ $ReleaseTextColor: #666;
     transition: box-shadow 0.25s, background-image 0.25s;
   }
   
-  .ReleaseTitle {
+  .ExpandableSectionTitle {
     grid-column: span 2;
-    color: $ReleaseTextColor;
+    color: $ExpandableSectionTextColor;
     font-weight: 600;
     font-size: 1.5rem;
     margin: 0px;
     padding: 0px;
   }
   
-  .ReleaseUnderTitleLeft {
-    color: $ReleaseTextColor;
+  .ExpandableSectionUnderTitleLeft {
+    color: $ExpandableSectionTextColor;
     font-weight: 600;
     font-size: 0.85rem;
     float: initial;
@@ -428,8 +434,8 @@ $ReleaseTextColor: #666;
     padding: 0px;
   }
   
-  .ReleaseUnderTitleRight {
-    color: $ReleaseTextColor;
+  .ExpandableSectionUnderTitleRight {
+    color: $ExpandableSectionTextColor;
     font-weight: 600;
     font-size: 0.85rem;
     float: initial;
@@ -438,7 +444,7 @@ $ReleaseTextColor: #666;
     padding: 0px;
   }
   
-  .Release {
+  .ExpandableSection {
     display: none;
     background-color: transparent;
     padding: 25px;
