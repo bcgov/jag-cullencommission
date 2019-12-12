@@ -9,13 +9,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
-<div class="ReleaseAccordion">
-    <div class="ReleaseTitleContainer" id="Release09">
-        <h2 class="ReleaseTitle">Commissioner Austin Cullen Opening Remarks - Public Meetings</h2>
-        <p class="ReleaseUnderTitleLeft"></p>
-        <p class="ReleaseUnderTitleRight">October 23, 2019</p>
+<div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection09">
+        <h2 class="ExpandableSectionTitle">Commissioner Austin Cullen Opening Remarks - Public Meetings</h2>
+        <p class="ExpandableSectionUnderTitleLeft"></p>
+        <p class="ExpandableSectionUnderTitleRight">October 23, 2019</p>
     </div>
-    <div class="Release" id="ReleaseContent09">
+    <div class="ExpandableSection" id="ExpandableSectionContent09">
         <h2>Commission of Inquiry into Money Laundering in British Columbia Public Meetings Commissioner Austin Cullen Opening Remarks</h2>
         <p>I would like to begin by welcoming you to this meeting and thanking you for attending. Your presence signals an interest in and a concern about the subject matter of this Inquiry. This event is part of a larger process, which will enable us to hear from various communities about the issues we are inquiring into.</p>
         <p>As you are aware, the Government of the Province of British Columbia established this Commission of Inquiry into Money Laundering in British Columbia on May 15, 2019. I have been appointed Commissioner.</p>
@@ -35,12 +35,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>I very much look forward to hearing from you.</p>
         <p>Thank you.</p>
     </div>
-    <div class="ReleaseTitleContainer" id="Release08">
-        <h2 class="ReleaseTitle">Speaking Notes – Commissioner Austin Cullen</h2>
-        <p class="ReleaseUnderTitleLeft"></p>
-        <p class="ReleaseUnderTitleRight">October 18, 2019</p>
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection08">
+        <h2 class="ExpandableSectionTitle">Speaking Notes – Commissioner Austin Cullen</h2>
+        <p class="ExpandableSectionUnderTitleLeft"></p>
+        <p class="ExpandableSectionUnderTitleRight">October 18, 2019</p>
     </div>
-    <div class="Release" id="ReleaseContent08">
+    <div class="ExpandableSection" id="ExpandableSectionContent08">
         <h2>Speaking Notes – Commissioner Austin Cullen<br>Commission of Inquiry into Money Laundering in British Columbia</h2>
         <p>Before I formally open this hearing, I would like to say a few words since this is the first time that I am speaking publicly in my role as Commissioner of the Commission of Inquiry into Money Laundering in British Columbia.</p>
         <p>This hearing has been convened in accordance with a direction I made following the receipt of 20 applications from various individuals and entities seeking leave to participate in the Commission of Inquiry into Money Laundering in British Columbia. On September 24, 2019, I granted participant status to 16 of the applicants with a direction that the remaining four applicants—Messrs. Alderson, Desmarais, Lightbody and Pinnock—attend an oral hearing of the Inquiry to enable a further review and determination of their individual circumstances in light of the relevant considerations governing those applications.</p>
@@ -68,12 +68,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>This hearing is not adversarial. It is an attempt by all present to get at the root of the question of whether Messrs. Desmarais, Lightbody and Pinnock meet the criteria for status as participants, or whether their involvement is appropriately confined to be a witness or potential witness. I do not anticipate any need for extensive evidence or any cross-examination at this hearing. A simple exploration of the factual and statutory conditions at issue will lead to an appropriate resolution.</p>
         <p>As I understand it, Mr. Martland and Mr. McGowan have spoken with counsel for Messrs. Desmarais, Lightbody and Pinnock and have agreed upon a format for proceeding this morning. I will now ask one of them to set forth what format these proceedings will follow.</p>
     </div>
-    <div class="ReleaseTitleContainer" id="Release07">
-        <h2 class="ReleaseTitle">Media Advisory/Visual and Interview Opportunity</h2>
-        <p class="ReleaseUnderTitleLeft">For Immediate Release</p>
-        <p class="ReleaseUnderTitleRight">October 17, 2019</p>
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection07">
+        <h2 class="ExpandableSectionTitle">Media Advisory/Visual and Interview Opportunity</h2>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">October 17, 2019</p>
     </div>
-    <div class="Release" id="ReleaseContent07">
+    <div class="ExpandableSection" id="ExpandableSectionContent07">
         <h2>Commission of Inquiry into Money Laundering in British Columbia Media Advisory/Visual and Interview Opportunity</h2>
         <p>The Commission of Inquiry into Money Laundering in British Columbia is set to hold an oral hearing for four applicants for participant status: Ross Alderson, Brad Desmarais, James Lightbody and Fred Pinnock. The hearing is open to the public.</p>
         <p><strong>Date:</strong> Friday, October 18, 2019</p>
@@ -87,12 +87,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <u><a href="http://www.cullencommission.ca/">www.cullencommission.ca</a></u>.</p>
     </div>
-    <div class="ReleaseTitleContainer" id="Release06">
-        <h2 class="ReleaseTitle">Grants Standing to British Columbia Real Estate Association</h2>
-        <p class="ReleaseUnderTitleLeft">For Immediate Release</p>
-        <p class="ReleaseUnderTitleRight">October 16, 2019</p>
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection06">
+        <h2 class="ExpandableSectionTitle">Grants Standing to British Columbia Real Estate Association</h2>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">October 16, 2019</p>
     </div>
-    <div class="Release" id="ReleaseContent06">
+    <div class="ExpandableSection" id="ExpandableSectionContent06">
         <h2>The Commission of Inquiry into Money Laundering in British Columbia Grants Standing to British Columbia Real Estate Association</h2>
         <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia has released an additional Participants Application Ruling. The British Columbia Real Estate Association (BCREA) has been granted standing.</p>
         <p>In total, 21 applications were submitted. With the addition of the BCREA, Commissioner Austin Cullen has now granted standing to 17 applicants:</p>
@@ -125,12 +125,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p style="text-align: center">-END-</p>
         <p>For additional information, please contact Ruth Atherley, Director of Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a>.</p>
     </div>
-    <div class="ReleaseTitleContainer" id="Release05">
-        <h2 class="ReleaseTitle">Date Set for Oral Hearing for Participant Status Application for Four Applicants</h2>
-        <p class="ReleaseUnderTitleLeft">For Immediate Release</p>
-        <p class="ReleaseUnderTitleRight">October 15, 2019</p>
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection05">
+        <h2 class="ExpandableSectionTitle">Date Set for Oral Hearing for Participant Status Application for Four Applicants</h2>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">October 15, 2019</p>
     </div>
-    <div class="Release" id="ReleaseContent05">
+    <div class="ExpandableSection" id="ExpandableSectionContent05">
         <h2>Date Set for Oral Hearing for Participant Status Application for Four Applicants</h2>
         <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia is set to hold an oral hearing for four applicants for participant status — Ross Alderson, Brad Desmarais, James Lightbody and Fred Pinnock — on Friday, October 18, 2019 at the Federal Court of Canada at 701 West Georgia Street, Vancouver, in courtroom 701. The oral hearing will begin at 9:30 a.m. Commissioner Cullen will make introductory remarks at the outset of the hearing.</p>
         <p>The oral hearing is being undertaken to offer the applicants an opportunity to provide the Commissioner with additional information to support their participant applications. It will allow the Commissioner an opportunity to seek any further information that he feels would assist him in assessing whether the applicants satisfy the criteria for being granted status as participants.</p>
@@ -140,12 +140,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
         <p style="text-align: center">-END-</p>
     </div>
-    <div class="ReleaseTitleContainer" id="Release04">
-        <h2 class="ReleaseTitle">Announces Public Meetings</h2>
-        <p class="ReleaseUnderTitleLeft">For Immediate Release</p>
-        <p class="ReleaseUnderTitleRight">October 2, 2019</p>
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection04">
+        <h2 class="ExpandableSectionTitle">Announces Public Meetings</h2>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">October 2, 2019</p>
     </div>
-    <div class="Release" id="ReleaseContent04">
+    <div class="ExpandableSection" id="ExpandableSectionContent04">
         <h2>The Commission of Inquiry into Money Laundering in British Columbia Announces Public Meetings</h2>
         <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia has announced the dates and locations of its public meetings. These public events will provide British Columbians from different parts of the province with the ability to come forward and express what they feel are issues of concern, and to identify areas that they would like the Commission to focus on or to include in the process.</p>
         <p>The public meetings are:</p>
@@ -180,12 +180,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p style="text-align: center">-END-</p>
         <p>For additional information, please contact Ruth Atherley, Director of Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a>.</p>
     </div>
-    <div class="ReleaseTitleContainer" id="Release03">
-        <h2 class="ReleaseTitle">Releases Participants Application Ruling</h2>
-        <p class="ReleaseUnderTitleLeft">For Immediate Release</p>
-        <p class="ReleaseUnderTitleRight">September 24, 2019</p>
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection03">
+        <h2 class="ExpandableSectionTitle">Releases Participants Application Ruling</h2>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">September 24, 2019</p>
     </div>
-    <div class="Release" id="ReleaseContent03">
+    <div class="ExpandableSection" id="ExpandableSectionContent03">
         <h2>The Commission of Inquiry into Money Laundering in British Columbia Releases Participants Application Ruling</h2>
         <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia has released the Participants Application Ruling. Twenty applications were submitted. The Commissioner has granted standing to 16 of the applicants:</p>
         <ul>
@@ -217,12 +217,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>For further information, please contact Ruth Atherley, Director of Communications, Commission of Inquiry into Money Laundering in British Columbia, at: <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a> or</p>
         <p>(604) 787-7379.</p>
     </div>
-    <div class="ReleaseTitleContainer" id="Release02">
-        <h2 class="ReleaseTitle">Releases Rules for Standing for participants</h2>
-        <p class="ReleaseUnderTitleLeft">For Immediate Release</p>
-        <p class="ReleaseUnderTitleRight">July 29 2019</p>
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection02">
+        <h2 class="ExpandableSectionTitle">Releases Rules for Standing for participants</h2>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">July 29 2019</p>
     </div>
-    <div class="Release" id="ReleaseContent02">
+    <div class="ExpandableSection" id="ExpandableSectionContent02">
         <h2>The Commission of Inquiry into Money Laundering in British Columbia releases Rules for Standing for participants</h2>
         <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia (the Cullen Commission) has released its Rules for Standing for participants. Individuals, groups, associations or others who wish to seek formal standing as participants in the Inquiry’s hearings can review the Rules for Standing via the Commission’s website at: <a href="http://www.cullencommission.ca/participants">www.cullencommission.ca/participants</a>.</p>
         <p>Applications for participant status must be submitted as set out in the Rules for Standing, on or before Friday, September 6, 2019.</p>
@@ -233,12 +233,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p style="text-align: center">-END-</p>
         <p>For further information, please contact Ruth Atherley, Director, Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or at: <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a></p>
     </div>
-    <div class="ReleaseTitleContainer" id="Release01">
-        <h2 class="ReleaseTitle">Announces Senior Inquiry Team</h2>
-        <p class="ReleaseUnderTitleLeft">For Immediate Release</p>
-        <p class="ReleaseUnderTitleRight">July 29, 2019</p>
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection01">
+        <h2 class="ExpandableSectionTitle">Announces Senior Inquiry Team</h2>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">July 29, 2019</p>
     </div>
-    <div class="Release" id="ReleaseContent01">
+    <div class="ExpandableSection" id="ExpandableSectionContent01">
         <h2>The Commission of Inquiry into Money Laundering in British Columbia Announces Senior Inquiry Team</h2>
         <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia (the Cullen Commission) has announced its senior team. Commissioner Austin Cullen will lead the following team:</p>
         <h2><strong><u>Senior Commission Counsel</u></strong></h2>
@@ -263,32 +263,32 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <script>
     $(document).ready(function() {
         let time = 250;
-        $('#Release01').click(function() {
-            $('#ReleaseContent01').slideToggle(time);
+        $('#ExpandableSection01').click(function() {
+            $('#ExpandableSectionContent01').slideToggle(time);
         });
-        $('#Release02').click(function() {
-            $('#ReleaseContent02').slideToggle(time);
+        $('#ExpandableSection02').click(function() {
+            $('#ExpandableSectionContent02').slideToggle(time);
         });
-        $('#Release03').click(function() {
-            $('#ReleaseContent03').slideToggle(time);
+        $('#ExpandableSection03').click(function() {
+            $('#ExpandableSectionContent03').slideToggle(time);
         });
-        $('#Release04').click(function() {
-            $('#ReleaseContent04').slideToggle(time);
+        $('#ExpandableSection04').click(function() {
+            $('#ExpandableSectionContent04').slideToggle(time);
         });
-        $('#Release05').click(function() {
-            $('#ReleaseContent05').slideToggle(time);
+        $('#ExpandableSection05').click(function() {
+            $('#ExpandableSectionContent05').slideToggle(time);
         });
-        $('#Release06').click(function() {
-            $('#ReleaseContent06').slideToggle(time);
+        $('#ExpandableSection06').click(function() {
+            $('#ExpandableSectionContent06').slideToggle(time);
         });
-        $('#Release07').click(function() {
-            $('#ReleaseContent07').slideToggle(time);
+        $('#ExpandableSection07').click(function() {
+            $('#ExpandableSectionContent07').slideToggle(time);
         });
-        $('#Release08').click(function() {
-            $('#ReleaseContent08').slideToggle(time);
+        $('#ExpandableSection08').click(function() {
+            $('#ExpandableSectionContent08').slideToggle(time);
         });
-        $('#Release09').click(function() {
-            $('#ReleaseContent09').slideToggle(time);
+        $('#ExpandableSection09').click(function() {
+            $('#ExpandableSectionContent09').slideToggle(time);
         });
     });
 </script>

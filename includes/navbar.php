@@ -4,17 +4,12 @@
         <div id="NavbarContainer">
             <div id="NavbarList">
                 <a href="/" class="NavbarButton">Home</a>
-                <a class="NavbarButton HasSubNav" id="NavbarComState"><i class="fas fa-chevron-down"></i> Commissioner’s Statements</a>
-                <div class="SubNavList" id="NavbarComStateSubNav">
-                    <p><a href="#">Opening Remarks Public Meetings</a></p>
-                    <p><a href="#">Speaking Notes Oral Hearing</a></p>
-                    <p><a href="#">Introductory Statement</a></p>
-                </div>
+                <a href="/comm-statements/" class="NavbarButton">Commissioner’s Statements</a>
                 <a href="/inquiry-team/" class="NavbarButton">Inquiry Team</a>
                 <a class="NavbarButton HasSubNav" id="NavbarLegislation"><i class="fas fa-chevron-down"></i> Legislation</a>
                 <div class="SubNavList" id="NavbarLegislationSubNav">
-                    <p><a href="#">Terms of Reference</a></p>
-                    <p><a href="#">Legislation</a></p>
+                    <p><a href="/tor/">Terms of Reference</a></p>
+                    <p><a href="/legislation/">Legislation</a></p>
                 </div>
                 <a class="NavbarButton HasSubNav" id="NavbarHearings"><i class="fas fa-chevron-down"></i> Hearings</a>
                 <div class="SubNavList" id="NavbarHearingsSubNav">
@@ -23,7 +18,7 @@
                     <p><a href="#">Transcripts</a></p>
                     <p><a href="#">Exhibits</a></p>
                 </div>
-                <a href="#" class="NavbarButton">Rulings</a>
+                <a href="/rulings/" class="NavbarButton">Rulings</a>
                 <a href="/participants/" class="NavbarButton">Participants</a>
                 <a class="NavbarButton HasSubNav" id="NavbarRepPub"><i class="fas fa-chevron-down"></i> Reports &amp; Publications</a>
                 <div class="SubNavList" id="NavbarRepPubSubNav">
