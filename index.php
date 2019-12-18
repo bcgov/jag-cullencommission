@@ -15,12 +15,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>Reviewing and analyzing the four existing reports</li>
     <li>Planning and organizing the hearing portion of the Inquiry</li>
     <li>Identifying and obtaining relevant documents, records and correspondence</li>
-    <li>Establishing the procedural rules for the Inquiry’s work, starting with applications for standing made by those looking to <a href="/participants/">participate in the hearings</a></li>
-    <li>Securing office space in central Vancouver that is accessible by public transportation</li>
-    <li>The continued development of this website</li>
+    <li>Establishing the procedural rules for the Inquiry’s work</li>
+    <li>Continued updates to this website</li>
 </ul>
 <p>We will continue to update this page and sections of the website.</p>
-<p>We invite you to follow the Cullen Commission on Twitter. We will be sharing information via that social networking platform. <em>Please note: Because of confidentiality and privacy concerns, we will not be responding to comments or questions on Twitter</em>.</p>
+<p>We invite you to follow the Cullen Commission on Twitter (@culleninquirybc). We will be sharing information via that social networking platform.</p>
+<p><em>Please note: Because of confidentiality and privacy concerns, we will not be responding to comments or questions on Twitter.</em></p>
 <p>If you have questions for the Commission, please e-mail us at: <a href="mailto:info@cullencommission.ca">info@cullencommission.ca</a></p>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');

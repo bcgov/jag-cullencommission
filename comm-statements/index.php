@@ -10,9 +10,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h1>Commissioner’s Statements</h1>
 <div class="ExpandableSectionAccordion">
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection01">
-        <h2 class="ExpandableSectionTitle">Introductory Statement</h2>
+        <p class="ExpandableSectionTitle">Introductory Statement</p>
         <p class="ExpandableSectionUnderTitleLeft"></p>
-        <p class="ExpandableSectionUnderTitleRight"></p>
+        <p class="ExpandableSectionUnderTitleRight">July, 2019</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent01">
         <h2>Commission of Inquiry into Money Laundering in British Columbia Introductory Statement from Commissioner Cullen</h2>
@@ -50,35 +50,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>The Honourable Austin Cullen, Commissioner</p>
         <p>Commission of Inquiry into Money Laundering in British Columbia</p>
     </div>
-    <div class="ExpandableSectionTitleContainer" id="ExpandableSection02">
-        <h2 class="ExpandableSectionTitle">Commissioner Austin Cullen Opening Remarks - Public Meetings</h2>
-        <p class="ExpandableSectionUnderTitleLeft"></p>
-        <p class="ExpandableSectionUnderTitleRight"></p>
-    </div>
-    <div class="ExpandableSection" id="ExpandableSectionContent02">
-        <h2>Commission of Inquiry into Money Laundering in British Columbia Public Meetings Commissioner Austin Cullen Opening Remarks</h2>
-        <p>I would like to begin by welcoming you to this meeting and thanking you for attending. Your presence signals an interest in and a concern about the subject matter of this Inquiry. This event is part of a larger process, which will enable us to hear from various communities about the issues we are inquiring into.</p>
-        <p>As you are aware, the Government of the Province of British Columbia established this Commission of Inquiry into Money Laundering in British Columbia on May 15, 2019. I have been appointed Commissioner.</p>
-        <p>Present with me at this meeting—as I am sure you have noticed—are several members of the Commission team.</p>
-        <p>Our Inquiry’s terms of reference are quite broad. Speaking generally, they require the Commission to study the prevalence of money laundering in, and its impact on, various economic sectors including gaming, horse racing, real estate, financial institutions and money service businesses, the corporate sector, luxury goods and professional services—including lawyers and accountants.</p>
-        <p>The Commission is also mandated to review the acts and/or omissions of individuals and agencies responsible for combating money laundering, in order to determine whether those acts or omissions have contributed to the spread of money laundering and if so, whether they amount to corruption.</p>
-        <p>In recent years, there has been extensive media investigation and coverage of money laundering. There have also been studies and reports prepared by academics and other experts that shed light on the prevalence of money laundering in the province and on its noticeable effects.</p>
-        <p>As a result, the public has become aware of, and concerned about, this problem. One recent poll reported that approximately 90% of British Columbians are concerned about money laundering.</p>
-        <p>It is part of this Inquiry’s role to add to the public’s understanding of the nature and scale of money laundering in the province and to address its concerns, to the extent possible, through recommendations for action.</p>
-        <p>There is an incidental benefit from simply bringing additional concentrated attention to the crime of money laundering. The more awareness there is of its presence and of the profound social harms it propagates, the less complacency there can be for facilitating or tolerating it.</p>
-        <p>Money laundering is a particularly insidious crime. Its roots are in offences that victimize others—often people who are vulnerable. In its actual commission, however, money laundering is akin to the transmission of a serious contagious disease. Both events may be inconspicuous, yet each invariably leads to an erosion of well-being.</p>
-        <p>We will examine how money laundering is taking place in British Columbia. We will examine whether such transactions could be prevented with a better approach, better training, or a different legal or regulatory regime. We will look at whether lapses in judgment or honesty have compromised the prevention of money laundering and contributed to its growth. We will listen to proposed solutions to these problems and issues, and we will assess their effectiveness and compatibility with our constitutional imperatives. We will make recommendations to the government for their use.</p>
-        <p>At this stage, the Commission is in the process of gathering information through the study of and follow-up on media reports; the review and analysis of other studies and reports; research into various legal and factual issues; the acquisition and review of documents held by agencies, individuals or corporate sources; and interviews of potential witnesses and experts. We are in a phase where much of the Commission’s work is happening out of the public spotlight, with lawyers, investigators and analysts drilling into the issues. All of this hard work will lead us to the evidence hearings, which will take place in 2020. We will make a point of providing detailed notice about all of this on our website as we carry on.</p>
-        <p>Today’s public meeting and those we are holding around the province are part of that exploration and discovery process. We are not yet in a position to provide answers to questions. To attempt to do so would be premature and might amount to prejudging issues that have not been fully canvassed. We come to these meetings not to provide information, but to obtain it. Our responses to everything that we hear, see and read will be made at a later stage in the process: through an interim report to be issued in November of 2020 and a final report to be issued in May of 2021.</p>
-        <p>It is our hope that these meetings will help raise awareness of the issues we are mandated to investigate, provide us with the nature and scale of public concern in different communities in the province, and help us to shape our approach and ultimate response to what has consistently been characterized as a serious problem requiring attention and action.</p>
-        <p>I really appreciate that you have each taken the time to come here today to share your views about this problem. An engaged community is at the foundation of a well-functioning society. Your perspective and feedback about money laundering and how you feel that it is affecting your community is important to the work that we are doing at the Commission.</p>
-        <p>I very much look forward to hearing from you.</p>
-        <p>Thank you.</p>
-    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection03">
-        <h2 class="ExpandableSectionTitle">Speaking Notes – Commissioner Austin Cullen</h2>
+        <p class="ExpandableSectionTitle">Commissioner Cullen Speaking Notes Oral Hearing (Participants)</p>
         <p class="ExpandableSectionUnderTitleLeft"></p>
-        <p class="ExpandableSectionUnderTitleRight"></p>
+        <p class="ExpandableSectionUnderTitleRight">October 18, 2019</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent03">
         <h2>Speaking Notes – Commissioner Austin Cullen<br>Commission of Inquiry into Money Laundering in British Columbia</h2>
@@ -107,6 +82,31 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>Not all persons or organization representatives, who may be called as witnesses, are entitled to participant status. If a person believes that he or she has relevant evidence to give, they may be entitled to testify and they may be represented by counsel. It does not follow that having relevant evidence to give justifies a granting of participant status. The other conditions I have mentioned must be in play.</p>
         <p>This hearing is not adversarial. It is an attempt by all present to get at the root of the question of whether Messrs. Desmarais, Lightbody and Pinnock meet the criteria for status as participants, or whether their involvement is appropriately confined to be a witness or potential witness. I do not anticipate any need for extensive evidence or any cross-examination at this hearing. A simple exploration of the factual and statutory conditions at issue will lead to an appropriate resolution.</p>
         <p>As I understand it, Mr. Martland and Mr. McGowan have spoken with counsel for Messrs. Desmarais, Lightbody and Pinnock and have agreed upon a format for proceeding this morning. I will now ask one of them to set forth what format these proceedings will follow.</p>
+    </div>
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection02">
+        <p class="ExpandableSectionTitle">Commissioner Austin Cullen Opening Remarks - Public Meetings</p>
+        <p class="ExpandableSectionUnderTitleLeft"></p>
+        <p class="ExpandableSectionUnderTitleRight">Oct/Nov 2019</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent02">
+        <h2>Commission of Inquiry into Money Laundering in British Columbia Public Meetings Commissioner Austin Cullen Opening Remarks</h2>
+        <p>I would like to begin by welcoming you to this meeting and thanking you for attending. Your presence signals an interest in and a concern about the subject matter of this Inquiry. This event is part of a larger process, which will enable us to hear from various communities about the issues we are inquiring into.</p>
+        <p>As you are aware, the Government of the Province of British Columbia established this Commission of Inquiry into Money Laundering in British Columbia on May 15, 2019. I have been appointed Commissioner.</p>
+        <p>Present with me at this meeting—as I am sure you have noticed—are several members of the Commission team.</p>
+        <p>Our Inquiry’s terms of reference are quite broad. Speaking generally, they require the Commission to study the prevalence of money laundering in, and its impact on, various economic sectors including gaming, horse racing, real estate, financial institutions and money service businesses, the corporate sector, luxury goods and professional services—including lawyers and accountants.</p>
+        <p>The Commission is also mandated to review the acts and/or omissions of individuals and agencies responsible for combating money laundering, in order to determine whether those acts or omissions have contributed to the spread of money laundering and if so, whether they amount to corruption.</p>
+        <p>In recent years, there has been extensive media investigation and coverage of money laundering. There have also been studies and reports prepared by academics and other experts that shed light on the prevalence of money laundering in the province and on its noticeable effects.</p>
+        <p>As a result, the public has become aware of, and concerned about, this problem. One recent poll reported that approximately 90% of British Columbians are concerned about money laundering.</p>
+        <p>It is part of this Inquiry’s role to add to the public’s understanding of the nature and scale of money laundering in the province and to address its concerns, to the extent possible, through recommendations for action.</p>
+        <p>There is an incidental benefit from simply bringing additional concentrated attention to the crime of money laundering. The more awareness there is of its presence and of the profound social harms it propagates, the less complacency there can be for facilitating or tolerating it.</p>
+        <p>Money laundering is a particularly insidious crime. Its roots are in offences that victimize others—often people who are vulnerable. In its actual commission, however, money laundering is akin to the transmission of a serious contagious disease. Both events may be inconspicuous, yet each invariably leads to an erosion of well-being.</p>
+        <p>We will examine how money laundering is taking place in British Columbia. We will examine whether such transactions could be prevented with a better approach, better training, or a different legal or regulatory regime. We will look at whether lapses in judgment or honesty have compromised the prevention of money laundering and contributed to its growth. We will listen to proposed solutions to these problems and issues, and we will assess their effectiveness and compatibility with our constitutional imperatives. We will make recommendations to the government for their use.</p>
+        <p>At this stage, the Commission is in the process of gathering information through the study of and follow-up on media reports; the review and analysis of other studies and reports; research into various legal and factual issues; the acquisition and review of documents held by agencies, individuals or corporate sources; and interviews of potential witnesses and experts. We are in a phase where much of the Commission’s work is happening out of the public spotlight, with lawyers, investigators and analysts drilling into the issues. All of this hard work will lead us to the evidence hearings, which will take place in 2020. We will make a point of providing detailed notice about all of this on our website as we carry on.</p>
+        <p>Today’s public meeting and those we are holding around the province are part of that exploration and discovery process. We are not yet in a position to provide answers to questions. To attempt to do so would be premature and might amount to prejudging issues that have not been fully canvassed. We come to these meetings not to provide information, but to obtain it. Our responses to everything that we hear, see and read will be made at a later stage in the process: through an interim report to be issued in November of 2020 and a final report to be issued in May of 2021.</p>
+        <p>It is our hope that these meetings will help raise awareness of the issues we are mandated to investigate, provide us with the nature and scale of public concern in different communities in the province, and help us to shape our approach and ultimate response to what has consistently been characterized as a serious problem requiring attention and action.</p>
+        <p>I really appreciate that you have each taken the time to come here today to share your views about this problem. An engaged community is at the foundation of a well-functioning society. Your perspective and feedback about money laundering and how you feel that it is affecting your community is important to the work that we are doing at the Commission.</p>
+        <p>I very much look forward to hearing from you.</p>
+        <p>Thank you.</p>
     </div>
 </div>
 <script>

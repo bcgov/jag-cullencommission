@@ -9,11 +9,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Public Meetings</h1>
-<p>The Commission of Inquiry into Money Laundering in British Columbia is now holding a series of public meetings across the province. These meetings, which are open to the public, provide an opportunity for community members to make a presentation to the Commission.</p>
-<p>We welcome members of the public to attend these events. You can register to present (see information below) or you can let us know at the event that you would like to speak. This is an important opportunity for British Columbians to provide their input, ideas and feedback to the Commission.</p>
+<p>The Commission of Inquiry into Money Laundering in British Columbia is now holding a series of public meetings across the province. These meetings, which are open to the public, provide an opportunity for community m.s to make a presentation to the Commission.</p>
+<p>We welcome m.s of the public to attend these events. You can register to present (see information below) or you can let us know at the event that you would like to speak. This is an important opportunity for British Columbians to provide their input, ideas and feedback to the Commission.</p>
 <p>Our Terms of Reference are broad. They require us to review the impact of money laundering on various economic sectors within British Columbia including gaming and horseracing, real estate, financial institutions and money services, the corporate sector, luxury goods and professional services. The Terms of Reference also include a review of the effectiveness of the regulatory agencies and individuals managing these activities.</p>
 <p>There is a widespread belief, which is supported by those with relevant knowledge and expertise, that money laundering is well-established and wide-ranging in British Columbia. Several recent studies and reports, as well as media coverage, have brought this state of affairs to light.</p>
-<p>It would be helpful to the Commission team to hear from members of the community regarding their views, opinions and suggestions. Our aim is to obtain input from the communities most affected by money laundering, and our plan would be to listen to ideas and feedback on the issues facing these communities, which will be timely given that the Inquiry is at a relatively early stage in its process.</p>
+<p>It would be helpful to the Commission team to hear from m.s of the community regarding their views, opinions and suggestions. Our aim is to obtain input from the communities most affected by money laundering, and our plan would be to listen to ideas and feedback on the issues facing these communities, which will be timely given that the Inquiry is at a relatively early stage in its process.</p>
 <p>We have identified some questions to ask these communities. Your answers will assist us in addressing the mandate of the Commission:</p>
 <ul>
     <li><strong>What are the most significant money laundering issues facing your community in British Columbia and in Canada?</strong></li>
@@ -21,7 +21,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>What have been the major consequences of money laundering in your community?</strong></li>
     <li><strong>What do you think is required to address the issues that you have identified?</strong></li>
     <li><strong>How can the Commission keep you informed on our activities and findings?</strong></li>
-    <li><strong>How can community members participate or stay involved in the process?</strong></li>
+    <li><strong>How can community m.s participate or stay involved in the process?</strong></li>
 </ul>
 <p>You can speak to any of these questions or to topics you would like to raise that are connected to the Commission’s Mandate.</p>
 <p>Please keep in mind that the Commission’s mandate is:</p>
@@ -34,31 +34,45 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>The Commission is bound by this mandate. This means that we cannot address issues or situations that you feel are important, but that are not contained in our mandate.</p>
 <h2>Meetings schedule</h2>
 <p><strong>All meetings start at 5:30 p.m.</strong></p>
-<p><strong>Vancouver:</strong> October 23, 2019<br />
-    Fairmont Hotel Vancouver<br />
-    Vancouver Island Ballroom<br />
-    900 West Georgia Street<br />
-    Vancouver, B.C.</p>
-<p><strong>Kelowna:</strong> October 29, 2019<br />
-    Best Western Plus<br />
-    South Ballroom<br />
-    2402 Hwy 97N<br />
-    Kelowna, B.C.</p>
-<p><strong>Victoria:</strong> November 4, 2019<br />
-    Marriott Hotel Victoria Inner Harbour<br />
-    Pacific Ballroom<br />
-    728 Humboldt Street<br />
-    Victoria, B.C.</p>
-<p><strong>Richmond: </strong>November 7, 2019<br />
-    Hilton Vancouver Airport<br />
-    Marsalis/Benson Room<br />
-    5911 Minoru Boulevard<br />
-    Richmond B.C.</p>
-<p><strong>Prince George:</strong> November 14, 2019<br />
-    Ramada Plaza<br />
-    Cranbrook South Room<br />
-    444 George Street<br />
-    Prince George, B.C.</p>
+<div class="Aside3Col">
+    <div class="Aside AsideBlue">
+        <p class="AsideTitle"><strong>Vancouver:</strong> Oct. 23, 2019</p>
+        <p>Fairmont Hotel Vancouver<br />
+            Vancouver Island Ballroom<br />
+            900 West Georgia Street<br />
+            Vancouver, B.C.</p>
+    </div>
+    <div class="Aside AsideBlue">
+        <p class="AsideTitle"><strong>Kelowna:</strong> Oct. 29, 2019</p>
+        <p>Best Western Plus<br />
+            South Ballroom<br />
+            2402 Hwy 97N<br />
+            Kelowna, B.C.</p>
+    </div>
+    <div class="Aside AsideBlue">
+        <p class="AsideTitle"><strong>Victoria:</strong> Nov. 4, 2019</p>
+        <p>Marriott Hotel Victoria Inner Harbour<br />
+            Pacific Ballroom<br />
+            728 Humboldt Street<br />
+            Victoria, B.C.</p>
+    </div>
+    <div class="Aside AsideBlue">
+        <p class="AsideTitle"><strong>Richmond: </strong>Nov. 7, 2019</p>
+        <p>Hilton Vancouver Airport<br />
+            Marsalis/Benson Room<br />
+            5911 Minoru Boulevard<br />
+            Richmond B.C.</p>
+    </div>
+    <div></div>
+    <div class="Aside AsideBlue">
+        <p class="AsideTitle"><strong>Prince George:</strong> Nov. 14, 2019</p>
+        <p>Ramada Plaza<br />
+            Cranbrook South Room<br />
+            444 George Street<br />
+            Prince George, B.C.</p>
+    </div>
+</div>
+<br class="ClearFloats">
 <p>If there are any changes to the dates, times, locations or venues of a public meeting, they will be listed here on our website, and registered presenters will be contacted by email or telephone (if provided).</p>
 <h2>At the public meeting</h2>
 <ol class="NumberedList">
