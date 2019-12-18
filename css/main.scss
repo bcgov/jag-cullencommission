@@ -38,14 +38,28 @@ a:hover {
 
 h1 {
   text-align: center;
-  font-size: 3.5rem;
+  font-size: 3.9rem;
   font-weight: 100;
   padding: 0px;
-  margin: 0px 0px 30px 0px;
+  margin: 0px 0px 60px 0px;
 }
 
-h2, h3 {
-  color: #666;
+h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  text-align: center;
+  color: #537427;
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: #537427;
+  margin: 40px 0px 30px 0px;
+}
+
+ h3 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: #006391;
+  margin: 40px 0px 10px 0px;
 }
 
 ol > li, ul > li {
@@ -153,7 +167,6 @@ a.active, a.NavbarButton:hover {
   p {
     color: #666;
     margin: 0px;
-    padding: 8px 20px;
     transition: background-color 0.35s ease-in-out;
   }
   
@@ -163,11 +176,14 @@ a.active, a.NavbarButton:hover {
   }
   
   a {
+    display: inline-block;
     color: inherit;
     text-decoration: none;
     font-size: 0.9rem;
     font-weight: 500;
     background-color: transparent;
+    padding: 8px 20px;
+    width: 100%;
   }
   
 }
@@ -226,33 +242,58 @@ a.active, a.NavbarButton:hover {
   list-style-type: none;
 }
 
-$ExpandableSectionBGLight: #eee;
-$ExpandableSectionTextColor: #666;
+$ExpandableSectionBGLight: #006E60;
+$ExpandableSectionBGDark: #004A41;
+$ExpandableSectionTextColor: white;
+
+.ExpandableSectionAccordion {
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #000000;
+  background-color: $ExpandableSectionBGDark;
+  overflow: hidden;
+  padding: 0px;
+}
 
 .ExpandableSectionTitleContainer {
   position: relative;
   border-style: solid;
-  border-width: 1px;
-  border-color: #666;
-  background-color: $ExpandableSectionBGLight;
+  border-width: 0px 0px 1px 0px;
+  border-color: #000000;
+  background-image: linear-gradient(to bottom, $ExpandableSectionBGLight, $ExpandableSectionBGDark);
   box-shadow: 0px 0px 0px rgba(black, 0);
-  padding: 20px 30px;
-  margin: -1px 0px 0px 0px;
+  text-shadow: 1px 1px 1px black;
+  padding: 10px 30px 20px 40px;
   z-index: 0;
   cursor: pointer;
-  transition: box-shadow 0.25s, background-image 0.25s;
+  transition: all 0.25s;
+}
+
+.ExpandableSectionTitleContainer::before {
+  border-style: solid;
+  border-width: 0.25em 0.25em 0 0;
+  border-color: white;
+	content: '';
+	display: inline-block;
+  height: 0.45em;
+	position: absolute;
+	left: 15px;
+	top: 14px;
+	transform: rotate(135deg);
+	width: 0.45em;
 }
 
 .ExpandableSectionTitleContainer:hover {
-  background-color: white;
-  box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.35);
+  box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.75);
+  text-shadow: 0px 0px 10px white;
   z-index: 1;
 }
 
 .ExpandableSectionTitle {
   color: $ExpandableSectionTextColor;
   font-weight: 600;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   margin: 0px;
   padding: 0px;
 }
@@ -278,7 +319,7 @@ $ExpandableSectionTextColor: #666;
 .ExpandableSection {
   display: none;
   border-style: solid;
-  border-width: 0px 1px 1px 1px;
+  border-width: 0px;
   border-color: #ccc;
   background-color: white;
   padding: 25px;
@@ -290,11 +331,124 @@ $ExpandableSectionTextColor: #666;
   box-shadow: 1px 1px 2px black;
 }
 
-.ATTENTION {
-  background-color: #1eff00;
+.ClearFloats {
+  clear: both;
+}
+
+.Aside {
+  border-radius: $sectionBorderRadius;
+  border-style: solid;
+  border-width: 1px;
+  padding: 20px;
+  color: white;
+  float: left;
+}
+
+.AsideNew {
+  padding: 0px;
+  float: left;
+  text-shadow: 1px 1px 1px rgba(white, 0.5);
+  font-weight: 500;
+}
+
+.AsideNewGreen {
+  color: #173506;
+  background-image: linear-gradient(to bottom, #94cf5d, #ffffff);
+}
+
+.AsideNewBlue {
+  color: #132638;
+  background-image: linear-gradient(to bottom, #8eceee, #ffffff);
+}
+
+.AsideNewYellow {
+  color: #373813;
+  background-image: linear-gradient(to bottom, #e0d85e, #ffffff);
+}
+
+.AsideGreen {
+  box-shadow: 0px 0px 10px rgba(#283813, 0.75), 0px 0px 20px #45641d inset, 0px -10px 30px #98d448 inset;
+  background-image: linear-gradient(-45deg, #5e832d, #88b948);
+  border-color: #537427;
+}
+
+.AsideBlue {
+  box-shadow: 0px 0px 10px rgba(#132638, 0.75), 0px 0px 20px #1d4864 inset, 0px -10px 30px #48a8d4 inset;
+  background-image: linear-gradient(-45deg, #20668a, #41aad3);
+  border-color: #275574;
+}
+
+.AsideYellow {
+  box-shadow: 0px 0px 10px rgba(#373813, 0.75), 0px 0px 20px #63641d inset, 0px -10px 30px #d4cb48 inset;
+  background-image: linear-gradient(-45deg, #746f27, #b9b748);
+  border-color: #746f27;
+}
+
+.Aside p {
+  color: white;
+  text-shadow: 1px 1px 1px rgba(#000000, 0.75);
+}
+
+.AsideNew p {
+  padding: 0px 20px;
+}
+
+.Aside2Col .Aside {
+  width: 45%;
+  margin: 10px;
+}
+
+.Aside3Col .Aside {
+  width: 30%;
+  margin: 10px;
+}
+
+.AsideTitle {
+  font-size: 2rem;
   font-weight: 600;
-  padding: 5px;
-  color: #da00da;
+  text-align: center;
+  margin: 0px 0px 20px 0px;
+}
+
+.AsideNewTitle {
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  padding: 20px 0px !important;
+  margin: 0px 0px 20px 0px;
+}
+
+.AsideNewGreen .AsideNewTitle {
+  color: white;
+  text-shadow: 1px 1px 1px #1c2b09;
+  background-color: #5e832d;
+}
+
+.AsideNewBlue .AsideNewTitle {
+  color: white;
+  text-shadow: 1px 1px 1px #0a2531;
+  background-color: #2b6a86;
+}
+
+.AsideNewYellow .AsideNewTitle {
+  color: white;
+  text-shadow: 1px 1px 1px #292708;
+  background-color: #85802b;
+}
+
+.AsideGreen .AsideTitle {
+  color: #3b5519;
+  text-shadow: 1px 1px 1px #1c2b09;
+}
+
+.AsideBlue .AsideTitle {
+  color: #194255;
+  text-shadow: 1px 1px 1px #0a2531;
+}
+
+.AsideYellow .AsideTitle {
+  color: #555119;
+  text-shadow: 1px 1px 1px #292708;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -411,44 +565,47 @@ $ExpandableSectionTextColor: #666;
     position: relative;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    cursor: pointer;
-    transition: box-shadow 0.25s, background-image 0.25s;
   }
   
   .ExpandableSectionTitle {
     grid-column: span 2;
-    color: $ExpandableSectionTextColor;
-    font-weight: 600;
-    font-size: 1.5rem;
-    margin: 0px;
-    padding: 0px;
   }
   
   .ExpandableSectionUnderTitleLeft {
-    color: $ExpandableSectionTextColor;
-    font-weight: 600;
-    font-size: 0.85rem;
     float: initial;
     justify-self: start;
-    margin: 0px;
-    padding: 0px;
   }
   
   .ExpandableSectionUnderTitleRight {
-    color: $ExpandableSectionTextColor;
-    font-weight: 600;
-    font-size: 0.85rem;
     float: initial;
     justify-self: end;
-    margin: 0px;
-    padding: 0px;
   }
   
   .ExpandableSection {
     display: none;
-    background-color: transparent;
-    padding: 25px;
     grid-column: 1 / span 2;
+  }
+
+  .Aside2Col .Aside {
+    width: initial;
+    float: none;
+  }
+
+  .Aside3Col .Aside {
+    width: initial;
+    float: none;
+  }
+
+  .Aside2Col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  
+  .Aside3Col {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
   }
   
   @media only screen and (max-width: 1000px) {
@@ -464,6 +621,14 @@ $ExpandableSectionTextColor: #666;
       margin: 0px;
     }
 
+    .Aside2Col {
+      grid-template-columns: 1fr;
+    }
+    
+    .Aside3Col {
+      grid-template-columns: 1fr;
+    }
+  
   }
   
 }

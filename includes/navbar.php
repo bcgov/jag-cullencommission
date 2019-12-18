@@ -6,17 +6,17 @@
                 <a href="/" class="NavbarButton">Home</a>
                 <a href="/comm-statements/" class="NavbarButton">Commissioner’s Statements</a>
                 <a href="/inquiry-team/" class="NavbarButton">Inquiry Team</a>
-                <a class="NavbarButton HasSubNav" id="NavbarLegislation"><i class="fas fa-chevron-down"></i> Legislation</a>
+                <a class="NavbarButton HasSubNav" id="NavbarLegislation"><i class="fas fa-chevron-down"></i> Mandate</a>
                 <div class="SubNavList" id="NavbarLegislationSubNav">
                     <p><a href="/tor/">Terms of Reference</a></p>
-                    <p><a href="/legislation/">Legislation</a></p>
+                    <p><a href="/pub-inq-act/">Public Inquiry Act</a></p>
                 </div>
                 <a class="NavbarButton HasSubNav" id="NavbarHearings"><i class="fas fa-chevron-down"></i> Hearings</a>
                 <div class="SubNavList" id="NavbarHearingsSubNav">
-                    <p><a href="#">Schedule</a></p>
-                    <p><a href="#">Witnesses</a></p>
-                    <p><a href="#">Transcripts</a></p>
-                    <p><a href="#">Exhibits</a></p>
+                    <p><a href="/schedule/">Schedule</a></p>
+                    <p><a href="/witnesses/">Witnesses</a></p>
+                    <p><a href="/transcripts/">Transcripts</a></p>
+                    <p><a href="/exhibits/">Exhibits</a></p>
                 </div>
                 <a href="/rulings/" class="NavbarButton">Rulings</a>
                 <a href="/participants/" class="NavbarButton">Participants</a>
@@ -33,7 +33,7 @@
                 </div>
                 <a href="/news-releases/" class="NavbarButton">News Releases</a>
                 <a href="#" class="NavbarButton">FAQ</a>
-                <a href="#" class="NavbarButton">Public Meetings</a>
+                <a href="/public-meetings/" class="NavbarButton">Public Meetings</a>
                 <a href="/contact/" class="NavbarButton">Contact</a>
                 <!-- <a href="/introductory-statement/" class="NavbarLink">
                     <div class="NavbarItem" id="NavbarIntroState">Introductory Statement</div>

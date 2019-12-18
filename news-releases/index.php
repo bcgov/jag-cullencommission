@@ -11,7 +11,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection09">
-        <h2 class="ExpandableSectionTitle">Commissioner Austin Cullen Opening Remarks - Public Meetings</h2>
+        <p class="ExpandableSectionTitle">Commissioner Austin Cullen Opening Remarks - Public Meetings</p>
         <p class="ExpandableSectionUnderTitleLeft"></p>
         <p class="ExpandableSectionUnderTitleRight">October 23, 2019</p>
     </div>
@@ -36,7 +36,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>Thank you.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection08">
-        <h2 class="ExpandableSectionTitle">Speaking Notes – Commissioner Austin Cullen</h2>
+        <p class="ExpandableSectionTitle">Speaking Notes – Commissioner Austin Cullen</p>
         <p class="ExpandableSectionUnderTitleLeft"></p>
         <p class="ExpandableSectionUnderTitleRight">October 18, 2019</p>
     </div>
@@ -69,7 +69,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>As I understand it, Mr. Martland and Mr. McGowan have spoken with counsel for Messrs. Desmarais, Lightbody and Pinnock and have agreed upon a format for proceeding this morning. I will now ask one of them to set forth what format these proceedings will follow.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection07">
-        <h2 class="ExpandableSectionTitle">Media Advisory/Visual and Interview Opportunity</h2>
+        <p class="ExpandableSectionTitle">Media Advisory/Visual and Interview Opportunity</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">October 17, 2019</p>
     </div>
@@ -88,7 +88,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <u><a href="http://www.cullencommission.ca/">www.cullencommission.ca</a></u>.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection06">
-        <h2 class="ExpandableSectionTitle">Grants Standing to British Columbia Real Estate Association</h2>
+        <p class="ExpandableSectionTitle">Grants Standing to British Columbia Real Estate Association</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">October 16, 2019</p>
     </div>
@@ -126,7 +126,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>For additional information, please contact Ruth Atherley, Director of Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a>.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection05">
-        <h2 class="ExpandableSectionTitle">Date Set for Oral Hearing for Participant Status Application for Four Applicants</h2>
+        <p class="ExpandableSectionTitle">Date Set for Oral Hearing for Participant Status Application for Four Applicants</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">October 15, 2019</p>
     </div>
@@ -141,7 +141,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p style="text-align: center">-END-</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection04">
-        <h2 class="ExpandableSectionTitle">Announces Public Meetings</h2>
+        <p class="ExpandableSectionTitle">Announces Public Meetings</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">October 2, 2019</p>
     </div>
@@ -181,7 +181,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>For additional information, please contact Ruth Atherley, Director of Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a>.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection03">
-        <h2 class="ExpandableSectionTitle">Releases Participants Application Ruling</h2>
+        <p class="ExpandableSectionTitle">Releases Participants Application Ruling</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">September 24, 2019</p>
     </div>
@@ -218,7 +218,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>(604) 787-7379.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection02">
-        <h2 class="ExpandableSectionTitle">Releases Rules for Standing for participants</h2>
+        <p class="ExpandableSectionTitle">Releases Rules for Standing for participants</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">July 29 2019</p>
     </div>
@@ -234,7 +234,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>For further information, please contact Ruth Atherley, Director, Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or at: <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a></p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection01">
-        <h2 class="ExpandableSectionTitle">Announces Senior Inquiry Team</h2>
+        <p class="ExpandableSectionTitle">Announces Senior Inquiry Team</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">July 29, 2019</p>
     </div>
