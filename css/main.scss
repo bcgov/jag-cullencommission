@@ -37,9 +37,11 @@ a:hover {
 }
 
 h1 {
+  font-family: 'Baskervville', sans-serif;
+  font-size: 3.5rem;
   text-align: center;
-  font-size: 3.9rem;
   font-weight: 100;
+  color: $gradientLighter;
   padding: 0px;
   margin: 0px 0px 60px 0px;
 }
@@ -48,11 +50,8 @@ h2 {
   font-size: 2rem;
   font-weight: 800;
   text-align: center;
-  color: #537427;
-  border-style: solid;
-  border-width: 0px 0px 1px 0px;
-  border-color: #537427;
-  margin: 40px 0px 30px 0px;
+  color: $gradientLighter;
+  margin: 40px 0px 20px 0px;
 }
 
  h3 {
@@ -242,8 +241,6 @@ a.active, a.NavbarButton:hover {
   list-style-type: none;
 }
 
-$ExpandableSectionBGLight: #006E60;
-$ExpandableSectionBGDark: #004A41;
 $ExpandableSectionTextColor: white;
 
 .ExpandableSectionAccordion {
@@ -251,7 +248,7 @@ $ExpandableSectionTextColor: white;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
   border-color: #000000;
-  background-color: $ExpandableSectionBGDark;
+  background-color: $gradientDarker;
   overflow: hidden;
   padding: 0px;
 }
@@ -261,7 +258,7 @@ $ExpandableSectionTextColor: white;
   border-style: solid;
   border-width: 0px 0px 1px 0px;
   border-color: #000000;
-  background-image: linear-gradient(to bottom, $ExpandableSectionBGLight, $ExpandableSectionBGDark);
+  background-image: linear-gradient(to bottom, #4158aa, #212d61);
   box-shadow: 0px 0px 0px rgba(black, 0);
   text-shadow: 1px 1px 1px black;
   padding: 10px 30px 20px 40px;
@@ -344,53 +341,15 @@ $ExpandableSectionTextColor: white;
   float: left;
 }
 
-.AsideNew {
-  padding: 0px;
-  float: left;
-  text-shadow: 1px 1px 1px rgba(white, 0.5);
-  font-weight: 500;
-}
-
-.AsideNewGreen {
-  color: #173506;
-  background-image: linear-gradient(to bottom, #94cf5d, #ffffff);
-}
-
-.AsideNewBlue {
-  color: #132638;
-  background-image: linear-gradient(to bottom, #8eceee, #ffffff);
-}
-
-.AsideNewYellow {
-  color: #373813;
-  background-image: linear-gradient(to bottom, #e0d85e, #ffffff);
-}
-
-.AsideGreen {
-  box-shadow: 0px 0px 10px rgba(#283813, 0.75), 0px 0px 20px #45641d inset, 0px -10px 30px #98d448 inset;
-  background-image: linear-gradient(-45deg, #5e832d, #88b948);
-  border-color: #537427;
-}
-
 .AsideBlue {
   box-shadow: 0px 0px 10px rgba(#132638, 0.75), 0px 0px 20px #1d4864 inset, 0px -10px 30px #48a8d4 inset;
   background-image: linear-gradient(-45deg, #20668a, #41aad3);
   border-color: #275574;
 }
 
-.AsideYellow {
-  box-shadow: 0px 0px 10px rgba(#373813, 0.75), 0px 0px 20px #63641d inset, 0px -10px 30px #d4cb48 inset;
-  background-image: linear-gradient(-45deg, #746f27, #b9b748);
-  border-color: #746f27;
-}
-
 .Aside p {
   color: white;
   text-shadow: 1px 1px 1px rgba(#000000, 0.75);
-}
-
-.AsideNew p {
-  padding: 0px 20px;
 }
 
 .Aside2Col .Aside {
@@ -410,45 +369,9 @@ $ExpandableSectionTextColor: white;
   margin: 0px 0px 20px 0px;
 }
 
-.AsideNewTitle {
-  font-size: 2rem;
-  font-weight: 600;
-  text-align: center;
-  padding: 20px 0px !important;
-  margin: 0px 0px 20px 0px;
-}
-
-.AsideNewGreen .AsideNewTitle {
-  color: white;
-  text-shadow: 1px 1px 1px #1c2b09;
-  background-color: #5e832d;
-}
-
-.AsideNewBlue .AsideNewTitle {
-  color: white;
-  text-shadow: 1px 1px 1px #0a2531;
-  background-color: #2b6a86;
-}
-
-.AsideNewYellow .AsideNewTitle {
-  color: white;
-  text-shadow: 1px 1px 1px #292708;
-  background-color: #85802b;
-}
-
-.AsideGreen .AsideTitle {
-  color: #3b5519;
-  text-shadow: 1px 1px 1px #1c2b09;
-}
-
 .AsideBlue .AsideTitle {
   color: #194255;
   text-shadow: 1px 1px 1px #0a2531;
-}
-
-.AsideYellow .AsideTitle {
-  color: #555119;
-  text-shadow: 1px 1px 1px #292708;
 }
 
 @media only screen and (max-width: 1000px) {

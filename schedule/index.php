@@ -9,7 +9,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Hearings</h1>
 <h2>Schedule</h2>
-<p>Public hearings are set for 2020. They are:</p>
+<p>Public hearings are set for 2020. More information will be uploaded to this section of our website as soon as possible. Currently the timing for the public hearings is:</p>
 <h3>February 24 – 28:</h3>
 <p>These hearings are for participants’ opening statements and will provide an opportunity for participants (those granted formal standing) to address the Commissioner and to set out the issues and matters that participants would like to see the Inquiry address.</p>
 <h3>May 25 – June 26:</h3>

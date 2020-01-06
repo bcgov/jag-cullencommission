@@ -31,9 +31,11 @@ a:hover {
 }
 
 h1 {
+  font-family: 'Baskervville', sans-serif;
+  font-size: 3.5rem;
   text-align: center;
-  font-size: 3.9rem;
   font-weight: 100;
+  color: #001c82;
   padding: 0px;
   margin: 0px 0px 60px 0px;
 }
@@ -42,11 +44,8 @@ h2 {
   font-size: 2rem;
   font-weight: 800;
   text-align: center;
-  color: #537427;
-  border-style: solid;
-  border-width: 0px 0px 1px 0px;
-  border-color: #537427;
-  margin: 40px 0px 30px 0px;
+  color: #001c82;
+  margin: 40px 0px 20px 0px;
 }
 
 h3 {
@@ -235,7 +234,7 @@ a.active, a.NavbarButton:hover {
   border-style: solid;
   border-width: 1px 1px 1px 1px;
   border-color: #000000;
-  background-color: #004A41;
+  background-color: #000d3d;
   overflow: hidden;
   padding: 0px;
 }
@@ -245,8 +244,8 @@ a.active, a.NavbarButton:hover {
   border-style: solid;
   border-width: 0px 0px 1px 0px;
   border-color: #000000;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#006E60), to(#004A41));
-  background-image: linear-gradient(to bottom, #006E60, #004A41);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#4158aa), to(#212d61));
+  background-image: linear-gradient(to bottom, #4158aa, #212d61);
   -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
           box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
   text-shadow: 1px 1px 1px black;
@@ -334,38 +333,6 @@ a.active, a.NavbarButton:hover {
   float: left;
 }
 
-.AsideNew {
-  padding: 0px;
-  float: left;
-  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
-  font-weight: 500;
-}
-
-.AsideNewGreen {
-  color: #173506;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#94cf5d), to(#ffffff));
-  background-image: linear-gradient(to bottom, #94cf5d, #ffffff);
-}
-
-.AsideNewBlue {
-  color: #132638;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#8eceee), to(#ffffff));
-  background-image: linear-gradient(to bottom, #8eceee, #ffffff);
-}
-
-.AsideNewYellow {
-  color: #373813;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#e0d85e), to(#ffffff));
-  background-image: linear-gradient(to bottom, #e0d85e, #ffffff);
-}
-
-.AsideGreen {
-  -webkit-box-shadow: 0px 0px 10px rgba(40, 56, 19, 0.75), 0px 0px 20px #45641d inset, 0px -10px 30px #98d448 inset;
-          box-shadow: 0px 0px 10px rgba(40, 56, 19, 0.75), 0px 0px 20px #45641d inset, 0px -10px 30px #98d448 inset;
-  background-image: linear-gradient(-45deg, #5e832d, #88b948);
-  border-color: #537427;
-}
-
 .AsideBlue {
   -webkit-box-shadow: 0px 0px 10px rgba(19, 38, 56, 0.75), 0px 0px 20px #1d4864 inset, 0px -10px 30px #48a8d4 inset;
           box-shadow: 0px 0px 10px rgba(19, 38, 56, 0.75), 0px 0px 20px #1d4864 inset, 0px -10px 30px #48a8d4 inset;
@@ -373,20 +340,9 @@ a.active, a.NavbarButton:hover {
   border-color: #275574;
 }
 
-.AsideYellow {
-  -webkit-box-shadow: 0px 0px 10px rgba(55, 56, 19, 0.75), 0px 0px 20px #63641d inset, 0px -10px 30px #d4cb48 inset;
-          box-shadow: 0px 0px 10px rgba(55, 56, 19, 0.75), 0px 0px 20px #63641d inset, 0px -10px 30px #d4cb48 inset;
-  background-image: linear-gradient(-45deg, #746f27, #b9b748);
-  border-color: #746f27;
-}
-
 .Aside p {
   color: white;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
-}
-
-.AsideNew p {
-  padding: 0px 20px;
 }
 
 .Aside2Col .Aside {
@@ -406,45 +362,9 @@ a.active, a.NavbarButton:hover {
   margin: 0px 0px 20px 0px;
 }
 
-.AsideNewTitle {
-  font-size: 2rem;
-  font-weight: 600;
-  text-align: center;
-  padding: 20px 0px !important;
-  margin: 0px 0px 20px 0px;
-}
-
-.AsideNewGreen .AsideNewTitle {
-  color: white;
-  text-shadow: 1px 1px 1px #1c2b09;
-  background-color: #5e832d;
-}
-
-.AsideNewBlue .AsideNewTitle {
-  color: white;
-  text-shadow: 1px 1px 1px #0a2531;
-  background-color: #2b6a86;
-}
-
-.AsideNewYellow .AsideNewTitle {
-  color: white;
-  text-shadow: 1px 1px 1px #292708;
-  background-color: #85802b;
-}
-
-.AsideGreen .AsideTitle {
-  color: #3b5519;
-  text-shadow: 1px 1px 1px #1c2b09;
-}
-
 .AsideBlue .AsideTitle {
   color: #194255;
   text-shadow: 1px 1px 1px #0a2531;
-}
-
-.AsideYellow .AsideTitle {
-  color: #555119;
-  text-shadow: 1px 1px 1px #292708;
 }
 
 @media only screen and (max-width: 1000px) {
