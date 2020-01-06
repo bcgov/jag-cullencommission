@@ -16,13 +16,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h2>Senior Commission Counsel</h2>
 <p>Senior Commission Counsel are responsible for directing the work of commission lawyers and staff, identifying and obtaining the evidence required for the Commissioner’s reports, and conducting the hearings.</p>
 <div class="Aside2Col">
-    <div class="Aside AsideGreen">
+    <div class="Aside AsideBlue">
         <p class="AsideTitle">Brock Martland, QC</p>
         <p>A partner at the firm of Martland & Saulnier in Vancouver, Brock Martland, QC, practises in the area of criminal law, handling trials and appeals, mainly for the defence and sometimes for the Crown. He has been involved in cases concerning police discipline, administrative and constitutional law, extradition and youth justice.</p>
         <p>Mr. Martland comes to the role of Senior Commission Counsel with experience as Associate Commission Counsel for the Cohen Commission of Inquiry into the Decline of Sockeye Salmon in the Fraser River and for the Frank Paul Inquiry (the Davies Commission) into the death of Frank Paul.</p>
         <p>He is a graduate of the University of Victoria (Law) and Queen’s University (B.A. (Hon.)). Mr. Martland clerked for the Honourable Justice Major at the Supreme Court of Canada.</p>
     </div>
-    <div class="Aside AsideGreen">
+    <div class="Aside AsideBlue">
         <p class="AsideTitle">Patrick McGowan</p>
         <p>A Vancouver-based trial and appellate lawyer who practises criminal, civil and administrative law, Patrick McGowan has been involved in cases dealing with a wide variety of complex legal and constitutional issues in British Columbia and at the Supreme Court of Canada.</p>
         <p>Mr. McGowan served as Associate Commission Counsel in two earlier inquiries: the Cohen Commission of Inquiry into the Decline of Sockeye Salmon in the Fraser River, and the Braidwood Commissions of Inquiry into Conducted Energy Weapon Use and the Death of Robert Dziekanski.</p>
@@ -53,15 +53,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <br class="ClearFloats">
 <h2>Junior Commission Counsel</h2>
 <div class="Aside3Col">
-    <div class="Aside AsideYellow">
+    <div class="Aside AsideBlue">
         <p class="AsideTitle">Steven Davis</p>
         <p>Steven Davis has been appointed to the role of Junior Commission Counsel for the Commission of Inquiry into Money Laundering in British Columbia. He is a graduate of McGill University (B.Com.) and has experience in finance. Mr. Davis obtained his law degree from the University of Victoria. After articling with the Department of Justice, he clerked for two justices of the British Columbia Court of Appeal.</p>
     </div>
-    <div class="Aside AsideYellow">
+    <div class="Aside AsideBlue">
         <p class="AsideTitle">Kyle McCleery</p>
         <p>Kyle McCleery is a graduate of Queen’s University (B.A.) and the University of British Columbia (J.D., LL.M.). He takes on the role of Junior Commission Counsel for the Commission of Inquiry into Money Laundering in British Columbia. Mr. McCleery is a former law clerk with the Court of Appeal for Ontario and has experience practising criminal, civil and administrative law.</p>
     </div>
-    <div class="Aside AsideYellow">
+    <div class="Aside AsideBlue">
         <p class="AsideTitle">Kelsey Rose</p>
         <p>Kelsey Rose is a general civil litigator based in Vancouver. Ms. Rose has joined the Commission of Inquiry into Money Laundering in British Columbia as Junior Commission Counsel. Prior to joining the Commission, she practised at a large regional law firm, where she primarily focused on complex commercial litigation, health law and cross-border disputes. Much of Ms. Rose’s work has centered on complex issues of privacy, confidentiality and privilege.</p>
         <p>Ms. Rose has appeared at all levels of court in B.C. and in writing at the Supreme Court of Canada. She obtained her law degree from the University of British Columbia in 2014. After clerking for the Ontario Superior Court of Justice, she was called to the Bar in B.C. in 2016.</p>

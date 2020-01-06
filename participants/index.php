@@ -114,7 +114,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
-                <p>British Columbia Government &amp; Service Employees' Untion (BCGEU)</p>
+                <p>British Columbia Government &amp; Service Employees' Union (BCGEU)</p>
             </div>
             <div class="rTableCell">
                 <p><strong>BCGEU</strong></p>
@@ -162,7 +162,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>CBA</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Jo-Anne Stark, Director o fAdvocacy, CBA, BC Branch</p>
+                <p>Jo-Anne Stark, Director of Advocacy, CBA, BC Branch</p>
             </div>
             <div class="rTableCell">
             </div>
@@ -307,10 +307,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
     </div>
 </div>
-<p>Goto the <a href="/rulings/">Rulings page</a> to find the Commission’s Participants Application Rulings</p>
-<p class="ATTENTION">The Rules for Standing can be found here WHERE DOES THIS LINK TO?</p>
+
+<p>Please see the <a href="/rulings/">Rulings Section</a> to find the Participants Application Rulings.</p>
+<p>The Rules for Standing can be <a href="/rules-for-standing/">found here</a>.</p>
 <p>The Rules for Standing provided a deadline of September 6, 2019 to submit for Participant Standing. However, the Commissioner has the discretion to extend that deadline, and anyone seeking to apply for participant status after that date is encouraged to apply in accordance with the Rules and to seek an extension of time. Those applications will all be carefully considered and determined on their merits.</p>
-<p>There is a range of ways to provide information to the Commission. You can learn more about these avenues at the <a href="/contact/">Contact page</a>.</p>
+<p>There are a range of ways to provide information to Commission Counsel. You can learn more about how to submit information or contact us <a href="/contact/">here</a>.</p>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>

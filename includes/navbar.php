@@ -28,11 +28,11 @@
                 </div>
                 <a class="NavbarButton HasSubNav" id="NavbarWebcast"><i class="fas fa-chevron-down"></i> Webcast</a>
                 <div class="SubNavList" id="NavbarWebcastSubNav">
-                    <p><a href="#">Live Webcast</a></p>
-                    <p><a href="#">Webcast Archives</a></p>
+                    <p><a href="/webcast-live/">Live Webcast</a></p>
+                    <p><a href="/webcast-archive/">Webcast Archives</a></p>
                 </div>
-                <a href="/news-releases/" class="NavbarButton">News Releases</a>
-                <a href="#" class="NavbarButton">FAQ</a>
+                <a href="/media/" class="NavbarButton">Media</a>
+                <a href="/faq/" class="NavbarButton">FAQ</a>
                 <a href="/public-meetings/" class="NavbarButton">Public Meetings</a>
                 <a href="/contact/" class="NavbarButton">Contact</a>
                 <!-- <a href="/introductory-statement/" class="NavbarLink">
