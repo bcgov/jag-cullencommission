@@ -33,7 +33,7 @@ a {
 a:hover {
   color: rgb(134, 0, 0);
   border-radius: 3px;
-  background-color: #ffcece;
+  background-color: #ffe2e2;
 }
 
 h1 {
@@ -378,10 +378,16 @@ $ExpandableSectionTextColor: white;
   text-shadow: 1px 1px 1px #062919;
 }
 
+.TopOfPage {
+  float: right;
+  font-size: 0.75rem;
+  margin: 0px;
+}
+
 @media only screen and (max-width: 1000px) {
 
   h1 {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     margin: 0px 0px 30px 0px;
   }
 
