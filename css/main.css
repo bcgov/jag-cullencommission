@@ -371,11 +371,36 @@ a.active, a.NavbarButton:hover {
 }
 
 @media only screen and (max-width: 1000px) {
+  h1 {
+    font-size: 1.5rem;
+    margin: 0px 0px 30px 0px;
+  }
+  h2 {
+    font-size: 1.25rem;
+    margin: 20px 0px 10px 0px;
+  }
+  h3 {
+    font-size: 1.0rem;
+    margin: 20px 0px 5px 0px;
+  }
+  p, li {
+    font-size: 0.85rem;
+  }
+  a {
+    word-wrap: break-word;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+        -ms-hyphens: auto;
+            hyphens: auto;
+  }
+  ul {
+    padding: 0px 0px 0px 20px;
+  }
   #SiteHeaderDiv {
     margin: 10px 0px 10px 0px;
   }
   .SiteHeaderMain {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
   }
   #Navbar {
     float: initial;
@@ -402,7 +427,8 @@ a.active, a.NavbarButton:hover {
   }
   #MenuDisplay {
     display: block;
-    margin: 0px 0px 10px 20px;
+    margin: 0px 0px 10px 10px;
+    font-size: 1.25rem;
   }
   #MainContent {
     width: initial;
@@ -417,6 +443,7 @@ a.active, a.NavbarButton:hover {
     border-radius: initial;
     -webkit-box-shadow: none;
             box-shadow: none;
+    padding: 10px 10px 35px 10px;
   }
   .NavbarItem {
     width: 280px;
@@ -434,6 +461,15 @@ a.active, a.NavbarButton:hover {
   }
   .HeaderCommissionTitle {
     font-size: 2.25rem;
+  }
+  .ExpandableSectionTitle {
+    font-size: 0.75rem;
+  }
+  .ExpandableSectionUnderTitleLeft {
+    font-size: 0.5rem;
+  }
+  .ExpandableSectionUnderTitleRight {
+    font-size: 0.5rem;
   }
 }
 
@@ -552,6 +588,12 @@ a.active, a.NavbarButton:hover {
     .Aside3Col {
       -ms-grid-columns: 1fr;
           grid-template-columns: 1fr;
+    }
+    .ExpandableSection {
+      max-width: 100% !important;
+      -ms-grid-column: 1;
+      -ms-grid-column-span: 1;
+      grid-column: 1 / span 1;
     }
   }
 }

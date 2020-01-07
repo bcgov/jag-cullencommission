@@ -380,12 +380,41 @@ $ExpandableSectionTextColor: white;
 
 @media only screen and (max-width: 1000px) {
 
+  h1 {
+    font-size: 1.5rem;
+    margin: 0px 0px 30px 0px;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+    margin: 20px 0px 10px 0px;
+  }
+
+  h3 {
+    font-size: 1.0rem;
+    margin: 20px 0px 5px 0px;
+  }
+
+  p, li {
+    font-size: 0.85rem;
+  }
+
+  a {
+    word-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+  }
+
+  ul {
+    padding: 0px 0px 0px 20px;
+  }
+
   #SiteHeaderDiv {
     margin: 10px 0px 10px 0px;
   }
 
   .SiteHeaderMain {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
   }
 
   #Navbar {
@@ -415,7 +444,8 @@ $ExpandableSectionTextColor: white;
   
   #MenuDisplay {
     display: block;
-    margin: 0px 0px 10px 20px;
+    margin: 0px 0px 10px 10px;
+    font-size: 1.25rem;
   }
 
   #MainContent {
@@ -431,6 +461,7 @@ $ExpandableSectionTextColor: white;
     float: initial;
     border-radius: initial;
     box-shadow: none;
+    padding: 10px 10px 35px 10px;
   }
   
   .NavbarItem {
@@ -453,6 +484,18 @@ $ExpandableSectionTextColor: white;
 
   .HeaderCommissionTitle {
     font-size: 2.25rem;
+  }
+
+  .ExpandableSectionTitle {
+    font-size: 0.75rem;
+  }
+
+  .ExpandableSectionUnderTitleLeft {
+    font-size: 0.5rem;
+  }
+
+  .ExpandableSectionUnderTitleRight {
+    font-size: 0.5rem;
   }
 
 }
@@ -576,6 +619,11 @@ $ExpandableSectionTextColor: white;
       grid-template-columns: 1fr;
     }
   
+    .ExpandableSection {
+      max-width: 100% !important;
+      grid-column: 1 / span 1;
+    }
+    
   }
   
 }
