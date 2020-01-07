@@ -371,6 +371,9 @@ a.active, a.NavbarButton:hover {
 }
 
 @media only screen and (max-width: 1000px) {
+  .SiteHeaderMain {
+    font-size: 1.75rem;
+  }
   #Navbar {
     float: initial;
     width: initial;
