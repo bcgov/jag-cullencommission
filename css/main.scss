@@ -380,6 +380,10 @@ $ExpandableSectionTextColor: white;
 
 @media only screen and (max-width: 1000px) {
 
+  #SiteHeaderDiv {
+    margin: 10px 0px 10px 0px;
+  }
+
   .SiteHeaderMain {
     font-size: 1.75rem;
   }
@@ -411,7 +415,7 @@ $ExpandableSectionTextColor: white;
   
   #MenuDisplay {
     display: block;
-    margin-left: 20px;
+    margin: 0px 0px 10px 20px;
   }
 
   #MainContent {
