@@ -25,9 +25,9 @@ a {
 }
 
 a:hover {
-  color: #333;
+  color: #860000;
   border-radius: 3px;
-  background-color: #cee2ff;
+  background-color: #ffcece;
 }
 
 h1 {
@@ -44,7 +44,7 @@ h2 {
   font-size: 2rem;
   font-weight: 800;
   text-align: center;
-  color: #001c82;
+  color: #007d81;
   margin: 40px 0px 20px 0px;
 }
 
@@ -205,6 +205,15 @@ a.active, a.NavbarButton:hover {
   text-align: left;
 }
 
+.SocialMediaLogo {
+  border-radius: 5px;
+  -webkit-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+          box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
 .NumberedList {
   list-style-type: decimal;
 }
@@ -234,7 +243,7 @@ a.active, a.NavbarButton:hover {
   border-style: solid;
   border-width: 1px 1px 1px 1px;
   border-color: #000000;
-  background-color: #000d3d;
+  background-color: #004A41;
   overflow: hidden;
   padding: 0px;
 }
@@ -244,8 +253,8 @@ a.active, a.NavbarButton:hover {
   border-style: solid;
   border-width: 0px 0px 1px 0px;
   border-color: #000000;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#4158aa), to(#212d61));
-  background-image: linear-gradient(to bottom, #4158aa, #212d61);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#006e60), to(#004A41));
+  background-image: linear-gradient(to bottom, #006e60, #004A41);
   -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
           box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
   text-shadow: 1px 1px 1px black;
@@ -331,13 +340,10 @@ a.active, a.NavbarButton:hover {
   padding: 20px;
   color: white;
   float: left;
-}
-
-.AsideBlue {
-  -webkit-box-shadow: 0px 0px 10px rgba(19, 38, 56, 0.75), 0px 0px 20px #1d4864 inset, 0px -10px 30px #48a8d4 inset;
-          box-shadow: 0px 0px 10px rgba(19, 38, 56, 0.75), 0px 0px 20px #1d4864 inset, 0px -10px 30px #48a8d4 inset;
-  background-image: linear-gradient(-45deg, #20668a, #41aad3);
-  border-color: #275574;
+  -webkit-box-shadow: 0px 0px 10px rgba(19, 56, 28, 0.75), 0px 0px 20px #1d643d inset, 0px -10px 30px #48d493 inset;
+          box-shadow: 0px 0px 10px rgba(19, 56, 28, 0.75), 0px 0px 20px #1d643d inset, 0px -10px 30px #48d493 inset;
+  background-image: linear-gradient(-45deg, #2d8354, #48b984);
+  border-color: #27744e;
 }
 
 .Aside p {
@@ -355,16 +361,13 @@ a.active, a.NavbarButton:hover {
   margin: 10px;
 }
 
-.AsideTitle {
+.Aside p.AsideTitle {
   font-size: 2rem;
   font-weight: 600;
   text-align: center;
   margin: 0px 0px 20px 0px;
-}
-
-.AsideBlue .AsideTitle {
-  color: #194255;
-  text-shadow: 1px 1px 1px #0a2531;
+  color: #1a533b;
+  text-shadow: 1px 1px 1px #062919;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -378,6 +381,7 @@ a.active, a.NavbarButton:hover {
     max-height: 0px;
     overflow: hidden;
     position: absolute;
+    z-index: 1;
     margin: 0px 0px 10px 0px;
     padding: 0px;
     background-color: #00104C;
@@ -414,6 +418,10 @@ a.active, a.NavbarButton:hover {
   }
   .active, .NavbarItem:hover {
     border-color: #999;
+  }
+  .SocialMediaLogo {
+    top: 10px;
+    left: 10px;
   }
   .HeaderInquiry {
     font-size: 1.5rem;
@@ -493,6 +501,10 @@ a.active, a.NavbarButton:hover {
     -ms-grid-column: 1;
     -ms-grid-column-span: 2;
     grid-column: 1 / span 2;
+  }
+  .Aside {
+    width: initial;
+    float: none;
   }
   .Aside2Col .Aside {
     width: initial;

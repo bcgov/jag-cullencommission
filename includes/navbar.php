@@ -22,9 +22,9 @@
                 <a href="/participants/" class="NavbarButton">Participants</a>
                 <a class="NavbarButton HasSubNav" id="NavbarRepPub"><i class="fas fa-chevron-down"></i> Reports &amp; Publications</a>
                 <div class="SubNavList" id="NavbarRepPubSubNav">
-                    <p><a href="#">Commission Reports</a></p>
-                    <p><a href="#">Practice &amp; Procedures</a></p>
-                    <p><a href="#">Other Reports</a></p>
+                    <p><a href="/com-rep/">Commission Reports</a></p>
+                    <p><a href="/prac-pro/">Practice &amp; Procedures</a></p>
+                    <p><a href="/other-reports/">Other Reports</a></p>
                 </div>
                 <a class="NavbarButton HasSubNav" id="NavbarWebcast"><i class="fas fa-chevron-down"></i> Webcast</a>
                 <div class="SubNavList" id="NavbarWebcastSubNav">
@@ -36,7 +36,7 @@
                 <a href="/public-meetings/" class="NavbarButton">Public Meetings</a>
                 <a href="/contact/" class="NavbarButton">Contact</a>
                 <!-- <a href="/introductory-statement/" class="NavbarLink">
-                    <div class="NavbarItem" id="NavbarIntroState">Introductory Statement</div>
+                    <div class="NavbarItem" id="NavbarIntroState">Introductory Statement</div>  
                 </a>
                 <a href="/about/" class="NavbarLink">
                     <div class="NavbarItem" id="NavbarAbout">About</div>
