@@ -371,6 +371,9 @@ a.active, a.NavbarButton:hover {
 }
 
 @media only screen and (max-width: 1000px) {
+  #SiteHeaderDiv {
+    margin: 10px 0px 10px 0px;
+  }
   .SiteHeaderMain {
     font-size: 1.75rem;
   }
@@ -399,7 +402,7 @@ a.active, a.NavbarButton:hover {
   }
   #MenuDisplay {
     display: block;
-    margin-left: 20px;
+    margin: 0px 0px 10px 20px;
   }
   #MainContent {
     width: initial;
