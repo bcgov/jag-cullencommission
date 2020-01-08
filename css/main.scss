@@ -33,7 +33,7 @@ a {
 a:hover {
   color: rgb(134, 0, 0);
   border-radius: 3px;
-  background-color: #ffe2e2;
+  background-color: #ff010113;
 }
 
 h1 {
@@ -249,8 +249,8 @@ a.active, a.NavbarButton:hover {
   list-style-type: none;
 }
 
-$ExpandableSectionBGLight: #006e60;
-$ExpandableSectionBGDark: #004A41;
+$ExpandableSectionBGLight: #48b984;
+$ExpandableSectionBGDark: #2d8354;
 $ExpandableSectionTextColor: white;
 
 .ExpandableSectionAccordion {
@@ -357,6 +357,17 @@ $ExpandableSectionTextColor: white;
 .Aside p {
   color: white;
   text-shadow: 1px 1px 1px rgba(#000000, 0.75);
+}
+
+.Aside p a {
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+  background-color: transparent;
+}
+
+.Aside p a:hover {
+  text-shadow: 0px 0px 5px white;
 }
 
 .Aside2Col .Aside {
