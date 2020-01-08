@@ -7,9 +7,25 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
-<div style="margin: 0px 10%" class="Aside">
-    <p class="AsideTitle">Welcome</p>
-    <p>Welcome to the website of the Commission of Inquiry into Money Laundering in British Columbia. We invite you to read&nbsp;<a href="https://cullen-commission-dev.pathfinder.gov.bc.ca/introductory-statement/"><strong>Commissioner Cullen&rsquo;s Introductory Statement</strong></a>.</p>
+<div class="Aside2Col">
+    <div class="Aside">
+        <p class="AsideTitle">Welcome</p>
+        <p>Welcome to the website of the Commission of Inquiry into Money Laundering in British Columbia. We invite you to read&nbsp;<a href="https://cullen-commission-dev.pathfinder.gov.bc.ca/introductory-statement/"><strong>Commissioner Cullen&rsquo;s Introductory Statement</strong></a>.</p>
+    </div>
+    <div class="LatestEvents">
+        <p class="LatestEventsTitle">Latest Events</p>
+        <div class="LatestEventsContainer">
+            <div class="LatestEvent">
+                <p class="LatestEventDesc">November 8th, 2019<br /><strong>Ruling</strong><br /><a href="https://cullen-commission-dev.pathfinder.gov.bc.ca/files/ParticipantsApplicationsBobMackinRuling04.pdf">Application of Bob Mackin – Ruling #4</a></p>
+            </div>
+            <div class="LatestEvent">
+                <p class="LatestEventDesc">October 25th, 2019<br /><strong>Ruling</strong><br /><a href="https://cullen-commission-dev.pathfinder.gov.bc.ca/files/ParticipantsApplicationsRuling03.pdf">Participants Rulings – Ruling #3</a></p>
+            </div>
+            <div class="LatestEvent">
+                <p class="LatestEventDesc">October 23rd, 2019<br /><strong>News Release</strong><br /><a href="/media/">Commissioner Austin Cullen Opening Remarks</a></p>
+            </div>
+        </div>
+    </div>
 </div>
 <p>The purpose of this website is to provide regular, timely and relevant information to the people of British Columbia about the work being undertaken by the Commission.</p>
 <p>There is much work going on behind the scenes at the Commission, including:</p>

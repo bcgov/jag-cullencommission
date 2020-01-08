@@ -350,7 +350,7 @@ $ExpandableSectionTextColor: white;
   color: white;
   float: left;
   box-shadow: 0px 0px 10px rgba(#13381c, 0.75), 0px 0px 20px #1d643d inset, 0px -10px 30px #48d493 inset;
-  background-image: linear-gradient(-45deg, #2d8354, #48b984);
+  background-image: linear-gradient(-45deg, #1c5f3a, #48b984);
   border-color: #27744e;
 }
 
@@ -387,6 +387,53 @@ $ExpandableSectionTextColor: white;
   margin: 0px 0px 20px 0px;
   color: #1a533b;
   text-shadow: 1px 1px 1px #062919;
+}
+
+.LatestEvents {
+  margin: 10px;
+  padding: 10px;
+  border-radius: $sectionBorderRadius;
+  background-image: linear-gradient(45deg, #355aaa, #0a2255);
+  box-shadow: 0px 0px 10px black, 0px 0px 20px #041d42 inset, 0px -10px 30px #4265b1 inset;
+}
+
+.LatestEventsTitle {
+  color: white;
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  padding: 0px;
+  margin: 0px 0px 5px 0px;
+  text-shadow: 1px 1px 2px black;
+}
+
+.LatestEventsContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 5px;
+
+  a {
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  a:hover {
+    background-color: transparent;
+    text-shadow: 0px 0px 5px white;
+  }
+}
+
+.LatestEvent {
+  border-radius: $sectionBorderRadius;
+  background-color: rgba(white, 0.25);
+  padding: 5px;
+}
+
+.LatestEventDesc {
+  font-size: 0.85rem;
+  color: white;
 }
 
 .TopOfPage {
