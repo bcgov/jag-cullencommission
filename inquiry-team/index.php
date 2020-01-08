@@ -35,7 +35,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h2>Policy Counsel</h2>
 <div class="Aside">
     <p class="AsideTitle">Tam Boyar</p>
-    <p>One of the co-founders of MacKay Boyar, Tam Boyar regularly acts for clients in a wide range of civil, criminal and administrative law matters including proceedings before the B.C. Securities Commission and professional discipline matters involving lawyers, police officers and other professionals.</p>
+    <p>One of the co-founders of MacKay Boyar, Tam Boyar regularly acts for clients in a wide range of civil, criminal and administrative law matters including proceedings before regulatory and administrative tribunals, and professional discipline matters involving lawyers, police officers and other professionals.</p>
     <p>He has argued cases at all levels of court in British Columbia and recently acted for the Attorney General of British Columbia on two significant constitutional cases.</p>
     <p>Mr. Boyar obtained common law and civil law degrees from McGill University and served as a law clerk to the Honourable Justice Morris Fish at the Supreme Court of Canada.</p>
 </div>
