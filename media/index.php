@@ -330,6 +330,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         $('#ExpandableSection09').click(function() {
             $('#ExpandableSectionContent09').slideToggle(time);
         });
+        $('#ExpandableSection10').click(function() {
+            $('#ExpandableSectionContent10').slideToggle(time);
+        });
     });
 </script>
 <?php
