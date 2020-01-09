@@ -10,6 +10,46 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection10">
+        <p class="ExpandableSectionTitle">Commission of Inquiry into Money Laundering in British Columbia Sets Public Hearing Dates</p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">January 9, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent10">
+        <h2>Commission of Inquiry into Money Laundering in British Columbia Sets Public Hearing Dates</h2>
+        <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia has confirmed the dates for its public hearings. They are:</p>
+        <p><strong>February 24 – 28: </strong>These hearings are for participants (those granted formal standing) to provide their opening statements. These hearings will provide an opportunity for participants to address the Commissioner and to set out the issues and matters that they would like to see the Inquiry address.</p>
+        <p>These hearings will be held at the Federal Court of Canada at 701 West Georgia Street, Vancouver, in Courtroom 801.</p>
+        <p><strong>May 25 – June 26: </strong>These hearings will deal with an overview of the money laundering topic and regulatory models, as well as attempts to quantify the extent of money laundering activity in British Columbia. These hearings may not occupy the full five-week period in the spring.</p>
+        <p>The courtroom for these hearings will be announced in the coming weeks.</p>
+        <p><strong>September 8 – December 22: </strong>These are the main hearings in which Commission Counsel plan to address specific issues* including:</p>
+        <ul>
+            <li>Gaming, casinos, horseracing</li>
+            <li>Real estate</li>
+            <li>Professional services, including accounting and legal</li>
+            <li>Corporate sector</li>
+            <li>Financial institutions and money services</li>
+            <li>Luxury goods</li>
+            <li>Cryptocurrency</li>
+            <li>Cash-based businesses</li>
+            <li>Trade-based money laundering</li>
+            <li>Other sectors</li>
+            <li>Asset recovery</li>
+            <li>Enforcement and regulation</li>
+            <li>Government response</li>
+            <li>Other jurisdictions’ approaches</li>
+        </ul>
+        <p>The courtroom for these hearings will be announced in the coming weeks.</p>
+        <p>*These topics are not necessarily listed in sequence, and this hearing plan is subject to variation. Information about the dates on which specific topics will be addressed in the hearings will be posted on the Commission’s website: <a href="http://www.cullencommission.ca/">www.cullencommission.ca</a>.</p>
+        <p>The Commission plans to post its witness lists on its website in advance of the witnesses testifying. These lists will be subject to modification if Commission Counsel determines that a witness is unnecessary or that an additional witness is required.</p>
+        <p>The Commission is planning on webcasting the hearings on its website. Details about the webcast will be announced closer to the February hearing dates.</p>
+        <p>Transcripts of the hearings and exhibits will also be posted to the website. (The exception to this would be in the event of special circumstances where there is a need for protective measures for a witness, document or evidence. This could include measures such as a publication ban, sealing materials or proceeding in a closed (non-public) hearing.)</p>
+        <p><strong>About the Commission</strong></p>
+        <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
+        <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
+        <p>-END-</p>
+        <p>For additional information, please contact Ruth Atherley, Director of Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a>.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection09">
         <p class="ExpandableSectionTitle">Commissioner Austin Cullen Opening Remarks - Public Meetings</p>
         <p class="ExpandableSectionUnderTitleLeft"></p>
