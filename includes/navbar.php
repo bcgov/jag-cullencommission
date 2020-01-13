@@ -32,7 +32,7 @@
                     <p><a href="/webcast-archive/">Webcast Archives</a></p>
                 </div>
                 <a href="/media/" class="NavbarButton">Media</a>
-                <a href="/faq/" class="NavbarButton">FAQ</a>
+                <a href="/faqs/" class="NavbarButton">FAQs</a>
                 <a href="/public-meetings/" class="NavbarButton">Public Meetings</a>
                 <a href="/contact/" class="NavbarButton">Contact</a>
                 <!-- <a href="/introductory-statement/" class="NavbarLink">
