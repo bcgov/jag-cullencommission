@@ -13,6 +13,7 @@ body {
   padding: 0px;
   font-family: 'Montserrat', sans-serif;
   overflow-y: scroll;
+  background-color: $gradientDarker;
 }
 
 img {
@@ -131,6 +132,8 @@ $buttonPaddingHorizontal: 10px;
 $buttonPaddingVertical: 10px;
 
 a.NavbarButton {
+  display: block;
+  width: 100%;
   font-weight: 600;
   color: white;
   white-space: nowrap;
@@ -392,9 +395,15 @@ $ExpandableSectionTextColor: white;
 .LatestEvents {
   margin: 10px;
   padding: 10px;
+  float: left;
   border-radius: $sectionBorderRadius;
   background-image: linear-gradient(45deg, #355aaa, #0a2255);
   box-shadow: 0px 0px 10px black, 0px 0px 20px #041d42 inset, 0px -10px 30px #4265b1 inset;
+}
+
+.Aside2Col .LatestEvents {
+  width: 45%;
+  margin: 10px;
 }
 
 .LatestEventsTitle {
@@ -408,10 +417,6 @@ $ExpandableSectionTextColor: white;
 }
 
 .LatestEventsContainer {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 5px;
-
   a {
     color: white;
     text-decoration: underline;
@@ -426,6 +431,8 @@ $ExpandableSectionTextColor: white;
 }
 
 .LatestEvent {
+  display: inline-block;
+  width: 30%;
   border-radius: $sectionBorderRadius;
   background-color: rgba(white, 0.25);
   padding: 5px;
@@ -441,6 +448,8 @@ $ExpandableSectionTextColor: white;
   font-size: 0.75rem;
   margin-bottom: 0px;
 }
+
+/* ---------------------------------------- SMALL SCREENS ---------------------------------------- */
 
 @media only screen and (max-width: 1000px) {
 
@@ -564,9 +573,12 @@ $ExpandableSectionTextColor: white;
 
 }
 
+/* ---------------------------------------- MODERN BROWERS ---------------------------------------- */
+
 @supports (display: grid) {
 
   html, body {
+    width: initial;
     margin: 0px;
     padding: 0px;
     background-size: cover;
@@ -608,6 +620,11 @@ $ExpandableSectionTextColor: white;
   #NavbarList {
     display: grid;
     grid-template-columns: 1fr;
+  }
+
+  a.NavbarButton {
+    display: initial;
+    width: initial;
   }
 
   .ExpandableSectionTitleContainer {
@@ -661,7 +678,29 @@ $ExpandableSectionTextColor: white;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 10px;
   }
+
+  .Aside2Col .LatestEvents {
+    width: initial;
+    margin: initial;
+  }
+
+  .LatestEvent {
+    display: initial;
+    width: initial;
+  }
+
+  .LatestEventsContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+  }
+
+  .ClearFloats {
+    display: none;
+  }
   
+/* ---------------------------------------- MORDERN BROWERS ON SMALL SCREENS ---------------------------------------- */
+
   @media only screen and (max-width: 1000px) {
 
     #MainContent {

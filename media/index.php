@@ -10,8 +10,23 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection11">
+        <p class="ExpandableSectionTitle">Appointment of Tam Boyar as Policy Counsel
+        </p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">January 13, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent11">
+        <h2>Commission of Inquiry into Money Laundering in British Columbia Announces Appointment of Tam Boyar as Policy Counsel</h2>
+        <p><strong>Vancouver, B.C.</strong>&nbsp;&ndash; The Commission of Inquiry into Money Laundering in British Columbia has appointed Vancouver-based lawyer Tam Boyar as policy counsel. Mr. Boyar will focus on research, analysis, writing, and coordinating the policy work undertaken by the Commission&rsquo;s lawyers and contractors.</p>
+        <p>One of the co-founders of <a href="https://mackayboyar.com/">MacKay Boyar</a>, Mr. Boyar brings extensive experience in a wide range of civil, criminal and administrative law matters, including proceedings before regulatory and administrative tribunals and professional discipline matters involving lawyers, police officers and other professionals. He obtained common law and civil law degrees from McGill University and served as a law clerk to the Honourable Justice Morris Fish at the Supreme Court of Canada. Mr. Boyar has argued cases at all levels of court in British Columbia, and recently acted for the Attorney General of British Columbia on two significant constitutional cases.&nbsp;</p>
+        <p>&ldquo;Tam&rsquo;s expertise will be invaluable to the important work that we are doing on behalf of the people of British Columbia,&rdquo; said Commissioner Austin Cullen. &ldquo;His appointment as policy counsel rounds out a dedicated and talented group of professionals that I am honoured to lead. I think I can speak for the whole team when I say, we look forward to working with him.&rdquo;</p>
+        <p><strong>About the Commission</strong></p>
+        <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
+        <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection10">
-        <p class="ExpandableSectionTitle">Commission of Inquiry into Money Laundering in British Columbia Sets Public Hearing Dates</p>
+        <p class="ExpandableSectionTitle">Public Hearing Dates</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">January 9, 2020</p>
     </div>
@@ -47,7 +62,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p><strong>About the Commission</strong></p>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
-        <p>-END-</p>
+        <p style="text-align: center">-END-</p>
         <p>For additional information, please contact Ruth Atherley, Director of Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a>.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection09">
@@ -332,6 +347,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection10').click(function() {
             $('#ExpandableSectionContent10').slideToggle(time);
+        });
+        $('#ExpandableSection11').click(function() {
+            $('#ExpandableSectionContent11').slideToggle(time);
         });
     });
 </script>
