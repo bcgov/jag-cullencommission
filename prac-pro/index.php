@@ -8,7 +8,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Practice and Procedures</h1>
-<p><strong>Rules of Practice and Procedure (Dec 5, 2019)</strong></p>
+<p>Throughout the Inquiry, the Commission will produce further practice and procedure rules that will be placed in this section of the website.</p>
 <p><a href="http://cullencommission.ca/app/uploads/sites/527/2019/12/Rules-of-Practice-and-Procedure.pdf">Rules of Practice and Procedure December 5th, 2019</a></p>
 <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. The decision to proceed with a commission of inquiry followed four independent reviews that found extraordinary levels of money laundering in B.C.&rsquo;s real estate market, casinos and other sectors of the economy.</p>
 <p>The reports are:</p>
@@ -22,19 +22,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>The Commission of Inquiry into Money Laundering in British Columbia is required to deliver an interim report 18 months from the date of being announced and a final report by May 2021.</p>
 <p>The Commission Team can be <a href="https://cullencommission.ca/inquiry-team/">found here</a>.</p>
 <p><strong>COMMISSION OF INQUIRY INTO MONEY LAUNDERING IN BRITISH COLUMBIA ORDER</strong></p>
-<p><strong>Definitions</strong></p>
-<p><strong>1</strong></p>
+<p><strong>1 Definitions</strong></p>
 <p>In this order:</p>
 <p><strong>&ldquo;Act&rdquo;</strong> means the <em>Public Inquiry Act</em>;<br /> <strong>&ldquo;commission&rdquo;</strong> means the commission established under section 2 of this order;<br /> <strong>&ldquo;money laundering&rdquo;</strong> means the process used to disguise the source of money or assets derived from illegal activity.</p>
-<p><strong>Establishment of commission</strong></p>
-<p><strong>2</strong></p>
+<p><strong>2 Establishment of commission</strong></p>
 <p>(1) A study and hearing commission called the Commission of Inquiry into Money Laundering in British Columbia is established under section 2 of the Act.<br /> (2) The Honourable Justice Austin F. Cullen is the sole commissioner of the Commission.</p>
-<p><strong>Purposes of commission</strong></p>
-<p><strong>3</strong></p>
+<p><strong>3 Purposes of commission</strong></p>
 <p>The purposes of the commission are as follows:</p>
 <p>(a) to inquire into and report on money laundering in British Columbia;<br /> (b) to make recommendations referred to in section 4 (2) (a).</p>
-<p><strong>Terms of reference</strong></p>
-<p><strong>4</strong></p>
+<p><strong>4 Terms of reference</strong></p>
 <p>(1) The terms of reference of the commission are to conduct hearings and make findings of fact respecting money laundering in British Columbia, including the following:</p>
 <p>(a) the extent, growth, evolution and methods of money laundering in the following sectors:</p>
 <ol>
@@ -59,8 +55,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>(3) If the commissioner has reasonable grounds to believe that any information obtained during the inquiry may be useful in the investigation or prosecution of an offence under the <em>Criminal Code</em>, the commissioner must forward that information to the appropriate authorities.</p>
 <p>(4) The commission is to carry out the inquiry in such a way as to ensure the inquiry does not jeopardize any ongoing criminal investigation or proceeding.</p>
 <p>(5) The commission may not inquire into any matter respecting the exercise of prosecutorial discretion.</p>
-<p><strong>Expenses</strong></p>
-<p><strong>5</strong></p>
+<p><strong>5 Expenses</strong></p>
 <p>Subject to the directives of Treasury Board, the commissioner is entitled to be reimbursed for reasonable travelling and living expenses at the rates specified for Group III employees set out in the government&rsquo;s Core Policy and Procedures Manual.</p>
 <p> </p>
 <?php

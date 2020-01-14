@@ -9,9 +9,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Hearings</h1>
 <h2>Schedule</h2>
-<p>Public hearings are set for 2020. More information will be uploaded to this section of our website as soon as possible. Currently the timing for the public hearings is:</p>
+<p>Public hearings are set for 2020. More information will be uploaded to this section of our website as it comes available. Please come back to this page often for updates. Currently the timing for the public hearings is:</p>
 <h3>February 24 – 28:</h3>
-<p>These hearings are for participants’ opening statements and will provide an opportunity for participants (those granted formal standing) to address the Commissioner and to set out the issues and matters that participants would like to see the Inquiry address.</p>
+<p>These hearings are for participants’ opening statements and will provide an opportunity for participants (groups, organizations and individuals granted formal standing) to address the Commissioner and to set out the issues and matters that participants would like to see the Inquiry address.</p>
 <p>These hearings will be held at the Federal Court of Canada at 701 West Georgia Street, Vancouver, in Courtroom 801.</p>
 <h3>May 25 – June 26:</h3>
 <p>These hearings will deal with an overview of the money laundering topic and regulatory models, as well as attempts to quantify the extent of money laundering activity in British Columbia. These hearings may not occupy the full five-week period in the spring.</p>

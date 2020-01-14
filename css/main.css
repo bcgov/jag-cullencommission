@@ -100,7 +100,7 @@ strong {
 #Footer {
   color: gray;
   text-align: center;
-  margin: 80px 0px 20px 0px;
+  margin: 60px 0px 20px 0px;
 }
 
 #SiteHeaderDiv {
@@ -580,11 +580,6 @@ a.active, a.NavbarButton:hover {
     -webkit-box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.75);
             box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.75);
   }
-  #Footer {
-    color: gray;
-    text-align: center;
-    margin: 80px 0px 20px 0px;
-  }
   #NavbarList {
     display: -ms-grid;
     display: grid;
@@ -649,7 +644,6 @@ a.active, a.NavbarButton:hover {
   }
   .Aside2Col .LatestEvents {
     width: initial;
-    margin: initial;
   }
   .LatestEvent {
     display: initial;

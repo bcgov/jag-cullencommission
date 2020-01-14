@@ -62,8 +62,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p><strong>About the Commission</strong></p>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
-        <p style="text-align: center">-END-</p>
-        <p>For additional information, please contact Ruth Atherley, Director of Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a>.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection09">
         <p class="ExpandableSectionTitle">Commissioner Austin Cullen Opening Remarks - Public Meetings</p>
@@ -140,7 +138,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>While the applicants may be present at the oral hearing, it is not required; their legal counsel may represent their interests at the hearing. The participants or their legal counsel will be given the opportunity to make an oral submission supplementing and supporting their applications. It is not anticipated that any of the applicants will be cross-examined at this hearing.</p>
         <h2><strong>About the Commission</strong></h2>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
-        <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <u><a href="http://www.cullencommission.ca/">www.cullencommission.ca</a></u>.</p>
+        <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca/">www.cullencommission.ca</a>.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection06">
         <p class="ExpandableSectionTitle">Grants Standing to British Columbia Real Estate Association</p>
@@ -170,15 +168,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             <li>Criminal Defence Advocacy Society; and</li>
             <li>A coalition comprising of Transparency International Canada, Canadians for Tax Fairness, and Publish What You Pay Canada (the “Coalition”).</li>
         </ul>
-        <p>Details of the grant of standing given to the BCREA are set out in the Ruling, which is available on the Commission’s website at: <a href="https://cullencommission.ca/participants/">https://cullencommission.ca/participants/</a> (Participant Application Ruling #2).</p>
+        <p>Details of the grant of standing given to the BCREA are set out in the Ruling, which is available on the Commission’s website at: <a href="/participants/">https://cullencommission.ca/participants/</a> (Participant Application Ruling #2).</p>
         <p>The Commissioner has concluded that an oral hearing is required to further consider the applications of four individuals who sought standing. They are Ross Alderson, Brad Desmarais, James Lightbody and Fred Pinnock. The oral hearing is set for Friday, October 18, 2019, at Canada Federal Court at 701 West Georgia Street in Vancouver.</p>
         <p>Members of the public who did not apply for participants standing but who are interested in providing information to the Commission of Inquiry into Money Laundering in British Columbia or who want to testify at the Inquiry hearings are encouraged to contact Commission Counsel at: <a href="mailto:info@cullencommission.ca">info@cullencommission.ca</a>.</p>
-        <p>The Rules for Standing provided a due date for submissions of September 6, 2019, but the Commissioner has the discretion to extend that deadline. Anyone seeking to apply for participant status is encouraged to apply in accordance with the Rules for Standing and to seek an extension of time. Those applications will be carefully considered and determined on their merits. For individuals and organizations seeking formal standing as participants (similar to parties in a court case) at the hearings, the Commission’s Rules for Standing can be found at: <a href="http://www.cullencommission.ca/participants">www.cullencommission.ca/participants</a>.</p>
+        <p>The Rules for Standing provided a due date for submissions of September 6, 2019, but the Commissioner has the discretion to extend that deadline. Anyone seeking to apply for participant status is encouraged to apply in accordance with the Rules for Standing and to seek an extension of time. Those applications will be carefully considered and determined on their merits. For individuals and organizations seeking formal standing as participants (similar to parties in a court case) at the hearings, the Commission’s Rules for Standing can be found at: <a href="/participants/">www.cullencommission.ca/participants</a>.</p>
         <h2><strong>About the Commission</strong></h2>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
-        <p style="text-align: center">-END-</p>
-        <p>For additional information, please contact Ruth Atherley, Director of Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a>.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection05">
         <p class="ExpandableSectionTitle">Date Set for Oral Hearing for Participant Status Application for Four Applicants</p>
@@ -193,7 +189,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <h2><strong>About the Commission</strong></h2>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
-        <p style="text-align: center">-END-</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection04">
         <p class="ExpandableSectionTitle">Announces Public Meetings</p>
@@ -227,13 +222,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 444 George Street<br />
                 Prince George, B.C.</li>
         </ul>
-        <p>Those wishing to present at a public meeting are asked to pre-register. More information on the public meetings — and registration forms to present at a meeting — can be found at: <a href="https://cullencommission.ca/public-meetings-information/">https://cullencommission.ca/public-meetings-information/</a>.</p>
+        <p>Those wishing to present at a public meeting are asked to pre-register. More information on the public meetings — and registration forms to present at a meeting — can be found at: <a href="/public-meetings/">https://cullencommission.ca/public-meetings/</a>.</p>
         <p>Members of the public who cannot attend one of the planned public meetings and who want to provide information to the Commission are asked to e-mail Senior Commission Counsel at: <a href="mailto:info@cullencommission.ca">contact@cullencommission.ca</a>.</p>
         <p><strong>About the Commission</strong></p>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
-        <p style="text-align: center">-END-</p>
-        <p>For additional information, please contact Ruth Atherley, Director of Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a>.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection03">
         <p class="ExpandableSectionTitle">Releases Participants Application Ruling</p>
@@ -261,16 +254,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             <li>Criminal Defence Advocacy Society; and</li>
             <li>A coalition comprising of Transparency International Canada, Canadians for Tax Fairness, and Publish What You Pay Canada (the “Coalition”).</li>
         </ul>
-        <p>Details of the grant of standing given to each applicant are set out in the Ruling which is available on the Commission’s website at: <a href="https://bit.ly/2mX0OLr">https://bit.ly/2mX0OLr</a>.</p>
+        <p>Details of the grant of standing given to each applicant are set out in the Ruling which is available on the Commission’s website at: <a href="/files/Participants-applications-ruling.pdf">Participants Applications Ruling <i class="fas fa-file-pdf PdfIcon"></i></a>.</p>
         <p>The Commissioner has concluded that oral hearings are required to further consider the applications of four individuals who sought standing. They are Ross Alderson, Brad Desmarais, James Lightbody and Fred Pinnock. Details about the oral hearings – which will be open to the public – will be available at: <a href="http://www.cullencommission.ca/">www.cullencommission.ca</a>, once a date and venue have been determined.</p>
         <p>Members of the public who did not apply for Participant Standing but who are interested in providing information to the Commission of Inquiry into Money Laundering in British Columbia or who want to testify at the Inquiry hearings are encouraged to contact Commission Counsel at: <a href="mailto:info@cullencommission.ca">info@cullencommission.ca</a>.</p>
-        <p>The Rules for Standing provided a due date for submissions of September 6, 2019, but the Commissioner has the discretion to extend that deadline. Anyone seeking to apply for participant status is encouraged to apply in accordance with the Rules for Standing and to seek an extension of time. Those applications will be carefully considered and determined on their merits. For individuals and organizations seeking formal standing as participants (similar to parties in a court case) at the hearings, the Commission’s Rules for Standing can be found at: <a href="http://www.cullencommission.ca/participants">www.cullencommission.ca/participants</a>.</p>
+        <p>The Rules for Standing provided a due date for submissions of September 6, 2019, but the Commissioner has the discretion to extend that deadline. Anyone seeking to apply for participant status is encouraged to apply in accordance with the Rules for Standing and to seek an extension of time. Those applications will be carefully considered and determined on their merits. For individuals and organizations seeking formal standing as participants (similar to parties in a court case) at the hearings, the Commission’s Rules for Standing can be found at: <a href="/participants/">www.cullencommission.ca/participants/</a>.</p>
         <h2><strong>About the Commission</strong></h2>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. Led by Commissioner Austin Cullen, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca/">www.cullencommission.ca</a>.</p>
-        <p style="text-align: center">-END-</p>
-        <p>For further information, please contact Ruth Atherley, Director of Communications, Commission of Inquiry into Money Laundering in British Columbia, at: <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a> or</p>
-        <p>(604) 787-7379.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection02">
         <p class="ExpandableSectionTitle">Releases Rules for Standing for participants</p>
@@ -279,14 +269,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent02">
         <h2>The Commission of Inquiry into Money Laundering in British Columbia releases Rules for Standing for participants</h2>
-        <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia (the Cullen Commission) has released its Rules for Standing for participants. Individuals, groups, associations or others who wish to seek formal standing as participants in the Inquiry’s hearings can review the Rules for Standing via the Commission’s website at: <a href="http://www.cullencommission.ca/participants">www.cullencommission.ca/participants</a>.</p>
+        <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia (the Cullen Commission) has released its Rules for Standing for participants. Individuals, groups, associations or others who wish to seek formal standing as participants in the Inquiry’s hearings can review the Rules for Standing via the Commission’s website at: <a href="http://www.cullencommission.ca/participants/">www.cullencommission.ca/participants/</a>.</p>
         <p>Applications for participant status must be submitted as set out in the Rules for Standing, on or before Friday, September 6, 2019.</p>
         <h2><strong>About the Commission</strong></h2>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. Led by Commissioner Austin Cullen, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021.</p>
         <p>For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a></p>
-        <p style="text-align: center">-END-</p>
-        <p>For further information, please contact Ruth Atherley, Director, Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or at: <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a></p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection01">
         <p class="ExpandableSectionTitle">Announces Senior Inquiry Team</p>
@@ -296,23 +284,21 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="ExpandableSection" id="ExpandableSectionContent01">
         <h2>The Commission of Inquiry into Money Laundering in British Columbia Announces Senior Inquiry Team</h2>
         <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia (the Cullen Commission) has announced its senior team. Commissioner Austin Cullen will lead the following team:</p>
-        <h2><strong><u>Senior Commission Counsel</u></strong></h2>
+        <h2><strong>Senior Commission Counsel</strong></h2>
         <p><strong>Brock Martland</strong>, QC, a partner at the firm of Martland &amp; Saulnier in Vancouver, practises in the area of criminal law, handling trials and appeals, mainly for the defence and sometimes for the Crown. He has been involved in cases concerning police discipline, administrative and constitutional law, extradition and youth justice.</p>
         <p>Mr. Martland comes to the role of Senior Commission Counsel with experience as Associate Commission Counsel for the Cohen Commission of Inquiry into the Decline of Sockeye Salmon in the Fraser River and for the Frank Paul Inquiry (the Davies Commission) into the death of Frank Paul.</p>
         <p>He is a graduate of the University of Victoria (Law) and Queen’s University (B.A. (Hon.)). Mr. Martland clerked for the Honourable Justice Major at the Supreme Court of Canada.</p>
         <p><strong>Patrick McGowan</strong> is a Vancouver-based trial and appellate lawyer who practises criminal, civil and administrative law. He has been involved in cases dealing with a wide variety of complex legal and constitutional issues in British Columbia and at the Supreme Court of Canada.</p>
         <p>Mr. McGowan served as Associate Commission Counsel in two earlier inquiries: the Cohen Commission of Inquiry into the Decline of Sockeye Salmon in the Fraser River, and the Braidwood Commissions of Inquiry into Conducted Energy Weapon Use and the Death of Robert Dziekanski.</p>
         <p>Mr. McGowan obtained his law degree from the University of British Columbia, following which he clerked with the Supreme Court of British Columbia. He currently practises with the law firm Ritchie Sandford McGowan.</p>
-        <h2><strong><u>Policy Counsel</u></strong></h2>
+        <h2><strong>Policy Counsel</strong></h2>
         <p><strong>Christine Judd</strong> holds the role of Policy Counsel, and is a graduate of the University of British Columbia. She was called to the Bar in 1999 after clerking for the Supreme Court of British Columbia. She has been legal counsel to the BC Supreme Court for the past 18 years, where she assisted justices with complex criminal and constitutional law cases.</p>
-        <h2><strong><u>Senior Administration </u></strong></h2>
+        <h2><strong>Senior Administration </strong></h2>
         <p>Leo Perra has been named Executive Director for the Commission, Cathy Stooshnov serves as the Manager, Finance and Administration and Ruth Atherley (AHA Creative Strategies Inc.) has taken on the role of Director, Communications.</p>
-        <h2><strong><u>About the Commission </u></strong></h2>
+        <h2><strong>About the Commission </strong></h2>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. Led by Commissioner Austin Cullen, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021.</p>
         <p>For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
-        <p style="text-align: center">-END-</p>
-        <p>For further information, please contact Ruth Atherley, Director, Communications, Commission of Inquiry into Money Laundering in British Columbia, at: (604) 787-7379 or at: <a href="mailto:ruth@ahacreative.com">ruth@ahacreative.com</a>.</p>
     </div>
 </div>
 <script>

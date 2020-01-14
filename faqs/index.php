@@ -7,14 +7,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
-<h1>FAQ</h1>
+<h1>FAQs</h1>
 <p><strong>The FAQs will be updated as needed over the coming months. Please check back often for additional information.</strong></p>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection07">
+        <p class="ExpandableSectionTitle">When are the public hearings?</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent07">
+        <p>Please look at our <a href="/schedule/">Hearings Schedule</a> for dates, times, and locations of all our public hearings.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection01">
         <p class="ExpandableSectionTitle">What is a participant?</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent01">
-        <p>For the Commission of Inquiry into Money Laundering in British Columbia, a “participant” is a special term with a meaning under the provincial <a href="/pub-inc-act/">Public Inquiry Act</a> that goes beyond the everyday meaning of the word. The legislation uses the word “participant” to describe someone who would usually be considered a “party” in litigation — that is, someone who is granted standing and who can have a lawyer involved in the trial or hearing. The Act describes a “participant” as someone whose interests may be affected by the findings of the Commission, who may further the conduct of the Inquiry, and/or a person who would contribute to the fairness of the Inquiry.</p>
+        <p>For the Commission of Inquiry into Money Laundering in British Columbia, a “participant” is a special term with a meaning under the provincial <a href="/pub-inq-act/">Public Inquiry Act</a> that goes beyond the everyday meaning of the word. The legislation uses the word “participant” to describe someone who would usually be considered a “party” in litigation — that is, someone who is granted standing and who can have a lawyer involved in the trial or hearing. The Act describes a “participant” as someone whose interests may be affected by the findings of the Commission, who may further the conduct of the Inquiry, and/or a person who would contribute to the fairness of the Inquiry.</p>
         <p>This means that when a person, organization or group is granted participant status, they can be involved in the Inquiry in a number of ways. While different participants will be involved in different ways, in general terms, participants will have access to documents and materials that are assembled by the Commission, they will be able to ask questions of witnesses, they can propose certain topics and witnesses for the hearings, and they can make opening and closing submissions. These are just a few examples of how participants are involved in an inquiry.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection02">
@@ -51,36 +57,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="ExpandableSection" id="ExpandableSectionContent06">
         <p>A person’s name and other personal information will only be released publicly following consultation with the submitter.</p>
     </div>
-    <div class="ExpandableSectionTitleContainer" id="ExpandableSection07">
-        <p class="ExpandableSectionTitle">When are the public hearings?</p>
-    </div>
-    <div class="ExpandableSection" id="ExpandableSectionContent07">
-        <p>Public hearings are set for 2020. They are:</p>
-        <p><strong>February 24 &ndash; 28: </strong></p>
-        <p>These hearings are for participants&rsquo; opening statements and will provide an opportunity for participants (those granted formal standing) to address the Commissioner and to set out the issues and matters that participants would like to see the Inquiry address.</p>
-        <p><strong>Spring 2020: </strong></p>
-        <p>These hearings will deal with an overview of the money laundering topic and regulatory models, as well as attempts to quantify the extent of money laundering activity in British Columbia. These hearings may not occupy the full five-week period in the spring.</p>
-        <p><strong>Fall 2020: </strong></p>
-        <p>The main hearings, in which Commission Counsel plan to address specific issues* including:</p>
-        <ul>
-            <li>Gaming, casinos, horseracing</li>
-            <li>Real estate</li>
-            <li>Professional services, including accounting and legal</li>
-            <li>Corporate sector</li>
-            <li>Financial institutions and money services</li>
-            <li>Luxury goods</li>
-            <li>Cryptocurrency</li>
-            <li>Cash-based businesses</li>
-            <li>Trade-based money laundering</li>
-            <li>Other sectors</li>
-            <li>Asset recovery</li>
-            <li>Enforcement and regulation</li>
-            <li>Government response</li>
-            <li>Other jurisdictions&rsquo; approaches</li>
-        </ul>
-        <p>*These topics are not necessarily listed in sequence.</p>
-        <p>The location of the public hearings will be announced shortly.</p>
-    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection08">
         <p class="ExpandableSectionTitle">Who will be called as witnesses?</p>
     </div>
@@ -91,14 +67,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="ExpandableSectionTitle">When will you announce who will be called as witnesses?</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent09">
-        <p>We will endeavour to provide a list of anticipated witnesses on the website as soon as possible before the expected date of testimony.</p>
+        <p>We will endeavour to provide a list of anticipated witnesses on the website before the expected date of testimony.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection10">
         <p class="ExpandableSectionTitle">I can’t come to Vancouver, but want to see the hearings – how can I do that?</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent10">
-        <p>The hearings will be webcast on this website. We also plan to post transcripts of hearings and the exhibits filed within a few days of the hearing.</p>
-        <p>The transcripts of the hearings and the exhibits filed will be posted on this website.</p>
+        <p>The hearings will be webcast on this website. We will also post transcripts of hearings and the exhibits filed within a few days of the hearing.</p>
     </div>
 </div>
 <script>
