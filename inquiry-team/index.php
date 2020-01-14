@@ -9,8 +9,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Inquiry Team</h1>
+<h2>Commissioner</h2>
 <div class="Aside">
-    <p class="AsideTitle">Commissioner</p>
+    <p class="AsideTitle">Austin Cullen</p>
     <p>Commissioner Austin Cullen is a British Columbia Supreme Court Justice, serving since 2001. He was appointed Associate Chief Justice in 2011.</p>
     <p>Prior to his appointment to the British Columbia Supreme Court, Commissioner Cullen held the role of Assistant Deputy Attorney General for the Criminal Justice Branch from 1999 to 2001. Before that, Commissioner Cullen held roles as Crown Counsel, including the position of Regional Crown Counsel for the Vancouver Region from 1997 to 1999. He also worked in private practice.</p>
     <p>Commissioner Cullen graduated from the University of Victoria with a B.A. and the University of British Columbia Law School with an LL.B. He was called to the Bar of British Columbia in 1976.</p>

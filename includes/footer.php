@@ -1,8 +1,8 @@
             <div id="Footer">
+                <p class="TopOfPage"><a href="#top">Top of Page</a></p>
                 <p><a href="/" class="FooterNavbarLink">Home</a> - <a href="/webcast-live/" class="FooterNavbarLink">Webcast</a> - <a href="/faqs/" class="FooterNavbarLink">FAQs</a> - <a href="/participants/" class="FooterNavbarLink">Participants</a> - <a href="/inquiry-team/" class="FooterNavbarLink">Inquiry Team</a> - <a href="/schedule/" class="FooterNavbarLink">Schedule</a> - <a href="/contact/" class="FooterNavbarLink">Contact</a></p>
                 <p class="FooterDisclaimer"><a href="/files/DisclaimerV.4-22-Oct-2019-002.pdf" target="_blank">Disclaimer/Copyright/Privacy Statement</a></p>
                 <p>&copy; 2019 Cullen Commission</p>
-                <p class="TopOfPage"><a href="#top">Top of Page</a></p>
             </div>
             </div>
             </div>

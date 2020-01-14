@@ -37,32 +37,32 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>the barriers to effective law enforcement in relation to money laundering.</li>
 </ul>
 <p>The Commission is bound by this mandate. This means that we cannot address issues or situations that you feel are important, but that are not contained in our mandate.</p>
-<h2>The meeting schedule was:</h2>
+<h2>The Meeting Schedule was:</h2>
 <p><strong>All meetings start at 5:30 p.m.</strong></p>
 <div class="Aside3Col">
     <div class="Aside AsideBlue">
-        <p class="AsideTitle"><strong>Vancouver:</strong> Oct. 23, 2019</p>
+        <p class="AsideTitle"><strong>Vancouver:</strong><br />Oct. 23, 2019</p>
         <p>Fairmont Hotel Vancouver<br />
             Vancouver Island Ballroom<br />
             900 West Georgia Street<br />
             Vancouver, B.C.</p>
     </div>
     <div class="Aside AsideBlue">
-        <p class="AsideTitle"><strong>Kelowna:</strong> Oct. 29, 2019</p>
+        <p class="AsideTitle"><strong>Kelowna:</strong><br />Oct. 29, 2019</p>
         <p>Best Western Plus<br />
             South Ballroom<br />
             2402 Hwy 97N<br />
             Kelowna, B.C.</p>
     </div>
     <div class="Aside AsideBlue">
-        <p class="AsideTitle"><strong>Victoria:</strong> Nov. 4, 2019</p>
+        <p class="AsideTitle"><strong>Victoria:</strong><br />Nov. 4, 2019</p>
         <p>Marriott Hotel Victoria Inner Harbour<br />
             Pacific Ballroom<br />
             728 Humboldt Street<br />
             Victoria, B.C.</p>
     </div>
     <div class="Aside AsideBlue">
-        <p class="AsideTitle"><strong>Richmond: </strong>Nov. 7, 2019</p>
+        <p class="AsideTitle"><strong>Richmond:</strong><br />Nov. 7, 2019</p>
         <p>Hilton Vancouver Airport<br />
             Marsalis/Benson Room<br />
             5911 Minoru Boulevard<br />
@@ -70,7 +70,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <div></div>
     <div class="Aside AsideBlue">
-        <p class="AsideTitle"><strong>Prince George:</strong> Nov. 14, 2019</p>
+        <p class="AsideTitle"><strong>Prince George:</strong><br />Nov. 14, 2019</p>
         <p>Ramada Plaza<br />
             Cranbrook South Room<br />
             444 George Street<br />

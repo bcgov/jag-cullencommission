@@ -13,7 +13,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>Welcome to the website of the Commission of Inquiry into Money Laundering in British Columbia. We invite you to read&nbsp;<a href="/introductory-statement/"><strong>Commissioner Cullen&rsquo;s Introductory Statement</strong></a>.</p>
     </div>
     <div class="LatestEvents">
-        <p class="LatestEventsTitle">Latest Events</p>
+        <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
             <div class="LatestEvent">
                 <p class="LatestEventDesc">January 13th, 2020<br /><strong>News Release</strong><br /><a href="/media/">Appointment of Tam Boyar as Policy Counsel</a></p>
@@ -37,8 +37,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>Identifying and obtaining relevant documents, records and correspondence</li>
 </ul>
 <p>We will continue to regularly update this website.</p>
-<p>We invite you to follow the Cullen Commission on Twitter (@culleninquirybc).</p>
-<p>If you have questions for the Commission, please e-mail us at:&nbsp;<a href="mailto:info@cullencommission.ca"><strong>info@cullencommission.ca</strong></a></p>
+<p>We invite you to follow the Cullen Commission on Twitter (<a href="https://twitter.com/culleninquirybc" target="_blank">@culleninquirybc</a>).</p>
+<p>If you have questions for the Commission, please e-mail us at:&nbsp;<a href=" mailto:info@cullencommission.ca"><strong>info@cullencommission.ca</strong></a></p>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
