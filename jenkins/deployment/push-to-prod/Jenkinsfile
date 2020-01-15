@@ -1,0 +1,94 @@
+import com.openshift.jenkins.plugins.OpenShiftDSL;
+
+String getImageTagHash(OpenShiftDSL openshift, String imageName, String tag = "") {
+
+  if(!tag?.trim()) {
+    tag = "latest"
+  }
+
+  def istag = openshift.raw("get istag ${imageName}:${tag} -o template --template='{{.image.dockerImageReference}}'")
+  return istag.out.tokenize('@')[1].trim()
+}
+
+void deploy(String appName, String appSuffix, String namespace, String envTag) {
+  openshift.withCluster() {
+    openshift.withProject() {
+
+      echo "Tagging ${appName} for deployment to ${envTag} ..."
+
+      // Don't tag with BUILD_ID so the pruner can do it's job; it won't delete tagged images.
+      // Tag the images for deployment based on the image's hash
+      def IMAGE_HASH = getImageTagHash(openshift, "${appName}")
+      echo "IMAGE_HASH: ${IMAGE_HASH}"
+      openshift.tag("${appName}@${IMAGE_HASH}", "${appName}:${envTag}")
+    }
+
+    echo "Watching rollout of ${appName}${appSuffix} in ${namespace}-${envTag} ..."
+    openshift.withProject("${namespace}-${envTag}") {
+        def dc = openshift.selector('dc', "${appName}${appSuffix}")
+        // Wait for the deployment to complete.
+        // This will wait until the desired replicas are all available
+        dc.rollout().status()
+    }
+
+    echo "Deployment Complete."
+  }
+}
+
+node {
+  def config = load "../workspace@script/jenkins/config.groovy"
+
+  stage('Wait for web pipeline') {
+    script {
+      openshift.withCluster() {
+        openshift.withProject() {
+
+          echo "Waiting for the web pipeline to complete ..."
+          def latestBuild = null
+          def builds = openshift.selector("build", [ name : "website-pipeline" ])
+          echo "Found ${builds.count()} builds: ${builds.names()}"
+          
+          timeout(config.WAIT_TIMEOUT) {
+            def latestBuildNumber = 0
+
+            echo "Finding the latest build ..."
+            builds.withEach {
+              int nextBuildNumber = "${it.object().metadata.annotations.get("openshift.io/build.number")}" as Integer
+              echo "build.number: ${nextBuildNumber}"
+              if (nextBuildNumber > latestBuildNumber) {
+                latestBuildNumber = nextBuildNumber
+                latestBuild = it
+              }
+            }
+
+            // Wait for the build to complete ...
+            // This section will exit after the build completes.
+            // untilEach and watch - do not support watching multiple named resources, so we have to feed it one at a time.
+            echo "Waiting for build to complete ..."
+            latestBuild.untilEach(1) {
+                echo "${latestBuild.object().status.phase} - ${latestBuild.name()}"
+                return (latestBuild.object().status.phase == "Complete" || latestBuild.object().status.phase == "Failed")
+            }
+          }
+
+          if (latestBuild.object().status.phase == "Complete") {
+            echo "${latestBuild.name()} complete ..."
+          } else {
+            echo "${latestBuild.name()} failed ..."
+            error("${latestBuild.name()} failed, cannot continue.")
+          }
+        }
+      }
+    }
+  }
+
+  stage("Deploy ${config.PROD_ENV}") {
+    script {
+      echo "Deploy ${config.APP_NAME}${config.SUFFIX} to ${config.NAME_SPACE}-${config.PROD_ENV} ..."
+      deploy("${config.APP_NAME}",
+             "${config.SUFFIX}",
+             "${config.NAME_SPACE}",
+             "${config.PROD_ENV}")
+    }
+  }  
+}
