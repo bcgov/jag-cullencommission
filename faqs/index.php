@@ -67,7 +67,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="ExpandableSectionTitle">When will you announce who will be called as witnesses?</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent09">
-        <p>We will endeavour to provide a list of anticipated witnesses on the website before the expected date of testimony.</p>
+        <p>We will post the list of anticipated witnesses on the website when determined, and before the expected date of testimony.</p>
     </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection10">
         <p class="ExpandableSectionTitle">I can’t come to Vancouver, but want to see the hearings – how can I do that?</p>
