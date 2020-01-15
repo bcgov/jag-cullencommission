@@ -20,7 +20,7 @@
                 </div>
                 <a href="/rulings/" class="NavbarButton">Rulings</a>
                 <a href="/participants/" class="NavbarButton">Participants</a>
-                <a href="/prac-pro/" class="NavbarButton">Practice &amp; Procedures</a>
+                <a href="/prac-pro/" class="NavbarButton">Practice &amp; Procedure</a>
                 <a class="NavbarButton HasSubNav" id="NavbarRepPub"><i class="fas fa-chevron-down"></i> Reports &amp; Publications</a>
                 <div class="SubNavList" id="NavbarRepPubSubNav">
                     <p><a href="/com-rep/">Commission Reports</a></p>

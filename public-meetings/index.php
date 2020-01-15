@@ -78,35 +78,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
 </div>
 <br class="ClearFloats">
-<p>If there are any changes to the dates, times, locations or venues of a public meeting, they will be listed here on our website, and registered presenters will be contacted by email or telephone (if provided).</p>
-<h2>At the public meeting</h2>
-<ol class="NumberedList">
-    <li>Presentations are limited to a maximum of 10 minutes. If there are more presenters than the available time, presenters may be asked to shorten their presentation.</li>
-    <li>Presenters who prepare written materials are encouraged to provide a copy to the Commission.
-        <ol class="LowerAlphaList">
-            <li>If you have not previously provided a copy of your presentation to the Commission, please bring six copies to the forum.</li>
-            <li>Presentations may be placed on the Commission’s website.</li>
-            <li>If the written material is more than five pages long, presenters are asked to include a short executive summary for the presentation. Recommendations included in the presentation should be brought forward to the executive summary.</li>
-            <li>If presenters wish to share their written materials with the audience, a table will be available for this purpose.</li>
-        </ol>
-    </li>
-    <li>Presenters who require the use of audiovisual equipment (e.g. an overhead projector and/or LCD projector) should advise the Commission well in advance. Audiovisual equipment will be available, provided that the Commission has been informed seven days in advance of the public meeting that you require these services. Presenters should have their digital content stored on a USB or flash drive.</li>
-    <li>All presentations will be audio-recorded for use by Commission staff.</li>
-    <li>A podium with a microphone will be available.</li>
-</ol>
-<h2>Presenter’s Registration</h2>
-<p>Presenters are invited to pre-register for public meetings by completing the registration form in <a href="/files/0011-Presenters-form.pdf" target="_blank">Adobe PDF</a> or <a href="/files/0011-Presenters-form.docx" target="_blank">MS-Word</a>.</p>
-<p>You can upload your presentation to the Commission <a href="mailto:presentations@cullencommission.ca">here</a>.</p>
-<p>Presenters will be considered on a first-come basis.</p>
-<h2><em>Freedom of Information and Protection of Privacy Act</em></h2>
-<p>The Commission of Inquiry into Money Laundering in British Columbia will collect your personal and other information to accomplish the work of the Inquiry in accordance with sections 26 (a) and (c) of the <em>Freedom of Information and Protection of Privacy Act</em> and section 14 (1) of the <em>Public Inquiry Act.</em> Should you have any questions about the collection, use, or disclosure of personal information, please contact Brock Martland, QC, Senior Commission Counsel, P.O. Box 10073, 601 – 700 West Georgia Street, Vancouver, B.C., V7Y 1B6 or by phone at (236) 468-1758 (toll free: 1-855-788-3661).</p>
-<h2>Recording and summarizing the proceedings</h2>
-<ol class="NumberedList">
-    <li>An audio recording will be made of every public meeting. These recordings may be posted on the Commission’s website.</li>
-    <li>Written summaries of the presentations and transcripts of the meeting will be prepared by Commission staff and placed on the website.</li>
-</ol>
-<h2>Further information</h2>
-<p>If you require further information, please contact Leo Perra, Executive Director at: (236) 468-1760 (toll free: 1-855-788-3661) or <a href="mailto:leo.perra@cullencommission.ca">leo.perra@cullencommission.ca</a>.</p>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
