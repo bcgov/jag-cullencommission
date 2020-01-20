@@ -68,6 +68,28 @@ objects:
         name: ${NAME}${SUFFIX}
         weight: 100
 
+  - kind: Route
+    apiVersion: v1
+    metadata:
+      name: ${NAME}-www${SUFFIX}
+      labels:
+        name: ${NAME}-www${SUFFIX}
+        app: ${APP_NAME}${SUFFIX}
+        app-group: ${APP_GROUP}
+        role: ${ROLE}
+        env: ${TAG_NAME}
+    spec:
+      host: ${APPLICATION_DOMAIN_WWW}
+      port:
+        targetPort: ${NAME}${SUFFIX}-http
+      tls:
+        insecureEdgeTerminationPolicy: Redirect
+        termination: edge
+      to:
+        kind: Service
+        name: ${NAME}${SUFFIX}
+        weight: 100
+
   - kind: DeploymentConfig
     apiVersion: v1
     metadata:
@@ -187,6 +209,11 @@ parameters:
     description: The exposed hostname that will route to the service, if left blank a value will be defaulted.
     required: false
     value: cullen-commission-dev.pathfinder.gov.bc.ca
+  - name: APPLICATION_DOMAIN_WWW
+    displayName: Application WWW Hostname
+    description: The exposed www. hostname that will route to the service, if left blank a value will be defaulted.
+    required: false
+    value: www-cullen-commission-dev.pathfinder.gov.bc.ca
 
   - name: IMAGE_NAMESPACE
     displayName: Image Namespace
