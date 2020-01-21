@@ -440,6 +440,251 @@ a.active, a.NavbarButton:hover {
   margin-bottom: 0px;
 }
 
+/* ---------------------------------------- CALENDAR ---------------------------------------- */
+.HearingsCalendarApp {
+  width: 867px;
+  height: 346px;
+  margin: 0px auto 30px auto;
+  color: #0967E9;
+}
+
+#HearingsCalendar {
+  color: #0967E9;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+.Month {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #01CED1;
+  border-width: 0px;
+  padding: 5px 15px;
+  margin: 0px 0px;
+  -webkit-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
+}
+
+.CurrentMonth {
+  color: #8d002f !important;
+}
+
+.DaysOfMonth {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (35px)[7];
+      grid-template-columns: repeat(7, 35px);
+  -ms-grid-rows: (35px)[7];
+      grid-template-rows: repeat(7, 35px);
+  grid-gap: 2px 2px;
+}
+
+.WeekNames {
+  text-align: center;
+  font-weight: 800;
+  font-size: 0.6rem;
+}
+
+.Day {
+  font-weight: 600;
+  font-size: 0.75rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #999;
+  background-color: #fff;
+  color: black;
+  cursor: pointer;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.DayNoSelection {
+  font-weight: 600;
+  font-size: 0.75rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 5px;
+  border-width: 0px;
+  border-style: solid;
+  background-color: none;
+  color: #929292;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.CurrentDay {
+  border-width: 1px !important;
+  border-color: #01CED1;
+  background-color: #01CED1;
+  color: white;
+  cursor: pointer;
+}
+
+.PublicHearing {
+  background-color: #ffcd81;
+  border-color: #ff9900;
+  color: white;
+  cursor: pointer;
+}
+
+.EvidentiaryHearing {
+  background-color: #81adff !important;
+  border-color: #003eb3 !important;
+  color: white;
+  cursor: pointer;
+}
+
+.SelectedDay {
+  -webkit-animation: selection 2.5s infinite;
+          animation: selection 2.5s infinite;
+}
+
+@-webkit-keyframes selection {
+  0% {
+    opacity: 1.0;
+  }
+  50% {
+    opacity: 0.25;
+  }
+  100% {
+    opacity: 1.0;
+  }
+}
+
+@keyframes selection {
+  0% {
+    opacity: 1.0;
+  }
+  50% {
+    opacity: 0.25;
+  }
+  100% {
+    opacity: 1.0;
+  }
+}
+
+.Day:hover {
+  color: white;
+  border-radius: 50%;
+  border-width: 1px;
+  border-color: #01CED1;
+  background-color: #01CED1;
+}
+
+.DayNoSelection:hover {
+  border-radius: 50%;
+}
+
+.MonthName {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  margin: 5px 0px 0px 0px;
+  text-align: center;
+  color: #0967E9;
+}
+
+.YearTitle {
+  font-weight: 300;
+}
+
+.CurrentMonth .MonthName {
+  color: #8d002f !important;
+}
+
+.CurrentMonth .MonthName .YearTitle {
+  color: #8d002f !important;
+}
+
+.CurrentMonth .DaysOfMonth .WeekNames {
+  color: #8d002f !important;
+}
+
+.LocationTimeTitle {
+  font-size: 1.5rem;
+  font-weight: 200;
+  margin: 0px;
+  padding: 0px;
+}
+
+.LocationTimeInfo {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: grey;
+  margin: 0px 0px 20px 0px;
+  padding: 0px;
+}
+
+.SelectedHearing {
+  margin: 0px;
+  padding: 1px;
+}
+
+.HearingInfo {
+  margin: 0px 0px 40px 0px;
+  padding: 1px;
+}
+
+.HearingTheme {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #0967E9;
+  width: 75%;
+  margin: 0px auto 30px auto;
+  padding: 20px 30px;
+}
+
+.HearingThemeName {
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-align: center;
+  margin: 0px 0px 35px 0px;
+}
+
+.WitnessListNames {
+  font-size: 0.9rem;
+  margin: 0px 0px 10px 10px;
+}
+
+/*  CAROUSEL DESIGNS  */
+.carousel__next-button {
+  border-style: none;
+  background-color: white;
+  font-size: 2rem;
+  font-weight: 200;
+  color: #999;
+  float: right;
+}
+
+.carousel__back-button {
+  border-style: none;
+  background-color: white;
+  font-size: 2rem;
+  font-weight: 200;
+  color: #999;
+  float: left;
+}
+
 /* ---------------------------------------- SMALL SCREENS ---------------------------------------- */
 @media only screen and (max-width: 1000px) {
   h1 {

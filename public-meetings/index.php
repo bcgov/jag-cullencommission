@@ -18,7 +18,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p><a href="http://cullencommission.ca/app/uploads/sites/527/2019/10/2019-10-23-VancouverPublicMeetingSummaries.pdf" target="_blank" rel="noopener noreferrer">Vancouver Public Meeting Summaries</a></p>
 <p>Our Terms of Reference are broad. They require us to review the impact of money laundering on various economic sectors within British Columbia including gaming and horse racing, real estate, financial institutions and money services, the corporate sector, luxury goods and professional services. The Terms of Reference also include a review of the effectiveness of the regulatory agencies and individuals managing these activities.</p>
 <p>There is a widespread belief, which is supported by those with relevant knowledge and expertise, that money laundering is well-established and wide-ranging in British Columbia. Several recent studies and reports, as well as media coverage, have brought this state of affairs to light.</p>
-<p>It was helpful to the Commission team to hear from members of the community regarding their views, opinions and suggestions. Our aim is to obtain input from the communities most affected by money laundering, and We listened to ideas and feedback on the issues facing these communities, which will be timely given that the Inquiry is at a relatively early stage in its process.</p>
+<p>It was helpful to the Commission team to hear from members of the community regarding their views, opinions and suggestions. Our aim is to obtain input from the communities most affected by money laundering, and we listened to ideas and feedback on the issues facing these communities, which will be timely given that the Inquiry is at a relatively early stage in its process.</p>
 <p>At these public meetings, we identified some questions to ask. The answers will assist us in addressing the mandate of the Commission:</p>
 <ul>
     <li><strong>What are the most significant money laundering issues facing your community in British Columbia and in Canada?</strong></li>
@@ -28,7 +28,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>How can the Commission keep you informed on our activities and findings?</strong></li>
     <li><strong>How can community members participate or stay involved in the process?</strong></li>
 </ul>
-<p>At the public meetings, members of the public could speak to any of these questions or to topics they would like to raise that are connected to the Commission&rsquo;s Mandate.</p>
+<p>At the public meetings, members of the public could speak to any of these questions or to topics they would like to raise that are connected to the Commission&rsquo;s mandate.</p>
 <p>Please keep in mind that the Commission&rsquo;s mandate is:</p>
 <ul>
     <li>the extent, growth, evolution and methods of money laundering in British Columbia, with regard to specific economic sectors;</li>
@@ -37,7 +37,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>the barriers to effective law enforcement in relation to money laundering.</li>
 </ul>
 <p>The Commission is bound by this mandate. This means that we cannot address issues or situations that you feel are important, but that are not contained in our mandate.</p>
-<h2>The Meeting Schedule was:</h2>
+<h2>Meeting Schedule:</h2>
 <p><strong>All meetings start at 5:30 p.m.</strong></p>
 <div class="Aside3Col">
     <div class="Aside AsideBlue">

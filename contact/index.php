@@ -27,7 +27,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     601 – 700 West Georgia Street<br />
     Vancouver, BC<br />
     V7Y 1B6</p>
-<p>Telephone: (236) 468-1772<br />
+<p>Telephone: (236) 468-1758<br />
     Toll free: 1-855-788-3661<br />
     Fax: (604) 669-1207<br />
     Email: <a href="mailto:info@cullencommission.ca">info@cullencommission.ca</a></p>

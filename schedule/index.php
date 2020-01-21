@@ -17,7 +17,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>These hearings will deal with an overview of the money laundering topic and regulatory models, as well as attempts to quantify the extent of money laundering activity in British Columbia. These hearings may not occupy the full five-week period in the spring.</p>
 <p>The courtroom for these hearings will be announced in the coming weeks.</p>
 <h3>September 8 – December 22:</h3>
-<p>The main hearings, in which Commission Counsel plan to address specific issues*, includes:</p>
+<p>The main hearings, in which Commission Counsel plan to address specific issues*, include:</p>
 <ul>
     <li>Gaming, casinos, horseracing</li>
     <li>Real estate</li>
