@@ -17,7 +17,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>Commissioner Cullen graduated from the University of Victoria with a B.A. and the University of British Columbia Law School with an LL.B. He was called to the Bar of British Columbia in 1976.</p>
 </div>
 <h2 style="margin-top: 30px">Senior Commission Counsel</h2>
-<p>Senior Commission Counsel are responsible for directing the work of commission lawyers and staff, identifying and obtaining the evidence required for the Commissioner’s reports, and conducting the hearings.</p>
+<p>Senior Commission Counsel are responsible for directing the work of Commission lawyers and staff, identifying and obtaining the evidence required for the Commissioner’s reports, and conducting the hearings.</p>
 <div class="Aside2Col">
     <div class="Aside">
         <p class="AsideTitle">Brock Martland, QC</p>

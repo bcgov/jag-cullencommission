@@ -151,7 +151,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p>Shea Coulson</p>
             </div>
             <div class="rTableCell">
-                <p>Dentons Canada LLP</p>
+                <p>McMillan LLP</p>
             </div>
         </div>
         <div class="rTableRow">

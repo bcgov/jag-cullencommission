@@ -4,21 +4,21 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Terms of Reference</h1>
-<p><strong>1 Definitions</strong></p>
+<p><strong>1. Definitions</strong></p>
 <p>In this order:</p>
 <p><strong>&ldquo;Act&rdquo;</strong> means the <em>Public Inquiry Act</em>;<br /> <strong>&ldquo;commission&rdquo;</strong> means the commission established under section 2 of this order;<br /> <strong>&ldquo;money laundering&rdquo;</strong> means the process used to disguise the source of money or assets derived from illegal activity.</p>
-<p><strong>2 Establishment of commission</strong></p>
+<p><strong>2. Establishment of commission</strong></p>
 <ol class="NumberedList">
     <li>A study and hearing commission called the Commission of Inquiry into Money Laundering in British Columbia is established under section 2 of the Act.</li>
     <li>The Honourable Justice Austin F. Cullen is the sole commissioner of the Commission.</li>
 </ol>
-<p><strong>3 Purposes of commission</strong></p>
+<p><strong>3. Purposes of commission</strong></p>
 <p>The purposes of the commission are as follows:</p>
 <ol class="LowerAlphaList">
     <li>to inquire into and report on money laundering in British Columbia;</li>
     <li>to make recommendations referred to in section 4 (2) (a).</li>
 </ol>
-<p><strong>4 Terms of reference</strong></p>
+<p><strong>4. Terms of reference</strong></p>
 <ol class="NumberedList">
     <li>The terms of reference of the commission are to conduct hearings and make findings of fact respecting money laundering in British Columbia, including the following:
         <ol class="LowerAlphaList">
@@ -67,7 +67,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>The commission is to carry out the inquiry in such a way as to ensure the inquiry does not jeopardize any ongoing criminal investigation or proceeding.</li>
     <li>The commission may not inquire into any matter respecting the exercise of prosecutorial discretion.</li>
 </ol>
-<p><strong>5 Expenses</strong></p>
+<p><strong>5. Expenses</strong></p>
 <p>Subject to the directives of Treasury Board, the commissioner is entitled to be reimbursed for reasonable travelling and living expenses at the rates specified for Group III employees set out in the government&rsquo;s Core Policy and Procedures Manual.</p>
 
 <?php
