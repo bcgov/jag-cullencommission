@@ -11,11 +11,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h1>Public Meetings</h1>
 <p>The Commission of Inquiry into Money Laundering in British Columbia held a series of public meetings across the province in October and November 2019. These meetings, which were open to the public, provided an opportunity for community members to make a presentation to the Commission.</p>
 <h2>Summaries of Public Meetings</h2>
-<p><a href="http://cullencommission.ca/app/uploads/sites/527/2019/11/PrinceGeorgePublicMeetingSummaries.pdf" target="_blank" rel="noopener noreferrer">Prince George Public Meeting Summaries</a></p>
-<p><a href="http://cullencommission.ca/app/uploads/sites/527/2019/11/RichmondPublicMeetingSummaries.pdf" target="_blank" rel="noopener noreferrer">Richmond Public Meeting Summaries</a></p>
-<p><a href="http://cullencommission.ca/app/uploads/sites/527/2019/11/VictoriaPublicMeetingSummaries.pdf" target="_blank" rel="noopener noreferrer">Victoria Public Meeting Summaries</a></p>
-<p><a href="http://cullencommission.ca/app/uploads/sites/527/2019/11/KelownaPublicMeetingSummaries.pdf" target="_blank" rel="noopener noreferrer">Kelowna Public Meeting Summaries</a></p>
-<p><a href="http://cullencommission.ca/app/uploads/sites/527/2019/10/2019-10-23-VancouverPublicMeetingSummaries.pdf" target="_blank" rel="noopener noreferrer">Vancouver Public Meeting Summaries</a></p>
+<p><a href="/files/PublicMeetingSummaries-PrinceGeorge.pdf" target="_blank">Prince George Public Meeting Summaries</a></p>
+<p><a href="/files/PublicMeetingSummaries-Richmond.pdf" target="_blank">Richmond Public Meeting Summaries</a></p>
+<p><a href="/files/PublicMeetingSummaries-Victoria.pdf" target="_blank">Victoria Public Meeting Summaries</a></p>
+<p><a href="/files/PublicMeetingSummaries-Kelowna.pdf" target="_blank">Kelowna Public Meeting Summaries</a></p>
+<p><a href="/files/PublicMeetingSummaries-Vancouver.pdf" target="_blank">Vancouver Public Meeting Summaries</a></p>
 <p>Our Terms of Reference are broad. They require us to review the impact of money laundering on various economic sectors within British Columbia including gaming and horse racing, real estate, financial institutions and money services, the corporate sector, luxury goods and professional services. The Terms of Reference also include a review of the effectiveness of the regulatory agencies and individuals managing these activities.</p>
 <p>There is a widespread belief, which is supported by those with relevant knowledge and expertise, that money laundering is well-established and wide-ranging in British Columbia. Several recent studies and reports, as well as media coverage, have brought this state of affairs to light.</p>
 <p>It was helpful to the Commission team to hear from members of the community regarding their views, opinions and suggestions. Our aim is to obtain input from the communities most affected by money laundering, and we listened to ideas and feedback on the issues facing these communities, which will be timely given that the Inquiry is at a relatively early stage in its process.</p>
