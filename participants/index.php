@@ -148,10 +148,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>BMW</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Shea Coulson</p>
+                <p>Morgan L. Camley</p>
             </div>
             <div class="rTableCell">
-                <p>McMillan LLP</p>
+                <p>Dentons Canada LLP</p>
             </div>
         </div>
         <div class="rTableRow">
