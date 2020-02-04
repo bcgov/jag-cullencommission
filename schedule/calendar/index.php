@@ -91,8 +91,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         i()
     }([])
 </script>
-<script src="./static/js/2.e0ee42b5.chunk.js"></script>
-<script src="./static/js/main.ba1d7acc.chunk.js"></script>
+<script src="./static/js/2.bf5aaf9c.chunk.js"></script>
+<script src="./static/js/main.127b173f.chunk.js"></script>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
