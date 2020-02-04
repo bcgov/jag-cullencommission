@@ -635,8 +635,23 @@ a.active, a.NavbarButton:hover {
 }
 
 .SelectedHearing {
-  margin: 0px;
+  margin: 0px 0px 0px 0px;
   padding: 1px;
+}
+
+.HearingFormSectionTitle {
+  font-size: 1.4rem;
+  color: black;
+}
+
+.MarkdownPreview {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #0967E9;
+  width: 75%;
+  margin: 0px auto 0px auto;
+  padding: 20px 30px;
 }
 
 .HearingInfo {
