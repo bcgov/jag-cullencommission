@@ -644,6 +644,11 @@ a.active, a.NavbarButton:hover {
   color: black;
 }
 
+.HearingInfo {
+  margin: 0px 0px 40px 0px;
+  padding: 1px;
+}
+
 .MarkdownPreview {
   border-radius: 5px;
   border-style: solid;
@@ -652,11 +657,6 @@ a.active, a.NavbarButton:hover {
   width: 75%;
   margin: 0px auto 0px auto;
   padding: 20px 30px;
-}
-
-.HearingInfo {
-  margin: 0px 0px 40px 0px;
-  padding: 1px;
 }
 
 .HearingTheme {
@@ -801,6 +801,17 @@ a.active, a.NavbarButton:hover {
   }
   .ExpandableSectionUnderTitleRight {
     font-size: 0.5rem;
+  }
+  .HearingsCalendarApp {
+    width: 289px;
+  }
+  .MarkdownPreview {
+    width: 95%;
+    padding: 10px 15px;
+  }
+  .HearingTheme {
+    width: 95%;
+    padding: 10px 15px;
   }
 }
 

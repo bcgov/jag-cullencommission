@@ -626,6 +626,11 @@ $highLight: rgb(141, 0, 47);
   color: black;
 }
 
+.HearingInfo {
+  margin: 0px 0px 40px 0px;
+  padding: 1px;
+}
+
 .MarkdownPreview {
   border-radius: $sectionBorderRadius;
   border-style: solid;
@@ -634,11 +639,6 @@ $highLight: rgb(141, 0, 47);
   width: 75%;
   margin: 0px auto 0px auto;
   padding: 20px 30px;
-}
-
-.HearingInfo {
-  margin: 0px 0px 40px 0px;
-  padding: 1px;
 }
 
 .HearingTheme {
@@ -804,6 +804,20 @@ $highLight: rgb(141, 0, 47);
   .ExpandableSectionUnderTitleRight {
     font-size: 0.5rem;
   }
+
+  .HearingsCalendarApp {
+    width: ((($dayWidth + $widthDayGap) * 7) + ($monthPadding * 2) + ($monthMargin * 2));
+  }
+
+.MarkdownPreview {
+  width: 95%;
+  padding: 10px 15px;
+}
+
+.HearingTheme {
+  width: 95%;
+  padding: 10px 15px;
+}
 
 }
 
