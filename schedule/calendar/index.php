@@ -5,11 +5,9 @@ $title = 'Hearings Calendar';
 
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 ?>
-<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
 <script src="./date-format/date.format.js"></script>
 <link rel="manifest" href="./manifest.json" />
 <link href="./static/css/2.1fd2b905.chunk.css" rel="stylesheet">
-<link href="./static/css/main.f9d8f13a.chunk.css" rel="stylesheet">
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
@@ -93,8 +91,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         i()
     }([])
 </script>
-<script src="./static/js/2.27ea1737.chunk.js"></script>
-<script src="./static/js/main.6116caec.chunk.js"></script>
+<script src="./static/js/2.e0ee42b5.chunk.js"></script>
+<script src="./static/js/main.ba1d7acc.chunk.js"></script>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
