@@ -22,7 +22,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p class="LatestEventDesc">January 13th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=11">Appointment of Tam Boyar as Policy Counsel</a></p>
             </div>
             <div class="LatestEvent">
-                <p class="LatestEventDesc">January 9th, 2020<br /><strong>News Release</strong><br /><a href="/media/">Money Laundering Commission Sets Public Hearing Dates</a></p>
+                <p class="LatestEventDesc">January 9th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=10">Money Laundering Commission Sets Public Hearing Dates</a></p>
             </div>
         </div>
     </div>
