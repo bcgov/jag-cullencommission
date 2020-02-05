@@ -1,8 +1,5 @@
 <?php
-include($_SERVER['DOCUMENT_ROOT'] . '/includes/pageVariables.php');
-
 $title = 'Hearings Calendar';
-
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 ?>
 <script src="./date-format/date.format.js"></script>

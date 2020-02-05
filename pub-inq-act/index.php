@@ -1,4 +1,5 @@
 <?php
+$title = 'Public Inquiry Act';
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 ?>
 <style>

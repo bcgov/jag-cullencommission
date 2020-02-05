@@ -1,8 +1,5 @@
 <?php
-include($_SERVER['DOCUMENT_ROOT'] . '/includes/pageVariables.php');
-
 $title = 'Hearings Calendar';
-
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');

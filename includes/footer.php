@@ -30,34 +30,20 @@
                     // });
                     let time = 250;
                     let activeClass = 'active';
-                    $('#NavbarComState').click(function() {
-                        if ($('#NavbarComStateSubNav').length) {
-                            $('#NavbarComStateSubNav').slideToggle(time);
-                        }
-                        $('#NavbarComState').toggleClass(activeClass);
-                    });
                     $('#NavbarLegislation').click(function() {
-                        if ($('#NavbarLegislationSubNav').length) {
-                            $('#NavbarLegislationSubNav').slideToggle(time);
-                        }
+                        $('#NavbarLegislationSubNav').slideToggle(time);
                         $('#NavbarLegislation').toggleClass(activeClass);
                     });
                     $('#NavbarHearings').click(function() {
-                        if ($('#NavbarHearingsSubNav').length) {
-                            $('#NavbarHearingsSubNav').slideToggle(time);
-                        }
+                        $('#NavbarHearingsSubNav').slideToggle(time);
                         $('#NavbarHearings').toggleClass(activeClass);
                     });
                     $('#NavbarRepPub').click(function() {
-                        if ($('#NavbarRepPubSubNav').length) {
-                            $('#NavbarRepPubSubNav').slideToggle(time);
-                        }
+                        $('#NavbarRepPubSubNav').slideToggle(time);
                         $('#NavbarRepPub').toggleClass(activeClass);
                     });
                     $('#NavbarWebcast').click(function() {
-                        if ($('#NavbarWebcastSubNav').length) {
-                            $('#NavbarWebcastSubNav').slideToggle(time);
-                        }
+                        $('#NavbarWebcastSubNav').slideToggle(time);
                         $('#NavbarWebcast').toggleClass(activeClass);
                     });
                 });
