@@ -635,6 +635,9 @@ a.active, a.NavbarButton:hover {
 }
 
 .SelectedHearing {
+  border-style: solid;
+  border-color: #ccc;
+  border-width: 0px 0px 1px 0px;
   margin: 0px 0px 0px 0px;
   padding: 1px;
 }
