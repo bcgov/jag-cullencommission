@@ -17,7 +17,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div id="root"></div>
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please
     upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
-<h2>Future Hearings</h2>
+<h2>Upcoming Hearings</h2>
 <h3>May 25 – June 26:</h3>
 <p>These hearings will deal with an overview of the money laundering topic and regulatory models, as well as attempts to quantify the extent of money laundering activity in British Columbia. These hearings may not occupy the full five-week period in the spring.</p>
 <p>The courtroom for these hearings will be announced in the coming weeks.</p>
