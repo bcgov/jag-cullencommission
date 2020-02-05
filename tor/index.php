@@ -1,6 +1,8 @@
 <?php
-include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
+$title = 'Terms of Reference';
+$subNavOpen = '#NavbarLegislation';
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
+include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Terms of Reference</h1>
