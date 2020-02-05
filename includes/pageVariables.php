@@ -1,5 +1,0 @@
-<?php
-$currentPageCSS = 'CurrentPage';
-$navbarAbout = '';
-
-?>

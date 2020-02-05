@@ -46,6 +46,12 @@
                         $('#NavbarWebcastSubNav').slideToggle(time);
                         $('#NavbarWebcast').toggleClass(activeClass);
                     });
+                    <?php
+                    if (isset($subNavOpen) && $subNavOpen != '') {
+                        echo '$("' . $subNavOpen . 'SubNav").slideToggle(time);' . PHP_EOL;
+                        echo '$("' . $subNavOpen . '").toggleClass(activeClass);' . PHP_EOL;
+                    }
+                    ?>
                 });
             </script>
             </body>
