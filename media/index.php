@@ -337,7 +337,41 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         $('#ExpandableSection11').click(function() {
             $('#ExpandableSectionContent11').slideToggle(time);
         });
+        let openSection = null;
+        if (typeof(window.URLSearchParams) != "undefined") {
+            console.log('URLSearchParams');
+            let url = new URLSearchParams(window.location.search);
+            if (url.has("open")) {
+                console.log('QUERY DETECTED');
+                openSection = url.get("open");
+            }
+        } else {
+            openSection = getUrlParameter("open");
+        }
+        if (openSection !== null) {
+            console.log('OPENING SECTION');
+            let openNum = parseInt(openSection); // Make sure this is a number.
+            let openPad = pad(openNum + '');
+            console.log('SECTION TO BE OPENED: ' + openPad);
+            $('#ExpandableSectionContent' + openPad).slideToggle(time);
+            $('html, body').animate({
+                scrollTop: $('#ExpandableSectionContent' + openPad).offset().top
+            }, time);
+        }
     });
+
+    function getUrlParameter(name) {
+        name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+        var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+        var results = regex.exec(location.search);
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    };
+
+    function pad(str) {
+        let max = 2;
+        str = str.toString();
+        return str.length < max ? pad("0" + str) : str;
+    }
 </script>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
