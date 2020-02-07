@@ -1,5 +1,6 @@
 <?php
 $title = 'Participants';
+$navParticipants = true;
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 ?>
 <style>

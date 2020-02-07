@@ -1,6 +1,7 @@
 <?php
 $title = 'Public Inquiry Act';
 $subNavOpen = '#NavbarLegislation';
+$navPubInqAct = true;
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 ?>
 <style>

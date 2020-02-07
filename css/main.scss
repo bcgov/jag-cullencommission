@@ -158,6 +158,22 @@ a.active, a.NavbarButton:hover {
   color: black;
 }
 
+.CurrentPage {
+  background-color: #00b7ff91 !important;
+}
+
+.CurrentPage:hover {
+  background-color: #fff !important;
+}
+
+.SubNavList p .CurrentPage {
+  background-color: #e2e2e2 !important;
+}
+
+.SubNavList p .CurrentPage:hover {
+  background-color: #bbbbbb !important;
+}
+
 .SubNavList {
   margin: 0px 10px $navbarSpacing 0px;
   padding: 0px;
