@@ -571,6 +571,13 @@ $highLight: rgb(141, 0, 47);
   cursor: pointer;
 }
 
+.CancelledHearing {
+  background-color: #aaaaaa;
+  border-color: #4b4b4b;
+  color: white;
+  cursor: pointer;
+}
+
 .SelectedDay {
   animation: selection 2.5s infinite;
 }
