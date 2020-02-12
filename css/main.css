@@ -657,6 +657,10 @@ a.active, a.NavbarButton:hover {
   padding: 0px;
 }
 
+.NoneDefault {
+  color: red !important;
+}
+
 .SelectedHearing {
   border-style: solid;
   border-color: #ccc;
