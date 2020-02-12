@@ -660,6 +660,12 @@ $highLight: rgb(141, 0, 47);
   padding: 20px 30px;
 }
 
+.MarkdownPreview h1, .MarkdownPreview h2, .MarkdownPreview h3, .MarkdownPreview h4, .MarkdownPreview h5, .MarkdownPreview h6 {
+  color: #666;
+  font-family: 'Montserrat', sans-serif;
+  text-align: initial !important;
+}
+
 .HearingTheme {
   border-radius: $sectionBorderRadius;
   border-style: solid;
