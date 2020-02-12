@@ -570,6 +570,13 @@ a.active, a.NavbarButton:hover {
   cursor: pointer;
 }
 
+.CancelledHearing {
+  background-color: #aaaaaa;
+  border-color: #4b4b4b;
+  color: white;
+  cursor: pointer;
+}
+
 .SelectedDay {
   -webkit-animation: selection 2.5s infinite;
           animation: selection 2.5s infinite;
@@ -676,6 +683,12 @@ a.active, a.NavbarButton:hover {
   width: 75%;
   margin: 0px auto 0px auto;
   padding: 20px 30px;
+}
+
+.MarkdownPreview h1, .MarkdownPreview h2, .MarkdownPreview h3, .MarkdownPreview h4, .MarkdownPreview h5, .MarkdownPreview h6 {
+  color: #666;
+  font-family: 'Montserrat', sans-serif;
+  text-align: initial !important;
 }
 
 .HearingTheme {
