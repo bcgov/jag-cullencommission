@@ -220,7 +220,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
-                <p>Great Canadian Gaming Commission</p>
+                <p>Great Canadian Gaming Corporation</p>
             </div>
             <div class="rTableCell">
                 <p><strong>GCGC</strong></p>
