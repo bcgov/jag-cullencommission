@@ -19,6 +19,25 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h3>February 24 – 28:</h3>
 <p>These hearings are for participants’ opening statements and will provide an opportunity for participants (groups, organizations and individuals granted formal standing) to address the Commissioner and to set out the issues and matters that participants would like to see the Inquiry address.</p>
 <p>These hearings will be held at the Federal Court of Canada at 701 West Georgia Street, Vancouver, in Courtroom 801.</p>
+<p><strong>Order of participants:</strong></p>
+<ol>
+    <li>Ministry of Attorney General - Gaming Policy Enforcement Branch and Ministry of Attorney General - Ministry of Finance</li>
+    <li>Government of Canada</li>
+    <li>Law Society of BC</li>
+    <li>British Columbia Government & Service Employees' Union</li>
+    <li>British Columbia Lottery Corporation</li>
+    <li>Great Canadian Gaming Corporation</li>
+    <li>James Lightbody</li>
+    <li>Robert Kroeker</li>
+    <li>Gateway Casinos & Entertainment Ltd.</li>
+    <li>Canadian Gaming Association</li>
+    <li>Society of Notaries Public of BC</li>
+    <li>BMW</li>
+    <li>BC Real Estate Association</li>
+    <li>British Columbia Civil Liberties Association</li>
+    <li>Canadian Bar Association, BC Branch and Criminal Defence Advocacy Society</li>
+    <li>Coalition: Transparency International Canada (TI Canada) Canadians For Tax Fairness (C4TF)Publish What you Pay Canada (PWYP)</li>
+</ol>
 <h3>May 25 – June 26:</h3>
 <p>These hearings will deal with an overview of the money laundering topic and regulatory models, as well as attempts to quantify the extent of money laundering activity in British Columbia. These hearings may not occupy the full five-week period in the spring.</p>
 <p>The courtroom for these hearings will be announced in the coming weeks.</p>
