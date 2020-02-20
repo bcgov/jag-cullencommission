@@ -16,7 +16,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please
     upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
 <h2>Upcoming Hearings</h2>
-<h3>February 24 – 28:</h3>
+<h3>February 24 -26:</h3>
+<p style="margin-top: 0px; padding-top: 0px"><strong>(with the potential of Feb 27 if required)</strong></p>
 <p>These hearings are for participants’ opening statements and will provide an opportunity for participants (groups, organizations and individuals granted formal standing) to address the Commissioner and to set out the issues and matters that participants would like to see the Inquiry address.</p>
 <p>These hearings will be held at the Federal Court of Canada at 701 West Georgia Street, Vancouver, in Courtroom 801.</p>
 <p><strong>Order of participants:</strong></p>
