@@ -465,6 +465,41 @@ $ExpandableSectionTextColor: white;
   margin-bottom: 0px;
 }
 
+$buttonPaddingHorizontal: 20px;
+$buttonPaddingVertical: 10px;
+$buttonPaddingHorizontalHover: 20px;
+
+.Button {
+  border-style: none;
+  font-weight: 800;
+  white-space: nowrap;
+  border-radius: $standardBorderRadius;
+  border-width: 0px 0px 3px 0px;
+  border-style: solid;
+  color: white;
+  margin: 0px;
+  padding: $buttonPaddingVertical $buttonPaddingHorizontal;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.418), 0px 0px 3px rgba(255, 255, 255, 0.438) inset;
+  text-shadow: 0px 1px 1px black;
+  cursor: pointer;
+  transition: all 0.25s;
+}
+
+.Button:hover {
+  padding: $buttonPaddingVertical ($buttonPaddingHorizontal + $buttonPaddingHorizontalHover);
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.418), 0px 0px 3px rgba(255, 255, 255, 0.438) inset;
+}
+
+.SubmitButton {
+  background-image: linear-gradient(to bottom, #9AD257, #578f23);
+  border-color: #3b6d0d;
+}
+
+.RegularButton {
+  background-image: linear-gradient(to bottom, #0099ff, $highLightSecondary);
+  border-color: #004e6d;
+}
+
 
 /* ---------------------------------------- CALENDAR ---------------------------------------- */
 
