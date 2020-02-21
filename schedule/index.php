@@ -34,10 +34,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>Canadian Gaming Association</li>
     <li>Society of Notaries Public of BC</li>
     <li>BMW</li>
+    <li>Coalition: Transparency International Canada (TI Canada) Canadians For Tax Fairness (C4TF)Publish What you Pay Canada (PWYP)</li>
     <li>BC Real Estate Association</li>
     <li>British Columbia Civil Liberties Association</li>
     <li>Canadian Bar Association, BC Branch and Criminal Defence Advocacy Society</li>
-    <li>Coalition: Transparency International Canada (TI Canada) Canadians For Tax Fairness (C4TF)Publish What you Pay Canada (PWYP)</li>
 </ol>
 <h3>May 25 – June 26:</h3>
 <p>These hearings will deal with an overview of the money laundering topic and regulatory models, as well as attempts to quantify the extent of money laundering activity in British Columbia. These hearings may not occupy the full five-week period in the spring.</p>
