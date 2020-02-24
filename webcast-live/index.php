@@ -7,8 +7,24 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Live Webcast</h1>
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/event/21027/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
-<p>Please check <a href="/schedule/">hearing dates</a> for more information on the timing of hearings.</p>
+<?php
+$hearingsFile = file_get_contents('../data/hearings.json');
+$hearings = json_decode($hearingsFile, true);
+$found = false;
+for ($i = 0; $i < count($hearings['hearings']); $i++) {
+    if (date('Y-m-d', ($hearings['hearings'][$i][0]) / 1000) == date('Y-m-d')) {
+        if ($hearings['hearings'][$i][1]['isCancelled'] != 1) {
+            $found = true;
+        }
+        break;
+    }
+}
+if ($found) {
+    echo '<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/event/21027/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>' . "\n";
+} else {
+    echo '<p>No hearings scheduled today. Please check <a href="/schedule/">the hearings schedule</a> for more information on the timing of hearings.</p>';
+}
+?>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>

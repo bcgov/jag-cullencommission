@@ -470,10 +470,11 @@ $buttonPaddingVertical: 10px;
 $buttonPaddingHorizontalHover: 20px;
 
 .Button {
+  display: inline-block;
   border-style: none;
   font-weight: 800;
   white-space: nowrap;
-  border-radius: $standardBorderRadius;
+  border-radius: $sectionBorderRadius;
   border-width: 0px 0px 3px 0px;
   border-style: solid;
   color: white;
@@ -496,10 +497,25 @@ $buttonPaddingHorizontalHover: 20px;
 }
 
 .RegularButton {
-  background-image: linear-gradient(to bottom, #0099ff, $highLightSecondary);
+  background-image: linear-gradient(to bottom, #0099ff, #0967E9);
   border-color: #004e6d;
 }
 
+.ButtonMarginLeft {
+  margin-left: 30px;
+}
+
+.ButtonMarginLeft:hover {
+  margin-left: (30px - $buttonPaddingHorizontalHover);
+}
+
+.ButtonMarginRight {
+  margin-right: 30px;
+}
+
+.ButtonMarginRight:hover {
+  margin-right: (30px - $buttonPaddingHorizontalHover);
+}
 
 /* ---------------------------------------- CALENDAR ---------------------------------------- */
 
@@ -732,6 +748,27 @@ $highLight: rgb(141, 0, 47);
 .WitnessListNames {
   font-size: 0.9rem;
   margin: 0px 0px 10px 10px;
+}
+
+.VideoListSection {
+  display: none;
+}
+
+.VideoListContainer {
+  display: flex;
+  flex-direction: row;
+  margin: 0px auto 30px auto;
+}
+
+.VideoButtonLayout {
+  padding: 0px 10px;
+}
+
+.CalendarWarning {
+  font-weight: bold;
+  font-size: 0.85rem;
+  text-align: center;
+  color: #8D002F;
 }
 
 /*  CAROUSEL DESIGNS  */
