@@ -18,7 +18,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h2>Upcoming Hearings</h2>
 <h3>February 24 -26:</h3>
 <p style="margin-top: 0px; padding-top: 0px"><strong>(with the potential of Feb 27 if required)</strong></p>
-<p>The hearings are set to run from 9:30 am to 4:30 pm. Those attending must go through a security check to be allowed in the hearing room. Please allow time for this.</p>
+<p>The hearings are set to run from 9:30 am to 4:00 pm. Those attending must go through a security check to be allowed in the hearing room. Please allow time for this.</p>
 <p>No food or drinks other than water is allowed in the hearing room. There is a cloak room for coats, umbrellas etc.</p>
 <p>These hearings are for participants’ opening statements and will provide an opportunity for participants (groups, organizations and individuals granted formal standing) to address the Commissioner and to set out the issues and matters that participants would like to see the Inquiry address.</p>
 <p>These hearings will be held at 701 West Georgia Street, Vancouver, in Courtroom 801.</p>
