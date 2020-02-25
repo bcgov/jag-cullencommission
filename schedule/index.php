@@ -25,7 +25,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>These hearings will be held at 701 West Georgia Street, Vancouver, in Courtroom 801.</p>
 <p><strong>Order of participants:</strong></p>
 <ol>
-    <li>Ministry of Attorney General - Gaming Policy Enforcement Branch and Ministry of Attorney General - Ministry of Finance - <a href="/files/OpeningStatement-OfGPEBAndTheMinistryOfFinance.pdf" target="_blank">Opening Statement</a> </li>
+    <li>Ministry of Attorney General - Gaming Policy Enforcement Branch and Ministry of Attorney General - Ministry of Finance - <a href="/files/OpeningStatement-GPEBAndTheMinistryOfFinance.pdf" target="_blank">Opening Statement</a> </li>
     <li>Government of Canada - <a href="/files/OpeningStatement-GovernmentOfCanada.pdf" target="_blank">Opening Statement</a></li>
     <li>Law Society of BC - <a href="/files/OpeningStatement-LawSocietyOfBC.pdf" target="_blank">Opening Statement</a></li>
     <li>British Columbia Government & Service Employees' Union</li>
