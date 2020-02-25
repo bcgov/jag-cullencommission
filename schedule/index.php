@@ -1,6 +1,7 @@
 <?php
 $title = 'Hearings Calendar';
 $subNavOpen = '#NavbarHearings';
+$navSchedule = true;
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 ?>
 <script src="./date-format/date.format.js"></script>
@@ -38,7 +39,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>BMW</li>
     <li>Coalition: Transparency International Canada (TI Canada) Canadians For Tax Fairness (C4TF)Publish What you Pay Canada (PWYP)</li>
     <li>BC Real Estate Association</li>
-    <li>British Columbia Civil Liberties Association</li>
+    <li>British Columbia Civil Liberties Association - <a href="/files/OpeningStatement-BCCLA.pdf" target="_blank">Opening Statement</a></li>
     <li>Canadian Bar Association, BC Branch and Criminal Defence Advocacy Society</li>
 </ol>
 <h3>May 25 – June 26:</h3>
