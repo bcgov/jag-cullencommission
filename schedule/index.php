@@ -24,12 +24,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>These hearings will be held at 701 West Georgia Street, Vancouver, in Courtroom 801.</p>
 <p><strong>Order of participants:</strong></p>
 <ol>
-    <li>Ministry of Attorney General - Gaming Policy Enforcement Branch and Ministry of Attorney General - Ministry of Finance</li>
-    <li>Government of Canada</li>
-    <li>Law Society of BC</li>
+    <li>Ministry of Attorney General - Gaming Policy Enforcement Branch and Ministry of Attorney General - Ministry of Finance - <a href="/files/OpeningStatement-OfGPEBAndTheMinistryOfFinance.pdf" target="_blank">Opening Statement</a> </li>
+    <li>Government of Canada - <a href="/files/OpeningStatement-GovernmentOfCanada.pdf" target="_blank">Opening Statement</a></li>
+    <li>Law Society of BC - <a href="/files/OpeningStatement-LawSocietyOfBC.pdf" target="_blank">Opening Statement</a></li>
     <li>British Columbia Government & Service Employees' Union</li>
-    <li>British Columbia Lottery Corporation</li>
-    <li>Great Canadian Gaming Corporation</li>
+    <li>British Columbia Lottery Corporation - <a href="/files/OpeningStatement-BCLC.pdf" target="_blank">Opening Statement</a></li>
+    <li>Great Canadian Gaming Corporation - <a href="/files/OpeningStatement-GCGC.pdf" target="_blank">Opening Statement</a></li>
     <li>James Lightbody</li>
     <li>Robert Kroeker</li>
     <li>Gateway Casinos & Entertainment Ltd.</li>
