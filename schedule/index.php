@@ -34,7 +34,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>James Lightbody - <a href="/files/OpeningStatement-JimLightbody.pdf" target="_blank">Opening Statement</a></li>
     <li>Robert Kroeker - <a href="/files/OpeningStatement-Kroeker.pdf" target="_blank">Opening Statement</a></li>
     <li>Gateway Casinos & Entertainment Ltd. - <a href="/files/OpeningStatement-GatewayCasinosEntertainment.pdf" target="_blank">Opening Statement</a></li>
-    <li>Canadian Gaming Association</li>
+    <li>Canadian Gaming Association - <a href="/files/OpeningStatement-CGA.pdf" target="_blank">Opening Statement</a></li>
     <li>Society of Notaries Public of BC - <a href="/files/OpeningStatement-SNPBC.pdf" target="_blank">Opening Statement</a></li>
     <li>BMW - <a href="/files/OpeningStatement-BMW.pdf" target="_blank">Opening Statement</a></li>
     <li>Coalition: Transparency International Canada (TI Canada) Canadians For Tax Fairness (C4TF)Publish What you Pay Canada (PWYP)</li>
