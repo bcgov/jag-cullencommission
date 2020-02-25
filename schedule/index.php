@@ -28,7 +28,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>Ministry of Attorney General - Gaming Policy Enforcement Branch and Ministry of Attorney General - Ministry of Finance - <a href="/files/OpeningStatement-GPEBAndTheMinistryOfFinance.pdf" target="_blank">Opening Statement</a> </li>
     <li>Government of Canada - <a href="/files/OpeningStatement-GovernmentOfCanada.pdf" target="_blank">Opening Statement</a></li>
     <li>Law Society of BC - <a href="/files/OpeningStatement-LawSocietyOfBC.pdf" target="_blank">Opening Statement</a></li>
-    <li>British Columbia Government & Service Employees' Union</li>
+    <li>British Columbia Government & Service Employees' Union - <a href="/files/OpeningStatements-BCGEU.pdf" target="_blank">Opening Statement</a></li>
     <li>British Columbia Lottery Corporation - <a href="/files/OpeningStatement-BCLC.pdf" target="_blank">Opening Statement</a></li>
     <li>Great Canadian Gaming Corporation - <a href="/files/OpeningStatement-GCGC.pdf" target="_blank">Opening Statement</a></li>
     <li>James Lightbody - <a href="/files/OpeningStatement-JimLightbody.pdf" target="_blank">Opening Statement</a></li>
