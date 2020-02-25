@@ -1,0 +1,1076 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,800&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Baskervville&display=swap");
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Montserrat', sans-serif;
+  overflow-y: scroll;
+  background-color: #000d3d;
+}
+
+img {
+  display: block;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+a {
+  color: #002bc5;
+  font-weight: 600;
+  text-decoration: none;
+  -webkit-transition: all 0.25s;
+  transition: all 0.25s;
+}
+
+a:hover {
+  color: #860000;
+  border-radius: 3px;
+  background-color: #ff010113;
+}
+
+h1 {
+  font-family: 'Baskervville', sans-serif;
+  font-size: 3.5rem;
+  text-align: center;
+  font-weight: 100;
+  color: #001c82;
+  padding: 0px;
+  margin: 0px 0px 60px 0px;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  text-align: center;
+  color: #007d81;
+  margin: 40px 0px 20px 0px;
+}
+
+h3 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: #006391;
+  margin: 40px 0px 10px 0px;
+}
+
+ol > li, ul > li {
+  margin: 0px;
+  padding: 0px 0px 8px 0px;
+}
+
+strong {
+  font-weight: 600;
+}
+
+#Header {
+  width: 100%;
+}
+
+#MainContent {
+  width: 94.75%;
+  max-width: 1500px;
+  min-width: 300px;
+  margin: 0px auto;
+  padding: 1px;
+}
+
+#Navbar {
+  float: left;
+  width: 25%;
+  height: 100%;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+#Content {
+  width: 74%;
+  background-color: white;
+  float: right;
+  border-radius: 5px;
+  padding: 40px 40px 35px 40px;
+  margin: 0px 0px 40px 0px;
+  -webkit-box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.75);
+          box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.75);
+}
+
+#Footer {
+  color: gray;
+  text-align: center;
+  margin: 60px 0px 20px 0px;
+}
+
+#SiteHeaderDiv {
+  text-align: center;
+  margin: 10px 0px 40px 0px;
+}
+
+.SiteHeaderMain {
+  color: white;
+  text-align: center;
+  font-family: 'Baskervville', sans-serif;
+  font-size: 2.75rem;
+  font-weight: 300;
+  padding: 0px;
+  margin: 50px 0px 10px 0px;
+}
+
+a.NavbarButton {
+  display: block;
+  width: 100%;
+  font-weight: 600;
+  color: white;
+  white-space: nowrap;
+  border-radius: 5px;
+  margin: 0px 10px 6px 20px;
+  padding: 10px 10px;
+  text-shadow: 0px 1px 1px black;
+  background-color: #ffffff3b;
+  cursor: pointer;
+  -webkit-transition: all 0.25s;
+  transition: all 0.25s;
+}
+
+a.NavbarButton:first-child {
+  margin-top: 0px !important;
+}
+
+a.active, a.NavbarButton:hover {
+  margin-left: 0px;
+  padding-left: 30px;
+  background-color: white;
+  text-shadow: 0px 1px 15px grey,  0px 1px 3px grey;
+  color: black;
+}
+
+.CurrentPage {
+  background-color: #00b7ff91 !important;
+}
+
+.CurrentPage:hover {
+  background-color: #fff !important;
+}
+
+.SubNavList p .CurrentPage {
+  background-color: #e2e2e2 !important;
+}
+
+.SubNavList p .CurrentPage:hover {
+  background-color: #bbbbbb !important;
+}
+
+.SubNavList {
+  margin: 0px 10px 6px 0px;
+  padding: 0px;
+  border-radius: 5px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
+
+.SubNavList p {
+  color: #666;
+  margin: 0px;
+  -webkit-transition: background-color 0.35s ease-in-out;
+  transition: background-color 0.35s ease-in-out;
+}
+
+.SubNavList p:hover {
+  background-color: #ccc;
+  color: black;
+}
+
+.SubNavList a {
+  display: inline-block;
+  color: inherit;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  background-color: transparent;
+  padding: 8px 20px;
+  width: 100%;
+}
+
+.FooterNavbarLink {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: #666;
+  text-decoration: underline;
+}
+
+.FooterDisclaimer {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: #000d3d;
+  text-decoration: underline;
+  text-align: center;
+  margin: 0px 0px 30px 0px;
+}
+
+.fa-bars {
+  color: white;
+}
+
+.fa-external-link-alt {
+  color: black;
+}
+
+#MenuDisplay {
+  display: none;
+  font-size: 2rem;
+  text-align: left;
+}
+
+.SocialMediaLogo {
+  border-radius: 5px;
+  -webkit-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+          box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.NumberedList {
+  list-style-type: decimal;
+}
+
+.LowerAlphaList {
+  list-style-type: lower-alpha;
+}
+
+.UpperAlphaList {
+  list-style-type: upper-alpha;
+}
+
+.LowerRomanList {
+  list-style-type: lower-roman;
+}
+
+.UpperRomanList {
+  list-style-type: upper-roman;
+}
+
+.UnorderedNoSymbolList {
+  list-style-type: none;
+}
+
+.ExpandableSectionAccordion {
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #000000;
+  background-color: #2d8354;
+  overflow: hidden;
+  padding: 0px;
+}
+
+.ExpandableSectionTitleContainer {
+  position: relative;
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: #000000;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#48b984), to(#2d8354));
+  background-image: linear-gradient(to bottom, #48b984, #2d8354);
+  -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+          box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+  text-shadow: 1px 1px 1px black;
+  padding: 10px 30px 20px 40px;
+  z-index: 0;
+  cursor: pointer;
+  -webkit-transition: all 0.25s;
+  transition: all 0.25s;
+}
+
+.ExpandableSectionTitleContainer::before {
+  border-style: solid;
+  border-width: 0.25em 0.25em 0 0;
+  border-color: white;
+  content: '';
+  display: inline-block;
+  height: 0.45em;
+  position: absolute;
+  left: 15px;
+  top: 14px;
+  -webkit-transform: rotate(135deg);
+          transform: rotate(135deg);
+  width: 0.45em;
+}
+
+.ExpandableSectionTitleContainer:hover {
+  -webkit-box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.75);
+          box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.75);
+  text-shadow: 0px 0px 10px white;
+  z-index: 1;
+}
+
+.ExpandableSectionTitle {
+  color: white;
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin: 0px;
+  padding: 0px;
+}
+
+.ExpandableSectionUnderTitleLeft {
+  color: white;
+  font-weight: 600;
+  font-size: 0.85rem;
+  float: left;
+  margin: 0px;
+  padding: 0px;
+}
+
+.ExpandableSectionUnderTitleRight {
+  color: white;
+  font-weight: 600;
+  font-size: 0.85rem;
+  float: right;
+  margin: 0px;
+  padding: 0px;
+}
+
+.ExpandableSection {
+  display: none;
+  border-style: solid;
+  border-width: 0px;
+  border-color: #ccc;
+  background-color: white;
+  padding: 25px;
+}
+
+.PdfIcon {
+  color: #e70000;
+  font-size: 1.25rem;
+  -webkit-box-shadow: 1px 1px 2px black;
+          box-shadow: 1px 1px 2px black;
+}
+
+.ClearFloats {
+  clear: both;
+}
+
+.Aside {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  padding: 20px;
+  color: white;
+  float: left;
+  -webkit-box-shadow: 0px 0px 10px rgba(19, 56, 28, 0.75), 0px 0px 20px #1d643d inset, 0px -10px 30px #48d493 inset;
+          box-shadow: 0px 0px 10px rgba(19, 56, 28, 0.75), 0px 0px 20px #1d643d inset, 0px -10px 30px #48d493 inset;
+  background-image: linear-gradient(-45deg, #1c5f3a, #48b984);
+  border-color: #27744e;
+}
+
+.Aside p {
+  color: white;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+}
+
+.Aside p a {
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+  background-color: transparent;
+}
+
+.Aside p a:hover {
+  text-shadow: 0px 0px 5px white;
+}
+
+.Aside2Col .Aside {
+  width: 45%;
+  margin: 10px;
+}
+
+.Aside3Col .Aside {
+  width: 30%;
+  margin: 10px;
+}
+
+.Aside p.AsideTitle {
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  margin: 0px 0px 20px 0px;
+  color: #1a533b;
+  text-shadow: 1px 1px 1px #062919;
+}
+
+.LatestEvents {
+  margin: 10px;
+  padding: 10px;
+  float: left;
+  border-radius: 5px;
+  background-image: linear-gradient(45deg, #355aaa, #0a2255);
+  -webkit-box-shadow: 0px 0px 10px black, 0px 0px 20px #041d42 inset, 0px -10px 30px #4265b1 inset;
+          box-shadow: 0px 0px 10px black, 0px 0px 20px #041d42 inset, 0px -10px 30px #4265b1 inset;
+}
+
+.Aside2Col .LatestEvents {
+  width: 45%;
+  margin: 10px;
+}
+
+.LatestEventsTitle {
+  color: white;
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  padding: 0px;
+  margin: 0px 0px 5px 0px;
+  text-shadow: 1px 1px 2px black;
+}
+
+.LatestEventsContainer a {
+  color: white;
+  text-decoration: underline;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.LatestEventsContainer a:hover {
+  background-color: transparent;
+  text-shadow: 0px 0px 5px white;
+}
+
+.LatestEvent {
+  display: inline-block;
+  width: 30%;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.25);
+  padding: 5px;
+}
+
+.LatestEventDesc {
+  font-size: 0.85rem;
+  color: white;
+}
+
+.TopOfPage {
+  text-align: center;
+  font-size: 0.75rem;
+  margin-bottom: 0px;
+}
+
+.Button {
+  display: inline-block;
+  border-style: none;
+  font-weight: 800;
+  white-space: nowrap;
+  border-radius: 5px;
+  border-width: 0px 0px 3px 0px;
+  border-style: solid;
+  color: white;
+  margin: 0px;
+  padding: 10px 20px;
+  -webkit-box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.418), 0px 0px 3px rgba(255, 255, 255, 0.438) inset;
+          box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.418), 0px 0px 3px rgba(255, 255, 255, 0.438) inset;
+  text-shadow: 0px 1px 1px black;
+  cursor: pointer;
+  -webkit-transition: all 0.25s;
+  transition: all 0.25s;
+}
+
+.Button:hover {
+  padding: 10px 40px;
+  -webkit-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.418), 0px 0px 3px rgba(255, 255, 255, 0.438) inset;
+          box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.418), 0px 0px 3px rgba(255, 255, 255, 0.438) inset;
+}
+
+.SubmitButton {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#9AD257), to(#578f23));
+  background-image: linear-gradient(to bottom, #9AD257, #578f23);
+  border-color: #3b6d0d;
+}
+
+.RegularButton {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#0099ff), to(#0967E9));
+  background-image: linear-gradient(to bottom, #0099ff, #0967E9);
+  border-color: #004e6d;
+}
+
+.ButtonMarginLeft {
+  margin-left: 30px;
+}
+
+.ButtonMarginLeft:hover {
+  margin-left: 10px;
+}
+
+.ButtonMarginRight {
+  margin-right: 30px;
+}
+
+.ButtonMarginRight:hover {
+  margin-right: 10px;
+}
+
+/* ---------------------------------------- CALENDAR ---------------------------------------- */
+.HearingsCalendarApp {
+  width: 867px;
+  height: 346px;
+  margin: 0px auto 30px auto;
+  color: #0967E9;
+}
+
+#HearingsCalendar {
+  color: #0967E9;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+.Month {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #01CED1;
+  border-width: 0px;
+  padding: 5px 15px;
+  margin: 0px 0px;
+  -webkit-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
+}
+
+.CurrentMonth {
+  color: #8d002f !important;
+}
+
+.DaysOfMonth {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (35px)[7];
+      grid-template-columns: repeat(7, 35px);
+  -ms-grid-rows: (35px)[7];
+      grid-template-rows: repeat(7, 35px);
+  grid-gap: 2px 2px;
+}
+
+.WeekNames {
+  text-align: center;
+  font-weight: 800;
+  font-size: 0.6rem;
+}
+
+.Day {
+  font-weight: 600;
+  font-size: 0.75rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #999;
+  background-color: #fff;
+  color: black;
+  cursor: pointer;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.DayNoSelection {
+  font-weight: 600;
+  font-size: 0.75rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 5px;
+  border-width: 0px;
+  border-style: solid;
+  background-color: none;
+  color: #929292;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.CurrentDay {
+  border-width: 1px !important;
+  border-color: #01CED1;
+  background-color: #01CED1;
+  color: white;
+  cursor: pointer;
+}
+
+.PublicHearing {
+  background-color: #ffcd81;
+  border-color: #ff9900;
+  color: white;
+  cursor: pointer;
+}
+
+.EvidentiaryHearing {
+  background-color: #81adff !important;
+  border-color: #003eb3 !important;
+  color: white;
+  cursor: pointer;
+}
+
+.CancelledHearing {
+  background-color: #aaaaaa;
+  border-color: #4b4b4b;
+  color: white;
+  cursor: pointer;
+}
+
+.SelectedDay {
+  -webkit-animation: selection 2.5s infinite;
+          animation: selection 2.5s infinite;
+}
+
+@-webkit-keyframes selection {
+  0% {
+    opacity: 1.0;
+  }
+  50% {
+    opacity: 0.25;
+  }
+  100% {
+    opacity: 1.0;
+  }
+}
+
+@keyframes selection {
+  0% {
+    opacity: 1.0;
+  }
+  50% {
+    opacity: 0.25;
+  }
+  100% {
+    opacity: 1.0;
+  }
+}
+
+.Day:hover {
+  color: white;
+  border-radius: 50%;
+  border-width: 1px;
+  border-color: #01CED1;
+  background-color: #01CED1;
+}
+
+.DayNoSelection:hover {
+  border-radius: 50%;
+}
+
+.MonthName {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  margin: 5px 0px 0px 0px;
+  text-align: center;
+  color: #0967E9;
+}
+
+.YearTitle {
+  font-weight: 300;
+}
+
+.CurrentMonth .MonthName {
+  color: #8d002f !important;
+}
+
+.CurrentMonth .MonthName .YearTitle {
+  color: #8d002f !important;
+}
+
+.CurrentMonth .DaysOfMonth .WeekNames {
+  color: #8d002f !important;
+}
+
+.LocationTimeTitle {
+  font-size: 1.5rem;
+  font-weight: 200;
+  margin: 0px;
+  padding: 0px;
+}
+
+.LocationTimeInfo {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: grey;
+  margin: 0px 0px 20px 0px;
+  padding: 0px;
+}
+
+.NoneDefault {
+  color: red !important;
+}
+
+.SelectedHearing {
+  border-style: solid;
+  border-color: #ccc;
+  border-width: 0px 0px 1px 0px;
+  margin: 0px 0px 0px 0px;
+  padding: 1px;
+}
+
+.HearingFormSectionTitle {
+  font-size: 1.4rem;
+  color: black;
+}
+
+.HearingInfo {
+  margin: 0px 0px 40px 0px;
+  padding: 1px;
+}
+
+.MarkdownPreview {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #0967E9;
+  width: 75%;
+  margin: 0px auto 0px auto;
+  padding: 20px 30px;
+}
+
+.MarkdownPreview h1, .MarkdownPreview h2, .MarkdownPreview h3, .MarkdownPreview h4, .MarkdownPreview h5, .MarkdownPreview h6 {
+  color: #666;
+  font-family: 'Montserrat', sans-serif;
+  text-align: initial !important;
+}
+
+.HearingTheme {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #0967E9;
+  width: 75%;
+  margin: 0px auto 30px auto;
+  padding: 20px 30px;
+}
+
+.HearingThemeName {
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-align: center;
+  margin: 0px 0px 35px 0px;
+}
+
+.WitnessListNames {
+  font-size: 0.9rem;
+  margin: 0px 0px 10px 10px;
+}
+
+.VideoListSection {
+  display: none;
+}
+
+.VideoListContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin: 0px auto 30px auto;
+}
+
+.VideoButtonLayout {
+  padding: 0px 10px;
+}
+
+.CalendarWarning {
+  font-weight: bold;
+  font-size: 0.85rem;
+  text-align: center;
+  color: #8D002F;
+}
+
+/*  CAROUSEL DESIGNS  */
+.carousel__next-button {
+  border-style: none;
+  background-color: white;
+  font-size: 2rem;
+  font-weight: 200;
+  color: #999;
+  float: right;
+}
+
+.carousel__back-button {
+  border-style: none;
+  background-color: white;
+  font-size: 2rem;
+  font-weight: 200;
+  color: #999;
+  float: left;
+}
+
+/* ---------------------------------------- SMALL SCREENS ---------------------------------------- */
+@media only screen and (max-width: 1000px) {
+  h1 {
+    font-size: 1.75rem;
+    margin: 0px 0px 30px 0px;
+  }
+  h2 {
+    font-size: 1.25rem;
+    margin: 20px 0px 10px 0px;
+  }
+  h3 {
+    font-size: 1.0rem;
+    margin: 20px 0px 5px 0px;
+  }
+  p, li {
+    font-size: 0.85rem;
+  }
+  a {
+    word-wrap: break-word;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+        -ms-hyphens: auto;
+            hyphens: auto;
+  }
+  ul {
+    padding: 0px 0px 0px 20px;
+  }
+  #SiteHeaderDiv {
+    margin: 10px 0px 10px 0px;
+  }
+  .SiteHeaderMain {
+    font-size: 1.5rem;
+  }
+  #Navbar {
+    float: initial;
+    width: initial;
+    height: initial;
+  }
+  #NavbarContainer {
+    width: 100%;
+    max-height: 0px;
+    overflow: hidden;
+    position: absolute;
+    z-index: 1;
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    background-color: #00104C;
+    -webkit-transition: max-height 0.25s ease-in-out;
+    transition: max-height 0.25s ease-in-out;
+  }
+  #NavbarList {
+    padding: 20px 0px 20px 20px;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #666;
+  }
+  #MenuDisplay {
+    display: block;
+    margin: 0px 0px 10px 10px;
+    font-size: 1.25rem;
+  }
+  #MainContent {
+    width: initial;
+    max-width: initial;
+    min-width: initial;
+    margin: 0px;
+    padding: 0px;
+  }
+  #Content {
+    width: 100%;
+    float: initial;
+    border-radius: initial;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    padding: 10px 10px 35px 10px;
+  }
+  .NavbarItem {
+    width: 280px;
+    background-color: #001c82;
+  }
+  .active, .NavbarItem:hover {
+    border-color: #999;
+  }
+  .SocialMediaLogo {
+    top: 10px;
+    left: 10px;
+  }
+  .HeaderInquiry {
+    font-size: 1.5rem;
+  }
+  .HeaderCommissionTitle {
+    font-size: 2.25rem;
+  }
+  .ExpandableSectionTitle {
+    font-size: 0.75rem;
+  }
+  .ExpandableSectionUnderTitleLeft {
+    font-size: 0.5rem;
+  }
+  .ExpandableSectionUnderTitleRight {
+    font-size: 0.5rem;
+  }
+  .HearingsCalendarApp {
+    width: 289px;
+  }
+  .MarkdownPreview {
+    width: 95%;
+    padding: 10px 15px;
+  }
+  .HearingTheme {
+    width: 95%;
+    padding: 10px 15px;
+  }
+}
+
+/* ---------------------------------------- MODERN BROWERS ---------------------------------------- */
+@supports (display: grid) {
+  html, body {
+    width: initial;
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000d3d;
+    background-image: -webkit-gradient(linear, left bottom, left top, from(#000d3d), to(#001c82));
+    background-image: linear-gradient(to top, #000d3d, #001c82);
+  }
+  #MainContent {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: minmax(200px, 300px) 1fr;
+        grid-template-columns: minmax(200px, 300px) 1fr;
+    width: 94.75vw;
+    margin: 0px auto;
+  }
+  #Navbar {
+    float: none;
+    width: initial;
+    height: initial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
+  #Content {
+    width: initial;
+    background-color: white;
+    float: none;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.75);
+            box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.75);
+  }
+  #NavbarList {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  a.NavbarButton {
+    display: initial;
+    width: initial;
+  }
+  .ExpandableSectionTitleContainer {
+    position: relative;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .ExpandableSectionTitle {
+    grid-column: span 2;
+  }
+  .ExpandableSectionUnderTitleLeft {
+    float: initial;
+    -ms-grid-column-align: start;
+        justify-self: start;
+  }
+  .ExpandableSectionUnderTitleRight {
+    float: initial;
+    -ms-grid-column-align: end;
+        justify-self: end;
+  }
+  .ExpandableSection {
+    display: none;
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 2;
+    grid-column: 1 / span 2;
+  }
+  .Aside {
+    width: initial;
+    float: none;
+  }
+  .Aside2Col .Aside {
+    width: initial;
+    float: none;
+  }
+  .Aside3Col .Aside {
+    width: initial;
+    float: none;
+  }
+  .Aside2Col {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  .Aside3Col {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+  }
+  .Aside2Col .LatestEvents {
+    width: initial;
+  }
+  .LatestEvent {
+    display: initial;
+    width: initial;
+  }
+  .LatestEventsContainer {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+  }
+  .ClearFloats {
+    display: none;
+  }
+  /* ---------------------------------------- MORDERN BROWERS ON SMALL SCREENS ---------------------------------------- */
+  @media only screen and (max-width: 1000px) {
+    #MainContent {
+      width: initial;
+      -ms-grid-columns: 1fr;
+          grid-template-columns: 1fr;
+    }
+    #Content {
+      width: initial;
+      border-radius: 0px;
+      margin: 0px;
+    }
+    .Aside2Col {
+      -ms-grid-columns: 1fr;
+          grid-template-columns: 1fr;
+    }
+    .Aside3Col {
+      -ms-grid-columns: 1fr;
+          grid-template-columns: 1fr;
+    }
+    .ExpandableSection {
+      max-width: 100% !important;
+      -ms-grid-column: 1;
+      -ms-grid-column-span: 1;
+      grid-column: 1 / span 1;
+    }
+  }
+}
+/*# sourceMappingURL=main.css.map */
