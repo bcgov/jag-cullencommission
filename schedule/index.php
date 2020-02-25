@@ -36,7 +36,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>Gateway Casinos & Entertainment Ltd.</li>
     <li>Canadian Gaming Association</li>
     <li>Society of Notaries Public of BC - <a href="/files/OpeningStatement-SNPBC.pdf" target="_blank">Opening Statement</a></li>
-    <li>BMW</li>
+    <li>BMW - <a href="/files/OpeningStatement-BMW.pdf" target="_blank">Opening Statement</a></li>
     <li>Coalition: Transparency International Canada (TI Canada) Canadians For Tax Fairness (C4TF)Publish What you Pay Canada (PWYP)</li>
     <li>BC Real Estate Association</li>
     <li>British Columbia Civil Liberties Association - <a href="/files/OpeningStatement-BCCLA.pdf" target="_blank">Opening Statement</a></li>
