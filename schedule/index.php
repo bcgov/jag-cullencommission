@@ -31,9 +31,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>British Columbia Government & Service Employees' Union</li>
     <li>British Columbia Lottery Corporation - <a href="/files/OpeningStatement-BCLC.pdf" target="_blank">Opening Statement</a></li>
     <li>Great Canadian Gaming Corporation - <a href="/files/OpeningStatement-GCGC.pdf" target="_blank">Opening Statement</a></li>
-    <li>James Lightbody</li>
-    <li>Robert Kroeker</li>
-    <li>Gateway Casinos & Entertainment Ltd.</li>
+    <li>James Lightbody - <a href="/files/OpeningStatement-JimLightbody.pdf" target="_blank">Opening Statement</a></li>
+    <li>Robert Kroeker - <a href="/files/OpeningStatement-Kroeker.pdf" target="_blank">Opening Statement</a></li>
+    <li>Gateway Casinos & Entertainment Ltd. - <a href="/files/OpeningStatement-GatewayCasinosEntertainment.pdf" target="_blank">Opening Statement</a></li>
     <li>Canadian Gaming Association</li>
     <li>Society of Notaries Public of BC - <a href="/files/OpeningStatement-SNPBC.pdf" target="_blank">Opening Statement</a></li>
     <li>BMW - <a href="/files/OpeningStatement-BMW.pdf" target="_blank">Opening Statement</a></li>
