@@ -47,7 +47,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <div class="Aside">
         <p class="AsideTitle">Alison M. Latimer</p>
-        <p>Alison M. Latimer has been named as Associate Commission Counsel for the Commission of Inquiry into Money Laundering in British Columbia. A trial and appellate lawyer whose practice includes constitutional, civil, administrative and criminal law, she was called to the Bar in both British Columbia and the Yukon. Ms. Latimer practises in Vancouver and is a partner at Arvay Finlay LLP.</p>
+        <p>Alison M. Latimer has been named as Associate Commission Counsel for the Commission of Inquiry into Money Laundering in British Columbia. A trial and appellate lawyer whose practice includes constitutional, civil, administrative and criminal law, she was called to the Bar in both British Columbia and the Yukon. Ms. Latimer practises in Vancouver.</p>
         <p>Ms. Latimer has argued cases at all levels of court in British Columbia, Alberta, the Federal Court system, and the Supreme Court of Canada. She has also appeared before administrative tribunals and provides litigation and policy support to a number of administrative tribunals.</p>
         <p>Ms. Latimer obtained her law degree from the University of Victoria Faculty of Law, where she acts occasionally as an adjunct professor. She frequently presents at conferences and publishes on issues pertaining to her practice.</p>
     </div>
