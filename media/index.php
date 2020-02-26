@@ -7,6 +7,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection12">
+        <p class="ExpandableSectionTitle">Participant Opening Statements</p>
+        <p class="ExpandableSectionUnderTitleLeft"></p>
+        <p class="ExpandableSectionUnderTitleRight">February 25, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent12">
+        <h2>Participant Opening Statements</h2>
+        <p>The opening statements of participants that have been provided to the Commission of Inquiry into Money Laundering in British Columbia can be found <a href="/schedule/">here</a>.</p>
+        <p>They are located beside the participant names in the schedule. Opening statements are posted once the participant has presented at the hearing.</p>
+        <p><em>Please note: Not all participants provided a digital/electronic version of their opening statement to the Commission.</em></p>
+        <p>If you would like to see the opening statements being presented, please see our video archive <a href="/webcast-archive/">here</a>. Archived videos of the hearings are posted to this section in as timely a manner as possible.</p>
+        <p><em>Please note: The videos are edited ONLY to remove the time between the morning, lunch and afternoon breaks.</em></p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection11">
         <p class="ExpandableSectionTitle">Appointment of Tam Boyar as Policy Counsel
         </p>
@@ -333,6 +346,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection11').click(function() {
             $('#ExpandableSectionContent11').slideToggle(time);
+        });
+        $('#ExpandableSection12').click(function() {
+            $('#ExpandableSectionContent12').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
