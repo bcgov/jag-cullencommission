@@ -37,8 +37,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>Canadian Gaming Association - <a href="/files/OpeningStatement-CGA.pdf" target="_blank">Opening Statement</a></li>
     <li>Society of Notaries Public of BC - <a href="/files/OpeningStatement-SNPBC.pdf" target="_blank">Opening Statement</a></li>
     <li>BMW - <a href="/files/OpeningStatement-BMW.pdf" target="_blank">Opening Statement</a></li>
-    <li>Coalition: Transparency International Canada (TI Canada) Canadians For Tax Fairness (C4TF)Publish What you Pay Canada (PWYP)</li>
-    <li>BC Real Estate Association</li>
+    <li>Coalition: Transparency International Canada (TI Canada) Canadians For Tax Fairness (C4TF) Publish What you Pay Canada (PWYP) - <a href="/files/OpeningStatement-Coalition.pdf" target="_blank">Opening Statement</a></li>
+    <li>BC Real Estate Association - <a href="/files/OpeningStatement-BCREA.pdf" target="_blank">Opening Statement</a></li>
     <li>British Columbia Civil Liberties Association - <a href="/files/OpeningStatement-BCCLA.pdf" target="_blank">Opening Statement</a></li>
     <li>Canadian Bar Association, BC Branch and Criminal Defence Advocacy Society</li>
 </ol>
