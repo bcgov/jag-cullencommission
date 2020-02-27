@@ -796,6 +796,40 @@ a.active, a.NavbarButton:hover {
   color: #8D002F;
 }
 
+.WebArchiveMonthDiv {
+  width: 100%;
+  background-color: #d1ffe9;
+  border-style: solid;
+  border-color: #37b47a;
+  border-width: 0px 0px 1px 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.WebArchiveMonthDiv h3 {
+  margin: 0px;
+  padding: 10px 30px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.WebArchiveMonthDiv h3:hover {
+  -webkit-transition: background-color 0.35s;
+  transition: background-color 0.35s;
+  background-color: #007d8157;
+}
+
+.ArchiveVideoTitle {
+  font-weight: bold;
+  margin: 0px;
+  padding: 5px 40px;
+}
+
+.ArchiveVideoLink:hover {
+  color: #007d81;
+  background-color: #007d8157;
+}
+
 /*  CAROUSEL DESIGNS  */
 .carousel__next-button {
   border-style: none;
