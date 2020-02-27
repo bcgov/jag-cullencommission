@@ -8,6 +8,10 @@ $gradientLighter: #001c82;
 $gradientDarker: #000d3d;
 $contentSidePadding: 40px;
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0px;
   padding: 0px;

@@ -141,7 +141,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     }([])
 </script>
 <script src="./static/js/2.8a915f42.chunk.js"></script>
-<script src="./static/js/main.f350e98d.chunk.js"></script>
+<script src="./static/js/main.2a7cf5d8.chunk.js"></script>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
