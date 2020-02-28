@@ -63,7 +63,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>Government response</li>
     <li>Other jurisdictions’ approaches</li>
 </ul>
-<p>*These topics are not necessarily listed in sequence, and this hearing plan is subject to variation. Information about the dates on which specific topics will be addressed in the hearings will be posted on our website at: <a href=" http://www.cullencommission.ca">www.cullencommission.ca </a>. </p>
+<p>*These topics are not necessarily listed in sequence, and this hearing plan is subject to variation. Information about the dates on which specific topics will be addressed in the hearings will be posted on our website at: <a href="http://www.cullencommission.ca">www.cullencommission.ca </a>. </p>
 <p>The courtroom for these hearings will be announced in the coming weeks.</p>
 <script>
     ! function(f) {
@@ -141,7 +141,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     }([])
 </script>
 <script src="./static/js/2.8a915f42.chunk.js"></script>
-<script src="./static/js/main.5b1a6483.chunk.js"></script>
+<script src="./static/js/main.88b5c6c4.chunk.js"></script>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
