@@ -808,6 +808,14 @@ $highLight: rgb(141, 0, 47);
   background-color: #007d8157;
 }
 
+.MiniCalendarContainer {
+  width: 287;
+  height: 302;
+  overflow: hidden;
+  background-color: blueviolet;
+  grid-row: span 2;
+}
+
 /*  CAROUSEL DESIGNS  */
 
 .carousel__next-button {
@@ -953,6 +961,12 @@ $highLight: rgb(141, 0, 47);
   .HearingsCalendarApp {
     width: ((($dayWidth + $widthDayGap) * 7) + ($monthPadding * 2) + ($monthMargin * 2));
   }
+
+  .MiniCalendarContainer {
+    grid-row: 2;
+  }
+
+
 
 .MarkdownPreview {
   width: 95%;

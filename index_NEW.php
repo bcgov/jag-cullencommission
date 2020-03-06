@@ -9,7 +9,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="AsideTitle">Welcome</p>
         <p>Welcome to the website of the Commission of Inquiry into Money Laundering in British Columbia. We invite you to read&nbsp;<a href="/introductory-statement/"><strong>Commissioner Cullen&rsquo;s Introductory Statement</strong></a>.</p>
     </div>
-    <p style="background-color: blueviolet; padding: 0px 0px 380px 0px; grid-row: span 2">TESTING</p>
+    <div class="MiniCalendarContainer">MINI CALENDAR</div>
     <div class="LatestEvents">
         <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
