@@ -837,9 +837,14 @@ a.active, a.NavbarButton:hover {
 .MiniCalendarContainer {
   width: 287;
   height: 302;
-  overflow: hidden;
+  overflow: visible;
   background-color: blueviolet;
   grid-row: span 2;
+}
+
+.MiniCalendarContainer p {
+  padding: 151px 0px;
+  margin: 0px;
 }
 
 /*  CAROUSEL DESIGNS  */
@@ -967,8 +972,8 @@ a.active, a.NavbarButton:hover {
     width: 289px;
   }
   .MiniCalendarContainer {
-    -ms-grid-row: 2;
-    grid-row: 2;
+    -ms-grid-row: 3;
+    grid-row: 3;
   }
   .MarkdownPreview {
     width: 95%;
