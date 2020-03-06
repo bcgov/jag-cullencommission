@@ -811,9 +811,14 @@ $highLight: rgb(141, 0, 47);
 .MiniCalendarContainer {
   width: 287;
   height: 302;
-  overflow: hidden;
+  overflow: visible;
   background-color: blueviolet;
   grid-row: span 2;
+}
+
+.MiniCalendarContainer p {
+  padding: 151px 0px;
+  margin: 0px;
 }
 
 /*  CAROUSEL DESIGNS  */
@@ -963,7 +968,7 @@ $highLight: rgb(141, 0, 47);
   }
 
   .MiniCalendarContainer {
-    grid-row: 2;
+    grid-row: 3;
   }
 
 
