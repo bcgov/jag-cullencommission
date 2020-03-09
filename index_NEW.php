@@ -12,18 +12,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="MiniCalendarContainer" id="MiniCalendarContainerId">
         <noscript>You need to enable JavaScript to run this app.</noscript>
         <div id="root"></div>
-        <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please
-            upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
-        <!--
-          This HTML file is a template.
-          If you open it directly in the browser, you will see an empty page.
-    
-          You can add webfonts, meta tags, or analytics to this file.
-          The build step will place the bundled scripts into the <body> tag.
-    
-          To begin the development, run `npm start` or `yarn start`.
-          To create a production bundle, use `npm run build` or `yarn build`.
-        -->
     </div>
     <div class="LatestEvents">
         <p class="LatestEventsTitle">Latest Information</p>
@@ -220,8 +208,6 @@ const state = {
 };
 
 ReactDOM.render(<App />, document.getElementById('root'));
-
-document.getElementById('IEMessage').style.display = 'none';
 
 </script>
 <?php
