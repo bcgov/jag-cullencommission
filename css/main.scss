@@ -809,16 +809,24 @@ $highLight: rgb(141, 0, 47);
 }
 
 .MiniCalendarContainer {
-  width: 287;
-  height: 302;
-  overflow: visible;
-  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   grid-row: span 2;
+  padding: 0px;
+  margin: 10px 0px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(163, 195, 255);
+  border-radius: 5px;
+  box-shadow: 0px 0px 30px rgba(125, 170, 255, 0.479) inset;
 }
 
-.MiniCalendarContainer p {
-  padding: 151px 0px;
-  margin: 0px;
+.HearingsMiniCalendarApp {
+  width: 287px;
+  height: 270px;
+  margin: 0px auto 30px auto;
+  color: #0967E9;
 }
 
 /*  CAROUSEL DESIGNS  */
