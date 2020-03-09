@@ -13,12 +13,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Transcripts</h1>
+<p>Available transcripts of the public hearings are posted here. (The exception to this would be in the event of special circumstances where there is a need for protective measures for a witness, document or evidence. This could include measures such as a publication ban, sealing materials or proceeding in a closed (non-public) hearing.)</p>
+<p><a href="/files/2019-12-19-Application-Hearing-Transcript.pdf" target="_blank">Application Hearing – Transcript from Dec 19, 2019</a></p>
+<p><a href="/files/2019-10-08-Application-Hearing-Transcript.pdf" target="_blank">Oral Hearing Participants Standing – Transcript from Oct 18, 2019</a></p>
 <div id="root"></div>
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site.
     Please upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
-<p>Transcripts of the upcoming public hearings will be posted here. (The exception to this would be in the event of special circumstances where there is a need for protective measures for a witness, document or evidence. This could include measures such as a publication ban, sealing materials or proceeding in a closed (non-public) hearing.)</p>
-<p><a href="/files/2019-12-19-Application-Hearing-Transcript.pdf" target="_blank">Application Hearing – Transcript from Dec 19, 2019</a></p>
-<p><a href="/files/2019-10-08-Application-Hearing-Transcript.pdf" target="_blank">Oral Hearing Participants Standing – Transcript from Oct 18, 2019</a></p>
 <script>
     ! function(e) {
         function r(r) {
@@ -94,8 +94,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         t()
     }([])
 </script>
-<script src="./static/js/2.f0433fc3.chunk.js"></script>
-<script src="./static/js/main.cd086706.chunk.js"></script>
+<script src="./static/js/2.11b967fc.chunk.js"></script>
+<script src="./static/js/main.4f7ed46d.chunk.js"></script>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
