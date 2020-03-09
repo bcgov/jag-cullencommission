@@ -835,16 +835,31 @@ a.active, a.NavbarButton:hover {
 }
 
 .MiniCalendarContainer {
-  width: 287;
-  height: 302;
-  overflow: visible;
-  background-color: blueviolet;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   grid-row: span 2;
+  padding: 0px;
+  margin: 10px 0px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #a3c3ff;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 0px 30px rgba(125, 170, 255, 0.479) inset;
+          box-shadow: 0px 0px 30px rgba(125, 170, 255, 0.479) inset;
 }
 
-.MiniCalendarContainer p {
-  padding: 151px 0px;
-  margin: 0px;
+.HearingsMiniCalendarApp {
+  width: 287px;
+  height: 270px;
+  margin: 0px auto 30px auto;
+  color: #0967E9;
 }
 
 /*  CAROUSEL DESIGNS  */
