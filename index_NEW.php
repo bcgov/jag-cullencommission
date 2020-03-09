@@ -9,7 +9,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="AsideTitle">Welcome</p>
         <p>Welcome to the website of the Commission of Inquiry into Money Laundering in British Columbia. We invite you to read&nbsp;<a href="/introductory-statement/"><strong>Commissioner Cullen&rsquo;s Introductory Statement</strong></a>.</p>
     </div>
-    <div class="MiniCalendarContainer" id="MiniCalendarContainerId">
+    <div class="MiniCalendarContainer" id="MiniCalendarContainerId" style="display: none">
         <noscript>You need to enable JavaScript to run this app.</noscript>
         <div id="root"></div>
     </div>
@@ -47,10 +47,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <script src="/js/date-format/date.format.js"></script>
 <script type="text/babel">
 
-    document.getElementById('root').style.display = 'none';
-
-
-class App extends React.Component {
+    class App extends React.Component {
 
     getUrlParameter(name) {
         name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
@@ -69,24 +66,26 @@ class App extends React.Component {
                     hearingsThisMonth.push(month[1]);
                 }
             }
-                console.log('# HEARINGS: ' + state.hearings.size);
             if (hearingsThisMonth.length > 0) {
-            let calendar = <Month date={thisMonth}></Month>;
-            let isDevHeader = '';
-            if (state.isDev) {
-                isDevHeader = <h2 style={{ borderRadius: '5px', fontWeight: '800', fontSize: '4.7rem', textAlign: 'center', textTransform: 'uppercase', color: 'white', backgroundColor: '#6200ffc4', padding: '10px', position: 'absolute', top: '150px', left: '50%', textShadow: '0px 0px 20px black', transform: 'rotate(10deg) translate(-35%, 0%)', width: '850px' }}>TEST VERSION</h2>
-            }
-            return (
-                <div id="App">
-                    {isDevHeader}
-                    <h3>This Months Hearings</h3>
-                    <div className="HearingsMiniCalendarApp">
-                        {calendar}
+                let calendar = <Month date={thisMonth}></Month>;
+                let isDevHeader = '';
+                if (state.isDev) {
+                    isDevHeader = <h2 style={{ borderRadius: '5px', fontWeight: '800', fontSize: '4.7rem', textAlign: 'center', textTransform: 'uppercase', color: 'white', backgroundColor: '#6200ffc4', padding: '10px', position: 'absolute', top: '150px', left: '50%', textShadow: '0px 0px 20px black', transform: 'rotate(10deg) translate(-35%, 0%)', width: '850px' }}>TEST VERSION</h2>
+                }
+                document.getElementById('MiniCalendarContainerId').style.display = 'block';
+                cl('HEARINGS SCHEDULED THIS MONTH', INFO);
+                return (
+                    <div id="App">
+                        {isDevHeader}
+                        <h3 style={{textAlign: 'center'}}>This Months Hearings</h3>
+                        <div className="HearingsMiniCalendarApp">
+                            {calendar}
+                        </div>
                     </div>
-                </div>
-            );
+                );
             } else {
                 document.getElementById('MiniCalendarContainerId').style.display = 'none';
+                cl('NO HEARINGS THIS MONTH', INFO);
                 return (
                     <div id="App">
                     </div>
@@ -115,7 +114,6 @@ class App extends React.Component {
                 state.isInit = true;
                 state.isDev = isDev;
                 cl('EDITOR INITIALIZED', SUCCESS);
-                document.getElementById('root').style.display = 'block';
                 this.forceUpdate();
             });
             return (
