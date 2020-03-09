@@ -47,7 +47,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <script src="/js/date-format/date.format.js"></script>
 <script type="text/babel">
 
-    class App extends React.Component {
+    document.getElementById('root').style.display = 'none';
+
+
+class App extends React.Component {
 
     getUrlParameter(name) {
         name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
@@ -112,6 +115,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 state.isInit = true;
                 state.isDev = isDev;
                 cl('EDITOR INITIALIZED', SUCCESS);
+                document.getElementById('root').style.display = 'block';
                 this.forceUpdate();
             });
             return (
