@@ -20,7 +20,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="AsideTitle">Brock Martland, QC</p>
         <p>A partner at the firm of Martland & Saulnier in Vancouver, Brock Martland, QC, practises in the area of criminal law, handling trials and appeals, mainly for the defence and sometimes for the Crown. He has been involved in cases concerning police discipline, administrative and constitutional law, extradition and youth justice.</p>
         <p>Mr. Martland comes to the role of Senior Commission Counsel with experience as Associate Commission Counsel for the Cohen Commission of Inquiry into the Decline of Sockeye Salmon in the Fraser River and for the Frank Paul Inquiry (the Davies Commission) into the death of Frank Paul.</p>
-        <p>He is a graduate of the University of Victoria (Law) and Queen’s University (B.A. (Hon.)). Mr. Martland clerked for the Honourable Justice Major at the Supreme Court of Canada.</p>
+        <p>He is a graduate of the University of Victoria (Law) and Queen’s University (B.A. (Hon.)). Mr. Martland clerked for the Honourable Justice Major at the Supreme Court of Canada. He is a fellow of the American College of Trial Lawyers.</p>
     </div>
     <div class="Aside">
         <p class="AsideTitle">Patrick McGowan</p>
