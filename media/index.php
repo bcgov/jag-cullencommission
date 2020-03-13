@@ -7,6 +7,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection13">
+        <p class="ExpandableSectionTitle">Statement from the Cullen Commission Re: COVID-19</p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">March 13, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent13">
+        <h2>Statement from the Cullen Commission Re: COVID-19</h2>
+        <p>Along with the people of B.C., Canada and around the world, the team at the Commission of Inquiry into Money Laundering in British Columbia is closely monitoring the unfolding situation regarding the coronavirus (COVID-19).</p>
+        <p>The health and safety of the Commission team, participants and their lawyers, those charged with managing operations at the hearing room and other stakeholders, including the public, is our priority.</p>
+        <p>At this time, the Commission’s work continues to move forward as expected. To ensure that we are prepared for what may be required at some point, we are in the process of identifying the options available to us should we need to revise some elements of our process.</p>
+        <p>We will follow the direction provided by the Provincial Health Services Authority, the Provincial Government and the Federal Government on this important health matter. We will act responsibly and with an abundance of caution, both as an organization and as individuals, keeping the overall health and safety of our team and the community at the forefront of any decisions that are made.</p>
+        <p>We will continue to monitor this situation and will email stakeholders directly affected by any decisions as well as post any updates on our website.</p>
+        <p>Thank you.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection12">
         <p class="ExpandableSectionTitle">Participant Opening Statements</p>
         <p class="ExpandableSectionUnderTitleLeft"></p>
