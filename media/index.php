@@ -7,6 +7,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection14">
+        <p class="ExpandableSectionTitle">Cullen Commission’s Physical Office Closed to the Public Re: COVID-19</p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">March 16, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent14">
+        <h2>Cullen Commission’s Physical Office<br />Closed to the Public Re: COVID-19</h2>
+        <p>The Commission of Inquiry into Money Laundering in British Columbia continues to closely monitor the rapidly developing situation regarding COVID-19. The health and safety of the Commission team, participants and their lawyers, and other stakeholders, including the public, is our priority.</p>
+        <p>Given recent guidance from the Federal and Provincial Governments and health authorities, the Commission staff is moving to do much of their work remotely – and the Commission’s physical office will be closed to the public. We have the necessary technology in place that allows us to continue with our work while supporting self-isolation and social distancing.</p>
+        <p>We will continue to work towards fulfilling our mandate, while at the same time complying with recommendations from both federal and provincial health authorities and prioritizing the health of Commission staff and all British Columbians.</p>
+        <p>We will continue to monitor developments and keep the public informed of any modifications to our process.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection13">
         <p class="ExpandableSectionTitle">Statement from the Cullen Commission Re: COVID-19</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
@@ -363,6 +375,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection12').click(function() {
             $('#ExpandableSectionContent12').slideToggle(time);
+        });
+        $('#ExpandableSection13').click(function() {
+            $('#ExpandableSectionContent13').slideToggle(time);
+        });
+        $('#ExpandableSection14').click(function() {
+            $('#ExpandableSectionContent14').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
