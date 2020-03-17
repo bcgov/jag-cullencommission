@@ -17,7 +17,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
             <div class="LatestEvent">
-                <p class="LatestEventDesc">March 16th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=14">Cullen Commission’s Physical Office Closed to the Public Re: COVID-19</a></p>
+                <p class="LatestEventDesc">March 16th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=14">Cullen Commission Update on Response to COVID-19</a></p>
             </div>
             <div class="LatestEvent">
                 <p class="LatestEventDesc">March 13th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=13">Statement from the Cullen Commission Re: COVID-19</a></p>

@@ -8,7 +8,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection14">
-        <p class="ExpandableSectionTitle">Cullen Commission’s Physical Office Closed to the Public Re: COVID-19</p>
+        <p class="ExpandableSectionTitle">Cullen Commission Update on Response to COVID-19</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">March 16, 2020</p>
     </div>
