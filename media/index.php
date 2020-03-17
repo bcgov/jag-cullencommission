@@ -13,7 +13,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="ExpandableSectionUnderTitleRight">March 16, 2020</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent14">
-        <h2>Cullen Commission’s Physical Office<br />Closed to the Public Re: COVID-19</h2>
+        <h2>Cullen Commission Update on Response to COVID-19</h2>
         <p>The Commission of Inquiry into Money Laundering in British Columbia continues to closely monitor the rapidly developing situation regarding COVID-19. The health and safety of the Commission team, participants and their lawyers, and other stakeholders, including the public, is our priority.</p>
         <p>Given recent guidance from the Federal and Provincial Governments and health authorities, the Commission staff is moving to do much of their work remotely – and the Commission’s physical office will be closed to the public. We have the necessary technology in place that allows us to continue with our work while supporting self-isolation and social distancing.</p>
         <p>We will continue to work towards fulfilling our mandate, while at the same time complying with recommendations from both federal and provincial health authorities and prioritizing the health of Commission staff and all British Columbians.</p>
