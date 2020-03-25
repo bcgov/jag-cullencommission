@@ -6,6 +6,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Rulings</h1>
+<P><a href="/files/ApplicationForParticipantStatus-Ruling7.pdf" target="_blank">25 March 2020 - Commission of Inquiry into Money Laundering in British Columbia Application for Standing – Ruling #7 <i class="fas fa-file-pdf PdfIcon"></i></a></P>
 <P><a href="/files/ParticipantsApplicationsBobMackinReleaseApplicationsRuling06.pdf" target="_blank">28 January 2020 - Bob Mackin Request for Release of Applications for Participant Status – Ruling #6 <i class="fas fa-file-pdf PdfIcon"></i></a></P>
 <P><a href="/files/Participant-Application-for-Standing-Ruling-5.pdf" target="_blank">6 January 2020 - Participant Application for Standing – Ruling #5 <i class="fas fa-file-pdf PdfIcon"></i></a></P>
 <P><a href="/files/ParticipantsApplicationsBobMackinRuling04.pdf" target="_blank">8 November 2019 - Application of Bob Mackin for Copies of Application Materials – Ruling #4 <i class="fas fa-file-pdf PdfIcon"></i></a></P>
