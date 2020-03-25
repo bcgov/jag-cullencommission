@@ -72,7 +72,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </ol>
 <p><strong>5. Expenses</strong></p>
 <p>Subject to the directives of Treasury Board, the commissioner is entitled to be reimbursed for reasonable travelling and living expenses at the rates specified for Group III employees set out in the government&rsquo;s Core Policy and Procedures Manual.</p>
-<p style="color: white">TESTING SK 2020-03-24</p>
 
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
