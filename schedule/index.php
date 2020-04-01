@@ -43,7 +43,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>Canadian Bar Association, BC Branch and Criminal Defence Advocacy Society - <a href="/files/OpeningStatement-CBA-CDAS.pdf" target="_blank">Opening Statement</a></li>
 </ol>
 <h3>May 25 – June 26:</h3>
-<p>These hearings will deal with an overview of the money laundering topic and regulatory models, as well as attempts to quantify the extent of money laundering activity in British Columbia. These hearings may not occupy the full five-week period in the spring.</p>
+<p>These hearings will deal with an overview of the money laundering topic and regulatory models, as well as explore the issue of the quantification of money laundering activity in British Columbia. These hearings may not occupy the full five-week period in the spring.</p>
 <p>The courtroom for these hearings will be announced in the coming weeks.</p>
 <h3>September 8 – December 22:</h3>
 <p>The main hearings, in which Commission Counsel plan to address specific issues*, include:</p>
