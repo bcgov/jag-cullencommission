@@ -847,6 +847,97 @@ $highLight: rgb(141, 0, 47);
   float: left;
 }
 
+/*  WITNESS PAGE  */
+
+.WitnessPageList {
+  margin: 0px 20px 40px 20px;
+}
+
+.WitnessListContainer {
+  border-style: solid;
+  border-color: #ccc;
+  border-width: 0px 0px 1px 0px;
+}
+
+.WitnessListActive {
+  padding: 8px 0px 0px 10px;
+  cursor: pointer;
+}
+
+.WitnessListActive:hover {
+  background-color: #eee;
+}
+
+.NoWitnesses {
+  padding: 8px 0px 0px 10px;
+  cursor: no-drop;
+}
+
+.WitnessList {
+  margin: 10px 0px 0px 0px;
+}
+
+.NoWitnesses .WitnessAlphabetTitle {
+  color: #e4e4e4 !important;
+}
+
+.WitnessAlphabetTitle {
+  color: #000 !important;
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-align: left !important;
+  margin: 0px;
+}
+
+.NamesOfWitnesses {
+  font-size: 1.1rem;
+  margin: 0px;
+  padding: 5px 10px 5px 40px;
+  cursor: pointer;
+}
+
+.NamesOfWitnesses:hover {
+  background-color: #eee;
+}
+
+.WitnessOpenButton {
+  float: right;
+  padding: 0px 10px 0px 0px;
+}
+
+.HearingsListOpenButton {
+  float: right;
+  padding: 5px 30px 0px 0px;
+}
+
+.UpdateWitnessContainer {
+  padding: 0px 0px 10px 0px;
+}
+
+.UpdateWitnessTitlebar {
+  padding: 0px;
+}
+
+.WitnessHearingsList {
+  border-style: solid;
+  border-color: #dbdbdb;
+  border-width: 0px 0px 1px 0px;
+  padding: 0px 0px 0px 80px;
+}
+
+.WitnessNotScheduled {
+  color: #a8a8a8 !important;
+  cursor: no-drop !important;
+}
+
+.WitnessNotScheduled:hover {
+  background-color: none !important;
+}
+
+.HearingDateLink {
+  font-size: 0.9rem;
+}
+
 /* ---------------------------------------- SMALL SCREENS ---------------------------------------- */
 
 @media only screen and (max-width: 1000px) {
