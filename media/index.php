@@ -7,6 +7,23 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+<div class="ExpandableSectionTitleContainer" id="ExpandableSection17">
+        <p class="ExpandableSectionTitle">Cullen Commission Set to Hold May/June Hearings Via Videoconferencing</p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">May 12, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent17">
+        <h2>Cullen Commission Set to Hold May/June Hearings Via Videoconferencing</h2>
+        <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia has announced that it will proceed with its scheduled evidence hearings in May and June, beginning on May 25, 2020. In order to lessen the risk of the transmission of COVID-19, the public hearings will be held via online videoconferencing using Microsoft Teams.</p>
+        <p>Over the past several weeks, the Commission team has run multiple mock hearings to test the process. The Commission’s staff and lawyers are confident in their ability to effectively hold the upcoming block of hearings by videoconference.</p>
+        <p>Given the current situation throughout the country, with schools closed and the majority of Canadians working from home, the Commissioner has adjusted the hours of the May-June hearings. They will run from 9:30 a.m. to 1:30 p.m., Monday to Friday, with a break or two partway through the hearing time.</p>
+        <p>Adjustments to the hearing plan have been made in response to the global pandemic and its impact on some participants and witnesses. At this time, it is expected that these hearings will take approximately three and a half weeks to complete. The bulk of the hearings will take place in early September, through the fall.</p>
+        <p>This hearing block will deal with an overview of the money laundering topic and regulatory models. This approach in using digital technology has allowed the Commission team to replicate a traditional courtroom hearing as closely as possible. In keeping with the Commissioner’s commitment to transparency and accessibility, the hearings will be livestreamed on the website (<a href="http://www.cullencommission.ca">www.cullencommission.ca</a>). Reports, documents and exhibits from the hearings will likewise be posted online.</p>
+        <p>The schedule of witnesses is now listed on the Commission’s website; it can be seen here: <a href="https://cullencommission.ca/schedule/">www.cullencommission.ca/schedule/</a> This schedule may be adjusted.</p>
+        <p><strong>About the Commission</strong></p>
+        <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
+        <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection16">
         <p class="ExpandableSectionTitle">Statement of Commissioner Austin Cullen on the Impact of COVID-19</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
@@ -422,6 +439,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection16').click(function() {
             $('#ExpandableSectionContent16').slideToggle(time);
+        });
+        $('#ExpandableSection17').click(function() {
+            $('#ExpandableSectionContent17').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
