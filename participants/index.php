@@ -104,7 +104,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>BCCLA</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Grace Pastine</p>
+                <p>Emily Lapper</p>
             </div>
             <div class="rTableCell">
             </div>
