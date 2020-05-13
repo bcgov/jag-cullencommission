@@ -7,7 +7,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
-<div class="ExpandableSectionTitleContainer" id="ExpandableSection17">
+    <!-- <div class="ExpandableSectionTitleContainer" id="ExpandableSection17">
         <p class="ExpandableSectionTitle">Cullen Commission Set to Hold May/June Hearings Via Videoconferencing</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">May 12, 2020</p>
@@ -38,7 +38,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p><strong>About the Commission</strong></p>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021.</p>
-    </div>
+    </div> -->
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection16">
         <p class="ExpandableSectionTitle">Statement of Commissioner Austin Cullen on the Impact of COVID-19</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
