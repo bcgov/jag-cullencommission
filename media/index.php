@@ -19,7 +19,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>Given the current situation throughout the country, with schools closed and the majority of Canadians working from home, the Commissioner has adjusted the hours of the May-June hearings. They will run from 9:30 a.m. to 1:30 p.m., Monday to Friday, with a break or two partway through the hearing time.</p>
         <p>Adjustments to the hearing plan have been made in response to the global pandemic and its impact on some participants and witnesses. At this time, it is expected that these hearings will take approximately three and a half weeks to complete. The bulk of the hearings will take place in early September, through the fall.</p>
         <p>This hearing block will deal with an overview of the money laundering topic and regulatory models. This approach in using digital technology has allowed the Commission team to replicate a traditional courtroom hearing as closely as possible. In keeping with the Commissioner’s commitment to transparency and accessibility, the hearings will be livestreamed on the website (<a href="http://www.cullencommission.ca">www.cullencommission.ca</a>). Reports, documents and exhibits from the hearings will likewise be posted online.</p>
-        <h3>Witness Schedule</h3>
+        <p><strong>Witness Schedule</strong></p>
         <table>
             <tr>
                 <td>
