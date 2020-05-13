@@ -16,17 +16,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="LatestEvents">
         <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
-            <!-- <div class="LatestEvent">
-                <p class="LatestEventDesc">May 12th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=17">Cullen Commission Set to Hold May/June Hearings Via Videoconferencing</a></p>
-            </div> -->
+            <div class="LatestEvent">
+                <p class="LatestEventDesc">May 13th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=17">Cullen Commission Set to Hold May/June Hearings Via Videoconferencing</a></p>
+            </div>
             <div class="LatestEvent">
                <p class="LatestEventDesc">April 16th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=16">Statement of Commissioner Austin Cullen on the Impact of COVID-19</a></p>
             </div>
             <div class="LatestEvent">
                <p class="LatestEventDesc">April 2nd, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=15">Update Re: COVID-19 and May/June Hearing Block</a></p>
-            </div>
-            <div class="LatestEvent">
-               <p class="LatestEventDesc">March 25th, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for Standing – Ruling #7</a></p>
             </div>
         </div>
     </div>
@@ -80,7 +77,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 return (
                     <div id="App">
                         {isDevHeader}
-                        <h3 style={{textAlign: 'center'}}>This Months Hearings</h3>
+                        <h3 style={{textAlign: 'center'}}>Current Hearings</h3>
                         <div className="HearingsMiniCalendarApp">
                             {calendar}
                         </div>

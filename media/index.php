@@ -7,10 +7,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
-    <!-- <div class="ExpandableSectionTitleContainer" id="ExpandableSection17">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection17">
         <p class="ExpandableSectionTitle">Cullen Commission Set to Hold May/June Hearings Via Videoconferencing</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
-        <p class="ExpandableSectionUnderTitleRight">May 12, 2020</p>
+        <p class="ExpandableSectionUnderTitleRight">May 13, 2020</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent17">
         <h2>Cullen Commission Set to Hold May/June Hearings<br />Via Videoconferencing</h2>
@@ -19,12 +19,114 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>Given the current situation throughout the country, with schools closed and the majority of Canadians working from home, the Commissioner has adjusted the hours of the May-June hearings. They will run from 9:30 a.m. to 1:30 p.m., Monday to Friday, with a break or two partway through the hearing time.</p>
         <p>Adjustments to the hearing plan have been made in response to the global pandemic and its impact on some participants and witnesses. At this time, it is expected that these hearings will take approximately three and a half weeks to complete. The bulk of the hearings will take place in early September, through the fall.</p>
         <p>This hearing block will deal with an overview of the money laundering topic and regulatory models. This approach in using digital technology has allowed the Commission team to replicate a traditional courtroom hearing as closely as possible. In keeping with the Commissioner’s commitment to transparency and accessibility, the hearings will be livestreamed on the website (<a href="http://www.cullencommission.ca">www.cullencommission.ca</a>). Reports, documents and exhibits from the hearings will likewise be posted online.</p>
-        <p>The schedule of witnesses is now listed on the Commission’s website; it can be seen here: <a href="https://cullencommission.ca/schedule/">www.cullencommission.ca/schedule/</a> This schedule may be adjusted.</p>
+        <table>
+            <tr>
+                <td>
+                    <p></p>
+                </td>
+                <td>
+                    <p><strong>MONDAY</strong></p>
+                </td>
+                <td>
+                    <p><strong>TUESDAY</strong></p>
+                </td>
+                <td>
+                    <p><strong>WEDNESDAY</strong></p>
+                </td>
+                <td>
+                    <p><strong>THURSDAY</strong></p>
+                </td>
+                <td>
+                    <p><strong>FRIDAY</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p><strong>Week 1: May 25-May 29</strong></p>
+                </td>
+                <td>
+                    <p>Stephen Schneider</p>
+                </td>
+                <td>
+                    <p>Stephen Schneider</p>
+                </td>
+                <td>
+                    <p>Stephen Schneider</p>
+                </td>
+                <td>
+                    <p>Simon Lord</p>
+                </td>
+                <td>
+                    <p>Simon Lord</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p><strong>Week 2: June 1-June 5</strong></p>
+                </td>
+                <td>
+                    <p>Oliver Bullough</p>
+                </td>
+                <td>
+                    <p>Oliver Bullough</p>
+                </td>
+                <td>
+                    <p>William Gilmore</p>
+                </td>
+                <td>
+                    <p>William Gilmore</p>
+                </td>
+                <td>
+                    <p>Michael Levi, Peter Reuter</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p><strong>Week 3: June 8-June 12</strong></p>
+                </td>
+                <td>
+                    <p>Michael Levi, Peter Reuter</p>
+                </td>
+                <td>
+                    <p>Chief Superintendent Gilchrist</p>
+                </td>
+                <td>
+                    <p>Chief Superintendent Gilchrist</p>
+                </td>
+                <td>
+                    <p>Mark Sieben, Chris Dawkins, Megan Harris</p>
+                </td>
+                <td>
+                    <p>Mark Sieben, Chris Dawkins, Megan Harris</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p><strong>Week 4: June 15-June 19</strong></p>
+                </td>
+                <td>
+                    <p>Sir Robert Wainwright</p>
+                </td>
+                <td>
+                    <p>Sir Robert Wainwright</p>
+                </td>
+                <td>
+                    <p></p>
+                </td>
+                <td>
+                    <p></p>
+                </td>
+                <td>
+                    <p></p>
+                </td>
+            </tr>
+        </table>
+        <p>This schedule may be adjusted.</p>
         <p>Below are brief bio notes on the witnesses scheduled to give evidence at the May/June hearings:</p>
         <ul>
             <li>Professor Stephen Schneider from St. Mary's University, Halifax. Professor Schneider is a criminologist whose research has focused on areas of organized crime, financial crimes and money laundering.</li>
             <li>Simon Lord, senior officer and money laundering expert, National Crime Agency (UK). Mr. Lord has 30 years of experience investigating serious and complex crime, with the last 15 years dedicated to understanding and addressing money laundering.</li>
-            <li>Oliver Bullough, journalist and author of Moneyland: The Inside Story of the Crooks and Kleptocrats Who Rule the World.</li>
+            <li>Oliver Bullough, journalist and author of <em>Moneyland: The Inside Story of the Crooks and Kleptocrats Who Rule the World</em>.</li>
             <li>Emeritus Professor William Gilmore, School of Law, University of Edinburgh, Scotland. Professor Gilmore has an extensive background examining international anti-money laundering measures.</li>
             <li>Professor Michael Levi, Cardiff University, has a distinguished track record of research and advisory work on topics including money laundering and transnational organized crime.</li>
             <li>Professor Peter Reuter, University of Maryland School of Public Policy and Department of Criminology. Professor Reuter is an expert on illegal markets and organized crime policy.</li>
@@ -34,11 +136,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             <li>Megan Harris, executive director and Anti-Money Laundering Secretariat lead, BC Ministry of Attorney General.</li>
             <li>Sir Robert Wainwright, former executive director of Europol and partner with Deloitte based in the Netherlands.</li>
         </ul>
-        <p>The witness schedule will be updated on the Commission’s website (<a href="http://www.cullencommission.ca">www.cullencommission.ca</a>) to reflect any changes.</p>
         <p><strong>About the Commission</strong></p>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission will look at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission will also examine regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
         <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021.</p>
-    </div> -->
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection16">
         <p class="ExpandableSectionTitle">Statement of Commissioner Austin Cullen on the Impact of COVID-19</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
