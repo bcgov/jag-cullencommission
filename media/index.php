@@ -19,6 +19,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>Given the current situation throughout the country, with schools closed and the majority of Canadians working from home, the Commissioner has adjusted the hours of the May-June hearings. They will run from 9:30 a.m. to 1:30 p.m., Monday to Friday, with a break or two partway through the hearing time.</p>
         <p>Adjustments to the hearing plan have been made in response to the global pandemic and its impact on some participants and witnesses. At this time, it is expected that these hearings will take approximately three and a half weeks to complete. The bulk of the hearings will take place in early September, through the fall.</p>
         <p>This hearing block will deal with an overview of the money laundering topic and regulatory models. This approach in using digital technology has allowed the Commission team to replicate a traditional courtroom hearing as closely as possible. In keeping with the Commissioner’s commitment to transparency and accessibility, the hearings will be livestreamed on the website (<a href="http://www.cullencommission.ca">www.cullencommission.ca</a>). Reports, documents and exhibits from the hearings will likewise be posted online.</p>
+        <h3>Witness Schedule</h3>
         <table>
             <tr>
                 <td>
@@ -88,10 +89,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                     <p>Michael Levi, Peter Reuter</p>
                 </td>
                 <td>
-                    <p>Chief Superintendent Gilchrist</p>
+                    <p>Chief Superintendent Robert Gilchrist, Inspector Leslie Stevens, Ryland Wellwood</p>
                 </td>
                 <td>
-                    <p>Chief Superintendent Gilchrist</p>
+                    <p>Chief Superintendent Robert Gilchrist, Inspector Leslie Stevens, Ryland Wellwood</p>
                 </td>
                 <td>
                     <p>Mark Sieben, Chris Dawkins, Megan Harris</p>
@@ -131,6 +132,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             <li>Professor Michael Levi, Cardiff University, has a distinguished track record of research and advisory work on topics including money laundering and transnational organized crime.</li>
             <li>Professor Peter Reuter, University of Maryland School of Public Policy and Department of Criminology. Professor Reuter is an expert on illegal markets and organized crime policy.</li>
             <li>RCMP Chief Superintendent Robert Gilchrist, director general of the Criminal Intelligence Service of Canada.</li>
+            <li>Inspector Leslie Stevens, Criminal Intelligence Service British Columbia/Yukon Territory Bureau.</li>
+            <li>Ryland Wellwood, civilian member analyst, RCMP.</li>
             <li>Mark Sieben, deputy solicitor general, BC Ministry of Public Safety and Solicitor General.</li>
             <li>Chris Dawkins, executive lead, Finance Real Estate Data Analytics, BC Ministry of Finance.</li>
             <li>Megan Harris, executive director and Anti-Money Laundering Secretariat lead, BC Ministry of Attorney General.</li>
