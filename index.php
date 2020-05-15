@@ -11,6 +11,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <div class="MiniCalendarContainer" id="MiniCalendarContainerId" style="display: none">
         <noscript>You need to enable JavaScript to run this app.</noscript>
+        <p style="font-size: 0.85rem; text-align: center">Please click on the date to be taken to that hearing information.</p>
         <div id="root"></div>
     </div>
     <div class="LatestEvents">
@@ -77,7 +78,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 return (
                     <div id="App">
                         {isDevHeader}
-                        <h3 style={{textAlign: 'center'}}>Current Hearings</h3>
+                        <h3 style={{textAlign: 'center', marginTop: '10px'}}>Current Hearings</h3>
                         <div className="HearingsMiniCalendarApp">
                             {calendar}
                         </div>
