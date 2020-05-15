@@ -537,7 +537,7 @@ $highLight: rgb(141, 0, 47);
 .HearingsCalendarApp {
   width: ((($dayWidth + $widthDayGap) * 7) + ($monthPadding * 2) + ($monthMargin * 2)) * $numberOfMonths;
   height: (($dayHeight + $heightDayGap) * 8) + $monthPadding + $dayHeight;
-  margin: 0px auto 30px auto;
+  margin: 0px auto 0px auto;
   color: $calendarPrimary;
 }
 
@@ -689,7 +689,6 @@ $highLight: rgb(141, 0, 47);
 .LocationTimeInfo {
   font-size: 0.85rem;
   font-weight: 600;
-  color: grey;
   margin: 0px 0px 20px 0px;
   padding: 0px;
 }
@@ -706,9 +705,28 @@ $highLight: rgb(141, 0, 47);
   padding: 1px;
 }
 
+.HearingTopSectionLayout {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.HearingSectionTitle {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+}
+
+.HearingSectionMainTitle {
+  font-size: 1.95rem;
+  font-weight: 400;
+  color: #000;
+  margin: 0px 0px 20px 0px;
+}
+
 .HearingFormSectionTitle {
-  font-size: 1.4rem;
-  color: black;
+  font-size: 1.95rem;
+  color: #666;
+  font-weight: 200;
+  margin: 0px 0px 7px 0px;
 }
 
 .HearingInfo {
