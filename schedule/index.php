@@ -13,6 +13,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Hearings Schedule</h1>
 <noscript>You need to enable JavaScript to run this app.</noscript>
+<p style="font-size: 0.85rem; text-align: center">Please click on the date to display that hearing information.</p>
 <div id="root"></div>
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please
     upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
