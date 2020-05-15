@@ -7,6 +7,134 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+<div class="ExpandableSectionTitleContainer" id="ExpandableSection18">
+        <p class="ExpandableSectionTitle">Witness Schedule</p>
+        <p class="ExpandableSectionUnderTitleLeft"></p>
+        <p class="ExpandableSectionUnderTitleRight">May 15, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent18">
+        <h2>Cullen Commission Set to Hold May/June Hearings<br />Via Videoconferencing</h2>
+        <p><strong>Witness Schedule</strong></p>
+        <table>
+            <tr>
+                <td>
+                    <p></p>
+                </td>
+                <td>
+                    <p><strong>MONDAY</strong></p>
+                </td>
+                <td>
+                    <p><strong>TUESDAY</strong></p>
+                </td>
+                <td>
+                    <p><strong>WEDNESDAY</strong></p>
+                </td>
+                <td>
+                    <p><strong>THURSDAY</strong></p>
+                </td>
+                <td>
+                    <p><strong>FRIDAY</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p><strong>Week 1: May 25-May 29</strong></p>
+                </td>
+                <td>
+                    <p>Stephen Schneider</p>
+                </td>
+                <td>
+                    <p>Stephen Schneider</p>
+                </td>
+                <td>
+                    <p>Stephen Schneider</p>
+                </td>
+                <td>
+                    <p>Simon Lord</p>
+                </td>
+                <td>
+                    <p>Simon Lord</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p><strong>Week 2: June 1-June 5</strong></p>
+                </td>
+                <td>
+                    <p>Oliver Bullough</p>
+                </td>
+                <td>
+                    <p>Oliver Bullough</p>
+                </td>
+                <td>
+                    <p>William Gilmore</p>
+                </td>
+                <td>
+                    <p>William Gilmore</p>
+                </td>
+                <td>
+                    <p>Michael Levi, Peter Reuter</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p><strong>Week 3: June 8-June 12</strong></p>
+                </td>
+                <td>
+                    <p>Michael Levi, Peter Reuter</p>
+                </td>
+                <td>
+                    <p>Chief Superintendent Robert Gilchrist, Inspector Leslie Stevens, Ryland Wellwood</p>
+                </td>
+                <td>
+                    <p>Chief Superintendent Robert Gilchrist, Inspector Leslie Stevens, Ryland Wellwood</p>
+                </td>
+                <td>
+                    <p>Mark Sieben, Chris Dawkins, Megan Harris</p>
+                </td>
+                <td>
+                    <p>Mark Sieben, Chris Dawkins, Megan Harris</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p><strong>Week 4: June 15-June 19</strong></p>
+                </td>
+                <td>
+                    <p>Sir Robert Wainwright</p>
+                </td>
+                <td>
+                    <p>Sir Robert Wainwright</p>
+                </td>
+                <td>
+                    <p></p>
+                </td>
+                <td>
+                    <p></p>
+                </td>
+                <td>
+                    <p></p>
+                </td>
+            </tr>
+        </table>
+        <p>This schedule may be adjusted.</p>
+        <p>Below are brief bio notes on the witnesses scheduled to give evidence at the May/June hearings:</p>
+        <ul>
+            <li>Professor Stephen Schneider from St. Mary's University, Halifax. Professor Schneider is a criminologist whose research has focused on areas of organized crime, financial crimes and money laundering.</li>
+            <li>Simon Lord, senior officer and money laundering expert, National Crime Agency (UK). Mr. Lord has 30 years of experience investigating serious and complex crime, with the last 15 years dedicated to understanding and addressing money laundering.</li>
+            <li>Oliver Bullough, journalist and author of <em>Moneyland: The Inside Story of the Crooks and Kleptocrats Who Rule the World</em>.</li>
+            <li>Emeritus Professor William Gilmore, School of Law, University of Edinburgh, Scotland. Professor Gilmore has an extensive background examining international anti-money laundering measures.</li>
+            <li>Professor Michael Levi, Cardiff University, has a distinguished track record of research and advisory work on topics including money laundering and transnational organized crime.</li>
+            <li>Professor Peter Reuter, University of Maryland School of Public Policy and Department of Criminology. Professor Reuter is an expert on illegal markets and organized crime policy.</li>
+            <li>RCMP Chief Superintendent Robert Gilchrist, director general of the Criminal Intelligence Service of Canada.</li>
+            <li>Inspector Leslie Stevens, Criminal Intelligence Service British Columbia/Yukon Territory Bureau.</li>
+            <li>Ryland Wellwood, civilian member analyst, RCMP.</li>
+            <li>Mark Sieben, deputy solicitor general, BC Ministry of Public Safety and Solicitor General.</li>
+            <li>Chris Dawkins, executive lead, Finance Real Estate Data Analytics, BC Ministry of Finance.</li>
+            <li>Megan Harris, executive director and Anti-Money Laundering Secretariat lead, BC Ministry of Attorney General.</li>
+            <li>Sir Robert Wainwright, former executive director of Europol and partner with Deloitte based in the Netherlands.</li>
+        </ul>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection17">
         <p class="ExpandableSectionTitle">Cullen Commission Set to Hold May/June Hearings Via Videoconferencing</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
@@ -561,6 +689,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection17').click(function() {
             $('#ExpandableSectionContent17').slideToggle(time);
+        });
+        $('#ExpandableSection18').click(function() {
+            $('#ExpandableSectionContent18').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
