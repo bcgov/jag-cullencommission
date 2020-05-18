@@ -986,6 +986,18 @@ a.active, a.NavbarButton:hover {
   font-size: 0.9rem;
 }
 
+.ExhibitElement {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 80px 1fr;
+      grid-template-columns: 80px 1fr;
+}
+
+.ExhibitElement p {
+  display: inline-block;
+  margin: 6px;
+}
+
 /* ---------------------------------------- SMALL SCREENS ---------------------------------------- */
 @media only screen and (max-width: 1000px) {
   h1 {
