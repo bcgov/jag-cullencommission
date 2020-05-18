@@ -956,6 +956,17 @@ $highLight: rgb(141, 0, 47);
   font-size: 0.9rem;
 }
 
+.ExhibitElement {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+}
+
+.ExhibitElement p {
+  display: inline-block;
+  margin: 6px;
+}
+
+
 /* ---------------------------------------- SMALL SCREENS ---------------------------------------- */
 
 @media only screen and (max-width: 1000px) {

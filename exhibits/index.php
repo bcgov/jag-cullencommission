@@ -67,8 +67,8 @@ render() {
             this.forceUpdate();
         });
         return (
-        <div id="App">
-        </div>
+            <div id="App">
+            </div>
         );
     }
 }
@@ -76,10 +76,11 @@ render() {
 
 class Exhibit extends React.Component {
     render() {
-        let devUrl = (state.isDev) ? '/dataDev/' : '/data/';
+        let devUrl = (state.isDev) ? '/dataDev' : '/data';
         return (
-            <div className="STUFFITY">
-                <p>#{this.props.exhibitNumber} - <a href={devUrl + this.props.exhibitName} target="_blank">{this.props.exhibitTitle}</a></p>
+            <div className="ExhibitElement">
+                <p>#{this.props.exhibitNumber}</p>
+                <p><a href={devUrl + '/exhibits/' + this.props.exhibitName} target="_blank">{this.props.exhibitTitle}</a></p>
             </div>
         );
     }
@@ -92,7 +93,7 @@ const SUCCESS = 'font-weight: bold; color: green';
 const GENERAL = 'font-weight: bold; color: grey';
 
 function cl(msg, css) {
-console.log('%c' + msg, css);
+    console.log('%c' + msg, css);
 }
 
 const state = {
@@ -102,7 +103,7 @@ exhibits: null,
 };
 
 function sortExhibitArray(a, b) {
-return a[0].localeCompare(b[0], 'en', {numeric: true, sensitivity: 'base'});
+return b[0].localeCompare(a[0], 'en', {numeric: true, sensitivity: 'base'});
 }
 
 ReactDOM.render(<App />, document.getElementById('root'));
