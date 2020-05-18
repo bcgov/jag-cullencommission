@@ -102,7 +102,7 @@ exhibits: null,
 };
 
 function sortExhibitArray(a, b) {
-return a[0].localeCompare(b[0]);
+return a[0].localeCompare(b[0], 'en', {numeric: true, sensitivity: 'base'});
 }
 
 ReactDOM.render(<App />, document.getElementById('root'));
