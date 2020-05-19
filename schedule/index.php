@@ -22,7 +22,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>These hearings will deal with an overview of the money laundering topic and regulatory models. Adjustments to the hearing plan have been made in response to the global pandemic and its impact on some participants and witnesses. At this time, it is expected that these hearings will take approximately three and a half weeks to complete.</p>
 <p>These hearings will be held via videoconferencing.</p>
 <p>A livestream of the hearings will be <a href="http://www.cullencommission.ca/webcast-live/">available here</a>.</p>
-<p>You can see the witness list and their testimony date <a href="http://www.cullencommission.ca/witnesses/">here</a>.</p>
+<p>You can see the witness list and their testimony date <a href="http://www.cullencommission.ca/media/?open=18">here</a>.</p>
 <h3>September 8 – December 22:</h3>
 <p>The main hearings, in which Commission Counsel plan to address specific issues*, include:</p>
 <ul>
