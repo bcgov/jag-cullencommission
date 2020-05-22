@@ -20,7 +20,7 @@ for ($i = 0; $i < count($hearings['hearings']); $i++) {
     }
 }
 if ($found) {
-    echo '<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/event/62773" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>' . "\n";
+    echo '<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/event/62773/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>' . "\n";
 } else {
     echo '<p>No hearings are scheduled today. Please check <a href="/schedule/">the hearings schedule</a> for more information on the timing of hearings.</p>';
 }
