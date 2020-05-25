@@ -25,6 +25,7 @@ if ($found) {
     echo '<p>No hearings are scheduled today. Please check <a href="/schedule/">the hearings schedule</a> for more information on the timing of hearings.</p>';
 }
 ?>
+<p>Video will go live soon.</p>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
