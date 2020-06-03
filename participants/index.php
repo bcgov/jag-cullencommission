@@ -199,7 +199,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>Coalition</strong></p>
             </div>
             <div class="rTableCell">
-                <p>James Cohen, Executive Director<br /> Sasha Caldera, Program Manager, Beneficial Ownership Project *Canadians for Tax Fairness*<br /> Emily Nickerson, Director</p>
+                <p>Kevin J. Comeau</p>
             </div>
             <div class="rTableCell">
             </div>
