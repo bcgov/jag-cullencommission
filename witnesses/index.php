@@ -10,7 +10,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h1>Witnesses</h1>
 <noscript>You need to enable JavaScript to run this app.</noscript>
 <p style="font-size: 0.85rem; text-align: center">If you know the name of the witness, please click on the first letter of their surname.<br />
-    You will see their name listed. If you click on that name, the date(s) of testimony are listed.</p>
+  You will see their name listed. If you click on that name, the date(s) of testimony are listed.</p>
 <p style="font-size: 0.85rem; text-align: center">If you would like to see the schedule of witnesses by date please <a href="/schedule/">click here</a>.</p>
 <div id="root"></div>
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
@@ -25,7 +25,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <script src="/js/classNames.js"></script>
 <script type="text/babel">
 
-class App extends React.Component {
+  class App extends React.Component {
 
     getUrlParameter(name) {
         name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
@@ -656,6 +656,8 @@ AnimateHeight.defaultProps = {
 };
 
 ReactDOM.render(<App />, document.getElementById('root'));
+
+document.getElementById('IEMessage').style.display = 'none';
 
 </script>
 <p>The Commission plans to post its witness lists on its website in advance of the witnesses testifying. These lists will be subject to modification if Commission Counsel determines that a witness is unnecessary or that an additional witness is required.</p>
