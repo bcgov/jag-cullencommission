@@ -18,25 +18,25 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
             <div class="LatestEvent">
-               <p class="LatestEventDesc">May 15th, 2020<br /><strong></strong><br /><a href="/media/?open=18">Witness Schedule for May/June Hearings</a></p>
+                <p class="LatestEventDesc">May 15th, 2020<br /><strong></strong><br /><a href="/media/?open=18">Witness Schedule for May/June Hearings</a></p>
             </div>
             <div class="LatestEvent">
                 <p class="LatestEventDesc">May 13th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=17">Cullen Commission Set to Hold May/June Hearings Via Videoconferencing</a></p>
             </div>
             <div class="LatestEvent">
-               <p class="LatestEventDesc">April 16th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=16">Statement of Commissioner Austin Cullen on the Impact of COVID-19</a></p>
+                <p class="LatestEventDesc">April 16th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=16">Statement of Commissioner Austin Cullen on the Impact of COVID-19</a></p>
             </div>
         </div>
     </div>
 </div>
 <br class="ClearFloats" />
-<p>The purpose of this website is to provide regular, timely and relevant information to the people of British Columbia about the work being undertaken by the Commission.</p>
+<p>The purpose of this website is to provide regular, timely and relevant information to the people of British Columbia about the efforts being undertaken by the Commission.</p>
 <p>There is much work going on behind the scenes at the Commission, including:</p>
 <ul>
     <li>Extensive research and investigation</li>
     <li>Reviewing and analyzing the four existing reports</li>
-    <li>Planning and organizing the hearing portion of the Inquiry</li>
     <li>Identifying and obtaining relevant documents, records and correspondence</li>
+    <li>Planning and organizing for the September hearings set to begin on September 7, 2020 and run to December 22, 2020</li>
 </ul>
 <p>We will continue to regularly update this website.</p>
 <p>We invite you to follow the Cullen Commission on Twitter (<a href="https://twitter.com/culleninquirybc" target="_blank">@culleninquirybc</a>).</p>

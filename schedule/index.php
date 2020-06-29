@@ -18,11 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please
     upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
 <h2>Upcoming Hearings</h2>
-<h3>May 25 – June 17 (estimated):</h3>
-<p>These hearings will deal with an overview of the money laundering topic and regulatory models. Adjustments to the hearing plan have been made in response to the global pandemic and its impact on some participants and witnesses. At this time, it is expected that these hearings will take approximately three and a half weeks to complete.</p>
-<p>These hearings will be held via videoconferencing.</p>
-<p>A livestream of the hearings will be <a href="http://www.cullencommission.ca/webcast-live/">available here</a>.</p>
-<p>You can see the witness list and their testimony date <a href="http://www.cullencommission.ca/media/?open=18">here</a>.</p>
 <h3>September 8 – December 22:</h3>
 <p>The main hearings, in which Commission Counsel plan to address specific issues*, include:</p>
 <ul>
@@ -42,14 +37,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>Other jurisdictions’ approaches</li>
 </ul>
 <p>* These topics are not necessarily listed in sequence, and this hearing plan is subject to variation. Information about the dates on which specific topics will be addressed in the hearings will be posted on our website at: <a href="http://www.cullencommission.ca">www.cullencommission.ca </a>. </p>
-<p>The courtroom for these hearings will be announced in the coming weeks.</p>
+<p>The location of these hearings will be announced in due course.</p>
+<p>For an alphabetical list of witnesses from completed hearings, please go to our <a href="https://cullencommission.ca/witnesses/">Witnesses page</a>.</p>
+<p>You can find the webcast archives of completed hearings at our <a href="https://cullencommission.ca/webcast-archive/">Webcast Archive page</a>.</p>
+<p>You can find the transcripts of completed hearings at our <a href="https://cullencommission.ca/transcripts/">Transcripts page</a>.</p>
+<p>You can find the exhibits from completed hearings at our <a href="https://cullencommission.ca/exhibits/">Exhibits page</a>.</p>
 <h2>Completed Hearings</h2>
 <h3>February 24 -26:</h3>
-<p style="margin-top: 0px; padding-top: 0px"><strong>(with the potential of Feb 27 if required)</strong></p>
-<p>The hearings are set to run from 9:30 am to 4:00 pm. Those attending must go through a security check to be allowed in the hearing room. Please allow time for this.</p>
-<p>No food or drinks other than water is allowed in the hearing room. There is a cloak room for coats, umbrellas etc.</p>
-<p>These hearings are for participants’ opening statements and will provide an opportunity for participants (groups, organizations and individuals granted formal standing) to address the Commissioner and to set out the issues and matters that participants would like to see the Inquiry address.</p>
-<p>These hearings will be held at 701 West Georgia Street, Vancouver, in Courtroom 801.</p>
+<p>These hearings focused on participants’ opening statements and provided an opportunity for participants (groups, organizations and individuals granted formal standing) to address the Commissioner and to set out the issues and matters that participants would like to see the Inquiry address.</p>
 <p><strong>Order of participants:</strong></p>
 <ol>
     <li>Ministry of Attorney General - Gaming Policy Enforcement Branch and Ministry of Attorney General - Ministry of Finance - <a href="/files/OpeningStatement-GPEBAndTheMinistryOfFinance.pdf" target="_blank">Opening Statement</a> </li>
@@ -69,6 +64,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>British Columbia Civil Liberties Association - <a href="/files/OpeningStatement-BCCLA.pdf" target="_blank">Opening Statement</a></li>
     <li>Canadian Bar Association, BC Branch and Criminal Defence Advocacy Society - <a href="/files/OpeningStatement-CBA-CDAS.pdf" target="_blank">Opening Statement</a></li>
 </ol>
+<h3>May 25 – June 17 (estimated):</h3>
+<p>These hearings will deal with an overview of the money laundering topic and regulatory models. Adjustments to the hearing plan have been made in response to the global pandemic and its impact on some participants and witnesses. At this time, it is expected that these hearings will take approximately three and a half weeks to complete.</p>
+<p>These hearings will be held via videoconferencing.</p>
+<p>A livestream of the hearings will be <a href="http://www.cullencommission.ca/webcast-live/">available here</a>.</p>
+<p>You can see the witness list and their testimony date <a href="http://www.cullencommission.ca/media/?open=18">here</a>.</p>
 <script>
     ! function(f) {
         function e(e) {
