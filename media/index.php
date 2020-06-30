@@ -7,14 +7,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
-<div class="ExpandableSectionTitleContainer" id="ExpandableSection18">
-        <p class="ExpandableSectionTitle">Witness Schedule</p>
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection18">
+        <p class="ExpandableSectionTitle">Witness Schedule – May/June 2020 Hearings</p>
         <p class="ExpandableSectionUnderTitleLeft"></p>
         <p class="ExpandableSectionUnderTitleRight">May 15, 2020</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent18">
         <h2>Cullen Commission Set to Hold May/June Hearings<br />Via Videoconferencing</h2>
-        <p><strong>Witness Schedule</strong></p>
+        <p><strong>Witness Schedule – May/June 2020 Hearings</strong></p>
         <table>
             <tr>
                 <td>
