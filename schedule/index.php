@@ -65,8 +65,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>Canadian Bar Association, BC Branch and Criminal Defence Advocacy Society - <a href="/files/OpeningStatement-CBA-CDAS.pdf" target="_blank">Opening Statement</a></li>
 </ol>
 <h3>May 25 – June 17 (estimated):</h3>
-<p>These hearings will deal with an overview of the money laundering topic and regulatory models. Adjustments to the hearing plan have been made in response to the global pandemic and its impact on some participants and witnesses. At this time, it is expected that these hearings will take approximately three and a half weeks to complete.</p>
-<p>These hearings will be held via videoconferencing.</p>
+<p>These hearings dealt with an overview of the money laundering topic and regulatory models. Adjustments to the hearing plan were made in response to the global pandemic and its impact on some participants and witnesses.</p>
+<p>These hearings were held via videoconferencing.</p>
 <p>A livestream of the hearings will be <a href="http://www.cullencommission.ca/webcast-live/">available here</a>.</p>
 <p>You can see the witness list and their testimony date <a href="http://www.cullencommission.ca/media/?open=18">here</a>.</p>
 <script>

@@ -35,7 +35,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </ul>
 <p>The Commission is bound by this mandate. This means that we cannot address issues or situations that you feel are important, but that are not contained in our mandate.</p>
 <h2>Meeting Schedule:</h2>
-<p><strong>All meetings start at 5:30 p.m.</strong></p>
 <div class="Aside3Col">
     <div class="Aside AsideBlue">
         <p class="AsideTitle"><strong>Vancouver:</strong><br />Oct. 23, 2019</p>
