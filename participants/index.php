@@ -104,7 +104,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>BCCLA</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Megan Tweedie</p>
+                <p>Megan Tweedie<br />
+                    Latoya Farrell<br />
+                    Jessica Magonet</p>
             </div>
             <div class="rTableCell">
             </div>
