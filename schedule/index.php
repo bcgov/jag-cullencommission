@@ -64,7 +64,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>British Columbia Civil Liberties Association - <a href="/files/OpeningStatement-BCCLA.pdf" target="_blank">Opening Statement</a></li>
     <li>Canadian Bar Association, BC Branch and Criminal Defence Advocacy Society - <a href="/files/OpeningStatement-CBA-CDAS.pdf" target="_blank">Opening Statement</a></li>
 </ol>
-<h3>May 25 – June 17 (estimated):</h3>
+<h3>May 25 – June 17:</h3>
 <p>These hearings dealt with an overview of the money laundering topic and regulatory models. Adjustments to the hearing plan were made in response to the global pandemic and its impact on some participants and witnesses.</p>
 <p>These hearings were held via videoconferencing.</p>
 <p>A livestream of the hearings will be <a href="http://www.cullencommission.ca/webcast-live/">available here</a>.</p>
