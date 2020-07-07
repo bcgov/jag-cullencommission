@@ -36,7 +36,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li>Extensive research and investigation</li>
     <li>Reviewing and analyzing the four existing reports</li>
     <li>Identifying and obtaining relevant documents, records and correspondence</li>
-    <li>Planning and organizing for the September hearings set to begin on September 7, 2020 and run to December 22, 2020</li>
+    <li>Planning and organizing for the Fall hearing block – September 8 – December 22, 2020</li>
 </ul>
 <p>We will continue to regularly update this website.</p>
 <p>We invite you to follow the Cullen Commission on Twitter (<a href="https://twitter.com/culleninquirybc" target="_blank">@culleninquirybc</a>).</p>
