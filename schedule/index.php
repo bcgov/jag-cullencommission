@@ -18,7 +18,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please
     upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
 <h2>Upcoming Hearings</h2>
-<h3>September 8 – December 22:</h3>
+<h3>October 13, 2020 - April, 2021:</h3>
 <p>The main hearings, in which Commission Counsel plan to address specific issues*, include:</p>
 <ul>
     <li>Gaming, casinos, horseracing</li>
