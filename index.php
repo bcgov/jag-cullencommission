@@ -18,13 +18,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
             <div class="LatestEvent">
+                <p class="LatestEventDesc">July 9th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=19">Cullen Commission Announces Schedule Change for Fall/Winter Hearing Block</a></p>
+            </div>
+            <div class="LatestEvent">
                 <p class="LatestEventDesc">May 15th, 2020<br /><strong></strong><br /><a href="/media/?open=18">Witness Schedule for May/June Hearings</a></p>
             </div>
             <div class="LatestEvent">
                 <p class="LatestEventDesc">May 13th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=17">Cullen Commission Set to Hold May/June Hearings Via Videoconferencing</a></p>
-            </div>
-            <div class="LatestEvent">
-                <p class="LatestEventDesc">April 16th, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=16">Statement of Commissioner Austin Cullen on the Impact of COVID-19</a></p>
             </div>
         </div>
     </div>
