@@ -7,6 +7,21 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection19">
+        <p class="ExpandableSectionTitle">Witness Schedule – May/June 2020 Hearings</p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">July 9, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent19">
+        <h2>Cullen Commission Announces Schedule Change for<br />Fall/Winter Hearing Block</h2>
+        <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia has announced that it has changed the dates of its upcoming evidence hearings, with the start date moving from September 8 to October 13, 2020. This is in response to disruptions that occurred for participants as a result of the global coronavirus pandemic. In addition, while the spring hearings ran as scheduled (via video conference), as a result of challenges associated with COVID-19, some of the matters that the Commission planned to canvas at that time will now be addressed in the upcoming hearing block. The Commission has also advised that the upcoming fall hearings will be held via video conference – similar to those held in May and June.</p>
+        <p>Senior Commission Counsel Brock Martland, QC, reports that there have been particularly acute challenges in the area of document production by participants, along with the pandemic hampering the Commission team’s ability to carry out the interviews, preparation and investigations work that needs to happen prior to the hearings. Said Martland: “Like many across the country, the pandemic has changed how we do our work, which included a shift to an entirely remote work process for our team. This has impeded the pace of our work and that of participants.” He explained: “The delays in document production have, in turn, led to a corresponding delay for the Commission team in reviewing and analyzing materials and pursuing lines of inquiry in various specific sectors identified in our terms of reference. The impact of the pandemic has been particularly severe for the Government of Canada – an important participant in our process and the source of numerous documents that we require.” He added: “We have determined that the adjustment in our schedule will address these challenges.”</p>
+        <p>The hearings will now start on October 13, 2020 and are scheduled to conclude by April 2021.</p>
+        <p>A full schedule of the hearings and a witness list will be posted to the Commission website (<a href="http://www.cullencommission.ca">www.cullencommission.ca</a> ) in due course.</p>
+        <p>The Commission team has confirmed that an interim report will be submitted by November 15, 2020, as required. However, the change in the hearing schedule is expected to necessitate an extension of time for the submission of the final report (currently mandated to be delivered by May 15, 2021). The request to the Province of British Columbia for the extension will be made closer to May 2021, when Commissioner Austin Cullen will have a greater understanding of the additional time required to deliver the final report. At this time, there is no request for additional funding.</p>
+        <p><strong>About the Commission</strong></p>
+        <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission is examining the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. It is also reviewing regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection18">
         <p class="ExpandableSectionTitle">Witness Schedule – May/June 2020 Hearings</p>
         <p class="ExpandableSectionUnderTitleLeft"></p>
@@ -692,6 +707,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection18').click(function() {
             $('#ExpandableSectionContent18').slideToggle(time);
+        });
+        $('#ExpandableSection19').click(function() {
+            $('#ExpandableSectionContent19').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
