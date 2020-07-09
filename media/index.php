@@ -8,7 +8,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection19">
-        <p class="ExpandableSectionTitle">Witness Schedule – May/June 2020 Hearings</p>
+        <p class="ExpandableSectionTitle">Update to Fall Hearing Block Schedule</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">July 9, 2020</p>
     </div>
