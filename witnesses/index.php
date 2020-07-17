@@ -15,7 +15,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div id="root"></div>
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
 <noscript>You need to enable JavaScript to run this app.</noscript>
-<div id="root"></div>
 <script src="/js/axios.min.js"></script>
 <script src="/js/react.production.min.js"></script>
 <script src="/js/react-dom.production.min.js"></script>
