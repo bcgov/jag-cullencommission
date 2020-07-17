@@ -1,0 +1,77 @@
+.glide__arrows {
+  text-align: center;
+  margin: 20px auto 0px auto;
+}
+
+.glide__arrow {
+  display: inline;
+  border: none;
+  background-color: #eee;
+  margin: 5px 10px;
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: #000;
+  font-weight: bold;
+  font-size: 0.75rem;
+  text-shadow: 0px 0px 15px black;
+  text-transform: uppercase;
+  transition: all 0.5s;
+}
+
+.glide__arrow:focus {
+  border: none;
+  outline: none;
+}
+
+.glide__arrow:hover {
+  color: #fff;
+  background-color: #bbb;
+  text-shadow: 0px 0px 5px white;
+}
+
+.glide__bullets {
+  text-align: center;
+  margin: 0px auto;
+}
+
+.glide__bullet {
+  display: inline;
+  background-color: white;
+  margin: 0 10px;
+  padding: 5px;
+  border-radius: 3px;
+  color: #666;
+  font-size: 0.7rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  transition: all 300ms ease-in-out;
+}
+
+.glide__bullet--active {
+  background-color: #ddd;
+  color: #333;
+}
+
+.glide__bullet:focus {
+  border: none;
+  outline: none;
+}
+
+.glide__bullet:hover {
+  background-color: #eee;
+}
+
+.glide--swipeable {
+  cursor: grab;
+  cursor: -moz-grab;
+  cursor: -webkit-grab;
+}
+
+.glide--dragging {
+  cursor: grabbing;
+  cursor: -moz-grabbing;
+  cursor: -webkit-grabbing;
+}
