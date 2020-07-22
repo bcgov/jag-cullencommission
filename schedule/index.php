@@ -1792,7 +1792,7 @@ document.getElementById('IEMessage').style.display = 'none';
 
 </script>
 <h2>Upcoming Hearings</h2>
-<h3>October 13, 2020 - April, 2021:</h3>
+<h3>October 13, 2020 - April 2021:</h3>
 <p>The main hearings, in which Commission Counsel plan to address specific issues*, include:</p>
 <ul>
   <li>Gaming, casinos, horseracing</li>
@@ -1810,14 +1810,14 @@ document.getElementById('IEMessage').style.display = 'none';
   <li>Government response</li>
   <li>Other jurisdictions’ approaches</li>
 </ul>
-<p>* These topics are not necessarily listed in sequence, and this hearing plan is subject to variation. Information about the dates on which specific topics will be addressed in the hearings will be posted on our website at: <a href="http://www.cullencommission.ca">www.cullencommission.ca </a>. </p>
+<p>* These topics are not necessarily listed in sequence, and this hearing plan is subject to variation. Information about the dates on which specific topics will be addressed in the hearings will be posted on our website at: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
 <p>The location of these hearings will be announced in due course.</p>
 <p>For an alphabetical list of witnesses from completed hearings, please go to our <a href="https://cullencommission.ca/witnesses/">Witnesses page</a>.</p>
 <p>You can find the webcast archives of completed hearings at our <a href="https://cullencommission.ca/webcast-archive/">Webcast Archive page</a>.</p>
 <p>You can find the transcripts of completed hearings at our <a href="https://cullencommission.ca/transcripts/">Transcripts page</a>.</p>
 <p>You can find the exhibits from completed hearings at our <a href="https://cullencommission.ca/exhibits/">Exhibits page</a>.</p>
 <h2>Completed Hearings</h2>
-<h3>February 24 -26:</h3>
+<h3>February 24 - 26:</h3>
 <p>These hearings focused on participants’ opening statements and provided an opportunity for participants (groups, organizations and individuals granted formal standing) to address the Commissioner and to set out the issues and matters that participants would like to see the Inquiry address.</p>
 <p><strong>Order of participants:</strong></p>
 <ol>
@@ -1838,7 +1838,7 @@ document.getElementById('IEMessage').style.display = 'none';
   <li>British Columbia Civil Liberties Association - <a href="/files/OpeningStatement-BCCLA.pdf" target="_blank">Opening Statement</a></li>
   <li>Canadian Bar Association, BC Branch and Criminal Defence Advocacy Society - <a href="/files/OpeningStatement-CBA-CDAS.pdf" target="_blank">Opening Statement</a></li>
 </ol>
-<h3>May 25 – June 17:</h3>
+<h3>May 25 - June 17:</h3>
 <p>These hearings dealt with an overview of the money laundering topic and regulatory models. Adjustments to the hearing plan were made in response to the global pandemic and its impact on some participants and witnesses.</p>
 <p>These hearings were held via videoconferencing.</p>
 <p>A livestream of the hearings will be <a href="http://www.cullencommission.ca/webcast-live/">available here</a>.</p>

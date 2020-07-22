@@ -106,7 +106,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             <div class="rTableCell">
                 <p>Megan Tweedie<br />
                     Latoya Farrell<br />
-                    Jessica Magonet</p>
+                    Jessica Magonet<br />
+                    Susan Humphrey</p>
             </div>
             <div class="rTableCell">
             </div>
