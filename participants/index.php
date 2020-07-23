@@ -106,8 +106,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             <div class="rTableCell">
                 <p>Megan Tweedie<br />
                     Latoya Farrell<br />
-                    Jessica Magonet<br />
-                    Susan Humphrey</p>
+                    Jessica Magonet</p>
             </div>
             <div class="rTableCell">
             </div>
@@ -134,7 +133,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>BCLC</strong></p>
             </div>
             <div class="rTableCell">
-                <p>William B. Smart, QC<br /> Shannon P. Ramsay</p>
+                <p>William B. Smart, QC<br /> Shannon P. Ramsay<br />Susan Humphrey</p>
             </div>
             <div class="rTableCell">
                 <p>Hunter Litigation Chambers Law Corporation</p>
