@@ -1841,7 +1841,7 @@ document.getElementById('IEMessage').style.display = 'none';
 <h3>May 25 - June 17:</h3>
 <p>These hearings dealt with an overview of the money laundering topic and regulatory models. Adjustments to the hearing plan were made in response to the global pandemic and its impact on some participants and witnesses.</p>
 <p>These hearings were held via videoconferencing.</p>
-<p>Video archives of these hearing can be <a href="http://www.cullencommission.ca/webcast-archive/">found here</a>.</p>
+<p>Video archives of these hearings can be <a href="http://www.cullencommission.ca/webcast-archive/">found here</a>.</p>
 <p>You can see the witness list and their testimony date <a href="http://www.cullencommission.ca/media/?open=18">here</a>.</p>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
