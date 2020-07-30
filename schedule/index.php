@@ -63,7 +63,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       numMonths += endDate.getMonth() + 2;  // Adds an extra month to allow for adding new dates beyond the last month.
       numMonths = ((numMonths <= 3) ? 3 : numMonths) + 1;  // Make sure it always has three months.
       visibleSlides = (isMobile) ? 1 : 3;
-      let endOfCarousel = (isMobile) ? numMonths - visibleSlides - 2 : numMonths - visibleSlides - 1;  // Subtract 1 so that the carousel scrolls to the correct month.
+      endOfCarousel = (isMobile) ? numMonths - visibleSlides - 2 : numMonths - visibleSlides;
       for (let i = 0; i < numMonths; i++) {
         let newDate = new Date(startDate)
         newDate.setMonth(startDate.getMonth() + i);
@@ -158,7 +158,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             new Glide('.glide',
               {
                 type: 'slider',
-                startAt: 0,
+                startAt: endOfCarousel,
                 perView: visibleSlides,
                 rewind: false,
                 throttle: 0
@@ -530,6 +530,8 @@ const GENERAL_CSS = 'font-weight: bold; color: grey';
 function cl(msg, css) {
     console.log('%c' + msg, css);
 }
+
+let endOfCarousel;
 
 const state = {
     isInit: false,
