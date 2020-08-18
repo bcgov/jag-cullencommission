@@ -863,6 +863,12 @@ $highLight: rgb(141, 0, 47);
 .WeeklyScheduleHearing {
   border-color: $gradientLighter;
   background-color: rgb(129, 173, 255);
+  cursor: pointer;
+  transition: background-color 0.35s;
+}
+
+.WeeklyScheduleHearing:hover {
+  background-color: rgb(75, 138, 255);
 }
 
 .WeeklyScheduleNoHearing {

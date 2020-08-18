@@ -896,6 +896,13 @@ a.active, a.NavbarButton:hover {
 .WeeklyScheduleHearing {
   border-color: #001c82;
   background-color: #81adff;
+  cursor: pointer;
+  -webkit-transition: background-color 0.35s;
+  transition: background-color 0.35s;
+}
+
+.WeeklyScheduleHearing:hover {
+  background-color: #4b8aff;
 }
 
 .WeeklyScheduleNoHearing {
