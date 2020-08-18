@@ -843,6 +843,64 @@ $highLight: rgb(141, 0, 47);
   color: #0967E9;
 }
 
+/*  WEEKLY SCHEDULE  */
+
+.WeeklySchedule {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 5px;
+  margin: 0px 0px 30px 0px;
+}
+
+.WeeklyScheduleElem {
+  border-radius: $sectionBorderRadius;
+  border-style: solid;
+  border-width: 1px;
+  padding: 5px 5px 10px 5px;
+  text-align: center;
+}
+
+.WeeklyScheduleHearing {
+  border-color: $gradientLighter;
+  background-color: rgb(129, 173, 255);
+}
+
+.WeeklyScheduleNoHearing {
+  border-color: #666;
+  background-color: #eee;
+}
+
+.WeeklyScheduleCancelled {
+  border-color: rgb(255, 72, 0);
+  background-color: rgb(255, 229, 211);
+}
+
+.ScheduleHearingDate {
+  font-weight: bold;
+  font-size: 0.75rem;
+}
+
+.ScheduleHearingName {
+  font-weight: bold;
+  font-size: 0.85rem;
+  margin: 0px;
+  padding-bottom: 0px;
+  color: #fff;
+  text-shadow: 0px 0px 5px #000d3d;
+}
+
+.ScheduleNoHearing {
+  font-weight: bold;
+  font-size: 0.65rem;
+  color: #999;
+}
+
+.ScheduleCancelled {
+  font-weight: bold;
+  font-size: 0.65rem;
+  color: rgb(255, 72, 0);
+}
+
 /*  CAROUSEL DESIGNS  */
 
 .carousel__next-button {
