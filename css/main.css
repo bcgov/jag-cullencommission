@@ -875,6 +875,65 @@ a.active, a.NavbarButton:hover {
   color: #0967E9;
 }
 
+/*  WEEKLY SCHEDULE  */
+.WeeklySchedule {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 5px;
+  margin: 0px 0px 30px 0px;
+}
+
+.WeeklyScheduleElem {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  padding: 5px 5px 10px 5px;
+  text-align: center;
+}
+
+.WeeklyScheduleHearing {
+  border-color: #001c82;
+  background-color: #81adff;
+}
+
+.WeeklyScheduleNoHearing {
+  border-color: #666;
+  background-color: #eee;
+}
+
+.WeeklyScheduleCancelled {
+  border-color: #ff4800;
+  background-color: #ffe5d3;
+}
+
+.ScheduleHearingDate {
+  font-weight: bold;
+  font-size: 0.75rem;
+}
+
+.ScheduleHearingName {
+  font-weight: bold;
+  font-size: 0.85rem;
+  margin: 0px;
+  padding-bottom: 0px;
+  color: #fff;
+  text-shadow: 0px 0px 5px #000d3d;
+}
+
+.ScheduleNoHearing {
+  font-weight: bold;
+  font-size: 0.65rem;
+  color: #999;
+}
+
+.ScheduleCancelled {
+  font-weight: bold;
+  font-size: 0.65rem;
+  color: #ff4800;
+}
+
 /*  CAROUSEL DESIGNS  */
 .carousel__next-button {
   border-style: none;
