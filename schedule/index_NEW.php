@@ -42,6 +42,30 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     this.setState({});
   }
 
+  handleWeekDayClick(e) {
+    let hearingID = parseInt(e.currentTarget.dataset.hearingdate);
+    if (state.selectedHearing === null) {
+      selectHearing(hearingID);
+      showHearing();
+      scrollToVideo();
+    } else {
+      if (state.selectedHearing.timeStamp === hearingID) {
+        hideHearing();
+        setTimeout(() => { deSelectHearing(); }, 600);
+      } else {
+        hideHearing();
+        setTimeout(
+          () => {
+            selectHearing(hearingID);
+            showHearing();
+            scrollToVideo();
+            this.forceAppUpdate();
+          }, 750);
+      }
+    }
+    this.forceAppUpdate();
+  }
+
   render() {
     if (state.isInit) {
       let mainHeight = 0;
@@ -124,9 +148,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
           iterDate.setDate(startDateFilter.getDate() + i);
           let dayOfWeek = iterDate.format('w');
           if (dayOfWeek != 0 && dayOfWeek != 6) {
-            console.log('WEEK DAY: ' + dayOfWeek);
             let hearingFound = state.hearings.has(iterDate.getTime());
-            // let hearingDate = new Date(hearingSchedule.timeStamp);
             if (hearingFound) {
               let witnessNames = [];
               let filteredHearing = state.hearings.get(iterDate.getTime());
@@ -153,7 +175,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                   }
                 }
                 witnessScheduleHeaders.push((
-                  <div key={filteredHearing.timeStamp + "Date"} className="WeeklyScheduleElem WeeklyScheduleHearing">
+                  <div key={filteredHearing.timeStamp + "Date"} data-hearingdate={filteredHearing.timeStamp} className="WeeklyScheduleElem WeeklyScheduleHearing" onClick={this.handleWeekDayClick.bind(this)}>
                     <p className="ScheduleHearingDate">{iterDate.format("M j")}</p>
                     {witnessNames}
                   </div>
@@ -369,224 +391,227 @@ class Day extends React.Component {
 }
 
 class SelectedHearing extends React.Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            playingMorningVideo: false,
-            playingAfternoonVideo: false
-        };
-        this.videoRef = React.createRef();
-    }
+  constructor(props) {
+    super(props);
+    this.state = {
+      playingMorningVideo: false,
+      playingAfternoonVideo: false,
+    };
+    this.scrollToHearing = React.createRef();
+  }
 
-    componentDidMount(prevProps) {
-      if (state.selectedHearing !== null && state.selectedHearing.notifications !== '') {
-        document.getElementById('MarkDownArea').innerHTML = marked(state.selectedHearing.notifications);
+  componentDidMount(prevProps) {
+    if (state.selectedHearing !== null && state.selectedHearing.notifications !== '') {
+      document.getElementById('MarkDownArea').innerHTML = marked(state.selectedHearing.notifications);
+    }
+  }
+
+  handleWatchMorningVideoClick() {
+      if (state.videoToWatch === state.selectedHearing.morningVideo) {
+          showHideVideo(false);
+          setTimeout(() => {
+              playVideo('');
+              this.props.forceApp();
+          }, 500);
+      } else {
+          playVideo(state.selectedHearing.morningVideo);
+          showHideVideo(true);
+          scrollToVideo();
       }
-    }
+      this.props.forceApp();
+  }
 
-    handleWatchMorningVideoClick() {
-        if (state.videoToWatch === state.selectedHearing.morningVideo) {
-            showHideVideo(false);
-            setTimeout(() => {
-                playVideo('');
-                this.props.forceApp();
-            }, 500);
-        } else {
-            playVideo(state.selectedHearing.morningVideo);
-            showHideVideo(true);
-            scrollToVideo();
-        }
-        this.props.forceApp();
-    }
+  handleWatchAfternoonVideoClick() {
+      if (state.videoToWatch === state.selectedHearing.afternoonVideo) {
+          showHideVideo(false);
+          setTimeout(() => {
+              playVideo('');
+              this.props.forceApp();
+          }, 500);
+      } else {
+          playVideo(state.selectedHearing.afternoonVideo);
+          showHideVideo(true);
+          scrollToVideo();
+      }
+      this.props.forceApp();
+  }
 
-    handleWatchAfternoonVideoClick() {
-        if (state.videoToWatch === state.selectedHearing.afternoonVideo) {
-            showHideVideo(false);
-            setTimeout(() => {
-                playVideo('');
-                this.props.forceApp();
-            }, 500);
-        } else {
-            playVideo(state.selectedHearing.afternoonVideo);
-            showHideVideo(true);
-            scrollToVideo();
-        }
-        this.props.forceApp();
-    }
-
-    render() {
-        let hearingTitleDate = '';
-        let notifications = [];
-        if (state.selectedHearing !== null) {
-            if (state.selectedHearing.notifications !== '') {
-                notifications.push(
-                    (
-                        <div key="Notifications">
-                            <h2 className="HearingFormSectionTitle">Notifications</h2>
-                            <div id="MarkDownArea" className="MarkdownPreview">
-                            </div>
-                        </div>
-                    )
-                );
-            }
-            if (state.selectedHearing.isCancelled) {
-                hearingTitleDate = new Date(state.selectedHearing.timeStamp).format('F j, Y');
-                return (
-                    <div className="SelectedHearing">
-                        <h2 className="HearingSectionMainTitle">{hearingTitleDate} <span style={{ color: 'red', fontWeight: '400' }}>Hearing Cancelled</span></h2>
-                        {notifications}
-                    </div>
-                );
-            } else {
-                let topNotification = [];  // Any tags you place in here will appear at the top of the selected hearing area as a notification.
-                let themesList = [];
-                let exhibitsList = [];
-                let buildingRoom = '';
-                let street = '';
-                let city = '';
-                let morningSession = '';
-                let afternoonSession = '';
-                hearingTitleDate = new Date(state.selectedHearing.timeStamp).format('F j, Y');
-                buildingRoom = state.selectedHearing.buildingRoom;
-                street = state.selectedHearing.street;
-                city = state.selectedHearing.city;
-                morningSession = state.selectedHearing.morningSession;
-                afternoonSession = state.selectedHearing.afternoonSession;
-                if (state.selectedHearing.themes.size === 0) {
-                    themesList.push(<p key="NoThemesScheduled">There are no themes scheduled for this hearing.</p>);
-                } else {
-                    for (const theme of state.selectedHearing.themes.keys()) {
-                        themesList.push(<ThemesWitnesses key={theme} themeId={theme}></ThemesWitnesses>);
-                    }
-                }
-                if (state.selectedHearing.exhibits.length === 0) {
-                    exhibitsList.push(<p key="NoExhibitsEntered" style={{ gridColumn: '1 / span 2' }}>No exhibits have been uploaded for this hearing.</p>);
-                } else {
-                    for (const exhibit of state.selectedHearing.exhibits) {
-                        let url = '/data/exhibits/';
-                        if (this.props.isDev) {
-                            url = '/dataDev/exhibits/';
-                        }
-                        exhibitsList.push(<p key={exhibit[0] + 'NUM'}>#{exhibit[0]}</p>);
-                        exhibitsList.push(<p key={exhibit[0] + 'LINK'}><a href={url + exhibit[2]}>{exhibit[1]}</a></p>);
-                    }
-                }
-                let transcriptLink = <p key="NoTranscripts" style={{marginTop: '0px'}}><strong>Transcripts for this session will be uploaded here.</strong></p>;
-                if (state.selectedHearing.transcriptLink !== '') {
-                    if (this.props.isDev) {
-                        transcriptLink = <p key={state.selectedHearing.transcriptLink} style={{marginTop: '0px'}}><a href={"/dataDev/transcripts/" + state.selectedHearing.transcriptLink} target="_blank">{state.selectedHearing.transcriptLink}</a></p>;
-                    } else {
-                        transcriptLink = <p key={state.selectedHearing.transcriptLink} style={{marginTop: '0px'}}><a href={"/data/transcripts/" + state.selectedHearing.transcriptLink} target="_blank">{state.selectedHearing.transcriptLink}</a></p>;
-                    }
-                }
-                let webcastLink = [];
-                if (state.selectedHearing.timeStamp === new Date(new Date().getFullYear(), new Date().getMonth(), new Date().getDate()).getTime()) {
-                    webcastLink = <h3 key="WebcastLink" className="HearingFormSectionTitle" style={{ textAlign: 'center' }}><a href="/webcast-live/" target="_blank">View Live Webcast of this Hearing</a></h3>;
-                }
-                let timeCss = "LocationTimeInfo";
-                let timeNoneDefaultMsg = '';
-                if (state.selectedHearing.defaultTime === false) {
-                    timeCss += ' NoneDefault';
-                    timeNoneDefaultMsg = <span key="NoneDefaultTimeMsg"><br /><br />Notice change in time.</span>
-                }
-                let locationCss = "LocationTimeInfo";
-                let locationNoneDefaultMsg = '';
-                if (state.selectedHearing.defaultAddress === false) {
-                    locationCss += ' NoneDefault';
-                    locationNoneDefaultMsg = <span key="NoneDefaultLocationMsg"><br /><br />Notice change in location.</span>
-                }
-                let videos = [];
-                let morningUploaded = false;
-                let afternoonUploaded = false;
-                if (state.selectedHearing.morningVideo !== undefined && state.selectedHearing.morningVideo !== '') {
-                    morningUploaded = true;
-                }
-                if (state.selectedHearing.afternoonVideo !== undefined && state.selectedHearing.afternoonVideo !== '') {
-                    afternoonUploaded = true;
-                }
-                if (morningUploaded === false && afternoonUploaded === false) {
-                    videos = <p><strong>No videos uploaded at this point.</strong></p>;
-                } else if (morningUploaded && afternoonUploaded) {
-                    videos.push(<div key={state.selectedHearing.morningVideo} ref={this.videoRef} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchMorningVideoClick.bind(this)}>Watch Morning Session</div>);
-                    videos.push(<div key={state.selectedHearing.afternoonVideo} ref={this.videoRef} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchAfternoonVideoClick.bind(this)}>Watch Afternoon Session</div>);
-                } else {
-                    if (morningUploaded) {
-                        videos = <div key={state.selectedHearing.morningVideo} ref={this.videoRef} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchMorningVideoClick.bind(this)}>Watch Morning Session</div>;
-                    }
-                    if (afternoonUploaded) {
-                        videos = <div key={state.selectedHearing.afternoonVideo} ref={this.videoRef} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchAfternoonVideoClick.bind(this)}>Watch Afternoon Session</div>;
-                    }
-                }
-                let videoHeight = 0;
-                let videoPlayer = <p key="Default"></p>;
-                if (state.displayVideo) {
-                    videoHeight = 'auto';
-                }
-                if (state.videoToWatch !== '') {
-                    let queryStr = '';
-                    if (state.scrollToVideo) {
-                        queryStr = '?autoplay=1';
-                    }
-                    videoPlayer = <div key="vimeoplayer" style={{ padding: '56.25% 0 0 0', position: 'relative' }}><iframe src={'https://player.vimeo.com/video/' + state.videoToWatch + queryStr} frameBorder="0" allow="autoplay; fullscreen" allowFullScreen style={{ position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}></iframe></div>
-                }
-                if (state.scrollToVideo) {
-                    window.scrollTo(0, this.videoRef.current.offsetTop);
-                }
-                return (
-                    <div className="SelectedHearing">
-                        <div className="HearingSectionTitle">
-                            <div>
-                                <p style={{float: 'left', color: '#999999'}}>Scroll down&nbsp;&nbsp;<i className="fas fa-chevron-down"></i><i className="fas fa-chevron-down"></i></p>
-                            </div>
-                            <h2 className="HearingSectionMainTitle">{hearingTitleDate}</h2>
-                            <div>
-                                <p style={{float: 'right', color: '#999999'}}><i className="fas fa-chevron-down"></i><i className="fas fa-chevron-down"></i>&nbsp;&nbsp;Scroll down</p>
-                            </div>
-                        </div>
-                        {webcastLink}
-                        <div className="HearingInfo">
-                            {topNotification}
-                            <div className="HearingTopSectionLayout">
-                                <div>
-                                    <h3 className="HearingFormSectionTitle">Location:</h3>
-                                    <p className={locationCss}>{buildingRoom}<br />{street}<br />{city}{locationNoneDefaultMsg}</p>
-                                </div>
-                                <div>
-                                    <h3 className="HearingFormSectionTitle">Transcript</h3>
-                                    {transcriptLink}
-                                </div>
-                                <div>
-                                    <h3 className="HearingFormSectionTitle">Session Times:</h3>
-                                    <p className={timeCss}>Morning Session: {morningSession}<br />Afternoon Session: {afternoonSession}{timeNoneDefaultMsg}</p>
-                                </div>
-                                <div>
-                                    <h3 className="HearingFormSectionTitle">Videos</h3>
-                                    <div className="VideoListContainer">
-                                        {videos}
-                                    </div>
-                                </div>
-                            </div>
-                            <AnimateHeight duration={500} height={videoHeight}>
-                                {videoPlayer}
-                            </AnimateHeight>
-                            {notifications}
-                            <h2 className="HearingFormSectionTitle">Themes</h2>
-                            {themesList}
-                            <h2 className="HearingFormSectionTitle">Exhibits</h2>
-                            <div className="ExhibitElement">
-                                {exhibitsList}
-                            </div>
-                        </div>
-                    </div>
-                );
-            }
-        } else {
-            return (
-                <div className="SelectedHearing">
-                </div>
-            );
-        }
-    }
+  render() {
+      let hearingTitleDate = '';
+      let notifications = [];
+      if (state.selectedHearing !== null) {
+          if (state.selectedHearing.notifications !== '') {
+              notifications.push(
+                  (
+                      <div key="Notifications">
+                          <h2 className="HearingFormSectionTitle">Notifications</h2>
+                          <div id="MarkDownArea" className="MarkdownPreview">
+                          </div>
+                      </div>
+                  )
+              );
+          }
+          if (state.selectedHearing.isCancelled) {
+              hearingTitleDate = new Date(state.selectedHearing.timeStamp).format('F j, Y');
+              return (
+                  <div className="SelectedHearing">
+                      <h2 className="HearingSectionMainTitle">{hearingTitleDate} <span style={{ color: 'red', fontWeight: '400' }}>Hearing Cancelled</span></h2>
+                      {notifications}
+                  </div>
+              );
+          } else {
+              let topNotification = [];  // Any tags you place in here will appear at the top of the selected hearing area as a notification.
+              let themesList = [];
+              let exhibitsList = [];
+              let buildingRoom = '';
+              let street = '';
+              let city = '';
+              let morningSession = '';
+              let afternoonSession = '';
+              hearingTitleDate = new Date(state.selectedHearing.timeStamp).format('F j, Y');
+              buildingRoom = state.selectedHearing.buildingRoom;
+              street = state.selectedHearing.street;
+              city = state.selectedHearing.city;
+              morningSession = state.selectedHearing.morningSession;
+              afternoonSession = state.selectedHearing.afternoonSession;
+              if (state.selectedHearing.themes.size === 0) {
+                  themesList.push(<p key="NoThemesScheduled">There are no themes scheduled for this hearing.</p>);
+              } else {
+                  for (const theme of state.selectedHearing.themes.keys()) {
+                      themesList.push(<ThemesWitnesses key={theme} themeId={theme}></ThemesWitnesses>);
+                  }
+              }
+              if (state.selectedHearing.exhibits.length === 0) {
+                  exhibitsList.push(<p key="NoExhibitsEntered" style={{ gridColumn: '1 / span 2' }}>No exhibits have been uploaded for this hearing.</p>);
+              } else {
+                  for (const exhibit of state.selectedHearing.exhibits) {
+                      let url = '/data/exhibits/';
+                      if (this.props.isDev) {
+                          url = '/dataDev/exhibits/';
+                      }
+                      exhibitsList.push(<p key={exhibit[0] + 'NUM'}>#{exhibit[0]}</p>);
+                      exhibitsList.push(<p key={exhibit[0] + 'LINK'}><a href={url + exhibit[2]}>{exhibit[1]}</a></p>);
+                  }
+              }
+              let transcriptLink = <p key="NoTranscripts" style={{marginTop: '0px'}}><strong>Transcripts for this session will be uploaded here.</strong></p>;
+              if (state.selectedHearing.transcriptLink !== '') {
+                  if (this.props.isDev) {
+                      transcriptLink = <p key={state.selectedHearing.transcriptLink} style={{marginTop: '0px'}}><a href={"/dataDev/transcripts/" + state.selectedHearing.transcriptLink} target="_blank">{state.selectedHearing.transcriptLink}</a></p>;
+                  } else {
+                      transcriptLink = <p key={state.selectedHearing.transcriptLink} style={{marginTop: '0px'}}><a href={"/data/transcripts/" + state.selectedHearing.transcriptLink} target="_blank">{state.selectedHearing.transcriptLink}</a></p>;
+                  }
+              }
+              let webcastLink = [];
+              if (state.selectedHearing.timeStamp === new Date(new Date().getFullYear(), new Date().getMonth(), new Date().getDate()).getTime()) {
+                  webcastLink = <h3 key="WebcastLink" className="HearingFormSectionTitle" style={{ textAlign: 'center' }}><a href="/webcast-live/" target="_blank">View Live Webcast of this Hearing</a></h3>;
+              }
+              let timeCss = "LocationTimeInfo";
+              let timeNoneDefaultMsg = '';
+              if (state.selectedHearing.defaultTime === false) {
+                  timeCss += ' NoneDefault';
+                  timeNoneDefaultMsg = <span key="NoneDefaultTimeMsg"><br /><br />Notice change in time.</span>
+              }
+              let locationCss = "LocationTimeInfo";
+              let locationNoneDefaultMsg = '';
+              if (state.selectedHearing.defaultAddress === false) {
+                  locationCss += ' NoneDefault';
+                  locationNoneDefaultMsg = <span key="NoneDefaultLocationMsg"><br /><br />Notice change in location.</span>
+              }
+              let videos = [];
+              let morningUploaded = false;
+              let afternoonUploaded = false;
+              if (state.selectedHearing.morningVideo !== undefined && state.selectedHearing.morningVideo !== '') {
+                  morningUploaded = true;
+              }
+              if (state.selectedHearing.afternoonVideo !== undefined && state.selectedHearing.afternoonVideo !== '') {
+                  afternoonUploaded = true;
+              }
+              if (morningUploaded === false && afternoonUploaded === false) {
+                  videos = <p><strong>No videos uploaded at this point.</strong></p>;
+              } else if (morningUploaded && afternoonUploaded) {
+                  videos.push(<div key={state.selectedHearing.morningVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchMorningVideoClick.bind(this)}>Watch Morning Session</div>);
+                  videos.push(<div key={state.selectedHearing.afternoonVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchAfternoonVideoClick.bind(this)}>Watch Afternoon Session</div>);
+              } else {
+                  if (morningUploaded) {
+                      videos = <div key={state.selectedHearing.morningVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchMorningVideoClick.bind(this)}>Watch Morning Session</div>;
+                  }
+                  if (afternoonUploaded) {
+                      videos = <div key={state.selectedHearing.afternoonVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchAfternoonVideoClick.bind(this)}>Watch Afternoon Session</div>;
+                  }
+              }
+              let videoHeight = 0;
+              let videoPlayer = <p key="Default"></p>;
+              if (state.displayVideo) {
+                  videoHeight = 'auto';
+              }
+              if (state.videoToWatch !== '') {
+                  let queryStr = '';
+                  if (state.scrollToVideo) {
+                      queryStr = '?autoplay=1';
+                  }
+                  videoPlayer = <div key="vimeoplayer" style={{ padding: '56.25% 0 0 0', position: 'relative' }}><iframe src={'https://player.vimeo.com/video/' + state.videoToWatch + queryStr} frameBorder="0" allow="autoplay; fullscreen" allowFullScreen style={{ position: 'absolute', top: '0', left: '0', width: '100%', height: '100%'}}></iframe></div>
+              }
+              if (state.scrollToVideo) {
+                setTimeout(() => {
+                  window.scrollTo(0, this.scrollToHearing.current.offsetTop);
+                }, 250);
+                
+              }
+              return (
+                  <div ref={this.scrollToHearing} className="SelectedHearing">
+                      <div className="HearingSectionTitle">
+                          <div>
+                              <p style={{float: 'left', color: '#999999'}}>Scroll down&nbsp;&nbsp;<i className="fas fa-chevron-down"></i><i className="fas fa-chevron-down"></i></p>
+                          </div>
+                          <h2 className="HearingSectionMainTitle">{hearingTitleDate}</h2>
+                          <div>
+                              <p style={{float: 'right', color: '#999999'}}><i className="fas fa-chevron-down"></i><i className="fas fa-chevron-down"></i>&nbsp;&nbsp;Scroll down</p>
+                          </div>
+                      </div>
+                      {webcastLink}
+                      <div className="HearingInfo">
+                          {topNotification}
+                          <div className="HearingTopSectionLayout">
+                              <div>
+                                  <h3 className="HearingFormSectionTitle">Location:</h3>
+                                  <p className={locationCss}>{buildingRoom}<br />{street}<br />{city}{locationNoneDefaultMsg}</p>
+                              </div>
+                              <div>
+                                  <h3 className="HearingFormSectionTitle">Transcript</h3>
+                                  {transcriptLink}
+                              </div>
+                              <div>
+                                  <h3 className="HearingFormSectionTitle">Session Times:</h3>
+                                  <p className={timeCss}>Morning Session: {morningSession}<br />Afternoon Session: {afternoonSession}{timeNoneDefaultMsg}</p>
+                              </div>
+                              <div>
+                                  <h3 className="HearingFormSectionTitle">Videos</h3>
+                                  <div className="VideoListContainer">
+                                      {videos}
+                                  </div>
+                              </div>
+                          </div>
+                          <AnimateHeight duration={500} height={videoHeight}>
+                              {videoPlayer}
+                          </AnimateHeight>
+                          {notifications}
+                          <h2 className="HearingFormSectionTitle">Themes</h2>
+                          {themesList}
+                          <h2 className="HearingFormSectionTitle">Exhibits</h2>
+                          <div className="ExhibitElement">
+                              {exhibitsList}
+                          </div>
+                      </div>
+                  </div>
+              );
+          }
+      } else {
+          return (
+              <div className="SelectedHearing">
+              </div>
+          );
+      }
+  }
 }
 
 class ThemesWitnesses extends React.Component {
