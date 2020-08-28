@@ -101,7 +101,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       if (state.isDev) {
         isDevHeader = <h2 style={{ borderRadius: '5px', fontWeight: '800', fontSize: '4.7rem', textAlign: 'center', textTransform: 'uppercase', color: 'white', backgroundColor: '#6200ffc4', padding: '10px', position: 'absolute', top: '150px', left: '50%', textShadow: '0px 0px 20px black', transform: 'rotate(10deg) translate(-35%, 0%)', width: '850px' }}>TEST VERSION</h2>
       }
-      let currentDate = new Date('August 14, 2020');  // WARNING: CHANGE THIS TO CURRENT TIME BEFORE GOING TO PRODUCTION!!!!
+      let currentDate = new Date(new Date().format('F j, Y'));
       let dayOfWeek = currentDate.format('N');
       let dayOfWeekOffset = dayOfWeek - 1;
       let startDateFilter = new Date(currentDate.getTime());
@@ -144,8 +144,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             <p><strong>FRIDAY</strong></p>
           </div>
         ));
+        iterDate = new Date(startDateFilter.getTime());
         for (let i = 0; i < numberOfDays; i++) {
-          iterDate.setDate(startDateFilter.getDate() + i);
           let dayOfWeek = iterDate.format('w');
           if (dayOfWeek != 0 && dayOfWeek != 6) {
             let hearingFound = state.hearings.has(iterDate.getTime());
@@ -190,6 +190,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
               ));
             }
           }
+          iterDate.setDate(iterDate.getDate() + 1);
         }
       }
       return (
