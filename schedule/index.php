@@ -536,10 +536,10 @@ class SelectedHearing extends React.Component {
                   videos.push(<div key={state.selectedHearing.afternoonVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchAfternoonVideoClick.bind(this)}>Watch Afternoon Session</div>);
               } else {
                   if (morningUploaded) {
-                      videos = <div key={state.selectedHearing.morningVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchMorningVideoClick.bind(this)}>Watch Morning Session</div>;
+                      videos = <div key={state.selectedHearing.morningVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchMorningVideoClick.bind(this)}>Watch Session</div>;
                   }
                   if (afternoonUploaded) {
-                      videos = <div key={state.selectedHearing.afternoonVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchAfternoonVideoClick.bind(this)}>Watch Afternoon Session</div>;
+                      videos = <div key={state.selectedHearing.afternoonVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchAfternoonVideoClick.bind(this)}>Watch Session</div>;
                   }
               }
               let videoHeight = 0;
