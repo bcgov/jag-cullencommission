@@ -127,10 +127,10 @@ class Month extends React.Component {
             hearingLinks.push(<p key={hearing.timeStamp} className="ArchiveVideoTitle"><strong>{new Date(hearing.timeStamp).format('F d')}</strong>: <a href={'/schedule/?' + devURL + 'h=' + hearing.timeStamp + '&v=m'} className="ArchiveVideoLink">Watch Morning Session</a> - <a href={'/schedule/?' + devURL + 'h=' + hearing.timeStamp + '&v=a'} className="ArchiveVideoLink">Watch Afternoon Session</a></p>);
           } else {
             if (hearing.morningVideo !== '') {
-              hearingLinks.push(<p key={hearing.timeStamp} className="ArchiveVideoTitle"><strong>{new Date(hearing.timeStamp).format('F d')}</strong>: <a href={'/schedule/?' + devURL + 'h=' + hearing.timeStamp + '&v=m'} className="ArchiveVideoLink">Watch Morning Session</a></p>);
+              hearingLinks.push(<p key={hearing.timeStamp} className="ArchiveVideoTitle"><strong>{new Date(hearing.timeStamp).format('F d')}</strong>: <a href={'/schedule/?' + devURL + 'h=' + hearing.timeStamp + '&v=m'} className="ArchiveVideoLink">Watch Session</a></p>);
             }
             if (hearing.afternoonVideo !== '') {
-              hearingLinks.push(<p key={hearing.timeStamp} className="ArchiveVideoTitle"><strong>{new Date(hearing.timeStamp).format('F d')}</strong>: <a href={'/schedule/?' + devURL + 'h=' + hearing.timeStamp + '&v=a'} className="ArchiveVideoLink">Watch Afternoon Session</a></p>);
+              hearingLinks.push(<p key={hearing.timeStamp} className="ArchiveVideoTitle"><strong>{new Date(hearing.timeStamp).format('F d')}</strong>: <a href={'/schedule/?' + devURL + 'h=' + hearing.timeStamp + '&v=a'} className="ArchiveVideoLink">Watch Session</a></p>);
             }
           }
         }
