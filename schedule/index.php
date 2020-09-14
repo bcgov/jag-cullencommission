@@ -478,7 +478,7 @@ class SelectedHearing extends React.Component {
               morningSession = state.selectedHearing.morningSession;
               afternoonSession = state.selectedHearing.afternoonSession;
               if (state.selectedHearing.themes.size === 0) {
-                  themesList.push(<p key="NoThemesScheduled">There are no themes scheduled for this hearing.</p>);
+                  themesList.push(<p key="NoThemesScheduled">There are no topics scheduled for this hearing.</p>);
               } else {
                   for (const theme of state.selectedHearing.themes.keys()) {
                       themesList.push(<ThemesWitnesses key={theme} themeId={theme}></ThemesWitnesses>);
@@ -532,8 +532,8 @@ class SelectedHearing extends React.Component {
               if (morningUploaded === false && afternoonUploaded === false) {
                   videos = <p><strong>No videos uploaded at this point.</strong></p>;
               } else if (morningUploaded && afternoonUploaded) {
-                  videos.push(<div key={state.selectedHearing.morningVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchMorningVideoClick.bind(this)}>Watch Morning Session</div>);
-                  videos.push(<div key={state.selectedHearing.afternoonVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchAfternoonVideoClick.bind(this)}>Watch Afternoon Session</div>);
+                  videos.push(<div key={state.selectedHearing.morningVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchMorningVideoClick.bind(this)}>Watch Session 1</div>);
+                  videos.push(<div key={state.selectedHearing.afternoonVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchAfternoonVideoClick.bind(this)}>Watch Session 2</div>);
               } else {
                   if (morningUploaded) {
                       videos = <div key={state.selectedHearing.morningVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchMorningVideoClick.bind(this)}>Watch Session</div>;
@@ -598,7 +598,7 @@ class SelectedHearing extends React.Component {
                               {videoPlayer}
                           </AnimateHeight>
                           {notifications}
-                          <h2 className="HearingFormSectionTitle">Themes</h2>
+                          <h2 className="HearingFormSectionTitle">Topics</h2>
                           {themesList}
                           <h2 className="HearingFormSectionTitle">Exhibits</h2>
                           <div className="ExhibitElement">
