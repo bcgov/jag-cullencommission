@@ -476,7 +476,9 @@ class SelectedHearing extends React.Component {
               street = state.selectedHearing.street;
               city = state.selectedHearing.city;
               morningSession = state.selectedHearing.morningSession;
-              afternoonSession = state.selectedHearing.afternoonSession;
+              if (state.selectedHearing.afternoonSession !== '') {
+                afternoonSession = 'Afternoon Session: ' + state.selectedHearing.afternoonSession;
+              }
               if (state.selectedHearing.themes.size === 0) {
                   themesList.push(<p key="NoThemesScheduled">There are no topics scheduled for this hearing.</p>);
               } else {
@@ -485,7 +487,7 @@ class SelectedHearing extends React.Component {
                   }
               }
               if (state.selectedHearing.exhibits.length === 0) {
-                  exhibitsList.push(<p key="NoExhibitsEntered" style={{ gridColumn: '1 / span 2' }}>No exhibits have been uploaded for this hearing.</p>);
+                  exhibitsList.push(<p key="NoExhibitsEntered" style={{ gridColumn: '1 / span 2' }} className="HearingInfo">No exhibits have been uploaded for this hearing.</p>);
               } else {
                   for (const exhibit of state.selectedHearing.exhibits) {
                       let url = '/data/exhibits/';
@@ -496,7 +498,7 @@ class SelectedHearing extends React.Component {
                       exhibitsList.push(<p key={exhibit[0] + 'LINK'}><a href={url + exhibit[2]}>{exhibit[1]}</a></p>);
                   }
               }
-              let transcriptLink = <p key="NoTranscripts" style={{marginTop: '0px'}}><strong>Transcripts for this session will be uploaded here.</strong></p>;
+              let transcriptLink = <p key="NoTranscripts" className="HearingInfo"><strong>Transcripts for this session will be uploaded here.</strong></p>;
               if (state.selectedHearing.transcriptLink !== '') {
                   if (this.props.isDev) {
                       transcriptLink = <p key={state.selectedHearing.transcriptLink} style={{marginTop: '0px'}}><a href={"/dataDev/transcripts/" + state.selectedHearing.transcriptLink} target="_blank">{state.selectedHearing.transcriptLink}</a></p>;
@@ -508,13 +510,13 @@ class SelectedHearing extends React.Component {
               if (state.selectedHearing.timeStamp === new Date(new Date().getFullYear(), new Date().getMonth(), new Date().getDate()).getTime()) {
                   webcastLink = <h3 key="WebcastLink" className="HearingFormSectionTitle" style={{ textAlign: 'center' }}><a href="/webcast-live/" target="_blank">View Live Webcast of this Hearing</a></h3>;
               }
-              let timeCss = "LocationTimeInfo";
+              let timeCss = "HearingInfo";
               let timeNoneDefaultMsg = '';
               if (state.selectedHearing.defaultTime === false) {
                   timeCss += ' NoneDefault';
                   timeNoneDefaultMsg = <span key="NoneDefaultTimeMsg"><br /><br />Notice change in time.</span>
               }
-              let locationCss = "LocationTimeInfo";
+              let locationCss = "HearingInfo";
               let locationNoneDefaultMsg = '';
               if (state.selectedHearing.defaultAddress === false) {
                   locationCss += ' NoneDefault';
@@ -530,7 +532,7 @@ class SelectedHearing extends React.Component {
                   afternoonUploaded = true;
               }
               if (morningUploaded === false && afternoonUploaded === false) {
-                  videos = <p><strong>No videos uploaded at this point.</strong></p>;
+                  videos = <p className="HearingInfo"><strong>No videos uploaded at this point.</strong></p>;
               } else if (morningUploaded && afternoonUploaded) {
                   videos.push(<div key={state.selectedHearing.morningVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchMorningVideoClick.bind(this)}>Watch Session 1</div>);
                   videos.push(<div key={state.selectedHearing.afternoonVideo} className="Button RegularButton ButtonMarginLeft ButtonMarginRight" onClick={this.handleWatchAfternoonVideoClick.bind(this)}>Watch Session 2</div>);
@@ -572,11 +574,11 @@ class SelectedHearing extends React.Component {
                           </div>
                       </div>
                       {webcastLink}
-                      <div className="HearingInfo">
+                      <div className="HearingInfoGrid">
                           {topNotification}
                           <div className="HearingTopSectionLayout">
                               <div>
-                                  <h3 className="HearingFormSectionTitle">Location:</h3>
+                                  <h3 className="HearingFormSectionTitle">Location</h3>
                                   <p className={locationCss}>{buildingRoom}<br />{street}<br />{city}{locationNoneDefaultMsg}</p>
                               </div>
                               <div>
@@ -584,11 +586,11 @@ class SelectedHearing extends React.Component {
                                   {transcriptLink}
                               </div>
                               <div>
-                                  <h3 className="HearingFormSectionTitle">Session Times:</h3>
-                                  <p className={timeCss}>Morning Session: {morningSession}<br />Afternoon Session: {afternoonSession}{timeNoneDefaultMsg}</p>
+                                  <h3 className="HearingFormSectionTitle">Time</h3>
+                                  <p className={timeCss}>Morning Session: {morningSession}<br />{afternoonSession}{timeNoneDefaultMsg}</p>
                               </div>
                               <div>
-                                  <h3 className="HearingFormSectionTitle">Videos</h3>
+                                  <h3 className="HearingFormSectionTitle">Video</h3>
                                   <div className="VideoListContainer">
                                       {videos}
                                   </div>
@@ -600,6 +602,7 @@ class SelectedHearing extends React.Component {
                           {notifications}
                           <h2 className="HearingFormSectionTitle">Topics</h2>
                           {themesList}
+                          <p style={{fontSize: '0.85rem', textAlign: 'center', marginBottom: '40px'}}>While the Commission has made efforts to organize the hearings thematically, the topic of money laundering does not lend itself to silos and witnesses may address a variety of different topics in their testimony, not limited to the sector in question. As well, witnesses called during later portions of the hearings, may have additional evidence to present on the topic of gaming, casinos, and horse racing.</p>
                           <h2 className="HearingFormSectionTitle">Exhibits</h2>
                           <div className="ExhibitElement">
                               {exhibitsList}
