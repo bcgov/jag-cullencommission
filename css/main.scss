@@ -685,7 +685,7 @@ $highLight: rgb(141, 0, 47);
   padding: 0px;
 }
 
-.LocationTimeInfo {
+.HearingInfo {
   font-size: 0.85rem;
   font-weight: 600;
   margin: 0px 0px 20px 0px;
@@ -707,6 +707,7 @@ $highLight: rgb(141, 0, 47);
 .HearingTopSectionLayout {
   display: grid;
   grid-template-columns: 1fr 2fr;
+  column-gap: 10px;
 }
 
 .HearingSectionTitle {
@@ -715,10 +716,10 @@ $highLight: rgb(141, 0, 47);
 }
 
 .HearingSectionMainTitle {
-  font-size: 1.95rem;
+  font-size: 2.25rem;
   font-weight: 400;
   color: #000;
-  margin: 0px 0px 20px 0px;
+  margin: 0px 0px 40px 0px;
 }
 
 .HearingFormSectionTitle {
@@ -728,7 +729,7 @@ $highLight: rgb(141, 0, 47);
   margin: 0px 0px 7px 0px;
 }
 
-.HearingInfo {
+.HearingInfoGrid {
   margin: 0px 0px 40px 0px;
   padding: 1px;
 }

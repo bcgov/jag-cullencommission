@@ -705,7 +705,7 @@ a.active, a.NavbarButton:hover {
   padding: 0px;
 }
 
-.LocationTimeInfo {
+.HearingInfo {
   font-size: 0.85rem;
   font-weight: 600;
   margin: 0px 0px 20px 0px;
@@ -729,6 +729,8 @@ a.active, a.NavbarButton:hover {
   display: grid;
   -ms-grid-columns: 1fr 2fr;
       grid-template-columns: 1fr 2fr;
+  -webkit-column-gap: 10px;
+          column-gap: 10px;
 }
 
 .HearingSectionTitle {
@@ -739,10 +741,10 @@ a.active, a.NavbarButton:hover {
 }
 
 .HearingSectionMainTitle {
-  font-size: 1.95rem;
+  font-size: 2.25rem;
   font-weight: 400;
   color: #000;
-  margin: 0px 0px 20px 0px;
+  margin: 0px 0px 40px 0px;
 }
 
 .HearingFormSectionTitle {
@@ -752,7 +754,7 @@ a.active, a.NavbarButton:hover {
   margin: 0px 0px 7px 0px;
 }
 
-.HearingInfo {
+.HearingInfoGrid {
   margin: 0px 0px 40px 0px;
   padding: 1px;
 }
