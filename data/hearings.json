@@ -141,7 +141,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript May 25, 2020.pdf",
                 "themes": [
                     [
@@ -201,7 +201,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript May 26, 2020.pdf",
                 "themes": [
                     [
@@ -241,7 +241,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript May 27, 2020.pdf",
                 "themes": [
                     [
@@ -276,7 +276,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript May 28, 2020.pdf",
                 "themes": [
                     [
@@ -326,7 +326,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript May 29, 2020.pdf",
                 "themes": [
                     [
@@ -355,7 +355,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 1, 2020.pdf",
                 "themes": [
                     [
@@ -400,7 +400,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 2, 2020.pdf",
                 "themes": [
                     [
@@ -435,7 +435,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 3, 2020.pdf",
                 "themes": [
                     [
@@ -475,7 +475,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 4, 2020.pdf",
                 "themes": [
                     [
@@ -510,7 +510,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 5, 2020.pdf",
                 "themes": [
                     [
@@ -616,7 +616,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 8, 2020.pdf",
                 "themes": [
                     [
@@ -652,7 +652,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 9, 2020.pdf",
                 "themes": [
                     [
@@ -689,7 +689,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 10, 2020.pdf",
                 "themes": [
                     [
@@ -720,7 +720,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 11, 2020.pdf",
                 "themes": [
                     [
@@ -867,7 +867,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 12, 2020.pdf",
                 "themes": [
                     [
@@ -909,7 +909,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 15, 2020.pdf",
                 "themes": [
                     [
@@ -959,7 +959,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "Transcript June 16, 2020.pdf",
                 "themes": [
                     [
@@ -988,7 +988,7 @@
                 "city": "",
                 "defaultTime": true,
                 "morningSession": "9:30AM - 1:30PM",
-                "afternoonSession": "No afternoon session",
+                "afternoonSession": "",
                 "transcriptLink": "",
                 "themes": [],
                 "exhibits": [],
@@ -1128,5 +1128,5 @@
             "Overview"
         ]
     ],
-    "lastUploadTime": 1595898344000
+    "lastUploadTime": 1600300800000
 }
