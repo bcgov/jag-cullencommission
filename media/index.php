@@ -7,6 +7,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection20">
+        <p class="ExpandableSectionTitle">Statement of Commissioner Austin Cullen: Timing of Hearings Changed Due to Election</p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">September 25, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent20">
+        <h2>Statement from Commissioner Cullen:<br />Timing of Hearings Changed Due to Election</h2>
+        <p>The fall session of the Commission of Inquiry into Money Laundering in British Columbia is presently set to recommence on October 13, 2020.  It is anticipated that the evidentiary portion of the hearings will continue into 2021.  I have decided to delay the recommencement of the hearings until October 26, 2020, after the provincial election has been held.  My reason for this is two-fold: first, it is to preserve the independence of the Commission; second, it is to protect the integrity of the electoral process.</p>
+        <p>I have been informed by commission counsel that evidence to be called during the early weeks of the hearing will identify issues but will not represent the full evidentiary record on these issues, nor provide an opportunity for all perspectives on these issues to be advanced.  It is reasonable to assume that, as it unfolds, this early and incomplete evidence will raise questions and invite speculation about its meaning.  Difficulty arises because only some, but not all, of the relevant evidence will be made public by the time of the election.  It may be that evidence led before the election raises questions that cause speculation, but the questions or speculation are answered in whole or in part by evidence called after the election.</p>
+        <p>Unfortunately, there is simply not time in the two weeks of hearings presently set before the election for commission counsel to present balanced and comprehensive evidence on the issues that will arise.  Proceeding during the campaign would thus put the Commission in the untenable position of making decisions about what evidence and perspectives to adduce before the election and what to adduce after, which would, in my view, run an unacceptable risk of undermining the public’s confidence in the independence of the Commission.</p>
+        <p>These same circumstances may impair the fairness of the electoral process by allowing evidence — which may be misleading because it is incomplete or has not been responded to — to have a potential influence on the election.</p>
+        <p>I make these observations without any predetermination of what findings I may reach on the evidence I ultimately hear.  The concerns that lead me to briefly delay the re-commencement of our evidentiary hearings are: (1) the unfairness to the electoral process of putting an incomplete body of evidence, of a kind likely to engage speculation, before the public during an election campaign; and (2) risk that doing so will impair the public’s confidence in the Commission’s independence.</p>
+        <p>I have determined that a delay of two weeks will not have a significant effect on the overall timeline of the Commission’s work.</p>
+        <p>The Commission is committed to continuing with its important work for the benefit of British Columbians in a rigorous, thorough and timely manner.</p>
+        <p style="text-align: right; margin-right: 40px">Austin Cullen, Commissioner</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection19">
         <p class="ExpandableSectionTitle">Update to Fall Hearing Block Schedule</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
@@ -710,6 +726,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection19').click(function() {
             $('#ExpandableSectionContent19').slideToggle(time);
+        });
+        $('#ExpandableSection20').click(function() {
+            $('#ExpandableSectionContent20').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
