@@ -304,6 +304,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p>Sugden, McFee &amp; Roes LLP</p>
             </div>
         </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Brad Desmarais</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Brad Desmarais</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>David Butcher, QC</p>
+            </div>
+            <div class="rTableCell">
+                <p>Wilson Butcher</p>
+            </div>
+        </div>
     </div>
 </div>
 
