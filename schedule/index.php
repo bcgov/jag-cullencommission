@@ -1921,7 +1921,7 @@ document.getElementById('IEMessage').style.display = 'none';
 
 </script>
 <h2>Upcoming Hearings</h2>
-<h3>October 13, 2020 - April 2021:</h3>
+<h3>October 26, 2020 - April 2021:</h3>
 <p>The main hearings, in which Commission Counsel plan to address specific issues*, include:</p>
 <ul>
   <li>Gaming, casinos, horseracing</li>
