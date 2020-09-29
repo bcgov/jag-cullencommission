@@ -6,6 +6,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Rulings</h1>
+<p><a href="/files/ApplicationForStanding-Ruling10.pdf" target="_blank">29 September 2020 - Application for Standing – Ruling #10 <i class="fas fa-file-pdf PdfIcon"></i></a></p>
 <p><a href="/files/RenewedApplicationForParticipantStatus-Ruling9.pdf" target="_blank">24 September 2020 - Renewed Application for Participant Status – Ruling #9 <i class="fas fa-file-pdf PdfIcon"></i></a></p>
 <p><a href="/files/ApplicationForConfidentialityOrder-Ruling8.pdf" target="_blank">18 September 2020 - Application for Confidentiality Order – Ruling #8 <i class="fas fa-file-pdf PdfIcon"></i></a></p>
 <p><a href="/files/ApplicationForParticipantStatus-Ruling7.pdf" target="_blank">25 March 2020 - Commission of Inquiry into Money Laundering in British Columbia Application for Standing – Ruling #7 <i class="fas fa-file-pdf PdfIcon"></i></a></p>
