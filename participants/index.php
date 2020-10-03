@@ -56,6 +56,48 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
+                <p>Government of Canada</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Canada</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Jan Brongers<br /> BJ Wray</p>
+            </div>
+            <div class="rTableCell">
+                <p>Department of Justice<br /> BC Regional Office</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Ministry of Attorney General - Gaming Policy Enforcement Branch</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>GPEB</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Jacqueline D. Hughes<br /> J. Cherisse Friesen<br /> Chantelle Rajotte</p>
+            </div>
+            <div class="rTableCell">
+                <p>Ministry of Attorney General</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
+                <p>Ministry of Attorney General - Ministry of Finance</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Ministry of Finance</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Jacqueline D. Hughes<br /> J. Cherisse Friesen<br /> Chantelle Rajotte</p>
+            </div>
+            <div class="rTableCell">
+                <p>Ministry of Attorney General</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
                 <p>BC Real Estate Association</p>
             </div>
             <div class="rTableCell">
@@ -80,20 +122,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             </div>
             <div class="rTableCell">
                 <p>Dentons Canada LLP</p>
-            </div>
-        </div>
-        <div class="rTableRow">
-            <div class="rTableCell">
-                <p>Brad Desmarais</p>
-            </div>
-            <div class="rTableCell">
-                <p><strong>Brad Desmarais</strong></p>
-            </div>
-            <div class="rTableCell">
-                <p>David Butcher, QC</p>
-            </div>
-            <div class="rTableCell">
-                <p>Wilson Butcher</p>
             </div>
         </div>
         <div class="rTableRow">
@@ -167,6 +195,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
+                <p>Chartered Professional Accountants of British Columbia</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong></strong></p>
+            </div>
+            <div class="rTableCell">
+                <p></p>
+            </div>
+            <div class="rTableCell">
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
                 <p>Coalition: <br /> Transparency International Canada <strong>(TI Canada)</strong><br /> Canadians For Tax Fairness <strong>(C4TF)</strong><br /> Publish What you Pay Canada <strong>(PWYP)</strong></p>
             </div>
             <div class="rTableCell">
@@ -194,6 +235,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
+                <p>Desmarais, Brad</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Brad Desmarais</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>David Butcher, QC</p>
+            </div>
+            <div class="rTableCell">
+                <p>Wilson Butcher</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
                 <p>Gateway Casinos &amp; Entertainment Ltd.</p>
             </div>
             <div class="rTableCell">
@@ -204,20 +259,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             </div>
             <div class="rTableCell">
                 <p>Bennett Jones<br /> Lawson Lundell<br /> Lawson Lundell</p>
-            </div>
-        </div>
-        <div class="rTableRow">
-            <div class="rTableCell">
-                <p>Government of Canada</p>
-            </div>
-            <div class="rTableCell">
-                <p><strong>Canada</strong></p>
-            </div>
-            <div class="rTableCell">
-                <p>Jan Brongers<br /> BJ Wray</p>
-            </div>
-            <div class="rTableCell">
-                <p>Department of Justice<br /> BC Regional Office</p>
             </div>
         </div>
         <div class="rTableRow">
@@ -236,16 +277,16 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
-                <p>James Lightbody, President and CEO, BC Lottery Corporation</p>
+                <p>Kroeker, Robert</p>
             </div>
             <div class="rTableCell">
-                <p><strong>James Lightbody</strong></p>
+                <p><strong>Robert Kroeker</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Robin N. McFee, QC<br /> Jessie Meikle-Kahs</p>
+                <p>Marie Henein<br /> Christine Mainville</p>
             </div>
             <div class="rTableCell">
-                <p>Sugden, McFee &amp; Roes LLP</p>
+                <p>Henein Hutchison LLP</p>
             </div>
         </div>
         <div class="rTableRow">
@@ -264,44 +305,16 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
-                <p>Ministry of Attorney General - Gaming Policy Enforcement Branch</p>
+                <p>Lightbody, James; President and CEO, BC Lottery Corporation</p>
             </div>
             <div class="rTableCell">
-                <p><strong>GPEB</strong></p>
+                <p><strong>James Lightbody</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Jacqueline D. Hughes<br /> J. Cherisse Friesen<br /> Chantelle Rajotte</p>
+                <p>Robin N. McFee, QC<br /> Jessie Meikle-Kahs</p>
             </div>
             <div class="rTableCell">
-                <p>Ministry of Attorney General</p>
-            </div>
-        </div>
-        <div class="rTableRow">
-            <div class="rTableCell">
-                <p>Ministry of Attorney General - Ministry of Finance</p>
-            </div>
-            <div class="rTableCell">
-                <p><strong>Ministry of Finance</strong></p>
-            </div>
-            <div class="rTableCell">
-                <p>Jacqueline D. Hughes<br /> J. Cherisse Friesen<br /> Chantelle Rajotte</p>
-            </div>
-            <div class="rTableCell">
-                <p>Ministry of Attorney General</p>
-            </div>
-        </div>
-        <div class="rTableRow">
-            <div class="rTableCell">
-                <p>Robert Kroeker</p>
-            </div>
-            <div class="rTableCell">
-                <p><strong>Robert Kroeker</strong></p>
-            </div>
-            <div class="rTableCell">
-                <p>Marie Henein<br /> Christine Mainville</p>
-            </div>
-            <div class="rTableCell">
-                <p>Henein Hutchison LLP</p>
+                <p>Sugden, McFee &amp; Roes LLP</p>
             </div>
         </div>
         <div class="rTableRow">
