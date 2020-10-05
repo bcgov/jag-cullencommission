@@ -198,12 +198,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p>Chartered Professional Accountants of British Columbia</p>
             </div>
             <div class="rTableCell">
-                <p><strong></strong></p>
+                <p><strong>CPABC</strong></p>
             </div>
             <div class="rTableCell">
-                <p></p>
+                <p>Allen Soltan<br />Jason Herbert</p>
             </div>
             <div class="rTableCell">
+                <p>DLA Piper (Canada) LLP</p>
             </div>
         </div>
         <div class="rTableRow">
