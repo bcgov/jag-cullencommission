@@ -908,6 +908,24 @@ $highLight: rgb(141, 0, 47);
   color: rgb(255, 72, 0);
 }
 
+
+
+/*  LIST SCHEDULE  */
+
+.ScheduleList {
+  display: grid;
+  gap: 0px 5px;
+  grid-template-columns: 60px 1fr 200px;
+  font-size: 0.85rem;
+}
+
+.ScheduleListWitnesses {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+
 /*  CAROUSEL DESIGNS  */
 
 .carousel__next-button {

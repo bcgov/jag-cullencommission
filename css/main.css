@@ -943,6 +943,22 @@ a.active, a.NavbarButton:hover {
   color: #ff4800;
 }
 
+/*  LIST SCHEDULE  */
+.ScheduleList {
+  display: -ms-grid;
+  display: grid;
+  gap: 0px 5px;
+  -ms-grid-columns: 60px 1fr 200px;
+      grid-template-columns: 60px 1fr 200px;
+  font-size: 0.85rem;
+}
+
+.ScheduleListWitnesses {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
 /*  CAROUSEL DESIGNS  */
 .carousel__next-button {
   border-style: none;
