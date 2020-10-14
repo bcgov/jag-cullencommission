@@ -102,98 +102,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       if (state.isDev) {
         isDevHeader = <h2 style={{ borderRadius: '5px', fontWeight: '800', fontSize: '4.7rem', textAlign: 'center', textTransform: 'uppercase', color: 'white', backgroundColor: '#6200ffc4', padding: '10px', position: 'absolute', top: '150px', left: '50%', textShadow: '0px 0px 20px black', transform: 'rotate(10deg) translate(-35%, 0%)', width: '850px' }}>TEST VERSION</h2>
       }
-      let currentDate = new Date(new Date().format('F j, Y'));
-      let dayOfWeek = currentDate.format('N');
-      let dayOfWeekOffset = dayOfWeek - 1;
-      let startDateFilter = new Date(currentDate.getTime());
-      startDateFilter.setDate(startDateFilter.getDate() - dayOfWeekOffset);
-      let numberOfWeeks = 3;  // Number of weeks to look ahead.
-      let numberOfDays = numberOfWeeks * 7;
-      let iterDate = new Date(startDateFilter.getTime());
-      let displayFilteredHearings = false;
-      for (let i = 0; i < numberOfDays; i++) {
-        iterDate.setDate(startDateFilter.getDate() + i);
-        if (state.hearings.has(iterDate.getTime())) {
-          displayFilteredHearings = true;
-          break;
-        }
-      }
-      let witnessScheduleHeaders = [];
-      if (displayFilteredHearings) {
-        witnessScheduleHeaders.push((
-          <div key="WitnessScheduleHeadersMONDAY" className="WeeklyScheduleElem">
-            <p><strong>MONDAY</strong></p>
-          </div>
-        ));
-        witnessScheduleHeaders.push((
-          <div key="WitnessScheduleHeadersTUESDAY" className="WeeklyScheduleElem">
-            <p><strong>TUESDAY</strong></p>
-          </div>
-        ));
-        witnessScheduleHeaders.push((
-          <div key="WitnessScheduleHeadersWEDNESDAY" className="WeeklyScheduleElem">
-            <p><strong>WEDNESDAY</strong></p>
-          </div>
-        ));
-        witnessScheduleHeaders.push((
-          <div key="WitnessScheduleHeadersTHURSDAY" className="WeeklyScheduleElem">
-            <p><strong>THURSDAY</strong></p>
-          </div>
-        ));
-        witnessScheduleHeaders.push((
-          <div key="WitnessScheduleHeadersFRIDAY" className="WeeklyScheduleElem">
-            <p><strong>FRIDAY</strong></p>
-          </div>
-        ));
-        iterDate = new Date(startDateFilter.getTime());
-        for (let i = 0; i < numberOfDays; i++) {
-          let dayOfWeek = iterDate.format('w');
-          if (dayOfWeek != 0 && dayOfWeek != 6) {
-            let hearingFound = state.hearings.has(iterDate.getTime());
-            if (hearingFound) {
-              let witnessNames = [];
-              let filteredHearing = state.hearings.get(iterDate.getTime());
-              if (filteredHearing.isCancelled) {
-                witnessScheduleHeaders.push((
-                  <div key={iterDate.getTime() + "Date"} className="WeeklyScheduleElem WeeklyScheduleCancelled">
-                    <p className="ScheduleHearingDate">{iterDate.format("M j")}</p>
-                    <p className="ScheduleCancelled">Hearings Cancelled</p>
-                  </div>
-                ));
-              } else {
-                for (const themeNames of filteredHearing.themes.values()) {
-                  for (const witnessID of themeNames) {
-                    let witnessName = state.witnesses.get(witnessID);
-                    let witnessPrefix = witnessName.prefix;
-                    let witnessFirst = witnessName.firstName;
-                    let witnessLast = witnessName.lastName;
-                    let fullName = "";
-                    if (witnessPrefix !== "") {
-                      fullName = witnessPrefix + " ";
-                    }
-                    fullName += witnessFirst + " " + witnessLast;
-                    witnessNames.push(<p className="ScheduleHearingName">{fullName}<br /></p>);
-                  }
-                }
-                witnessScheduleHeaders.push((
-                  <div key={filteredHearing.timeStamp + "Date"} data-hearingdate={filteredHearing.timeStamp} className="WeeklyScheduleElem WeeklyScheduleHearing" onClick={this.handleWeekDayClick.bind(this)}>
-                    <p className="ScheduleHearingDate">{iterDate.format("M j")}</p>
-                    {witnessNames}
-                  </div>
-                ));
-              }
-            } else {
-              witnessScheduleHeaders.push((
-                <div key={iterDate.getTime() + "Date"} className="WeeklyScheduleElem WeeklyScheduleNoHearing">
-                  <p className="ScheduleHearingDate">{iterDate.format("M j")}</p>
-                  <p className="ScheduleNoHearing">No hearings scheduled</p>
-                </div>
-              ));
-            }
-          }
-          iterDate.setDate(iterDate.getDate() + 1);
-        }
-      }
       let reverseOrder = [];
       for (const reverseHearings of state.hearings.values()) {
         reverseOrder.push(reverseHearings);
@@ -204,7 +112,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       let currentDay = new Date(new Date().format('M j, Y')).getTime();
       scheduleList.push(<p><strong>Date</strong></p>)
       scheduleList.push(<p><strong>Witness Name</strong></p>)
-      scheduleList.push(<p><strong>Transcript</strong></p>)
+      scheduleList.push(<p></p>)
       scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px', gridColumn: '1 / span 3'}}><strong>UPCOMING HEARINGS</strong></p>);
       for (const listHearing of reverseOrder) {
         if (listHearing.isCancelled === false) {
@@ -213,13 +121,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             pastDates = true;
             if (scheduleList.length >= 0) {
               //  Some hearings are scheduled in the future.
+              scheduleList.push(<p><strong>Date</strong></p>)
+              scheduleList.push(<p><strong>Witness Name</strong></p>)
+              scheduleList.push(<p><strong>Transcript</strong></p>)
               scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px', gridColumn: '1 / span 3'}}><strong>PAST HEARINGS</strong></p>);
             }
           }
-          scheduleList.push(<p>{listDate.format('F j')}</p>);
-          if (listHearing.themes.size === 0) {
-            scheduleList.push(<p>No witnesses scheduled.</p>);
-          } else {
+          if (listHearing.themes.size > 0) {
+            scheduleList.push(<p>{listDate.format('F j,')}<br />{listDate.format('Y')}</p>);
             for (const hearingWitnessList of listHearing.themes.values()) {
               let witnessList = [];
               for (const witnessID of hearingWitnessList) {
@@ -243,16 +152,16 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
               }
               scheduleList.push(<ul className='ScheduleListWitnesses'>{witnessList}</ul>);
             }
+            let transcriptLink = (pastDates) ? <p>No transcript yet.</p> : <p></p>;
+            if (listHearing.transcriptLink !== '') {
+                if (state.isDev) {
+                    transcriptLink = <p key='TranscriptLink'><a href={"/dataDev/transcripts/" + listHearing.transcriptLink} target="_blank">{listHearing.transcriptLink}</a></p>;
+                } else {
+                    transcriptLink = <p key='TranscriptLink'><a href={"/data/transcripts/" + listHearing.transcriptLink} target="_blank">{listHearing.transcriptLink}</a></p>;
+                }
+            }
+            scheduleList.push(transcriptLink);
           }
-          let transcriptLink = (pastDates) ? <p>No transcript yet.</p> : <p></p>;
-          if (listHearing.transcriptLink !== '') {
-              if (state.isDev) {
-                  transcriptLink = <p key='TranscriptLink'><a href={"/dataDev/transcripts/" + listHearing.transcriptLink} target="_blank">{listHearing.transcriptLink}</a></p>;
-              } else {
-                  transcriptLink = <p key='TranscriptLink'><a href={"/data/transcripts/" + listHearing.transcriptLink} target="_blank">{listHearing.transcriptLink}</a></p>;
-              }
-          }
-          scheduleList.push(transcriptLink);
         }
       }
       return (
@@ -260,9 +169,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
           {isDevHeader}
           <div className="ScheduleList">
             {scheduleList}
-          </div>
-          <div className="WeeklySchedule">
-            {witnessScheduleHeaders}
           </div>
           <p style={{fontSize: '0.85rem', textAlign: 'center'}}>Please click on the date to display that hearing information.</p>
           <div className="HearingsCalendarApp">
