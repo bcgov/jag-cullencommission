@@ -948,8 +948,8 @@ a.active, a.NavbarButton:hover {
   display: -ms-grid;
   display: grid;
   gap: 0px 5px;
-  -ms-grid-columns: 60px 1fr 200px;
-      grid-template-columns: 60px 1fr 200px;
+  -ms-grid-columns: 100px 1fr 200px;
+      grid-template-columns: 100px 1fr 200px;
   font-size: 0.85rem;
 }
 
