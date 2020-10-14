@@ -9,6 +9,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Hearings Schedule</h1>
+<p>While the Commission has made efforts to organize the hearings thematically, the topic of money laundering does not lend itself to silos and witnesses may address a variety of different topics in their testimony, not limited to the sector in question. As well, witnesses called during later portions of the hearings, may have additional evidence to present on the topic of gaming, casinos, and horse racing.</p>
 <div id="root"></div>
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
 <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -110,13 +111,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       let numberOfDays = numberOfWeeks * 7;
       let iterDate = new Date(startDateFilter.getTime());
       let displayFilteredHearings = false;
-      // for (let i = 0; i < numberOfDays; i++) {
-      //   iterDate.setDate(startDateFilter.getDate() + i);
-      //   if (state.hearings.has(iterDate.getTime())) {
-      //     displayFilteredHearings = true;
-      //     break;
-      //   }
-      // }
+      for (let i = 0; i < numberOfDays; i++) {
+        iterDate.setDate(startDateFilter.getDate() + i);
+        if (state.hearings.has(iterDate.getTime())) {
+          displayFilteredHearings = true;
+          break;
+        }
+      }
       let witnessScheduleHeaders = [];
       if (displayFilteredHearings) {
         witnessScheduleHeaders.push((
@@ -201,9 +202,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       let scheduleList = [];
       let pastDates = false;
       let currentDay = new Date(new Date().format('M j, Y')).getTime();
-      scheduleList.push(<div></div>);
-      scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px'}}><strong>UP COMING HEARINGS</strong></p>);
-      scheduleList.push(<div></div>);
+      scheduleList.push(<p><strong>Date</strong></p>)
+      scheduleList.push(<p><strong>Witness Name</strong></p>)
+      scheduleList.push(<p><strong>Transcript</strong></p>)
+      scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px', gridColumn: '1 / span 3'}}><strong>UPCOMING HEARINGS</strong></p>);
       for (const listHearing of reverseOrder) {
         if (listHearing.isCancelled === false) {
           let listDate = new Date(listHearing.timeStamp);
@@ -211,12 +213,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             pastDates = true;
             if (scheduleList.length >= 0) {
               //  Some hearings are scheduled in the future.
-              scheduleList.push(<div></div>);
-              scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px'}}><strong>PAST HEARINGS</strong></p>);
-              scheduleList.push(<div></div>);
+              scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px', gridColumn: '1 / span 3'}}><strong>PAST HEARINGS</strong></p>);
             }
           }
-          scheduleList.push(<p>{listDate.format('M j')}</p>);
+          scheduleList.push(<p>{listDate.format('F j')}</p>);
           if (listHearing.themes.size === 0) {
             scheduleList.push(<p>No witnesses scheduled.</p>);
           } else {
@@ -244,7 +244,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
               scheduleList.push(<ul className='ScheduleListWitnesses'>{witnessList}</ul>);
             }
           }
-          let transcriptLink = <p>No transcript yet.</p>;
+          let transcriptLink = (pastDates) ? <p>No transcript yet.</p> : <p></p>;
           if (listHearing.transcriptLink !== '') {
               if (state.isDev) {
                   transcriptLink = <p key='TranscriptLink'><a href={"/dataDev/transcripts/" + listHearing.transcriptLink} target="_blank">{listHearing.transcriptLink}</a></p>;
