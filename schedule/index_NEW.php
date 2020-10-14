@@ -10,6 +10,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Hearings Schedule</h1>
 <p>While the Commission has made efforts to organize the hearings thematically, the topic of money laundering does not lend itself to silos and witnesses may address a variety of different topics in their testimony, not limited to the sector in question. As well, witnesses called during later portions of the hearings, may have additional evidence to present on the topic of gaming, casinos, and horse racing.</p>
+<p>To view the livestream video archives of past hearings, please see our <a href="/webcast-archive/">webcast archive section</a>.</p>
 <div id="root"></div>
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
 <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -110,10 +111,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       let scheduleList = [];
       let pastDates = false;
       let currentDay = new Date(new Date().format('M j, Y')).getTime();
-      scheduleList.push(<p><strong>Date</strong></p>)
-      scheduleList.push(<p><strong>Witness Name</strong></p>)
-      scheduleList.push(<p></p>)
       scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px', gridColumn: '1 / span 3'}}><strong>UPCOMING HEARINGS</strong></p>);
+      scheduleList.push(<p><strong><u>Date</u></strong></p>)
+      scheduleList.push(<p><strong><u>Witness Name</u></strong></p>)
+      scheduleList.push(<p></p>)
       for (const listHearing of reverseOrder) {
         if (listHearing.isCancelled === false) {
           let listDate = new Date(listHearing.timeStamp);
@@ -121,14 +122,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             pastDates = true;
             if (scheduleList.length >= 0) {
               //  Some hearings are scheduled in the future.
-              scheduleList.push(<p><strong>Date</strong></p>)
-              scheduleList.push(<p><strong>Witness Name</strong></p>)
-              scheduleList.push(<p><strong>Transcript</strong></p>)
               scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px', gridColumn: '1 / span 3'}}><strong>PAST HEARINGS</strong></p>);
+              scheduleList.push(<p><strong><u>Date</u></strong></p>)
+              scheduleList.push(<p><strong><u>Witness Name</u></strong></p>)
+              scheduleList.push(<p><strong><u>Transcript</u></strong></p>)
             }
           }
           if (listHearing.themes.size > 0) {
-            scheduleList.push(<p>{listDate.format('F j,')}<br />{listDate.format('Y')}</p>);
+            scheduleList.push(<p>{listDate.format('F j, Y')}</p>);
             for (const hearingWitnessList of listHearing.themes.values()) {
               let witnessList = [];
               for (const witnessID of hearingWitnessList) {
@@ -152,7 +153,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
               }
               scheduleList.push(<ul className='ScheduleListWitnesses'>{witnessList}</ul>);
             }
-            let transcriptLink = (pastDates) ? <p>No transcript yet.</p> : <p></p>;
+            let transcriptLink = (pastDates) ? <p>Transcripts to be uploaded.</p> : <p></p>;
             if (listHearing.transcriptLink !== '') {
                 if (state.isDev) {
                     transcriptLink = <p key='TranscriptLink'><a href={"/dataDev/transcripts/" + listHearing.transcriptLink} target="_blank">{listHearing.transcriptLink}</a></p>;
