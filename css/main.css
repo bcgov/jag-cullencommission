@@ -956,6 +956,7 @@ a.active, a.NavbarButton:hover {
 .ScheduleListWitnesses {
   list-style-type: none;
   padding-left: 0px;
+  padding-right: 10px;
   margin-left: 0px;
 }
 
