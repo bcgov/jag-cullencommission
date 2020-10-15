@@ -449,7 +449,7 @@ class SelectedHearing extends React.Component {
               city = state.selectedHearing.city;
               morningSession = state.selectedHearing.morningSession;
               if (state.selectedHearing.afternoonSession !== '') {
-                afternoonSession = 'Session 2: ' + state.selectedHearing.afternoonSession;
+                afternoonSession = 'Hearing Session 2: ' + state.selectedHearing.afternoonSession;
               }
               if (state.selectedHearing.themes.size === 0) {
                   themesList.push(<p key="NoThemesScheduled">There are no topics scheduled for this hearing.</p>);
@@ -559,7 +559,7 @@ class SelectedHearing extends React.Component {
                               </div>
                               <div>
                                   <h3 className="HearingFormSectionTitle">Time</h3>
-                                  <p className={timeCss}>Session 1: {morningSession}<br />{afternoonSession}{timeNoneDefaultMsg}</p>
+                                  <p className={timeCss}>Hearing Session: {morningSession}<br />{afternoonSession}{timeNoneDefaultMsg}</p>
                               </div>
                               <div>
                                   <h3 className="HearingFormSectionTitle">Video</h3>
