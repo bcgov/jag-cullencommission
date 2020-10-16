@@ -209,6 +209,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
+                <p>Chartered Professional Accountants of Canada</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>CPA</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Guy Pratte<br />Nadia Effendi<br />Teagan Markin</p>
+            </div>
+            <div class="rTableCell">
+                <p>Borden Ladner Gervais LLP</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
                 <p>Coalition: <br /> Transparency International Canada <strong>(TI Canada)</strong><br /> Canadians For Tax Fairness <strong>(C4TF)</strong><br /> Publish What you Pay Canada <strong>(PWYP)</strong></p>
             </div>
             <div class="rTableCell">
