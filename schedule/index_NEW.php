@@ -111,7 +111,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       let scheduleList = [];
       let pastDates = false;
       let currentDay = new Date(new Date().format('M j, Y')).getTime();
-      scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px', gridColumn: '1 / span 3'}}><strong>UPCOMING HEARINGS</strong></p>);
+      scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px', gridColumn: '1 / span 3'}}><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>);
       scheduleList.push(<p><strong><u>Date</u></strong></p>)
       scheduleList.push(<p><strong><u>Witness Name</u></strong></p>)
       scheduleList.push(<p></p>)
