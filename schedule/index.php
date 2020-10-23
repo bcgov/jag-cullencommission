@@ -9,6 +9,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Hearings Schedule</h1>
+<p>While the Commission has made efforts to organize the hearings thematically, the topic of money laundering does not lend itself to silos and witnesses may address a variety of different topics in their testimony, not limited to the sector in question. As well, witnesses called during later portions of the hearings, may have additional evidence to present on the topic of gaming, casinos, and horse racing.</p>
+<p>To view the livestream video archives of past hearings, please see our <a href="/webcast-archive/">webcast archive section</a>.</p>
 <div id="root"></div>
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
 <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -101,122 +103,92 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       if (state.isDev) {
         isDevHeader = <h2 style={{ borderRadius: '5px', fontWeight: '800', fontSize: '4.7rem', textAlign: 'center', textTransform: 'uppercase', color: 'white', backgroundColor: '#6200ffc4', padding: '10px', position: 'absolute', top: '150px', left: '50%', textShadow: '0px 0px 20px black', transform: 'rotate(10deg) translate(-35%, 0%)', width: '850px' }}>TEST VERSION</h2>
       }
-      let currentDate = new Date(new Date().format('F j, Y'));
-      let dayOfWeek = currentDate.format('N');
-      let dayOfWeekOffset = dayOfWeek - 1;
-      let startDateFilter = new Date(currentDate.getTime());
-      startDateFilter.setDate(startDateFilter.getDate() - dayOfWeekOffset);
-      let numberOfWeeks = 3;  // Number of weeks to look ahead.
-      let numberOfDays = numberOfWeeks * 7;
-      let iterDate = new Date(startDateFilter.getTime());
-      let displayFilteredHearings = false;
-      for (let i = 0; i < numberOfDays; i++) {
-        iterDate.setDate(startDateFilter.getDate() + i);
-        if (state.hearings.has(iterDate.getTime())) {
-          displayFilteredHearings = true;
-          break;
-        }
+      let reverseOrder = [];
+      for (const reverseHearings of state.hearings.values()) {
+        reverseOrder.push(reverseHearings);
       }
-      let witnessScheduleHeaders = [];
-      if (displayFilteredHearings) {
-        witnessScheduleHeaders.push((
-          <div key="WitnessScheduleHeadersMONDAY" className="WeeklyScheduleElem">
-            <p><strong>MONDAY</strong></p>
-          </div>
-        ));
-        witnessScheduleHeaders.push((
-          <div key="WitnessScheduleHeadersTUESDAY" className="WeeklyScheduleElem">
-            <p><strong>TUESDAY</strong></p>
-          </div>
-        ));
-        witnessScheduleHeaders.push((
-          <div key="WitnessScheduleHeadersWEDNESDAY" className="WeeklyScheduleElem">
-            <p><strong>WEDNESDAY</strong></p>
-          </div>
-        ));
-        witnessScheduleHeaders.push((
-          <div key="WitnessScheduleHeadersTHURSDAY" className="WeeklyScheduleElem">
-            <p><strong>THURSDAY</strong></p>
-          </div>
-        ));
-        witnessScheduleHeaders.push((
-          <div key="WitnessScheduleHeadersFRIDAY" className="WeeklyScheduleElem">
-            <p><strong>FRIDAY</strong></p>
-          </div>
-        ));
-        iterDate = new Date(startDateFilter.getTime());
-        for (let i = 0; i < numberOfDays; i++) {
-          let dayOfWeek = iterDate.format('w');
-          if (dayOfWeek != 0 && dayOfWeek != 6) {
-            let hearingFound = state.hearings.has(iterDate.getTime());
-            if (hearingFound) {
-              let witnessNames = [];
-              let filteredHearing = state.hearings.get(iterDate.getTime());
-              if (filteredHearing.isCancelled) {
-                witnessScheduleHeaders.push((
-                  <div key={iterDate.getTime() + "Date"} className="WeeklyScheduleElem WeeklyScheduleCancelled">
-                    <p className="ScheduleHearingDate">{iterDate.format("M j")}</p>
-                    <p className="ScheduleCancelled">Hearings Cancelled</p>
-                  </div>
-                ));
-              } else {
-                for (const themeNames of filteredHearing.themes.values()) {
-                  for (const witnessID of themeNames) {
-                    let witnessName = state.witnesses.get(witnessID);
-                    let witnessPrefix = witnessName.prefix;
-                    let witnessFirst = witnessName.firstName;
-                    let witnessLast = witnessName.lastName;
-                    let fullName = "";
-                    if (witnessPrefix !== "") {
-                      fullName = witnessPrefix + " ";
-                    }
-                    fullName += witnessFirst + " " + witnessLast;
-                    witnessNames.push(<p className="ScheduleHearingName">{fullName}<br /></p>);
-                  }
-                }
-                witnessScheduleHeaders.push((
-                  <div key={filteredHearing.timeStamp + "Date"} data-hearingdate={filteredHearing.timeStamp} className="WeeklyScheduleElem WeeklyScheduleHearing" onClick={this.handleWeekDayClick.bind(this)}>
-                    <p className="ScheduleHearingDate">{iterDate.format("M j")}</p>
-                    {witnessNames}
-                  </div>
-                ));
-              }
-            } else {
-              witnessScheduleHeaders.push((
-                <div key={iterDate.getTime() + "Date"} className="WeeklyScheduleElem WeeklyScheduleNoHearing">
-                  <p className="ScheduleHearingDate">{iterDate.format("M j")}</p>
-                  <p className="ScheduleNoHearing">No hearings scheduled</p>
-                </div>
-              ));
+      reverseOrder.reverse();
+      let scheduleList = [];
+      let pastDates = false;
+      let currentDay = new Date(new Date().format('M j, Y')).getTime();
+      scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px', gridColumn: '1 / span 3'}}><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>);
+      scheduleList.push(<p><strong><u>Date</u></strong></p>)
+      scheduleList.push(<p><strong><u>Witness Name</u></strong></p>)
+      scheduleList.push(<p></p>)
+      for (const listHearing of reverseOrder) {
+        if (listHearing.isCancelled === false) {
+          let listDate = new Date(listHearing.timeStamp);
+          if (listDate.getTime() < currentDay && pastDates === false) {
+            pastDates = true;
+            if (scheduleList.length >= 0) {
+              //  Some hearings are scheduled in the future.
+              scheduleList.push(<p style={{backgroundColor: '#ccc', textAlign: 'center', padding: '5px', gridColumn: '1 / span 3'}}><strong>PAST HEARINGS</strong></p>);
+              scheduleList.push(<p><strong><u>Date</u></strong></p>)
+              scheduleList.push(<p><strong><u>Witness Name</u></strong></p>)
+              scheduleList.push(<p><strong><u>Transcript</u></strong></p>)
             }
           }
-          iterDate.setDate(iterDate.getDate() + 1);
+          if (listHearing.themes.size > 0) {
+            scheduleList.push(<p>{listDate.format('F j, Y')}</p>);
+            for (const hearingWitnessList of listHearing.themes.values()) {
+              let witnessList = [];
+              for (const witnessID of hearingWitnessList) {
+                let nameObj = state.witnesses.get(witnessID);
+                let fullName = '';
+                if (nameObj.prefix !== '') {
+                  fullName = nameObj.prefix + ' ';
+                }
+                if (nameObj.firstName !== '' && nameObj.lastName !== '') {
+                  fullName += nameObj.firstName + ' ' + nameObj.lastName;
+                } else if (nameObj.firstName !== '') {
+                  fullName += nameObj.firstName;
+                } else if (nameObj.lastName !== '') {
+                  fullName += nameObj.lastName;
+                }
+                let titleName = '';
+                if (nameObj.title !== '') {
+                  titleName += ', ' + nameObj.title;
+                }
+                witnessList.push(<li><strong>{fullName}</strong>{titleName}</li>);
+              }
+              scheduleList.push(<ul className='ScheduleListWitnesses'>{witnessList}</ul>);
+            }
+            let transcriptLink = (pastDates) ? <p>Transcripts to be uploaded.</p> : <p></p>;
+            if (listHearing.transcriptLink !== '') {
+                if (state.isDev) {
+                    transcriptLink = <p key='TranscriptLink'><a href={"/dataDev/transcripts/" + listHearing.transcriptLink} target="_blank">{listHearing.transcriptLink}</a></p>;
+                } else {
+                    transcriptLink = <p key='TranscriptLink'><a href={"/data/transcripts/" + listHearing.transcriptLink} target="_blank">{listHearing.transcriptLink}</a></p>;
+                }
+            }
+            scheduleList.push(transcriptLink);
+          }
         }
       }
       return (
         <div id="App">
           {isDevHeader}
-          <div className="WeeklySchedule">
-            {witnessScheduleHeaders}
+          <div className="ScheduleList">
+            {scheduleList}
           </div>
           <p style={{fontSize: '0.85rem', textAlign: 'center'}}>Please click on the date to display that hearing information.</p>
           <div className="HearingsCalendarApp">
-            <div class="glide">
-              <div class="glide__track" data-glide-el="track">
-                <ul class="glide__slides">
+            <div className="glide">
+              <div className="glide__track" data-glide-el="track">
+                <ul className="glide__slides">
                   {calendarGlide}
                 </ul>
               </div>
-              <div class="glide">
-                <div class="glide__bullets" data-glide-el="controls[nav]">
+              <div className="glide">
+                <div className="glide__bullets" data-glide-el="controls[nav]">
                   {glideBullets}
                 </div>
               </div>
-              <div class="glide__arrows" data-glide-el="controls">
-                <button class="glide__arrow" data-glide-dir="<<"><i className="fas fa-chevron-left"></i><i className="fas fa-chevron-left"></i></button>
-                <button class="glide__arrow glide__arrow--left" data-glide-dir="<"><i className="fas fa-chevron-left"></i></button>
-                <button class="glide__arrow glide__arrow--right" data-glide-dir=">"><i className="fas fa-chevron-right"></i></button>
-                <button class="glide__arrow" data-glide-dir=">>"><i className="fas fa-chevron-right"></i><i className="fas fa-chevron-right"></i></button>
+              <div className="glide__arrows" data-glide-el="controls">
+                <button className="glide__arrow" data-glide-dir="<<"><i className="fas fa-chevron-left"></i><i className="fas fa-chevron-left"></i></button>
+                <button className="glide__arrow glide__arrow--left" data-glide-dir="<"><i className="fas fa-chevron-left"></i></button>
+                <button className="glide__arrow glide__arrow--right" data-glide-dir=">"><i className="fas fa-chevron-right"></i></button>
+                <button className="glide__arrow" data-glide-dir=">>"><i className="fas fa-chevron-right"></i><i className="fas fa-chevron-right"></i></button>
               </div>
             </div>
           </div>
@@ -477,7 +449,7 @@ class SelectedHearing extends React.Component {
               city = state.selectedHearing.city;
               morningSession = state.selectedHearing.morningSession;
               if (state.selectedHearing.afternoonSession !== '') {
-                afternoonSession = 'Session 2: ' + state.selectedHearing.afternoonSession;
+                afternoonSession = 'Hearing Session 2: ' + state.selectedHearing.afternoonSession;
               }
               if (state.selectedHearing.themes.size === 0) {
                   themesList.push(<p key="NoThemesScheduled">There are no topics scheduled for this hearing.</p>);
@@ -487,7 +459,7 @@ class SelectedHearing extends React.Component {
                   }
               }
               if (state.selectedHearing.exhibits.length === 0) {
-                  exhibitsList.push(<p key="NoExhibitsEntered" style={{ gridColumn: '1 / span 2' }} className="HearingInfo">No exhibits have been uploaded for this hearing.</p>);
+                  exhibitsList.push(<p key="NoExhibitsEntered" style={{ gridColumn: '1 / span 2' }} className="HearingInfo">Exhibits for this hearing will be uploaded here</p>);
               } else {
                   for (const exhibit of state.selectedHearing.exhibits) {
                       let url = '/data/exhibits/';
@@ -587,7 +559,7 @@ class SelectedHearing extends React.Component {
                               </div>
                               <div>
                                   <h3 className="HearingFormSectionTitle">Time</h3>
-                                  <p className={timeCss}>Session 1: {morningSession}<br />{afternoonSession}{timeNoneDefaultMsg}</p>
+                                  <p className={timeCss}>Hearing Session: {morningSession}<br />{afternoonSession}{timeNoneDefaultMsg}</p>
                               </div>
                               <div>
                                   <h3 className="HearingFormSectionTitle">Video</h3>
