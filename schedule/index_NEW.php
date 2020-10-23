@@ -459,7 +459,7 @@ class SelectedHearing extends React.Component {
                   }
               }
               if (state.selectedHearing.exhibits.length === 0) {
-                  exhibitsList.push(<p key="NoExhibitsEntered" style={{ gridColumn: '1 / span 2' }} className="HearingInfo">No exhibits have been uploaded for this hearing.</p>);
+                  exhibitsList.push(<p key="NoExhibitsEntered" style={{ gridColumn: '1 / span 2' }} className="HearingInfo">Exhibits for this hearing will be uploaded here</p>);
               } else {
                   for (const exhibit of state.selectedHearing.exhibits) {
                       let url = '/data/exhibits/';
