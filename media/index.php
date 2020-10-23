@@ -7,6 +7,50 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection21">
+        <p class="ExpandableSectionTitle">Witness List and Hearings Schedule Announced for Week of October 26, 2020</p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">October 22, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent21">
+        <h2>Witness List and Hearings Schedule<br />Announced for Week of October 26, 2020</h2>
+        <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia has announced its witness list and hearings schedule for the week of October 26, 2020 in the upcoming fall hearing block. This schedule is subject to change.</p>
+        <p>In order to lessen the risk of the transmission of COVID-19, the public hearings will be held via online videoconferencing.</p>
+        <p>This hearing block is the first of two that will focus on gaming, casinos and horse racing. It is important to note that while the Commission has made efforts to organize the hearings thematically, the topic of money laundering does not lend itself to silos. Witnesses may address a variety of different topics in their testimony, not limited to the sector in question. As well, witnesses called during later portions of the hearings may have additional evidence to present on the topic of gaming, casinos and horse racing.</p>
+        <p>In keeping with the Commissioner’s commitment to transparency and accessibility, the hearings will be livestreamed on the website (<a href="http://www.cullencommission.ca">www.cullencommission.ca</a>). Hearings start at 9:30 a.m. and conclude at 1:30 p.m. A video archive of hearings, reports, documents and exhibits from the hearings will be posted online.</p>
+        <p><strong>Witness Schedule</strong></p>
+        <table style="width: 100%">
+            <tr>
+                <td></td>
+                <td><strong>MONDAY</strong></td>
+                <td><strong>TUESDAY</strong></td>
+                <td><strong>WEDNESDAY</strong></td>
+                <td><strong>THURSDAY</strong></td>
+                <td><strong>FRIDAY</strong></td>
+            </tr>
+            <tr>
+                <td><strong>October 26 – 30</strong></td>
+                <td>Steve Beeksma<br />Stone Lee</td>
+                <td>Stone Lee (cont’d)<br />Ward Clapham</td>
+                <td>Gord Friesen</td>
+                <td>Gord Friesen (cont’d)<br />John Karlovcec</td>
+                <td>John Karlovcec (cont’d)<br />Bal Bamra</td>
+            </tr>
+        </table>
+        <p>This schedule may be adjusted. The witness list/schedule for upcoming weeks will be provided in due course.</p>
+        <p>Below are brief professional role/occupation notes on the witnesses scheduled to give evidence at the hearings listed above. The witnesses are listed in order of expected testimony.</p>
+        <ul>
+            <li>Steve Beeksma – British Columbia Lottery Corporation (BCLC) Anti-Money Laundering (AML) Project Specialist, Former Great Canadian Gaming Corporation (GCGC) Surveillance Shift Manager</li>
+            <li>Stone Lee – BCLC Investigator, Former GCGC Surveillance Manager</li>
+            <li>Ward Clapham – Former Officer-in-Charge, Richmond RCMP Detachment</li>
+            <li>Gord Friesen – Former BCLC Manager of Investigations, Former RCMP Officer</li>
+            <li>John Karlovcec – Former BCLC Director, AML & Investigations, Former RCMP Officer</li>
+            <li>Bal Bamra – BCLC Manager, AML Intelligence</li>
+        </ul>
+        <p><strong>About the Commission</strong></p>
+        <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission is looking at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission is also examining regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
+        <p>The Commission is required to deliver an interim report by November 15, 2020 and a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a></p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection20">
         <p class="ExpandableSectionTitle">Statement of Commissioner Austin Cullen: Timing of Hearings Changed Due to Election</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
@@ -729,6 +773,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection20').click(function() {
             $('#ExpandableSectionContent20').slideToggle(time);
+        });
+        $('#ExpandableSection21').click(function() {
+            $('#ExpandableSectionContent21').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
