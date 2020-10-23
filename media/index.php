@@ -18,18 +18,16 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>In order to lessen the risk of the transmission of COVID-19, the public hearings will be held via online videoconferencing.</p>
         <p>This hearing block is the first of two that will focus on gaming, casinos and horse racing. It is important to note that while the Commission has made efforts to organize the hearings thematically, the topic of money laundering does not lend itself to silos. Witnesses may address a variety of different topics in their testimony, not limited to the sector in question. As well, witnesses called during later portions of the hearings may have additional evidence to present on the topic of gaming, casinos and horse racing.</p>
         <p>In keeping with the Commissioner’s commitment to transparency and accessibility, the hearings will be livestreamed on the website (<a href="http://www.cullencommission.ca">www.cullencommission.ca</a>). Hearings start at 9:30 a.m. and conclude at 1:30 p.m. A video archive of hearings, reports, documents and exhibits from the hearings will be posted online.</p>
-        <p><strong>Witness Schedule</strong></p>
+        <p><strong>Witness Schedule - October 26 – 30</strong></p>
         <table style="width: 100%">
             <tr>
-                <td></td>
-                <td><strong>MONDAY</strong></td>
-                <td><strong>TUESDAY</strong></td>
-                <td><strong>WEDNESDAY</strong></td>
-                <td><strong>THURSDAY</strong></td>
-                <td><strong>FRIDAY</strong></td>
+                <td width="20%"><strong>MONDAY</strong></td>
+                <td width="20%"><strong>TUESDAY</strong></td>
+                <td width="20%"><strong>WEDNESDAY</strong></td>
+                <td width="20%"><strong>THURSDAY</strong></td>
+                <td width="20%"><strong>FRIDAY</strong></td>
             </tr>
             <tr>
-                <td><strong>October 26 – 30</strong></td>
                 <td>Steve Beeksma<br />Stone Lee</td>
                 <td>Stone Lee (cont’d)<br />Ward Clapham</td>
                 <td>Gord Friesen</td>
