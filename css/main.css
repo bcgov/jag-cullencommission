@@ -1341,12 +1341,6 @@ a.active, a.NavbarButton:hover {
       -ms-grid-column-span: 1;
       grid-column: 1 / span 1;
     }
-    .LatestEventsContainer {
-      -ms-grid-columns: 1fr;
-          grid-template-columns: 1fr;
-      -ms-grid-rows: 1fr 1fr 1fr;
-          grid-template-rows: 1fr 1fr 1fr;
-    }
   }
 }
 /*# sourceMappingURL=main.css.map */
