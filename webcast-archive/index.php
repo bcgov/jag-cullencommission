@@ -12,9 +12,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Webcast Archive</h1>
+<p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
+<p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings or read transcripts for the hearings beginning October 26, 2020, onwards.</em></p>
 <noscript>You need to enable JavaScript to run this app.</noscript>
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site. Please
-    upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
+  upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
 <div id="root"></div>
 <script src="/js/axios.min.js"></script>
 <script src="/js/react.production.min.js"></script>
@@ -25,7 +27,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <script src="/js/classNames.js"></script>
 <script type="text/babel">
 
-    class App extends React.Component {
+  class App extends React.Component {
 
   getUrlParameter(name) {
     name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
