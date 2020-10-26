@@ -705,7 +705,7 @@ a.active, a.NavbarButton:hover {
   padding: 0px;
 }
 
-.LocationTimeInfo {
+.HearingInfo {
   font-size: 0.85rem;
   font-weight: 600;
   margin: 0px 0px 20px 0px;
@@ -729,6 +729,8 @@ a.active, a.NavbarButton:hover {
   display: grid;
   -ms-grid-columns: 1fr 2fr;
       grid-template-columns: 1fr 2fr;
+  -webkit-column-gap: 10px;
+          column-gap: 10px;
 }
 
 .HearingSectionTitle {
@@ -739,10 +741,10 @@ a.active, a.NavbarButton:hover {
 }
 
 .HearingSectionMainTitle {
-  font-size: 1.95rem;
+  font-size: 2.25rem;
   font-weight: 400;
   color: #000;
-  margin: 0px 0px 20px 0px;
+  margin: 0px 0px 40px 0px;
 }
 
 .HearingFormSectionTitle {
@@ -752,7 +754,7 @@ a.active, a.NavbarButton:hover {
   margin: 0px 0px 7px 0px;
 }
 
-.HearingInfo {
+.HearingInfoGrid {
   margin: 0px 0px 40px 0px;
   padding: 1px;
 }
@@ -873,6 +875,89 @@ a.active, a.NavbarButton:hover {
   height: 270px;
   margin: 0px auto 30px auto;
   color: #0967E9;
+}
+
+/*  WEEKLY SCHEDULE  */
+.WeeklySchedule {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 5px;
+  margin: 0px 0px 30px 0px;
+}
+
+.WeeklyScheduleElem {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  padding: 5px 5px 10px 5px;
+  text-align: center;
+}
+
+.WeeklyScheduleHearing {
+  border-color: #001c82;
+  background-color: #81adff;
+  cursor: pointer;
+  -webkit-transition: background-color 0.35s;
+  transition: background-color 0.35s;
+}
+
+.WeeklyScheduleHearing:hover {
+  background-color: #4b8aff;
+}
+
+.WeeklyScheduleNoHearing {
+  border-color: #666;
+  background-color: #eee;
+}
+
+.WeeklyScheduleCancelled {
+  border-color: #ff4800;
+  background-color: #ffe5d3;
+}
+
+.ScheduleHearingDate {
+  font-weight: bold;
+  font-size: 0.75rem;
+}
+
+.ScheduleHearingName {
+  font-weight: bold;
+  font-size: 0.85rem;
+  margin: 0px;
+  padding-bottom: 0px;
+  color: #fff;
+  text-shadow: 0px 0px 5px #000d3d;
+}
+
+.ScheduleNoHearing {
+  font-weight: bold;
+  font-size: 0.65rem;
+  color: #999;
+}
+
+.ScheduleCancelled {
+  font-weight: bold;
+  font-size: 0.65rem;
+  color: #ff4800;
+}
+
+/*  LIST SCHEDULE  */
+.ScheduleList {
+  display: -ms-grid;
+  display: grid;
+  gap: 0px 0px;
+  -ms-grid-columns: 155px 1fr 200px;
+      grid-template-columns: 155px 1fr 200px;
+  font-size: 0.85rem;
+}
+
+.ScheduleListWitnesses {
+  list-style-type: none;
+  padding-left: 0px;
+  padding-right: 10px;
+  margin-left: 0px;
 }
 
 /*  CAROUSEL DESIGNS  */
