@@ -13,11 +13,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Transcripts</h1>
+<p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
+<p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings or read transcripts for the hearings beginning October 26, 2020, onwards.</em></p>
 <p>Available transcripts of the public hearings are posted here. (The exception to this would be in the event of special circumstances where there is a need for protective measures for a witness, document or evidence. This could include measures such as a publication ban, sealing materials or proceeding in a closed (non-public) hearing.)</p>
 <h2>2020 Transcripts</h2>
 <div id="root"></div>
 <p id="IEMessage">If you are seeing this message then it means that your browser doesn't work with our site.
-    Please upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
+  Please upgrade your <a href="https://www.google.ca/chrome/">browser for free</a>.</p>
 <h2>2019 Transcripts</h2>
 <p><a href="/files/2019-12-19-Application-Hearing-Transcript.pdf" target="_blank">Application Hearing – Transcript from Dec 19, 2019</a></p>
 <p><a href="/files/2019-10-08-Application-Hearing-Transcript.pdf" target="_blank">Oral Hearing Participants Standing – Transcript from Oct 18, 2019</a></p>
@@ -31,7 +33,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <script src="/js/classNames.js"></script>
 <script type="text/babel">
 
-    class App extends React.Component {
+  class App extends React.Component {
 
     getUrlParameter(name) {
         name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
