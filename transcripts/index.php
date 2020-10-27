@@ -14,7 +14,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Transcripts</h1>
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
-<p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings or read transcripts for the hearings beginning October 26, 2020, onwards.</em></p>
+<p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <p>Available transcripts of the public hearings are posted here. (The exception to this would be in the event of special circumstances where there is a need for protective measures for a witness, document or evidence. This could include measures such as a publication ban, sealing materials or proceeding in a closed (non-public) hearing.)</p>
 <h2>2020 Transcripts</h2>
 <div id="root"></div>
