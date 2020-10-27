@@ -7,6 +7,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Exhibits</h1>
+<p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
+<p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <noscript>You need to enable JavaScript to run this app.</noscript>
 <div id="root"></div>
 <script src="/js/axios.min.js"></script>
@@ -16,7 +18,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <script src="/js/date-format/date.format.js"></script>
 <script type="text/babel">
 
-class App extends React.Component {
+    class App extends React.Component {
 
 getUrlParameter(name) {
     name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
