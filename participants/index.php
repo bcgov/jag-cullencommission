@@ -133,7 +133,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             </div>
             <div class="rTableCell">
                 <p>Megan Tweedie<br />
-                   Jessica Magonet</p>
+                    Jessica Magonet</p>
             </div>
             <div class="rTableCell">
             </div>
@@ -228,9 +228,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>Coalition</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Kevin J. Comeau</p>
+                <p>Jason Gratl<br />Toby Rauch-Davis</p>
             </div>
             <div class="rTableCell">
+                <p>Gratl and Company</p>
             </div>
         </div>
         <div class="rTableRow">
