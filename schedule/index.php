@@ -575,6 +575,7 @@ class SelectedHearing extends React.Component {
                           {notifications}
                           <h2 className="HearingFormSectionTitle">Topics</h2>
                           {themesList}
+                          <p style={{fontWeight: 'bold', textAlign: 'center'}}>Please note: the hearings schedule/witness list is subject to change.</p>
                           <p style={{fontSize: '0.85rem', textAlign: 'center', marginBottom: '40px'}}>While the Commission has made efforts to organize the hearings thematically, the topic of money laundering does not lend itself to silos and witnesses may address a variety of different topics in their testimony, not limited to the sector in question. As well, witnesses called during later portions of the hearings, may have additional evidence to present on the topic of gaming, casinos, and horse racing.</p>
                           <h2 className="HearingFormSectionTitle">Exhibits</h2>
                           <div className="ExhibitElement">
