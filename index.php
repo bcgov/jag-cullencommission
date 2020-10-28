@@ -18,13 +18,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
             <div class="LatestEvent">
+                <p class="LatestEventDesc">October 28th, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for Directions Regarding Redactions – Ruling #13</a></p>
+            </div>
+            <div class="LatestEvent">
                 <p class="LatestEventDesc">October 25th, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for Witness Accommodation – Ruling #12</a></p>
             </div>
             <div class="LatestEvent">
                 <p class="LatestEventDesc">October 22nd, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=21" style="hyphens: none;">Witness List and Hearings Schedule Announced for Week of October 26, 2020</a></p>
-            </div>
-            <div class="LatestEvent">
-                <p class="LatestEventDesc">October 16th, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for Standing – Ruling #11</a></p>
             </div>
         </div>
     </div>
