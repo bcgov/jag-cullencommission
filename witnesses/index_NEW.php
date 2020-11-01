@@ -17,7 +17,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Ken Ackles</strong>, (Gaming Policy and Enforcement Branch (GPEB) Manager of Investigations, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1604304000000">2 November, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">2 November, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -26,20 +26,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Bal Bamra</strong>, (BCLC Manager, AML Intelligence)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1604041200000">30 October, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 October, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Rob Barber</strong>, (Former Gaming Policy and Enforcement Branch (GPEB) Investigator, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1604390400000">3 November, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Steve Beeksma</strong>, (British Columbia Lottery Corporation (BCLC) Anti-Money Laundering (AML) Project Specialist, Former Great Canadian Gaming Corporation (GCGC) Surveillance Shift Manager)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1603695600000">26 October, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">26 October, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Oliver Bullough</strong>, (Journalist and Author)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1590994800000">1 June, 2020</a></p>
-      <p class="HearingDateLink"><a href="/schedule/?h=1591081200000">2 June, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">1 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">2 June, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -48,8 +48,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Ward Clapham</strong>, (Former Officer-in-Charge, Richmond RCMP Detachment)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1603782000000">27 October, 2020</a></p>
-      <p class="HearingDateLink"><a href="/schedule/?h=1603868400000">28 October, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">27 October, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">28 October, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -58,8 +58,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Chris Dawkins</strong>, (Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1591858800000">11 June, 2020</a></p>
-      <p class="HearingDateLink"><a href="/schedule/?h=1591945200000">12 June, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -74,8 +74,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Gord Friesen</strong>, (Former British Columbia Lottery Corporation (BCLC) Manager of Investigations, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1603868400000">28 October, 2020</a></p>
-      <p class="HearingDateLink"><a href="/schedule/?h=1603954800000">29 October, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">28 October, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">29 October, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -84,13 +84,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Robert Gilchrist</strong>, (RCMP Chief Superintendent, Director General of the Criminal Intelligence Service of Canada)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1591686000000">9 June, 2020</a></p>
-      <p class="HearingDateLink"><a href="/schedule/?h=1591772400000">10 June, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>William Gilmore</strong>, (Emeritus Professor, School of Law, University of Edinburgh, Scotland)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1591167600000">3 June, 2020</a></p>
-      <p class="HearingDateLink"><a href="/schedule/?h=1591254000000">4 June, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">3 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">4 June, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -99,8 +99,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Megan Harris</strong>, (Executive Director and Anti-Money Laundering Secretariat Lead, BC Ministry of Attorney General)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1591858800000">11 June, 2020</a></p>
-      <p class="HearingDateLink"><a href="/schedule/?h=1591945200000">12 June, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -121,8 +121,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>John Karlovcec</strong>, (Former British Columbia Lottery Corporation (BCLC) Director, Anti-Money Laundering (AML) &amp; Investigations, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1603954800000">29 October, 2020</a></p>
-      <p class="HearingDateLink"><a href="/schedule/?h=1604041200000">30 October, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">29 October, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 October, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -131,21 +131,21 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Muriel Labine</strong>, (Former Great Canadian Gaming Corporation (GCGC) Dealer Supervisor)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1604390400000">3 November, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Stone Lee</strong>, (British Columbia Lottery Corporation (BCLC) Investigator, Former Great Canadian Gaming Corporation (GCGC) Surveillance Manager)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1603782000000">27 October, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">27 October, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Michael Levi</strong>, (Professor, Cardiff University)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1591340400000">5 June, 2020</a></p>
-      <p class="HearingDateLink"><a href="/schedule/?h=1591599600000">8 June, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">5 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">8 June, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Simon Lord</strong>, (Senior Officer and Money Laundering Expert, National Crime Agency (UK))</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><a href="/schedule/?h=1590649200000">28 May, 2020</a></p>
-      <p class="HearingDateLink"><a href="/schedule/?h=1590735600000">29 May, 2020</a></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">28 May, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">29 May, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -172,7 +172,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <div class="WitnessList">
         <p class="NamesOfWitnesses"><strong>Fred Pinnock</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team)</p>
         <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><a href="/schedule/?h=1604563200000">5 November, 2020</a></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">5 November, 2020</strong></p>
         </div>
       </div>
     </div>
@@ -187,12 +187,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <div class="WitnessList">
         <p class="NamesOfWitnesses"><strong>Peter Reuter</strong>, (Professor, University of Maryland School of Public Policy and Department of Criminology)</p>
         <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><a href="/schedule/?h=1591340400000">5 June, 2020</a></p>
-          <p class="HearingDateLink"><a href="/schedule/?h=1591599600000">8 June, 2020</a></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">5 June, 2020</strong></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">8 June, 2020</strong></p>
         </div>
         <p class="NamesOfWitnesses"><strong>Tom Robertson</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team, Former Gaming Policy and Enforcement Branch (GPEB) Investigator)</p>
         <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><a href="/schedule/?h=1604649600000">6 November, 2020</a></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">6 November, 2020</strong></p>
         </div>
       </div>
     </div>
@@ -201,19 +201,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <div class="WitnessList">
         <p class="NamesOfWitnesses"><strong>Stephen Schneider</strong>, (Professor, St. Mary's University, Halifax)</p>
         <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><a href="/schedule/?h=1590390000000">25 May, 2020</a></p>
-          <p class="HearingDateLink"><a href="/schedule/?h=1590476400000">26 May, 2020</a></p>
-          <p class="HearingDateLink"><a href="/schedule/?h=1590562800000">27 May, 2020</a></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">25 May, 2020</strong></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">26 May, 2020</strong></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">27 May, 2020</strong></p>
         </div>
         <p class="NamesOfWitnesses"><strong>Mark Sieben</strong>, (Deputy Solicitor General, BC Ministry of Public Safety and Solicitor General)</p>
         <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><a href="/schedule/?h=1591858800000">11 June, 2020</a></p>
-          <p class="HearingDateLink"><a href="/schedule/?h=1591945200000">12 June, 2020</a></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
         </div>
         <p class="NamesOfWitnesses"><strong>Leslie Stevens</strong>, (Inspector, Criminal Intelligence Service British Columbia/Yukon Territory Bureau)</p>
         <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><a href="/schedule/?h=1591686000000">9 June, 2020</a></p>
-          <p class="HearingDateLink"><a href="/schedule/?h=1591772400000">10 June, 2020</a></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
         </div>
       </div>
     </div>
@@ -222,7 +222,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <div class="WitnessList">
         <p class="NamesOfWitnesses"><strong>Daryl Tottenham</strong>, (British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer)</p>
         <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><a href="/schedule/?h=1604476800000">4 November, 2020</a></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">4 November, 2020</strong></p>
         </div>
       </div>
     </div>
@@ -243,13 +243,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <div class="WitnessList">
         <p class="NamesOfWitnesses"><strong>Sir Robert Wainwright</strong>, (Former Executive Director of Europol and Partner with Deloitte (Netherlands))</p>
         <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><a href="/schedule/?h=1592204400000">15 June, 2020</a></p>
-          <p class="HearingDateLink"><a href="/schedule/?h=1592290800000">16 June, 2020</a></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">15 June, 2020</strong></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">16 June, 2020</strong></p>
         </div>
         <p class="NamesOfWitnesses"><strong>Ryland Wellwood</strong>, (Civilian Member Analyst, RCMP)</p>
         <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><a href="/schedule/?h=1591686000000">9 June, 2020</a></p>
-          <p class="HearingDateLink"><a href="/schedule/?h=1591772400000">10 June, 2020</a></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
         </div>
       </div>
     </div>
