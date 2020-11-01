@@ -938,6 +938,16 @@ a.active, a.NavbarButton:hover {
   display: -ms-grid;
   display: grid;
   gap: 0px 0px;
+  -ms-grid-columns: 155px 1fr 200px;
+      grid-template-columns: 155px 1fr 200px;
+  font-size: 0.85rem;
+  margin-bottom: 30px;
+}
+
+.ScheduleListNEW {
+  display: -ms-grid;
+  display: grid;
+  gap: 0px 0px;
   -ms-grid-columns: 155px 1fr;
       grid-template-columns: 155px 1fr;
   font-size: 0.85rem;

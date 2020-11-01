@@ -15,7 +15,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 
 <!--  UPCOMING HEARINGS  -->
 
-<div class="ScheduleList">
+<div class="ScheduleListNEW">
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
@@ -44,7 +44,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 
 <!--  PAST HEARINGS  -->
 
-<div class="ScheduleList">
+<div class="ScheduleListNEW">
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
