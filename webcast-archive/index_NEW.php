@@ -19,7 +19,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="WebArchiveMonthDiv">
   <h3>October - 2020</h3>
-  <p class="ArchiveVideoTitle"><strong>October 30</strong>: No videos uploaded at this point.</p>
+  <p class="ArchiveVideoTitle"><strong>October 30</strong>: <a onclick="openVideo('474029768'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>October 29</strong>: <a onclick="openVideo('473626186'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>October 28</strong>: <a onclick="openVideo('473271535'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>October 27</strong>: <a onclick="openVideo('472815213'); return false" class="ArchiveVideoLink">Watch Session</a></p>
