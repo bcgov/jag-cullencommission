@@ -44,7 +44,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p class="ArchiveVideoTitle"><strong>October 27</strong>: <a href="https://vimeo.com/472815213/11e72783ff" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>October 28</strong>: <a href="https://vimeo.com/473271535/2cdc76aa03" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>October 29</strong>: <a href="https://vimeo.com/473626186/00c54edcbc" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>October 30</strong>: No videos uploaded at this point.</p>
+  <p class="ArchiveVideoTitle"><strong>October 30</strong>: <a href="https://vimeo.com/474029768/b3a0c41f0c" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
 </div>
 <div class="WebArchiveMonthDiv">
   <h3>November</h3>
