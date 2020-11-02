@@ -9,8 +9,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Witnesses</h1>
 <noscript>You need to enable JavaScript to run this app.</noscript>
-<p style="font-size: 0.85rem; text-align: center">If you know the name of the witness, please click on the first letter of their surname.<br />
-  You will see their name listed. If you click on that name, the date(s) of testimony are listed.</p>
 <p style="font-size: 0.85rem; text-align: center">If you would like to see the schedule of witnesses by date please <a href="/schedule/">click here</a>.</p>
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">A</h2>
@@ -24,10 +22,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">B</h2>
   <div class="WitnessList">
-    <p class="NamesOfWitnesses"><strong>Bal Bamra</strong>, (BCLC Manager, AML Intelligence)</p>
-    <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 October, 2020</strong></p>
-    </div>
     <p class="NamesOfWitnesses"><strong>Rob Barber</strong>, (Former Gaming Policy and Enforcement Branch (GPEB) Investigator, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
