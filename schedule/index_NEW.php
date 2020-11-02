@@ -14,10 +14,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 
 <!--  UPCOMING HEARINGS  -->
 
-<p>To view a description of all the different types of hearings view our <a href="/hearing-description/">Hearing Description page</a>.</p>
+<p>To view a description of all the different types of hearings view our <a href="/hearings-description/">Hearing Description page</a>.</p>
 <p>To view the livestream video archives of past hearings, please see our <a href="/webcast-archive/">Webcast Archive page</a>.</p>
-<p>You can find the transcripts of completed hearings at our <a href="https://cullencommission.ca/transcripts/">Transcripts page</a>.</p>
-<p>You can find the exhibits from completed hearings at our <a href="https://cullencommission.ca/exhibits/">Exhibits page</a>.</p>
+<p>You can find the transcripts of completed hearings at our <a href="/transcripts/">Transcripts page</a>.</p>
+<p>You can find the exhibits from completed hearings at our <a href="/exhibits/">Exhibits page</a>.</p>
 <div class="ScheduleListNEW">
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
@@ -48,8 +48,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <!--  PAST HEARINGS  -->
 
 <p>To view the livestream video archives of past hearings, please see our <a href="/webcast-archive/">Webcast Archive page</a>.</p>
-<p>You can find the transcripts of completed hearings at our <a href="https://cullencommission.ca/transcripts/">Transcripts page</a>.</p>
-<p>You can find the exhibits from completed hearings at our <a href="https://cullencommission.ca/exhibits/">Exhibits page</a>.</p>
+<p>You can find the transcripts of completed hearings at our <a href="/transcripts/">Transcripts page</a>.</p>
+<p>You can find the exhibits from completed hearings at our <a href="/exhibits/">Exhibits page</a>.</p>
 <div class="ScheduleListNEW">
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
