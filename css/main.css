@@ -824,13 +824,13 @@ a.active, a.NavbarButton:hover {
 
 .WebArchiveMonthDiv h3 {
   margin: 0px;
-  padding: 10px 30px;
+  padding: 10px 0px;
   text-align: left;
 }
 
 .ArchiveVideoTitle {
   margin: 0px;
-  padding: 5px 40px;
+  padding: 5px 20px;
 }
 
 .ArchiveVideoLink:hover {
