@@ -8,14 +8,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Webcast Archive</h1>
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
-<p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
+<p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning&nbsp;October&nbsp;26,&nbsp;2020,&nbsp;onwards.</em></p>
 <div class="WebArchiveMonthDiv">
   <h3>November - 2020</h3>
-  <p class="ArchiveVideoTitle"><strong>November 06</strong>: No videos uploaded at this point.</p>
-  <p class="ArchiveVideoTitle"><strong>November 05</strong>: No videos uploaded at this point.</p>
-  <p class="ArchiveVideoTitle"><strong>November 04</strong>: No videos uploaded at this point.</p>
-  <p class="ArchiveVideoTitle"><strong>November 03</strong>: No videos uploaded at this point.</p>
-  <p class="ArchiveVideoTitle"><strong>November 02</strong>: No videos uploaded at this point.</p>
+  <p class="ArchiveVideoTitle"><strong>November 06</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 05</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 04</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 03</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 02</strong>: Video archive of today’s hearing will be uploaded here</p>
 </div>
 <div class="WebArchiveMonthDiv">
   <h3>October - 2020</h3>
