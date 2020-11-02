@@ -9,8 +9,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Hearings Schedule</h1>
-<p>Please note: the hearings schedule/witness list is subject to change.</p>
 <p>While the Commission has made efforts to organize the hearings thematically, the topic of money laundering does not lend itself to silos and witnesses may address a variety of different topics in their testimony, not limited to the sector in question. As well, witnesses called during later portions of the hearings, may have additional evidence to present on the topic of gaming, casinos, and horse racing.</p>
+<p>Please note: the hearings schedule/witness list is subject to change.</p>
 <p>To view the livestream video archives of past hearings, please see our <a href="/webcast-archive/">webcast archive section</a>.</p>
 
 <!--  UPCOMING HEARINGS  -->
@@ -52,7 +52,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p>October 30, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>John Karlovcec</strong>(cont'd), Former British Columbia Lottery Corporation (BCLC) Director, Anti-Money Laundering (AML) &amp; Investigations, Former RCMP Officer</li>
-    <li><strong>Bal Bamra</strong>, BCLC Manager, AML Intelligence</li>
   </ul>
   <!-- <p>Transcripts to be uploaded.</p> -->
   <p>October 29, 2020</p>

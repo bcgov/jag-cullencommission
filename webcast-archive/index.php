@@ -8,7 +8,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Webcast Archive</h1>
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
-<p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
+<p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning&nbsp;October&nbsp;26,&nbsp;2020,&nbsp;onwards.</em></p>
 <div class="WebArchiveMonthDiv">
   <h3>February</h3>
   <p class="ArchiveVideoTitle"><strong>February 24</strong>: <a href="https://vimeo.com/397033542/ea91baa39d" class="ArchiveVideoLink" target="_blank">Watch Session 1</a> - <a href="https://vimeo.com/396980448/00128d569d" class="ArchiveVideoLink" target="_blank">Watch Session 2</a></p>
