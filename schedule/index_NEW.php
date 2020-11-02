@@ -203,7 +203,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <li>Other jurisdictions’ approaches</li>
 </ul>
 <p>* These topics are not necessarily listed in sequence, and this hearing plan is subject to variation. Information about the dates on which specific topics will be addressed in the hearings will be posted on our website at: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
-<p>The location of these hearings will be announced in due course.</p>
+  <p>The hearings are being held online via video conference. They can be seen via <a href="https://cullencommission.ca/webcast-live/">livestream here</a>.</p>
 <p>For an alphabetical list of witnesses from completed hearings, please go to our <a href="https://cullencommission.ca/witnesses/">Witnesses page</a>.</p>
 <p>You can find the webcast archives of completed hearings at our <a href="https://cullencommission.ca/webcast-archive/">Webcast Archive page</a>.</p>
 <p>You can find the transcripts of completed hearings at our <a href="https://cullencommission.ca/transcripts/">Transcripts page</a>.</p>
