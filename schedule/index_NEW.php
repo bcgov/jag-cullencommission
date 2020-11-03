@@ -19,10 +19,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>November 2, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Ken Ackles</strong>, Gaming Policy and Enforcement Branch (GPEB) Manager of Investigations, Former RCMP Officer</li>
-  </ul>
   <p>November 3, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Rob Barber</strong>, Former Gaming Policy and Enforcement Branch (GPEB) Investigator, Former RCMP Officer</li>
@@ -52,6 +48,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
   <!-- <p><strong><u>Transcript</u></strong></p> -->
+  <p>November 2, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Ken Ackles</strong>, Gaming Policy and Enforcement Branch (GPEB) Manager of Investigations, Former RCMP Officer</li>
+  </ul>
   <p>October 30, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>John Karlovcec</strong> (cont'd), Former British Columbia Lottery Corporation (BCLC) Director, Anti-Money Laundering (AML) &amp; Investigations, Former RCMP Officer</li>
