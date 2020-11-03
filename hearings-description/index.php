@@ -5,8 +5,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
-<h1>Hearings Description</h1>
-<h2>Upcoming Hearings</h2>
 <h3>October 26, 2020 - April 2021:</h3>
 <p>The main hearings, in which Commission Counsel plan to address specific issues*, include:</p>
 <ul>
