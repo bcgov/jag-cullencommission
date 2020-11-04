@@ -186,6 +186,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/88 - Exhibit 88 Applied (BCLC0015449).pdf" target="_blank">Incident Report at Starlight Casino on Unusal Financial (IN20150010775) - Transaction (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#87</p>
+    <p><a href="/data/exhibits/87 - Applied_(Lee #1).pdf" target="_blank">Affidavit #1 of Stone Lee, sworn 23rd day of October, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#86</p>
     <p><a href="/data/exhibits/86 - BCLC0000289.pdf" target="_blank">BCLC Anti Money Laundering (AML) Protocol for Conditions and Interviews</a></p>
 </div>
