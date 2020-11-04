@@ -11,11 +11,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning&nbsp;October&nbsp;26,&nbsp;2020,&nbsp;onwards.</em></p>
 <div class="WebArchiveMonthDiv">
   <h3>November - 2020</h3>
-  <p class="ArchiveVideoTitle"><strong>November 06</strong>: Video archive of today’s hearing will be uploaded here</p>
-  <p class="ArchiveVideoTitle"><strong>November 05</strong>: Video archive of today’s hearing will be uploaded here</p>
-  <p class="ArchiveVideoTitle"><strong>November 04</strong>: Video archive of today’s hearing will be uploaded here</p>
-  <p class="ArchiveVideoTitle"><strong>November 03</strong>: <a onclick="openVideo('475295245'); return false" class="ArchiveVideoLink">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>November 02</strong>: <a onclick="openVideo('475195357'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>November 6</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 5</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 4</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 3</strong>: <a onclick="openVideo('475295245'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>November 2</strong>: <a onclick="openVideo('475195357'); return false" class="ArchiveVideoLink">Watch Session</a></p>
 </div>
 <div class="WebArchiveMonthDiv">
   <h3>October - 2020</h3>
@@ -32,13 +32,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p class="ArchiveVideoTitle"><strong>June 12</strong>: <a onclick="openVideo('428685868'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>June 11</strong>: <a onclick="openVideo('428350759'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>June 10</strong>: <a onclick="openVideo('427959374'); return false" class="ArchiveVideoLink">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 09</strong>: <a onclick="openVideo('427961239'); return false" class="ArchiveVideoLink">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 08</strong>: <a onclick="openVideo('427237490'); return false" class="ArchiveVideoLink">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 05</strong>: <a onclick="openVideo('426565206'); return false" class="ArchiveVideoLink">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 04</strong>: <a onclick="openVideo('426104097'); return false" class="ArchiveVideoLink">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 03</strong>: <a onclick="openVideo('425727565'); return false" class="ArchiveVideoLink">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 02</strong>: <a onclick="openVideo('425353313'); return false" class="ArchiveVideoLink">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 01</strong>: <a onclick="openVideo('425003768'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 9</strong>: <a onclick="openVideo('427961239'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 8</strong>: <a onclick="openVideo('427237490'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 5</strong>: <a onclick="openVideo('426565206'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 4</strong>: <a onclick="openVideo('426104097'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 3</strong>: <a onclick="openVideo('425727565'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 2</strong>: <a onclick="openVideo('425353313'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 1</strong>: <a onclick="openVideo('425003768'); return false" class="ArchiveVideoLink">Watch Session</a></p>
 </div>
 <div class="WebArchiveMonthDiv">
   <h3>May - 2020</h3>
