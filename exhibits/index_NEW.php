@@ -38,6 +38,42 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/125 - GCGC_PROD_0045155 Oct 16, 2014 emails between BCLC (Karlovcec) and GCGC (Ennis) re River Rock surveillance reports - ALERT ISSUE again_Redacted.pdf" target="_blank">Email from John Karlovcec to Patrick Ennis, re River Rock Surveillance Reports- “ALERT ISSUE again….” – October 16, 2014_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#124</p>
+    <p><a href="/data/exhibits/124 - Applied_BCLC5642.pdf" target="_blank">Email from Brad Desmarais re Heads up on another large cash Buy-in River Rock 2014-52289 – November 23, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#123</p>
+    <p><a href="/data/exhibits/123 - Applied_BCLC7905-BCLC7914.pdf" target="_blank">A collection of 10 target sheets (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#122</p>
+    <p><a href="/data/exhibits/122 - Applied_BCLC45.pdf" target="_blank">Email from John Karlovcec to Trevor Emmerson, re Casino Cash Facilitators_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#121</p>
+    <p><a href="/data/exhibits/121 - Applied_BCLC44.pdf" target="_blank">Email from John Karlovcec to Robert Grace, re CFSEU River Rock Casino Orientation – Jun 20, 2014_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#120</p>
+    <p><a href="/data/exhibits/120 - BCLC0000040 - Email from Kurt Bulow June 17, 2014.pdf" target="_blank">Email from Kurt Bulow to John Karlovcec, Subject: CFSEU Uniform Team BCLC - June 17, 2014</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#119</p>
+    <p><a href="/data/exhibits/119 - Applied_BCLC38.pdf" target="_blank">Email from John Karlovcec to Brad Desmarais, Subject: FW: CFSEU list - outline of procedures - June 10, 2014</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#118</p>
+    <p><a href="/data/exhibits/118 - Applied_BCLC5645.pdf" target="_blank">Email from Desmarais re Info For Presentation, Prohibited BCLC Patrons Numbers – November 23, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#117</p>
+    <p><a href="/data/exhibits/117 - Applied_BCLC33.pdf" target="_blank">Email from John Karlovcec to Daryl Rottenham - June 6, 2014 Subject: RE: CFSEU/High Risk list review - for discussion (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#116</p>
+    <p><a href="/data/exhibits/116 - BCLC0000033 - Email from Daryl Tottenham June 4, 2014.pdf" target="_blank">Email from Daryl Tottenham to AML, RE CFSEU/High Risk list review - for discussion - June 4, 2014 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#115</p>
     <p><a href="/data/exhibits/115 - Exhibit 115_Applied_BCLC6636.pdf" target="_blank">Email from Rob Kroeker re Vancouver Sun – AML story today – Nov 28, 2017 (redacted)</a></p>
 </div>
