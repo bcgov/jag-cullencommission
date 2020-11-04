@@ -97,6 +97,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
     </div>
   </div>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Mike Hiller</strong>, (Former British Columbia Lottery Corporation (BCLC) Investigator, Former RCMP Officer)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 November, 2020</strong></p>
+    </div>
+  </div>
 </div>
 <div class="WitnessListContainer">
   <div class="NoWitnesses">
@@ -125,7 +131,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Muriel Labine</strong>, (Former Great Canadian Gaming Corporation (GCGC) Dealer Supervisor)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
+    <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
+    <p class="HearingDateLink"><strong class="WitnessHearingDate">4 November, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Stone Lee</strong>, (British Columbia Lottery Corporation (BCLC) Investigator, Former Great Canadian Gaming Corporation (GCGC) Surveillance Manager)</p>
     <div class="WitnessHearingsList">
@@ -217,6 +224,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="NamesOfWitnesses"><strong>Daryl Tottenham</strong>, (British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer)</p>
         <div class="WitnessHearingsList">
           <p class="HearingDateLink"><strong class="WitnessHearingDate">4 November, 2020</strong></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">10 November, 2020</strong></p>
         </div>
       </div>
     </div>
@@ -227,10 +235,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <div class="WitnessList"></div>
     </div>
     <div class="WitnessListContainer">
-      <div class="NoWitnesses">
-        <h2 class="WitnessAlphabetTitle">V</h2>
+      <h2 class="WitnessAlphabetTitle">V</h2>
+      <div class="WitnessList">
+        <p class="NamesOfWitnesses"><strong>Larry Vander Graaf</strong>, (Former Gaming Policy and Enforcement Branch (GPEB), Executive Director of Investigations, Former RCMP Officer)</p>
+        <div class="WitnessHearingsList">
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">12 November, 2020</strong></p>
+          <p class="HearingDateLink"><strong class="WitnessHearingDate">13 November, 2020</strong></p>
+        </div>
       </div>
-      <div class="WitnessList"></div>
     </div>
     <div class="WitnessListContainer">
       <h2 class="WitnessAlphabetTitle">W</h2>

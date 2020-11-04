@@ -21,6 +21,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p><strong><u>Witness Name</u></strong></p>
   <p>November 4, 2020</p>
   <ul class="ScheduleListWitnesses">
+    <li><strong>Muriel Labine</strong>, Former Great Canadian Gaming Corporation (GCGC) Dealer Supervisor</li>
     <li><strong>Daryl Tottenham</strong>, British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer</li>
   </ul>
   <p>November 5, 2020</p>
