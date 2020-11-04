@@ -18,6 +18,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/143 - Exhibit 143_Applied_Affidavit #1 of Bal Bamra.pdf" target="_blank">Affidavit #1 of Bal Bamra, affirmed October 14, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#142</p>
+    <p><a href="/data/exhibits/142 - Applied_BCLC6982.pdf" target="_blank">Email from John Karlovcec to Daryl Tottenham, Subject FW Post Media Inquiry - December 14, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#141</p>
+    <p><a href="/data/exhibits/141 - BCLC0007108 - Summary Review Anti-Money Laundering Measures at BC Gaming Facilities, February 2011.pdf" target="_blank">(Previously marked as Exhibit B) Summary Review Anti-Money Laundering Measures at BC Gaming Facilities, February 2011</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#140</p>
+    <p><a href="/data/exhibits/140 - Applied_BCLC49.pdf" target="_blank">AML Compliance & Analytics Enhancement Project Business Case Fiscal 2014/15_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#139</p>
+    <p><a href="/data/exhibits/139 - BCLC0013119 - Notes FINTRAC Audit for SFT’s Exit Meeting – December 14, 2012.pdf" target="_blank">Meeting Notes - Fintrac Audit Jan 1-Jun 30, 2012 for SFT's Exit Meeting - Meeting date December 14, 2012 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#138</p>
+    <p><a href="/data/exhibits/138 - GPEB1456.0001 - Letter from John Karlovcec to Skrine re Questions with Feedback – October 19, 2018.pdf" target="_blank">Letter from John Karlovcec to Cary Skrine re Questions with Feedback – October 19, 2018</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#137</p>
     <p><a href="/data/exhibits/137 - BCLC0004628 - BCLC Memo from Bal Bamra re MSB Due Diligence – January 11, 2018.pdf" target="_blank">BCLC memo from Bal Bamra to John Karlovcec and Rob Kroeker, subject MSB Due Diligence - January</a></p>
 </div>
