@@ -10,50 +10,76 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning&nbsp;October&nbsp;26,&nbsp;2020,&nbsp;onwards.</em></p>
 <div class="WebArchiveMonthDiv">
+  <h3>November - 2020</h3>
+  <p class="ArchiveVideoTitle"><strong>November 06</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 05</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 04</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 03</strong>: <a onclick="openVideo('475295245'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>November 02</strong>: <a onclick="openVideo('475195357'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+</div>
+<div class="WebArchiveMonthDiv">
+  <h3>October - 2020</h3>
+  <p class="ArchiveVideoTitle"><strong>October 30</strong>: <a onclick="openVideo('474029768'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>October 29</strong>: <a onclick="openVideo('473626186'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>October 28</strong>: <a onclick="openVideo('473271535'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>October 27</strong>: <a onclick="openVideo('472815213'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>October 26</strong>: <a onclick="openVideo('472706286'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+</div>
+<div class="WebArchiveMonthDiv">
+  <h3>June - 2020</h3>
+  <p class="ArchiveVideoTitle"><strong>June 16</strong>: <a onclick="openVideo('429772147'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 15</strong>: <a onclick="openVideo('429622071'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 12</strong>: <a onclick="openVideo('428685868'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 11</strong>: <a onclick="openVideo('428350759'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 10</strong>: <a onclick="openVideo('427959374'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 09</strong>: <a onclick="openVideo('427961239'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 08</strong>: <a onclick="openVideo('427237490'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 05</strong>: <a onclick="openVideo('426565206'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 04</strong>: <a onclick="openVideo('426104097'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 03</strong>: <a onclick="openVideo('425727565'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 02</strong>: <a onclick="openVideo('425353313'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>June 01</strong>: <a onclick="openVideo('425003768'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+</div>
+<div class="WebArchiveMonthDiv">
+  <h3>May - 2020</h3>
+  <p class="ArchiveVideoTitle"><strong>May 29</strong>: <a onclick="openVideo('424331498'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>May 28</strong>: <a onclick="openVideo('423896994'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>May 27</strong>: <a onclick="openVideo('423438113'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>May 26</strong>: <a onclick="openVideo('423038154'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>May 25</strong>: <a onclick="openVideo('422832605'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+</div>
+<div class="WebArchiveMonthDiv">
   <h3>February</h3>
-  <p class="ArchiveVideoTitle"><strong>February 24</strong>: <a href="https://vimeo.com/397033542/ea91baa39d" class="ArchiveVideoLink" target="_blank">Watch Session 1</a> - <a href="https://vimeo.com/396980448/00128d569d" class="ArchiveVideoLink" target="_blank">Watch Session 2</a></p>
-  <p class="ArchiveVideoTitle"><strong>February 25</strong>: <a href="https://vimeo.com/393832346/8f2c56c8cc" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>February 26</strong>: <a href="https://vimeo.com/394221461/4e4da04940" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>February 24</strong>: <a onclick="openVideo('397033542'); return false" class="ArchiveVideoLink">Watch Session 1</a> - <a href="https://vimeo.com/396980448/00128d569d" class="ArchiveVideoLink">Watch&nbsp;Session&nbsp;2</a></p>
+  <p class="ArchiveVideoTitle"><strong>February 25</strong>: <a onclick="openVideo('393832346'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>February 26</strong>: <a onclick="openVideo('394221461'); return false" class="ArchiveVideoLink">Watch Session</a></p>
 </div>
-<div class="WebArchiveMonthDiv">
-  <h3>May</h3>
-  <p class="ArchiveVideoTitle"><strong>May 25</strong>: <a href="https://vimeo.com/422832605/9c15ba1e4b" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>May 26</strong>: <a href="https://vimeo.com/423038154/759b063a5b" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>May 27</strong>: <a href="https://vimeo.com/423438113/ba1ad6cab5" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>May 28</strong>: <a href="https://vimeo.com/423896994/7441f41934" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>May 29</strong>: <a href="https://vimeo.com/424331498/9f81284872" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
+<div style="background-color: rgba(0, 0, 0, 0.75); position: fixed; top: 0px; left: 0px; width: 100vw; height: 100vh; overflow: hidden; display: none; justify-content: center; align-items: center" id="VideoPlayerContainer">
+  <div>
+    <button style="box-shadow: 0px 0px 5px black; float: right; padding: 5px 15px; margin: 0px 0px 20px 0px;" onclick="closeVideo()">Close Video</button>
+    <div style="clear: both;"></div>
+    <div style="box-shadow: 0px 0px 30px 15px black;  padding: 20px; border-radius: 5px; background-color: white;">
+      <p style="font-size: 2rem; color: grey; font-weight: 300; text-align: center; margin: 0px 0px 10px 0px; padding: 0px">Hearing Session</p>
+      <iframe width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen id="VideoPlayer"></iframe>
+    </div>
+  </div>
 </div>
-<div class="WebArchiveMonthDiv">
-  <h3>June</h3>
-  <p class="ArchiveVideoTitle"><strong>June 01</strong>: <a href="https://vimeo.com/425003768/a2d72e7a3f" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 02</strong>: <a href="https://vimeo.com/425353313/9c603ca1e6" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 03</strong>: <a href="https://vimeo.com/425727565/e78a16c5d9" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 04</strong>: <a href="https://vimeo.com/426104097/4418b9dcf9" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 05</strong>: <a href="https://vimeo.com/426565206/6c62457740" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 08</strong>: <a href="https://vimeo.com/427237490/cf022f1c73" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 09</strong>: <a href="https://vimeo.com/427961239/5db79b803d" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 10</strong>: <a href="https://vimeo.com/427959374/1b8d548efc" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 11</strong>: <a href="https://vimeo.com/428350759/f029e8aaa1" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 12</strong>: <a href="https://vimeo.com/428685868/7a44618dc2" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 15</strong>: <a href="https://vimeo.com/429622071/daa29d3d39" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>June 16</strong>: <a href="https://vimeo.com/429772147/262cc06001" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-</div>
-<div class="WebArchiveMonthDiv">
-  <h3>October</h3>
-  <p class="ArchiveVideoTitle"><strong>October 26</strong>: <a href="https://vimeo.com/472706286/402e2f7205" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>October 27</strong>: <a href="https://vimeo.com/472815213/11e72783ff" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>October 28</strong>: <a href="https://vimeo.com/473271535/2cdc76aa03" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>October 29</strong>: <a href="https://vimeo.com/473626186/00c54edcbc" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>October 30</strong>: <a href="https://vimeo.com/474029768/b3a0c41f0c" class="ArchiveVideoLink" target="_blank">Watch Session</a></p>
-</div>
-<div class="WebArchiveMonthDiv">
-  <h3>November</h3>
-  <p class="ArchiveVideoTitle"><strong>November 02</strong>: No videos uploaded at this point.</p>
-  <p class="ArchiveVideoTitle"><strong>November 03</strong>: No videos uploaded at this point.</p>
-  <p class="ArchiveVideoTitle"><strong>November 04</strong>: No videos uploaded at this point.</p>
-  <p class="ArchiveVideoTitle"><strong>November 05</strong>: No videos uploaded at this point.</p>
-  <p class="ArchiveVideoTitle"><strong>November 06</strong>: No videos uploaded at this point.</p>
-</div>
+<script>
+  function openVideo(id) {
+    let container = document.getElementById('VideoPlayerContainer');
+    let source = 'https://player.vimeo.com/video/' + id;
+    let player = document.getElementById('VideoPlayer');
+    player.src = source;
+    container.style.display = 'flex';
+  }
+
+  function closeVideo() {
+    let container = document.getElementById('VideoPlayerContainer');
+    container.style.display = 'none';
+    let player = document.getElementById('VideoPlayer');
+    player.src = '';
+  }
+</script>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
