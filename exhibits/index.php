@@ -11,11 +11,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
     <p>#144</p>
-    <p><a href="/data/exhibits/144 - 2020 10 28 - Affidavit #3 of K. Ackles [REDACTED].pdf" target="_blank">Affidavit #3 of Ken Ackles made on October 28, 2020_Redacted</a></p>
+    <p><a href="/data/exhibits/144 - 2020 10 28 - Affidavit No. 3 of K. Ackles [REDACTED].pdf" target="_blank">Affidavit #3 of Ken Ackles made on October 28, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#143</p>
-    <p><a href="/data/exhibits/143 - Exhibit 143_Applied_Affidavit #1 of Bal Bamra.pdf" target="_blank">Affidavit #1 of Bal Bamra, affirmed October 14, 2020_Redacted</a></p>
+    <p><a href="/data/exhibits/143 - Exhibit 143_Applied_Affidavit No. 1 of Bal Bamra.pdf" target="_blank">Affidavit #1 of Bal Bamra, affirmed October 14, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#142</p>
@@ -75,7 +75,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#128</p>
-    <p><a href="/data/exhibits/128 - GCGC_PROD_0023900 - January 1, 2015 BCLC email re patron Binshun CAO #11435_Redacted.pdf" target="_blank">Email from John Karlovcec to Brad Desmarais - January 2, 2015 (redacted)</a></p>
+    <p><a href="/data/exhibits/128 - GCGC_PROD_0023900 - January 1, 2015 BCLC email re patron Binshun CAO No.11435_Redacted.pdf" target="_blank">Email from John Karlovcec to Brad Desmarais - January 2, 2015 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#127</p>
@@ -187,7 +187,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#87</p>
-    <p><a href="/data/exhibits/87 - Applied_(Lee #1).pdf" target="_blank">Affidavit #1 of Stone Lee, sworn 23rd day of October, 2020_Redacted</a></p>
+    <p><a href="/data/exhibits/87 - Applied_(Lee No.1).pdf" target="_blank">Affidavit #1 of Stone Lee, sworn 23rd day of October, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#86</p>
