@@ -10,6 +10,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#144</p>
+    <p><a href="/data/exhibits/144 - 2020 10 28 - Affidavit #3 of K. Ackles [REDACTED].pdf" target="_blank">Affidavit #3 of Ken Ackles made on October 28, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#143</p>
+    <p><a href="/data/exhibits/143 - Exhibit 143_Applied_Affidavit #1 of Bal Bamra.pdf" target="_blank">Affidavit #1 of Bal Bamra, affirmed October 14, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#115</p>
+    <p><a href="/data/exhibits/115 - Exhibit 115_Applied_BCLC6636.pdf" target="_blank">Email from Rob Kroeker re Vancouver Sun – AML story today – Nov 28, 2017 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#104</p>
     <p><a href="/data/exhibits/104 - Ex L - 2007 CoR Annual Report.pdf" target="_blank">2007 Annual Report, City of Richmond</a></p>
 </div>
@@ -51,15 +63,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#92</p>
-    <p><a href="/data/exhibits/92 - BCLC0016362.pdf" target="_blank">Notes of Interview April 10, 2015 of Stone Lee and Proposed Questions (redacted)</a></p>
+    <p><a href="/data/exhibits/92 - Exhibit 92 - Applied (BCLC0016362 pages 64-65).pdf" target="_blank">Notes of Interview April 10, 2015 of Stone Lee and Proposed Questions (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#91</p>
+    <p><a href="/data/exhibits/91 - Exhibit 91 Applied (BCLC0016440).pdf" target="_blank">Incident Report from River Rock on Unusual Financial Transaction (IN20200012826) (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#90</p>
-    <p><a href="/data/exhibits/90 - Exhibit 90 Applied (BCLC0016423).pdf" target="_blank">BCLC Anti Money Laundering (AML) Protocol for Conditions and Interviews</a></p>
+    <p><a href="/data/exhibits/90 - Exhibit 90 Applied (BCLC0016423).pdf" target="_blank">Incident Report from River Rock on Unusual Financial Transaction (IN20200006443) – January 29, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#88</p>
-    <p><a href="/data/exhibits/88 - Exhibit 88 Applied (BCLC0015449).pdf" target="_blank">BCLC Anti Money Laundering (AML) Protocol for Conditions and Interviews</a></p>
+    <p><a href="/data/exhibits/88 - Exhibit 88 Applied (BCLC0015449).pdf" target="_blank">Incident Report at Starlight Casino on Unusal Financial (IN20150010775) - Transaction (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#86</p>
