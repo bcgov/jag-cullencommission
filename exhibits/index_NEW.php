@@ -18,6 +18,38 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/143 - Exhibit 143_Applied_Affidavit #1 of Bal Bamra.pdf" target="_blank">Affidavit #1 of Bal Bamra, affirmed October 14, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#137</p>
+    <p><a href="/data/exhibits/137 - BCLC0004628 - BCLC Memo from Bal Bamra re MSB Due Diligence – January 11, 2018.pdf" target="_blank">BCLC memo from Bal Bamra to John Karlovcec and Rob Kroeker, subject MSB Due Diligence - January</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#136</p>
+    <p><a href="/data/exhibits/136 - Applied_BCLC15438.pdf" target="_blank">Combined Forces Special Enforcement Unit British Columbia letter to John Karlovcec re Request for Information (date redacted) - February 7, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#135</p>
+    <p><a href="/data/exhibits/135 - Applied_BCLC15434.pdf" target="_blank">Email from Ben Robinson to John Karlovcec re CFSEU-BC File 2016-54 – Request for Information (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#134</p>
+    <p><a href="/data/exhibits/134 - Applied_BCLC7026.pdf" target="_blank">Letter from Bob Stewart to John Karlovcec, re Ms. Gao 200k Buy In – December 8, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#133</p>
+    <p><a href="/data/exhibits/133 - Applied_BCLC7039.pdf" target="_blank">Email from Tottenham to John Karlovcec, re Lisa Gao Summary – December 5, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#132</p>
+    <p><a href="/data/exhibits/132 - BCLC0001716 - FINTRAC Examination Nov. 2014 Findings Explanatory Document – March 4, 2015.pdf" target="_blank">FINTRAC Examination November 2014 Findings Explanatory Document – March 4, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#131</p>
+    <p><a href="/data/exhibits/131 - Applied_BCLC1713.pdf" target="_blank">Letter from Robby Judge to Brad Desmarais, re Compliance Examination Findings – January 23, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#130</p>
+    <p><a href="/data/exhibits/130 - Applied_BCLC6501.pdf" target="_blank">Email from Ross Alderson re VVIP Players and Sanctions – May 14, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#129</p>
     <p><a href="/data/exhibits/129 - GCGC_PROD_0024481 - Email re large cash buy-in - Jan 7, 2015 and Jan 8, 2015_Redacted.pdf" target="_blank">Email from John Karlovcec to Robert Kroeker, Re Large Cash Buy-Ins - January 8, 2015_Redacted</a></p>
 </div>
