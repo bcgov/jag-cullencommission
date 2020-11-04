@@ -18,6 +18,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/143 - Exhibit 143_Applied_Affidavit #1 of Bal Bamra.pdf" target="_blank">Affidavit #1 of Bal Bamra, affirmed October 14, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#129</p>
+    <p><a href="/data/exhibits/129 - GCGC_PROD_0024481 - Email re large cash buy-in - Jan 7, 2015 and Jan 8, 2015_Redacted.pdf" target="_blank">Email from John Karlovcec to Robert Kroeker, Re Large Cash Buy-Ins - January 8, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#128</p>
+    <p><a href="/data/exhibits/128 - GCGC_PROD_0023900 - January 1, 2015 BCLC email re patron Binshun CAO #11435_Redacted.pdf" target="_blank">Email from John Karlovcec to Brad Desmarais - January 2, 2015 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#127</p>
+    <p><a href="/data/exhibits/127 - GCGC_PROD_0045011 - October 18, 2014 BCLC email re Unusual Financial Transactions_Redacted.pdf" target="_blank">Email from John Karlovcec to Brad Desmarais, Re FW Unusual Financial Transaction (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#126</p>
+    <p><a href="/data/exhibits/126 - GCGC_PROD_0045140 October 17, 2014 emails btween BCLC and GCGC re Meeting to Discuss Protocol for Approaching VIP players_Redacted.pdf" target="_blank">Email from John Karlovcec to Patrick Ennis, re Meeting to Discuss Protocol for Approaching VIP Players – October 17, 2014_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#125</p>
+    <p><a href="/data/exhibits/125 - GCGC_PROD_0045155 Oct 16, 2014 emails between BCLC (Karlovcec) and GCGC (Ennis) re River Rock surveillance reports - ALERT ISSUE again_Redacted.pdf" target="_blank">Email from John Karlovcec to Patrick Ennis, re River Rock Surveillance Reports- “ALERT ISSUE again….” – October 16, 2014_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#115</p>
     <p><a href="/data/exhibits/115 - Exhibit 115_Applied_BCLC6636.pdf" target="_blank">Email from Rob Kroeker re Vancouver Sun – AML story today – Nov 28, 2017 (redacted)</a></p>
 </div>
