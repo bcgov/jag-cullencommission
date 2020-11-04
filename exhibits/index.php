@@ -130,6 +130,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/115 - Exhibit 115_Applied_BCLC6636.pdf" target="_blank">Email from Rob Kroeker re Vancouver Sun – AML story today – Nov 28, 2017 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#108</p>
+    <p><a href="/data/exhibits/108 - GPEB0166 _Redacted.pdf" target="_blank">Letter from Derek Dickson re Loan Sharking/Suspicious Currency & Chip Passing – April 14, 2010_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#106</p>
+    <p><a href="/data/exhibits/106 - GPEB0564.0001.pdf" target="_blank">Letter from Gordon Friesen re Review of BCLC Player Gaming Fund Accounts Pilot Project – February 17, 2010</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#105</p>
+    <p><a href="/data/exhibits/105 - GPEB0562.0001.pdf" target="_blank">GPEB Audit Report Review of BCLC Player Gaming Fund Accounts Pilot Project 2009/2010</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#104</p>
     <p><a href="/data/exhibits/104 - Ex L - 2007 CoR Annual Report.pdf" target="_blank">2007 Annual Report, City of Richmond</a></p>
 </div>
