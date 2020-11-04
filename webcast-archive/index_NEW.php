@@ -14,7 +14,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p class="ArchiveVideoTitle"><strong>November 06</strong>: Video archive of today’s hearing will be uploaded here</p>
   <p class="ArchiveVideoTitle"><strong>November 05</strong>: Video archive of today’s hearing will be uploaded here</p>
   <p class="ArchiveVideoTitle"><strong>November 04</strong>: Video archive of today’s hearing will be uploaded here</p>
-  <p class="ArchiveVideoTitle"><strong>November 03</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 03</strong>: <a onclick="openVideo('475295245'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>November 02</strong>: <a onclick="openVideo('475195357'); return false" class="ArchiveVideoLink">Watch Session</a></p>
 </div>
 <div class="WebArchiveMonthDiv">
