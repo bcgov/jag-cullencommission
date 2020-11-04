@@ -23,7 +23,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p class="ArchiveVideoTitle"><strong>October 29</strong>: <a onclick="openVideo('473626186'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>October 28</strong>: <a onclick="openVideo('473271535'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>October 27</strong>: <a onclick="openVideo('472815213'); return false" class="ArchiveVideoLink">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>October 26</strong>: <a onclick="openVideo('472706286'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>October 26</strong>: <a onclick="openVideo('475315523'); return false" class="ArchiveVideoLink">Watch Session</a></p>
 </div>
 <div class="WebArchiveMonthDiv">
   <h3>June - 2020</h3>
