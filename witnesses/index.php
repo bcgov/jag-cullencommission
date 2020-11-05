@@ -173,6 +173,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Fred Pinnock</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 November, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">6 November, 2020</strong></p>
     </div>
   </div>
 </div>
