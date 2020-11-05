@@ -131,7 +131,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Muriel Labine</strong>, (Former Great Canadian Gaming Corporation (GCGC) Dealer Supervisor)</p>
     <div class="WitnessHearingsList">
-    <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Stone Lee</strong>, (British Columbia Lottery Corporation (BCLC) Investigator, Former Great Canadian Gaming Corporation (GCGC) Surveillance Manager)</p>
     <div class="WitnessHearingsList">
@@ -149,133 +149,134 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
   </div>
 </div>
-    <div class="WitnessListContainer">
-      <div class="NoWitnesses">
-        <h2 class="WitnessAlphabetTitle">M</h2>
-      </div>
-      <div class="WitnessList"></div>
+<div class="WitnessListContainer">
+  <div class="NoWitnesses">
+    <h2 class="WitnessAlphabetTitle">M</h2>
+  </div>
+  <div class="WitnessList"></div>
+</div>
+<div class="WitnessListContainer">
+  <div class="NoWitnesses">
+    <h2 class="WitnessAlphabetTitle">N</h2>
+  </div>
+  <div class="WitnessList"></div>
+</div>
+<div class="WitnessListContainer">
+  <div class="NoWitnesses">
+    <h2 class="WitnessAlphabetTitle">O</h2>
+  </div>
+  <div class="WitnessList"></div>
+</div>
+<div class="WitnessListContainer">
+  <h2 class="WitnessAlphabetTitle">P</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Fred Pinnock</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">5 November, 2020</strong></p>
     </div>
-    <div class="WitnessListContainer">
-      <div class="NoWitnesses">
-        <h2 class="WitnessAlphabetTitle">N</h2>
-      </div>
-      <div class="WitnessList"></div>
+  </div>
+</div>
+<div class="WitnessListContainer">
+  <div class="NoWitnesses">
+    <h2 class="WitnessAlphabetTitle">Q</h2>
+  </div>
+  <div class="WitnessList"></div>
+</div>
+<div class="WitnessListContainer">
+  <h2 class="WitnessAlphabetTitle">R</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Peter Reuter</strong>, (Professor, University of Maryland School of Public Policy and Department of Criminology)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">5 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">8 June, 2020</strong></p>
     </div>
-    <div class="WitnessListContainer">
-      <div class="NoWitnesses">
-        <h2 class="WitnessAlphabetTitle">O</h2>
-      </div>
-      <div class="WitnessList"></div>
+    <p class="NamesOfWitnesses"><strong>Tom Robertson</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team, Former Gaming Policy and Enforcement Branch (GPEB) Investigator)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">6 November, 2020</strong></p>
     </div>
-    <div class="WitnessListContainer">
-      <h2 class="WitnessAlphabetTitle">P</h2>
-      <div class="WitnessList">
-        <p class="NamesOfWitnesses"><strong>Fred Pinnock</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team)</p>
-        <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">5 November, 2020</strong></p>
-        </div>
-      </div>
+  </div>
+</div>
+<div class="WitnessListContainer">
+  <h2 class="WitnessAlphabetTitle">S</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Stephen Schneider</strong>, (Professor, St. Mary's University, Halifax)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">25 May, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">26 May, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">27 May, 2020</strong></p>
     </div>
-    <div class="WitnessListContainer">
-      <div class="NoWitnesses">
-        <h2 class="WitnessAlphabetTitle">Q</h2>
-      </div>
-      <div class="WitnessList"></div>
+    <p class="NamesOfWitnesses"><strong>Mark Sieben</strong>, (Deputy Solicitor General, BC Ministry of Public Safety and Solicitor General)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
     </div>
-    <div class="WitnessListContainer">
-      <h2 class="WitnessAlphabetTitle">R</h2>
-      <div class="WitnessList">
-        <p class="NamesOfWitnesses"><strong>Peter Reuter</strong>, (Professor, University of Maryland School of Public Policy and Department of Criminology)</p>
-        <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">5 June, 2020</strong></p>
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">8 June, 2020</strong></p>
-        </div>
-        <p class="NamesOfWitnesses"><strong>Tom Robertson</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team, Former Gaming Policy and Enforcement Branch (GPEB) Investigator)</p>
-        <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">6 November, 2020</strong></p>
-        </div>
-      </div>
+    <p class="NamesOfWitnesses"><strong>Leslie Stevens</strong>, (Inspector, Criminal Intelligence Service British Columbia/Yukon Territory Bureau)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
     </div>
-    <div class="WitnessListContainer">
-      <h2 class="WitnessAlphabetTitle">S</h2>
-      <div class="WitnessList">
-        <p class="NamesOfWitnesses"><strong>Stephen Schneider</strong>, (Professor, St. Mary's University, Halifax)</p>
-        <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">25 May, 2020</strong></p>
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">26 May, 2020</strong></p>
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">27 May, 2020</strong></p>
-        </div>
-        <p class="NamesOfWitnesses"><strong>Mark Sieben</strong>, (Deputy Solicitor General, BC Ministry of Public Safety and Solicitor General)</p>
-        <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
-        </div>
-        <p class="NamesOfWitnesses"><strong>Leslie Stevens</strong>, (Inspector, Criminal Intelligence Service British Columbia/Yukon Territory Bureau)</p>
-        <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
-        </div>
-      </div>
+  </div>
+</div>
+<div class="WitnessListContainer">
+  <h2 class="WitnessAlphabetTitle">T</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Daryl Tottenham</strong>, (British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">4 November, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">5 November, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">10 November, 2020</strong></p>
     </div>
-    <div class="WitnessListContainer">
-      <h2 class="WitnessAlphabetTitle">T</h2>
-      <div class="WitnessList">
-        <p class="NamesOfWitnesses"><strong>Daryl Tottenham</strong>, (British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer)</p>
-        <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">4 November, 2020</strong></p>
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">10 November, 2020</strong></p>
-        </div>
-      </div>
+  </div>
+</div>
+<div class="WitnessListContainer">
+  <div class="NoWitnesses">
+    <h2 class="WitnessAlphabetTitle">U</h2>
+  </div>
+  <div class="WitnessList"></div>
+</div>
+<div class="WitnessListContainer">
+  <h2 class="WitnessAlphabetTitle">V</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Larry Vander Graaf</strong>, (Former Gaming Policy and Enforcement Branch (GPEB), Executive Director of Investigations, Former RCMP Officer)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 November, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">13 November, 2020</strong></p>
     </div>
-    <div class="WitnessListContainer">
-      <div class="NoWitnesses">
-        <h2 class="WitnessAlphabetTitle">U</h2>
-      </div>
-      <div class="WitnessList"></div>
+  </div>
+</div>
+<div class="WitnessListContainer">
+  <h2 class="WitnessAlphabetTitle">W</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Sir Robert Wainwright</strong>, (Former Executive Director of Europol and Partner with Deloitte (Netherlands))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">15 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 June, 2020</strong></p>
     </div>
-    <div class="WitnessListContainer">
-      <h2 class="WitnessAlphabetTitle">V</h2>
-      <div class="WitnessList">
-        <p class="NamesOfWitnesses"><strong>Larry Vander Graaf</strong>, (Former Gaming Policy and Enforcement Branch (GPEB), Executive Director of Investigations, Former RCMP Officer)</p>
-        <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">12 November, 2020</strong></p>
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">13 November, 2020</strong></p>
-        </div>
-      </div>
+    <p class="NamesOfWitnesses"><strong>Ryland Wellwood</strong>, (Civilian Member Analyst, RCMP)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
     </div>
-    <div class="WitnessListContainer">
-      <h2 class="WitnessAlphabetTitle">W</h2>
-      <div class="WitnessList">
-        <p class="NamesOfWitnesses"><strong>Sir Robert Wainwright</strong>, (Former Executive Director of Europol and Partner with Deloitte (Netherlands))</p>
-        <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">15 June, 2020</strong></p>
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">16 June, 2020</strong></p>
-        </div>
-        <p class="NamesOfWitnesses"><strong>Ryland Wellwood</strong>, (Civilian Member Analyst, RCMP)</p>
-        <div class="WitnessHearingsList">
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
-          <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
-        </div>
-      </div>
-    </div>
-    <div class="WitnessListContainer">
-      <div class="NoWitnesses">
-        <h2 class="WitnessAlphabetTitle">X</h2>
-      </div>
-      <div class="WitnessList"></div>
-    </div>
-    <div class="WitnessListContainer">
-      <div class="NoWitnesses">
-        <h2 class="WitnessAlphabetTitle">Y</h2>
-      </div>
-      <div class="WitnessList"></div>
-    </div>
-    <div class="WitnessListContainer">
-      <div class="NoWitnesses">
-        <h2 class="WitnessAlphabetTitle">Z</h2>
-      </div>
-      <div class="WitnessList"></div>
-    </div>
+  </div>
+</div>
+<div class="WitnessListContainer">
+  <div class="NoWitnesses">
+    <h2 class="WitnessAlphabetTitle">X</h2>
+  </div>
+  <div class="WitnessList"></div>
+</div>
+<div class="WitnessListContainer">
+  <div class="NoWitnesses">
+    <h2 class="WitnessAlphabetTitle">Y</h2>
+  </div>
+  <div class="WitnessList"></div>
+</div>
+<div class="WitnessListContainer">
+  <div class="NoWitnesses">
+    <h2 class="WitnessAlphabetTitle">Z</h2>
+  </div>
+  <div class="WitnessList"></div>
+</div>
 <p>The Commission plans to post its witness lists on its website in advance of the witnesses testifying. These lists will be subject to modification if Commission Counsel determines that a witness is unnecessary or that an additional witness is required.</p>
 <p>Additional information about the witness lists will be provided in due course.</p>
 <?php
