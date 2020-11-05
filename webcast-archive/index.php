@@ -13,7 +13,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <h3>November - 2020</h3>
   <p class="ArchiveVideoTitle"><strong>November 6</strong>: Video archive of today’s hearing will be uploaded here</p>
   <p class="ArchiveVideoTitle"><strong>November 5</strong>: Video archive of today’s hearing will be uploaded here</p>
-  <p class="ArchiveVideoTitle"><strong>November 4</strong>: Video archive of today’s hearing will be uploaded here</p>
+  <p class="ArchiveVideoTitle"><strong>November 4</strong>: <a onclick="openVideo('475713142'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>November 3</strong>: <a onclick="openVideo('475295245'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>November 2</strong>: <a onclick="openVideo('475195357'); return false" class="ArchiveVideoLink">Watch Session</a></p>
 </div>
