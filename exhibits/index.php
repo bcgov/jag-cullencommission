@@ -10,6 +10,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#146</p>
+    <p><a href="/data/exhibits/146 - GPEB3325 - Email from Scott McGregor February 23, 2017.pdf" target="_blank">Email Robert Stewart, subject Fw CIR_17-003_AML Month of December - February 23, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#145</p>
+    <p><a href="/data/exhibits/145 - GPEB0705_Redacted.pdf" target="_blank">Affidavit #1 of Robert Barber, made on October 29, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#144</p>
     <p><a href="/data/exhibits/144 - 2020 10 28 - Affidavit No. 3 of K. Ackles [REDACTED].pdf" target="_blank">Affidavit #3 of Ken Ackles made on October 28, 2020_Redacted</a></p>
 </div>
