@@ -21,11 +21,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p><strong><u>Witness Name</u></strong></p>
   <p>November 5, 2020</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>Daryl Tottenham</strong>, British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer</li>
+    <li><strong>Daryl Tottenham</strong> (cont'd), British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer</li>
     <li><strong>Fred Pinnock</strong>, Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team</li>
   </ul>
   <p>November 6, 2020</p>
   <ul class="ScheduleListWitnesses">
+    <li><strong>Fred Pinnock</strong> (cont'd), Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team</li>
     <li><strong>Tom Robertson</strong>, Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team, Former Gaming Policy and Enforcement Branch (GPEB) Investigator</li>
   </ul>
   <p>November 9, 2020</p>
@@ -46,7 +47,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </ul>
   <p>November 13, 2020</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>Larry Vander Graaf</strong>, Former Gaming Policy and Enforcement Branch (GPEB), Executive Director of Investigations, Former RCMP Officer</li>
+    <li><strong>Larry Vander Graaf</strong> (cont'd), Former Gaming Policy and Enforcement Branch (GPEB), Executive Director of Investigations, Former RCMP Officer</li>
   </ul>
 </div>
 
