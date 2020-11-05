@@ -130,8 +130,36 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/115 - Exhibit 115_Applied_BCLC6636.pdf" target="_blank">Email from Rob Kroeker re Vancouver Sun – AML story today – Nov 28, 2017 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#114</p>
+    <p><a href="/data/exhibits/114 - GPEB3953.0001 - Email from John Karlovcec re Derek Dickson - Jan 27, 2011.pdf" target="_blank">Email from John Karlovcec re Derek Dickson – Jan 27, 2011</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#113</p>
+    <p><a href="/data/exhibits/113 - Applied_BCLC0015839.pdf" target="_blank">Email exchange between Karlovcec, Alderson and Beeksma re $100 Bills at RRCR – February 3, 2012_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#112</p>
+    <p><a href="/data/exhibits/112 - GPEB0171_Redacted.pdf" target="_blank">Letter from Joe Schalk re Money Laundering in BC Casinos – February 28, 2011_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#111</p>
+    <p><a href="/data/exhibits/111 - GPEB0581_Redacted.pdf" target="_blank">Letter from John Karlovcec re: Money Laundering in BC Casinos - December 24, 2010_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#110</p>
+    <p><a href="/data/exhibits/110 - GPEB0169_Redacted.pdf" target="_blank">Letter from Derek Dickson re Money Laundering in Casinos – November 24, 2010_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#109</p>
+    <p><a href="/data/exhibits/109 - GPEB1929_Redacted.pdf" target="_blank">Letter from Gordon Friesen re Loan Sharking/Suspicious Currency and Chip Passing – May 4, 2010_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#108</p>
     <p><a href="/data/exhibits/108 - GPEB0166 _Redacted.pdf" target="_blank">Letter from Derek Dickson re Loan Sharking/Suspicious Currency & Chip Passing – April 14, 2010_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#107</p>
+    <p><a href="/data/exhibits/107 - Applied_BCLC0012599.pdf" target="_blank">Email from Gordon Friesen re Under $50K Buy Ins in $20 Bills – September 23, 2011_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#106</p>
@@ -158,6 +186,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/101 - Ex H - Memo and Presentation.pdf" target="_blank">RCMP Memorandum to City of Richmond - 06-12-11</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#100</p>
+    <p><a href="/data/exhibits/100 - CAN-000110_Redacted.pdf" target="_blank">Email from Ward Clapham to Mahon and Pinnock Re River Rock Casino - A Policing Response_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#99</p>
     <p><a href="/data/exhibits/99 - Ex F - CoR Council Minutes - 2006.09.25.pdf" target="_blank">City of Richmond Regular (Closed) Council Meeting, September 29th, 2006</a></p>
 </div>
@@ -182,6 +214,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/94 - Ex A - Undated Briefing Note .pdf" target="_blank">RCMP Briefing Note - Supt. Ward Clapham - Richmond RCMP Annual Reference Level Update 2007/2008</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#93</p>
+    <p><a href="/data/exhibits/93 - Email from Ward Clapham - December 13, 2004.pdf" target="_blank">Email from Ward Clapham - December 13, 2004</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#92</p>
     <p><a href="/data/exhibits/92 - Exhibit 92 - Applied (BCLC0016362 pages 64-65).pdf" target="_blank">Notes of Interview April 10, 2015 of Stone Lee and Proposed Questions (redacted)</a></p>
 </div>
@@ -204,6 +240,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#86</p>
     <p><a href="/data/exhibits/86 - BCLC0000289.pdf" target="_blank">BCLC Anti Money Laundering (AML) Protocol for Conditions and Interviews</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#80</p>
+    <p><a href="/data/exhibits/80 - Applied_(GCGC_PROD_0023272).pdf" target="_blank">Email from Patrick Ennis re DVD/Footage request: Large Cash Buy ins – Jan 28, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#75</p>
