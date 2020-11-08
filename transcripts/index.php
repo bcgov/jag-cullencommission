@@ -20,11 +20,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p class="ArchiveVideoTitle">November 3 - <a href="/data/transcripts/Transcript November 3, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 2 - <a href="/data/transcripts/Transcript November 2, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <h3>October</h3>
-<p class="ArchiveVideoTitle">October 30 - <a href="/data/transcripts/Transcript October 30 ,2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
-<p class="ArchiveVideoTitle">October 29 - <a href="/data/transcripts/Transcript October 29 ,2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
-<p class="ArchiveVideoTitle">October 28 - <a href="/data/transcripts/Transcript October 28 ,2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
-<p class="ArchiveVideoTitle">October 27 - <a href="/data/transcripts/Transcript October 27 ,2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
-<p class="ArchiveVideoTitle">October 26 - <a href="/data/transcripts/Transcript October 26 ,2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">October 30 - <a href="/data/transcripts/Transcript October 30, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">October 29 - <a href="/data/transcripts/Transcript October 29, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">October 28 - <a href="/data/transcripts/Transcript October 28, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">October 27 - <a href="/data/transcripts/Transcript October 27, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">October 26 - <a href="/data/transcripts/Transcript October 26, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <h3>June</h3>
 <p class="ArchiveVideoTitle">June 16 - <a href="/data/transcripts/Transcript June 16, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">June 15 - <a href="/data/transcripts/Transcript June 15, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
