@@ -931,9 +931,32 @@ $highLight: rgb(141, 0, 47);
 
 .ScheduleListWitnesses {
   list-style-type: none;
-  padding-left: 0px;
-  padding-right: 10px;
+  padding: 0px;
   margin-left: 0px;
+}
+
+.ScheduleListPanel .ScheduleListWitnesses {
+  list-style-type: none;
+  padding: 0px 0px 0px 30px;
+  margin: 10px 0px 0px 0px;
+}
+
+.ScheduleListPanel {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #999;
+  background-color: #eaeaea;
+  padding: 10px;
+  margin: 12px 0px 0px 0px;
+}
+
+.SchedulePanelName {
+  padding: 0px;
+  margin: 0px auto;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #333;
 }
 
 
