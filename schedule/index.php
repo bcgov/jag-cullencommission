@@ -39,6 +39,46 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <ul class="ScheduleListWitnesses">
     <li><strong>Larry Vander Graaf</strong> (cont'd), Former Gaming Policy and Enforcement Branch (GPEB), Executive Director of Investigations, Former RCMP Officer</li>
   </ul>
+  <p>November 16, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Department of Finance – Canada / Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Gabriel Ngo</strong>, Senior Advisor, Financial Crimes Policy, Department of Finance – Canada</li>
+      <li><strong>Bruce Wallace</strong>, Manager of Strategic Policy and Reviews, Financial Transactions and Reports Analysis Centre of Canada</li>
+    </ul>
+  </div>
+  <div></div>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Frederica Wilson</strong>, Executive Director and Deputy CEO, Federation of Law Societies of Canada</li>
+  </ul>
+  <p>November 17, 2020</p>
+  <ul class="ScheduleListWitnesses">
+  <li><strong>Frederica Wilson</strong> (cont'd), Executive Director and Deputy CEO, Federation of Law Societies of Canada</li>
+  </ul>
+  <p>November 18, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Law Society of British Columbia Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Craig Ferris</strong>, QC, President, Law Society of British Columbia</li>
+      <li><strong>Don Avison</strong>, QC, Executive Director / CEO, Law Society of British Columbia</li>
+      <li><strong>Jeanette McPhee</strong>, CFO and Director of Trust Regulation, Law Society of British Columbia</li>
+      <li><strong>Gurprit Bains</strong>, Deputy Chief Legal Officer, Law Society of British Columbia</li>
+    </ul>
+  </div>
+  <p>November 19, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Law Society of British Columbia Panel (cont’d):</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Craig Ferris</strong>, QC, President, Law Society of British Columbia</li>
+      <li><strong>Don Avison</strong>, QC, Executive Director / CEO, Law Society of British Columbia</li>
+      <li><strong>Jeanette McPhee</strong>, CFO and Director of Trust Regulation, Law Society of British Columbia</li>
+      <li><strong>Gurprit Bains</strong>, Deputy Chief Legal Officer, Law Society of British Columbia</li>
+    </ul>
+  </div>
+  <p>November 20, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Prof. Michael Levi</strong>, Professor, Cardiff University</li>
+  </ul>
 </div>
 
 <!--  PAST HEARINGS  -->
