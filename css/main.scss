@@ -521,7 +521,9 @@ $buttonPaddingHorizontalHover: 20px;
   margin-right: (30px - $buttonPaddingHorizontalHover);
 }
 
-/* ---------------------------------------- CALENDAR ---------------------------------------- */
+
+
+/*  CALENDAR  */
 
 $calendarPrimary: #0967E9;
 $calendarSecondary: #01CED1;
@@ -844,6 +846,8 @@ $highLight: rgb(141, 0, 47);
   color: #0967E9;
 }
 
+
+
 /*  WEEKLY SCHEDULE  */
 
 .WeeklySchedule {
@@ -980,6 +984,8 @@ $highLight: rgb(141, 0, 47);
   float: left;
 }
 
+
+
 /*  WITNESS PAGE  */
 
 .WitnessPageList {
@@ -1088,7 +1094,23 @@ $highLight: rgb(141, 0, 47);
 }
 
 
-/* ---------------------------------------- SMALL SCREENS ---------------------------------------- */
+
+/*  RULING PAGE  */
+
+.RulingLinkList {
+  display: grid;
+  grid-template-columns: 180px 90px 1fr;
+  gap: 5px;
+}
+
+.RulingLinkList p {
+  margin: 0px;
+  padding: 5px;
+}
+
+
+
+/*  SMALL SCREENS  */
 
 @media only screen and (max-width: 1000px) {
 
@@ -1232,7 +1254,9 @@ $highLight: rgb(141, 0, 47);
 
 }
 
-/* ---------------------------------------- MODERN BROWERS ---------------------------------------- */
+
+
+/*  MODERN BROWERS  */
 
 @supports (display: grid) {
 
@@ -1351,7 +1375,9 @@ $highLight: rgb(141, 0, 47);
     display: none;
   }
   
-/* ---------------------------------------- MORDERN BROWERS ON SMALL SCREENS ---------------------------------------- */
+
+
+/*  MORDERN BROWERS ON SMALL SCREENS  */
 
   @media only screen and (max-width: 1000px) {
 

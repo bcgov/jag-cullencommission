@@ -199,7 +199,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#99</p>
-    <p><a href="/data/exhibits/99 - Ex F - CoR Council Minutes - 2006.09.25.pdf" target="_blank">City of Richmond Regular (Closed) Council Meeting, September 29th, 2006</a></p>
+    <p><a href="/data/exhibits/99 - Ex F - CoR Council Minutes - 2006.09.25.pdf" target="_blank">City of Richmond Regular (Closed) Council Meeting, September 25th, 2006</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#98</p>
