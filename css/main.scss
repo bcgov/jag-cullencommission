@@ -1108,6 +1108,10 @@ $highLight: rgb(141, 0, 47);
   padding: 5px;
 }
 
+.RulingTitle {
+  grid-column: auto;
+}
+
 
 
 /*  SMALL SCREENS  */
@@ -1240,17 +1244,15 @@ $highLight: rgb(141, 0, 47);
     grid-row: 3;
   }
 
+  .MarkdownPreview {
+    width: 95%;
+    padding: 10px 15px;
+  }
 
-
-.MarkdownPreview {
-  width: 95%;
-  padding: 10px 15px;
-}
-
-.HearingTheme {
-  width: 95%;
-  padding: 10px 15px;
-}
+  .HearingTheme {
+    width: 95%;
+    padding: 10px 15px;
+  }
 
 }
 
@@ -1403,6 +1405,10 @@ $highLight: rgb(141, 0, 47);
     .ExpandableSection {
       max-width: 100% !important;
       grid-column: 1 / span 1;
+    }
+    
+    .RulingTitle {
+      grid-column: 1 / span 3;
     }
     
   }

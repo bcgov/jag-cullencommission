@@ -1111,6 +1111,10 @@ a.active, a.NavbarButton:hover {
   padding: 5px;
 }
 
+.RulingTitle {
+  grid-column: auto;
+}
+
 /*  SMALL SCREENS  */
 @media only screen and (max-width: 1000px) {
   h1 {
@@ -1370,6 +1374,11 @@ a.active, a.NavbarButton:hover {
       -ms-grid-column: 1;
       -ms-grid-column-span: 1;
       grid-column: 1 / span 1;
+    }
+    .RulingTitle {
+      -ms-grid-column: 1;
+      -ms-grid-column-span: 3;
+      grid-column: 1 / span 3;
     }
   }
 }
