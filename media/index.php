@@ -412,8 +412,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent12">
         <h2>Participant Opening Statements</h2>
-        <p>The opening statements of participants that have been provided to the Commission of Inquiry into Money Laundering in British Columbia can be found <a href="/schedule/">here</a>.</p>
-        <p>They are located beside the participant names in the schedule. Opening statements are posted once the participant has presented at the hearing.</p>
+        <p>The opening statements of participants that have been provided to the Commission of Inquiry into Money Laundering in British Columbia can be found in the February, 2020 transcripts at the bottom of the <a href="/transcripts/">Transcripts page</a>.</p>
         <p><em>Please note: Not all participants provided a digital/electronic version of their opening statement to the Commission.</em></p>
         <p>If you would like to see the opening statements being presented, please see our video archive <a href="/webcast-archive/">here</a>. Archived videos of the hearings are posted to this section in as timely a manner as possible.</p>
         <p><em>Please note: The videos are edited ONLY to remove the time between the morning, lunch and afternoon breaks.</em></p>
