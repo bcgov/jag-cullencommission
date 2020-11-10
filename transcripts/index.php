@@ -4,7 +4,6 @@ $subNavOpen = '#NavbarHearings';
 $navTranscripts = true;
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 ?>
-<script src="./date-format/date.format.js"></script>
 <link rel="stylesheet" href="/css/main.css">
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');

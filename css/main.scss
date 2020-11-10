@@ -919,16 +919,7 @@ $highLight: rgb(141, 0, 47);
 .ScheduleList {
   display: grid;
   gap: 0px 0px;
-  grid-template-columns: 155px 1fr 200px;
-  font-size: 0.85rem;
-  margin-bottom: 30px;
-}
-
-.ScheduleListNEW {
-  display: grid;
-  gap: 0px 0px;
   grid-template-columns: 155px 1fr;
-  // grid-template-columns: 155px 1fr 200px;
   font-size: 0.85rem;
   margin-bottom: 30px;
 }
