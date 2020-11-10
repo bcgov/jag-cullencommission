@@ -19,10 +19,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>November 9, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Mike Hiller</strong>, Former British Columbia Lottery Corporation (BCLC) Investigator, Former RCMP Officer</li>
-  </ul>
   <p>November 10, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Daryl Tottenham</strong> (cont’d), British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer</li>
@@ -91,6 +87,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
   <!-- <p><strong><u>Transcript</u></strong></p> -->
+  <p>November 9, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Mike Hiller</strong>, Former British Columbia Lottery Corporation (BCLC) Investigator, Former RCMP Officer</li>
+  </ul>
   <p>November 6, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Fred Pinnock</strong> (cont'd), Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team</li>
