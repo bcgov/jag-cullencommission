@@ -2,8 +2,6 @@
 $title = 'Witnesses';
 $subNavOpen = '#NavbarHearings';
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
-?>
-<?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
@@ -39,6 +37,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Steve Beeksma</strong>, (British Columbia Lottery Corporation (BCLC) Anti-Money Laundering (AML) Project Specialist, Former Great Canadian Gaming Corporation (GCGC) Surveillance Shift Manager)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">26 October, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Dr. Katie Benson</strong>, (Professor, Lancaster University)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">17 November, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Oliver Bullough</strong>, (Journalist and Author)</p>
     <div class="WitnessHearingsList">

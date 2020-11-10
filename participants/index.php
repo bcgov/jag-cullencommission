@@ -292,6 +292,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
+                <p>Paul King Jin</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Paul King Jin</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Bibhas Vaze</p>
+            </div>
+            <div class="rTableCell">
+                <p>Hira Rowan LLP</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
                 <p>Kroeker, Robert</p>
             </div>
             <div class="rTableCell">
