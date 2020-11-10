@@ -17,11 +17,21 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Don Avison</strong>, (QC, Executive Director / CEO, Law Society of British Columbia)</p>
+    <div class="WitnessHearingsList">
+    <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
+    <p class="HearingDateLink"><strong class="WitnessHearingDate">19 November, 2020</strong></p>
+    </div>
   </div>
 </div>
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">B</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Gurprit Bains</strong>, (Deputy Chief Legal Officer, Law Society of British Columbia)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">19 November, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Rob Barber</strong>, (Former Gaming Policy and Enforcement Branch (GPEB) Investigator, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
@@ -66,6 +76,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">F</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Craig Ferris</strong>, (QC, President, Law Society of British Columbia)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">19 November, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Gord Friesen</strong>, (Former British Columbia Lottery Corporation (BCLC) Manager of Investigations, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">28 October, 2020</strong></p>
@@ -141,6 +156,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">8 June, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">November 20, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Simon Lord</strong>, (Senior Officer and Money Laundering Expert, National Crime Agency (UK))</p>
     <div class="WitnessHearingsList">
@@ -150,16 +166,23 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
 </div>
 <div class="WitnessListContainer">
-  <div class="NoWitnesses">
-    <h2 class="WitnessAlphabetTitle">M</h2>
+  <h2 class="WitnessAlphabetTitle">M</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Jeanette McPhee</strong>, (CFO and Director of Trust Regulation, Law Society of British Columbia)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">19 November, 2020</strong></p>
+    </div>
   </div>
-  <div class="WitnessList"></div>
 </div>
 <div class="WitnessListContainer">
-  <div class="NoWitnesses">
-    <h2 class="WitnessAlphabetTitle">N</h2>
+  <h2 class="WitnessAlphabetTitle">N</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Gabriel Ngo</strong>, (Senior Advisor, Financial Crimes Policy, Department of Finance – Canada)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 November, 2020</strong></p>
+    </div>
   </div>
-  <div class="WitnessList"></div>
 </div>
 <div class="WitnessListContainer">
   <div class="NoWitnesses">
@@ -253,10 +276,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">15 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">16 June, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Bruce Wallace</strong>, (Manager of Strategic Policy and Reviews, Financial Transactions and Reports Analysis Centre of Canada)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 November, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Ryland Wellwood</strong>, (Civilian Member Analyst, RCMP)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Frederica Wilson</strong>, (Executive Director and Deputy CEO, Federation of Law Societies of Canada)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 November, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">17 November, 2020</strong></p>
     </div>
   </div>
 </div>
