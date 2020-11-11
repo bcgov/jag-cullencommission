@@ -26,10 +26,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/146 - GPEB3325 - Email from Scott McGregor February 23, 2017.pdf" target="_blank">Email Robert Stewart, subject Fw CIR_17-003_AML Month of December - February 23, 2017</a></p>
 </div>
 <div class="ExhibitElement">
-    <p>#145</p>
-    <p><a href="/data/exhibits/145 - GPEB0705_Redacted.pdf" target="_blank">Affidavit #1 of Robert Barber, made on October 29, 2020_Redacted</a></p>
-</div>
-<div class="ExhibitElement">
     <p>#144</p>
     <p><a href="/data/exhibits/144 - 2020 10 28 - Affidavit No. 3 of K. Ackles [REDACTED].pdf" target="_blank">Affidavit #3 of Ken Ackles made on October 28, 2020_Redacted</a></p>
 </div>
