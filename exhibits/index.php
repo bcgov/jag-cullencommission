@@ -10,6 +10,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#168</p>
+    <p><a href="/data/exhibits/168 - Applied_BCLC0004198 pp. 106-108.pdf" target="_blank">Email exchange between Mike Hiller and Jim Wall, Subject: Zhang "et al" Buy-ins with No Play - August 18, 2014. (Only pages 106-108)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#166</p>
+    <p><a href="/data/exhibits/166 - Applied_Affidavit No.1 of Michael Hiller.pdf" target="_blank">Affidavit no. 1 of Michael Hiller, sworn November 8, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#165</p>
+    <p><a href="/data/exhibits/165 - CAN-000094_Redacted.pdf" target="_blank">Email from Donald Smith, Re IIGET File 05-661 Loansharking Investigation - February 25, 2005_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#146</p>
     <p><a href="/data/exhibits/146 - GPEB3325 - Email from Scott McGregor February 23, 2017.pdf" target="_blank">Email Robert Stewart, subject Fw CIR_17-003_AML Month of December - February 23, 2017</a></p>
 </div>
@@ -248,6 +260,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#86</p>
     <p><a href="/data/exhibits/86 - BCLC0000289.pdf" target="_blank">BCLC Anti Money Laundering (AML) Protocol for Conditions and Interviews</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#85</p>
+    <p><a href="/data/exhibits/85 - GPEB5137-5154 COMBINED.pdf" target="_blank">A collection of 18 Interview forms - Interview Format for Identified HRP Patrons_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#84</p>
+    <p><a href="/data/exhibits/84 - Extracted Pages 27-29 GPEB4302.pdf" target="_blank">Email from Gordon Friesen to Steve Beeksma RE Under$50K buy ins in $20 bills - September 23, 2011</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#80</p>
