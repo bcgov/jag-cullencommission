@@ -199,6 +199,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">6 November, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">17 November, 2020</strong></p>
     </div>
   </div>
 </div>
