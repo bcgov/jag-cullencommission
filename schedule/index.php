@@ -40,6 +40,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Frederica Wilson</strong> (cont'd), Executive Director and Deputy CEO, Federation of Law Societies of Canada</li>
     <li><strong>Dr. Katie Benson</strong>, Professor, Lancaster University</li>
   </ul>
+  <div></div>
+  <div class="AfternoonSession">
+    <p class="AfternoonSessionTitle"><strong>Additional Hearing Starting at 2:30pm</strong></p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Fred Pinnock</strong>, Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team</li>
+    </ul>
+  </div>
   <p>November 18, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Law Society of British Columbia Panel:</p>
