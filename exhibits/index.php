@@ -10,8 +10,24 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#174</p>
+    <p><a href="/data/exhibits/174 - GCGC_PROD_0058204R_Redacted.pdf" target="_blank">Email exchange between Daryl Tottenham and David Zhou, re: Rhee SID 182916 - June 5, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#173</p>
+    <p><a href="/data/exhibits/173 - GCGC_PROD_0060340R_Redacted.pdf" target="_blank">Email from Patrick Ennis to Daryl Tottenham, Re $200K Cash from Mr. Clifford Rhee - August 17, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#172</p>
+    <p><a href="/data/exhibits/172 - GCGC_PROD_0033977R_Redacted.pdf" target="_blank">Email from Daryl Tottenham to Patrick Ennis, re Mr. Rhee, Clifford's cash buy-in - August 3, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#168</p>
     <p><a href="/data/exhibits/168 - Applied_BCLC0004198 pp. 106-108.pdf" target="_blank">Email exchange between Mike Hiller and Jim Wall, Subject: Zhang "et al" Buy-ins with No Play - August 18, 2014. (Only pages 106-108)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#167</p>
+    <p><a href="/data/exhibits/167 - Applied_BCLC0011939.pdf" target="_blank">Mike Hiller notebook #2 – June 1, 2009 to June 16, 2010_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#166</p>
