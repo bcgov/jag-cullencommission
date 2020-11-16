@@ -7,6 +7,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection22">
+        <p class="ExpandableSectionTitle">Interim Report Submitted</p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">November 16, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent22">
+        <h2>Interim Report Submitted</h2>
+        <p>The Cullen Commission submitted its Interim Report to the Province of British Columbia on November 15, 2020.</p>
+        <p>The hearings into money laundering in British Columbia continue. You can see the witness list/hearings schedule here.</p>
+        <p><strong>About the Commission</strong></p>
+        <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission is looking at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission is also examining regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
+        <p>The Commission delivered an interim report to the Province on November 15, 2020 and is required to submit a final report by May 2021. For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection21">
         <p class="ExpandableSectionTitle">Witness List and Hearings Schedule Announced for Week of October 26, 2020</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
@@ -773,6 +786,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection21').click(function() {
             $('#ExpandableSectionContent21').slideToggle(time);
+        });
+        $('#ExpandableSection22').click(function() {
+            $('#ExpandableSectionContent22').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
