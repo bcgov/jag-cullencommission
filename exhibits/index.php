@@ -10,6 +10,30 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#190</p>
+    <p><a href="/data/exhibits/190 - GPEB0188.0001.pdf" target="_blank">Gaming Policy and Enforcement Branch, Investigations and Regional Operations Division - Report of Findings</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#189</p>
+    <p><a href="/data/exhibits/189 - BCLC0013089.pdf" target="_blank">GPEB-BCLC Joint Executive Meeting - November 5, 2012</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#188</p>
+    <p><a href="/data/exhibits/188 - GPEB0101.0001.pdf" target="_blank">Email from Larry Vander Graaf to Bill McCrea, Re: Strategic Priority Measurements - July 23, 2013</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#187</p>
+    <p><a href="/data/exhibits/187 - GPEB0673.0001.pdf" target="_blank">Email from John Mazure to Larry Vander Graaf, Re: Comments to GPEB Investigations Report on Money Laundering in BC Casions - December 2, 2013</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#186</p>
+    <p><a href="/data/exhibits/186 - GPEB0264.0001.pdf" target="_blank">Las Vegas Review Journal – Casinos shudder over possible federal requirement to divulge source of rollers’ gambling funds - April 8, 2014</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#185</p>
+    <p><a href="/data/exhibits/185 - GPEB0688.0001.pdf" target="_blank">Gaming Policy and Enforcement Branch, Investigations and Regional Operations Division - Compliance Note to the Minister - February 19, 2014</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#166</p>
     <p><a href="/data/exhibits/166 - Applied_Affidavit No.1 of Michael Hiller.pdf" target="_blank">Affidavit no. 1 of Michael Hiller, sworn November 8, 2020_Redacted</a></p>
 </div>
