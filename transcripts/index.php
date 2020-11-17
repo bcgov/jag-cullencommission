@@ -3,9 +3,6 @@ $title = 'Transcripts';
 $subNavOpen = '#NavbarHearings';
 $navTranscripts = true;
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
-?>
-<link rel="stylesheet" href="/css/main.css">
-<?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
@@ -15,7 +12,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>Available transcripts of the public hearings are posted here. (The exception to this would be in the event of special circumstances where there is a need for protective measures for a witness, document or evidence. This could include measures such as a publication ban, sealing materials or proceeding in a closed (non-public) hearing.)</p>
 <h2>2020 Transcripts</h2>
 <h3>November</h3>
-<p class="ArchiveVideoTitle">November 9 - <a href="/data/transcripts/Transcript November 9, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 6 - <a href="/data/transcripts/Transcript November 6, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 5 - <a href="/data/transcripts/Transcript November 5, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 4 - <a href="/data/transcripts/Transcript November 4, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
