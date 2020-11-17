@@ -54,6 +54,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/185 - GPEB0688.0001.pdf" target="_blank">Gaming Policy and Enforcement Branch, Investigations and Regional Operations Division - Compliance Note to the Minister - February 19, 2014</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#174</p>
+    <p><a href="/data/exhibits/174 - Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted.pdf" target="_blank">Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#173</p>
+    <p><a href="/data/exhibits/173 - Email from Patrick Ennis to Daryl Tottenham, Re 200K Cash - August 17, 2016_Redacted.pdf" target="_blank">Email from Patrick Ennis to Daryl Tottenham, Re $200K Cash - August 17, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#172</p>
+    <p><a href="/data/exhibits/172 - Email from Daryl Tottenham to Patrick Ennis, re cash buy-in - August 3, 2016_Redacted.pdf" target="_blank">Email from Daryl Tottenham to Patrick Ennis, re cash buy-in - August 3, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#168</p>
+    <p><a href="/data/exhibits/168 - Email exchange between Mike Hiller and Jim Wall re Buy-ins with No Play - August 18, 2014. (Only pages 106-108).pdf" target="_blank">Email exchange between Mike Hiller and Jim Wall re Buy-ins with No Play - August 18, 2014. (Only pages 106-108)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#167</p>
+    <p><a href="/data/exhibits/167 - Applied_BCLC0011939.pdf" target="_blank">Mike Hiller notebook #2 – June 1, 2009 to June 16, 2010_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#166</p>
     <p><a href="/data/exhibits/166 - Applied_Affidavit No.1 of Michael Hiller.pdf" target="_blank">Affidavit no. 1 of Michael Hiller, sworn November 8, 2020_Redacted</a></p>
 </div>
