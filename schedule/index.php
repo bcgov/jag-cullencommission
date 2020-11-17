@@ -3,8 +3,6 @@ $title = 'Hearings Schedule';
 $subNavOpen = '#NavbarHearings';
 $navSchedule = true;
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
-?>
-<?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
