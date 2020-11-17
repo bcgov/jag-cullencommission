@@ -15,7 +15,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>Available transcripts of the public hearings are posted here. (The exception to this would be in the event of special circumstances where there is a need for protective measures for a witness, document or evidence. This could include measures such as a publication ban, sealing materials or proceeding in a closed (non-public) hearing.)</p>
 <h2>2020 Transcripts</h2>
 <h3>November</h3>
-<p class="ArchiveVideoTitle">November 10 - <a href="/data/transcripts/Transcript November 10, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 9 - <a href="/data/transcripts/Transcript November 9, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 6 - <a href="/data/transcripts/Transcript November 6, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 5 - <a href="/data/transcripts/Transcript November 5, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
@@ -48,9 +47,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p class="ArchiveVideoTitle">May 26 - <a href="/data/transcripts/Transcript May 26, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">May 25 - <a href="/data/transcripts/Transcript May 25, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <h3>February</h3>
-<p class="ArchiveVideoTitle">February 26 - <a href="/data/transcripts/2020 02 26 Hearing Transcripts - Opening Statements.pdf" class="ArchiveVideoLink">Transcript</a></p>
-<p class="ArchiveVideoTitle">February 25 - <a href="/data/transcripts/2020 02 25 Hearing Transcripts - Opening Statements.pdf" class="ArchiveVideoLink">Transcript</a></p>
-<p class="ArchiveVideoTitle">February 24 - <a href="/data/transcripts/2020 02 24 Hearing Transcripts - Opening Statements.pdf" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">February 26 - <a href="/data/transcripts/2020 02 26 Hearing Transcripts - Opening Statements.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">February 25 - <a href="/data/transcripts/2020 02 25 Hearing Transcripts - Opening Statements.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">February 24 - <a href="/data/transcripts/2020 02 24 Hearing Transcripts - Opening Statements.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <h2>2019 Transcripts</h2>
 <p><a href="/files/2019-12-19-Application-Hearing-Transcript.pdf" target="_blank">Application Hearing – Transcript from Dec 19, 2019</a></p>
 <p><a href="/files/2019-10-08-Application-Hearing-Transcript.pdf" target="_blank">Oral Hearing Participants Standing – Transcript from Oct 18, 2019</a></p>
