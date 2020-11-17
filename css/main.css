@@ -485,6 +485,13 @@ a.active, a.NavbarButton:hover {
           box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.418), 0px 0px 3px rgba(255, 255, 255, 0.438) inset;
 }
 
+.Button:focus {
+  outline: none;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+}
+
 .SubmitButton {
   background-image: -webkit-gradient(linear, left top, left bottom, from(#9AD257), to(#578f23));
   background-image: linear-gradient(to bottom, #9AD257, #578f23);
@@ -495,6 +502,12 @@ a.active, a.NavbarButton:hover {
   background-image: -webkit-gradient(linear, left top, left bottom, from(#0099ff), to(#0967E9));
   background-image: linear-gradient(to bottom, #0099ff, #0967E9);
   border-color: #004e6d;
+}
+
+.TonedDownButton {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#cccccc), to(#777777));
+  background-image: linear-gradient(to bottom, #cccccc, #777777);
+  border-color: #585858;
 }
 
 .ButtonMarginLeft {
@@ -983,6 +996,32 @@ a.active, a.NavbarButton:hover {
 
 .AfternoonSessionTitle {
   font-size: 1rem;
+}
+
+.ScheduleTranscriptButton {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 2;
+  grid-column: 1 / span 2;
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: #999;
+  margin: 0px 0px 10px 0px;
+  padding: 0px 0px 30px 0px;
+}
+
+.ScheduleTranscriptLink {
+  margin: 0px;
+  padding: 0px;
+  background-color: none !important;
+}
+
+.ScheduleTranscriptLink:hover {
+  background-color: transparent !important;
 }
 
 /*  CAROUSEL DESIGNS  */

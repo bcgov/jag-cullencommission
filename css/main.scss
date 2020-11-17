@@ -495,6 +495,11 @@ $buttonPaddingHorizontalHover: 20px;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.418), 0px 0px 3px rgba(255, 255, 255, 0.438) inset;
 }
 
+.Button:focus {
+  outline: none;
+  appearance: none;
+}
+
 .SubmitButton {
   background-image: linear-gradient(to bottom, #9AD257, #578f23);
   border-color: #3b6d0d;
@@ -503,6 +508,11 @@ $buttonPaddingHorizontalHover: 20px;
 .RegularButton {
   background-image: linear-gradient(to bottom, #0099ff, #0967E9);
   border-color: #004e6d;
+}
+
+.TonedDownButton {
+  background-image: linear-gradient(to bottom, #cccccc, #777777);
+  border-color: #585858;
 }
 
 .ButtonMarginLeft {
@@ -963,6 +973,28 @@ $highLight: rgb(141, 0, 47);
 
 .AfternoonSessionTitle {
   font-size: 1rem;
+}
+
+.ScheduleTranscriptButton {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  grid-column: 1 / span 2;
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: #999;
+  margin: 0px 0px 10px 0px;
+  padding: 0px 0px 30px 0px;
+}
+
+.ScheduleTranscriptLink {
+  margin: 0px;
+  padding: 0px;
+  background-color: none !important;
+}
+
+.ScheduleTranscriptLink:hover {
+  background-color: transparent !important;
 }
 
 
