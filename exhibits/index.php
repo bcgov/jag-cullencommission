@@ -10,6 +10,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#197</p>
+    <p><a href="/data/exhibits/197 - FLSC000119.pdf" target="_blank">Audit Program Presentation</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#194</p>
+    <p><a href="/data/exhibits/194 - FLSC000083.pdf" target="_blank">FINTRAC Research Report – Review of Money Laundering Court Cases in Canada – November 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#193</p>
+    <p><a href="/data/exhibits/193 - V2 FINAL OR (updated App D) Legal Professionals and Accountants Publications -Nov 16, 2020.pdf" target="_blank">Overview Report: Legal Professionals and Accountants Publications</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#192</p>
+    <p><a href="/data/exhibits/192 - V2 Overview Report on the Regulation of Legal Professionals in BC - Nov 15, 2020.pdf" target="_blank">Overview Report on the Regulation of Legal Professionals in BC</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#191</p>
+    <p><a href="/data/exhibits/191 - Final V2 Overview Report - Anti-Money Laundering Initiatives of the LSBC and FLSC - Nov 15, 2020.pdf" target="_blank">Overview Report - Anti-Money Laundering Initiatives of the LSBC and FLSC</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#190</p>
     <p><a href="/data/exhibits/190 - GPEB0188.0001.pdf" target="_blank">Gaming Policy and Enforcement Branch, Investigations and Regional Operations Division - Report of Findings</a></p>
 </div>
