@@ -54,9 +54,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="WebArchiveMonthDiv">
   <h3>February</h3>
-  <p class="ArchiveVideoTitle"><strong>February 24</strong>: <a onclick="openVideo('397033542'); return false" class="ArchiveVideoLink">Watch Session 1</a> - <a onclick="openVideo('396980448'); return false" class="ArchiveVideoLink">Watch&nbsp;Session&nbsp;2</a></p>
-  <p class="ArchiveVideoTitle"><strong>February 25</strong>: <a onclick="openVideo('393832346'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>February 26</strong>: <a onclick="openVideo('394221461'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>February 25</strong>: <a onclick="openVideo('393832346'); return false" class="ArchiveVideoLink">Watch Session</a></p>
+  <p class="ArchiveVideoTitle"><strong>February 24</strong>: <a onclick="openVideo('397033542'); return false" class="ArchiveVideoLink">Watch Session 1</a> - <a onclick="openVideo('396980448'); return false" class="ArchiveVideoLink">Watch&nbsp;Session&nbsp;2</a></p>
 </div>
 <div style="background-color: rgba(0, 0, 0, 0.75); position: fixed; top: 0px; left: 0px; width: 100vw; height: 100vh; overflow: hidden; display: none; justify-content: center; align-items: center" id="VideoPlayerContainer">
   <div>
