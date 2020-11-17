@@ -81,7 +81,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Larry Vander Graaf</strong> (cont'd), Former Gaming Policy and Enforcement Branch (GPEB), Executive Director of Investigations, Former RCMP Officer</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript November 13, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <div><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('479149656'); return false">Watch Video of Session</button></div>
   </div>
   <p>November 12, 2020</p>
@@ -89,7 +89,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Larry Vander Graaf</strong>, Former Gaming Policy and Enforcement Branch (GPEB), Executive Director of Investigations, Former RCMP Officer</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript November 12, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <div><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('478728288'); return false">Watch Video of Session</button></div>
   </div>
   <p>November 11, 2020</p>
