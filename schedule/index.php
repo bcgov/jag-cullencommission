@@ -149,6 +149,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <ul class="ScheduleListWitnesses">
     <li><strong>Frederica Wilson</strong>, Executive Director and Deputy CEO, Federation of Law Societies of Canada</li>
   </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('480127493'); return false">Watch Video of Session</button></div>
+  </div>
   <p>November 13, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Larry Vander Graaf</strong> (cont'd), Former Gaming Policy and Enforcement Branch (GPEB), Executive Director of Investigations, Former RCMP Officer</li>
