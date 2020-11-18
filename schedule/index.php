@@ -130,6 +130,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <li><strong>Fred Pinnock</strong>, Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team</li>
     </ul>
   </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div>
+      <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('480570942'); return false">Watch Video of Session 1</button>
+      <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('480585881'); return false">Watch Video of Session 2</button>
+    </div>
+  </div>
   <p>November 16, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Department of Finance – Canada / Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) Panel:</p>
