@@ -10,6 +10,34 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#212</p>
+    <p><a href="/data/exhibits/212 - FLSC000034.pdf" target="_blank">Federation of Law Societies of Canada - Model Trust Accounting Rule</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#211</p>
+    <p><a href="/data/exhibits/211 - FLSC000038.pdf" target="_blank">Changes to the Model Rules on Money Laundering and Terrorist Financing, 2018, one-page summary</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#210</p>
+    <p><a href="/data/exhibits/210 - FLSC000014.pdf" target="_blank">Federation of Law Societies of Canada - Memorandum from CIV Subgroup AML Working Group to to AMLWorking Group, Re Report on CIV Issues Review - April 24, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#209</p>
+    <p><a href="/data/exhibits/209 - FLSC000030.pdf" target="_blank">Federation of Law Societies of Canada - Amended Model Rule on Client Identification and Verification</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#208</p>
+    <p><a href="/data/exhibits/208 - FLSC000019.pdf" target="_blank">Federation of Law Societies of Canada - Consultation Report Anti-Money Laundering and Terrorist Financing Working Group - October 2, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#207</p>
+    <p><a href="/data/exhibits/207 - FLSC000018.pdf" target="_blank">Memorandum from No Cash Model Rule Sub-group, Re Review of No Cash Rule - April 8, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#206</p>
+    <p><a href="/data/exhibits/206 - FLSC000032.pdf" target="_blank">Federation of Law Societies of Canada - Amended Model Rule on Cash Transactions</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#205</p>
     <p><a href="/data/exhibits/205 - LSB002262.pdf" target="_blank">FLSC - Memorandum from Richard Scott to Federation Council Law Society Presidents and CEOs, Re Anti-Money Laundering and Terrorist Financing Engagement - July 30, 2018</a></p>
 </div>
