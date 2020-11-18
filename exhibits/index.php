@@ -191,7 +191,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#117</p>
-    <p><a href="/data/exhibits/117 - Applied_BCLC33.pdf" target="_blank">Email from John Karlovcec to Daryl Rottenham - June 6, 2014 Subject: RE: CFSEU/High Risk list review - for discussion (redacted)</a></p>
+    <p><a href="/data/exhibits/117 - Applied_BCLC33.pdf" target="_blank">Email from John Karlovcec to Daryl Tottenham - June 6, 2014 Subject: RE: CFSEU/High Risk list review - for discussion (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#116</p>
