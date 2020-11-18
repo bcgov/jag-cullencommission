@@ -10,6 +10,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#205</p>
+    <p><a href="/data/exhibits/205 - LSB002262.pdf" target="_blank">FLSC - Memorandum from Richard Scott to Federation Council Law Society Presidents and CEOs, Re Anti-Money Laundering and Terrorist Financing Engagement - July 30, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#204</p>
+    <p><a href="/data/exhibits/204 - FLSC000002.pdf" target="_blank">Federation of Law Societies of Canada - Memorandum from Frederica Wilson to CEO, Re FATF Mutual Evaluation Report - September 21, 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#203</p>
+    <p><a href="/data/exhibits/203 - LSB004161.pdf" target="_blank">Memorandum from Federation Executive to Council of the Federation & Law Society Presidents & CEOs Re Anti-Money Laundering & Terrorist Financing Issues - December 3, 2015</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#202</p>
     <p><a href="/data/exhibits/202 - LSB009258-1 (Redacted)_Redacted.pdf" target="_blank">Email from Deborah Armour, Re FATF - November 09, 2015_Redacted</a></p>
 </div>
