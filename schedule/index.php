@@ -153,7 +153,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Frederica Wilson</strong>, Executive Director and Deputy CEO, Federation of Law Societies of Canada</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript November 16, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <div><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('480127493'); return false">Watch Video of Session</button></div>
   </div>
   <p>November 13, 2020</p>
