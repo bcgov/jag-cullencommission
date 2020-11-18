@@ -17,18 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>November 17, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Frederica Wilson</strong> (cont'd), Executive Director and Deputy CEO, Federation of Law Societies of Canada</li>
-    <li><strong>Dr. Katie Benson</strong>, Professor, Lancaster University</li>
-  </ul>
-  <div></div>
-  <div class="AfternoonSession">
-    <p class="AfternoonSessionTitle"><strong>Additional Hearing</strong> Starting at 2:30pm</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Fred Pinnock</strong>, Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team</li>
-    </ul>
-  </div>
   <p>November 18, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Law Society of British Columbia Panel:</p>
@@ -53,6 +41,72 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <ul class="ScheduleListWitnesses">
     <li><strong>Prof. Michael Levi</strong>, Professor, Cardiff University</li>
   </ul>
+  <p>November 23, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">RCMP Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Sgt. Adrienne Vickery</strong>, RCMP National Cryptocurrency Coordinator, National Headquarters Federal Policing Criminal Operations, Financial Crime – Proceeds of Crime Money Laundering Section</li>
+      <li><strong>Sgt. Warren Krahenbil</strong>, RCMP Federal Cybercrime Operations Group Team Leader</li>
+      <li><strong>Cpl. Aaron Gilkes</strong>, Digital Forensic Supervisor, RCMP "E" Division, British Columbia</li>
+    </ul>
+  </div>
+  <p>November 24, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Chainalysis Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Jesse Spiro</strong>, Global Head of Policy & Regulatory Affairs Chainalysis</li>
+      <li><strong>TBD</strong>, Chainalysis</li>
+    </ul>
+  </div>
+  <p>November 25, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Industry Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Peter Warrack</strong>, Chief Compliance Officer, Bitfinex</li>
+      <li><strong>Charlene Cieslik</strong>, Chief Compliance Officer, Localcoin, Principal, Complifact AML Inc., former Chief Compliance Officer, Chief Anti-Money Laundering Officer, and Privacy Officer, Coinsquare Ltd and subsidiaries</li>
+      <li><strong>Ryan Mueller</strong>, Chief Compliance Officer, Netcoins</li>
+      <li><strong>Giles Dixon</strong>, Senior Manager, Grant Thornton, Toronto</li>
+    </ul>
+  </div>
+  <p>November 26, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>TBD</strong></li>
+  </ul>
+  <p>November 27, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Beneficial Ownership Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Michael Barron</strong>, UK Consultant, Co-Author of <em>Towards a Global Norm of Beneficial Ownership Transparency</em></li>
+      <li><strong>Tim Law</strong>, UK Consultant, Co-Author of <em>Towards a Global Norm of Beneficial Ownership Transparency</em></li>
+    </ul>
+  </div>
+  <p>November 30, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Beneficial Ownership Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>James Cohen</strong>, Executive Director, Transparency International Canada</li>
+      <li><strong>Peter Dent</strong>, Partner, Deloitte Forensic</li>
+      <li><strong>Chris Taggart</strong>, Co-founder and CEO, OpenCorporates</li>
+      <li><strong>Mora Johnson</strong>, Lawyer, Ottawa</li>
+    </ul>
+  </div>
+  <p>December 1, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Carol Prest</strong>, Executive Director and Registrar, BC Registries and Online Services</li>
+    <li><strong>Joey Primeau</strong>, A/ED, Financial and Corporate Sector Policy Branch, BC Ministry of Finance</li>
+  </ul>
+  <p>December 2, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Graham Barrow</strong>, UK Transparency Expert, Co-Host of "The Dark Money Files"</li>
+  </ul>
+  <p>December 3, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Barbara McIsaac</strong>, Lawyer, Author of <em>The Law of Privacy in Canada</em></li>
+  </ul>
+  <p>December 4, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><span style="color: red; font-weight: bold">(starting at 8:30 a.m.)</span><br /><strong>Brigitte Unger</strong>, Professor of Law, Economics and Governance, Utrecht University School of Economics, and Economics of the Public Sector Chair, Utrecht University, Netherlands</li>
+  </ul>
 </div>
 
 <!--  PAST HEARINGS  -->
@@ -64,6 +118,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>November 17, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Frederica Wilson</strong> (cont'd), Executive Director and Deputy CEO, Federation of Law Societies of Canada</li>
+    <li><strong>Dr. Katie Benson</strong>, Professor, Lancaster University</li>
+  </ul>
+  <div></div>
+  <div class="AfternoonSession">
+    <p class="AfternoonSessionTitle"><strong>Additional Hearing</strong> Starting at 2:30pm</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Fred Pinnock</strong>, Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team</li>
+    </ul>
+  </div>
   <p>November 16, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Department of Finance – Canada / Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) Panel:</p>
