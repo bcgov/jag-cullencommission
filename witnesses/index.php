@@ -34,6 +34,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Michael Barron</strong>, (UK Consultant, Co-Author of <em>Towards a Global Norm of Beneficial Ownership Transparency</em>)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">27 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Graham Barrow</strong>, (UK Transparency Expert, Co-Host of "The Dark Money Files")</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">2 December, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Steve Beeksma</strong>, (British Columbia Lottery Corporation (BCLC) Anti-Money Laundering (AML) Project Specialist, Former Great Canadian Gaming Corporation (GCGC) Surveillance Shift Manager)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">26 October, 2020</strong></p>
@@ -52,20 +60,36 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">C</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Charlene Cieslik</strong>, (Chief Compliance Officer, Localcoin, Principal, Complifact AML Inc., former Chief Compliance Officer, Chief Anti-Money Laundering Officer, and Privacy Officer, Coinsquare Ltd and subsidiaries)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Ward Clapham</strong>, (Former Officer-in-Charge, Richmond RCMP Detachment)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">27 October, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">28 October, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>James Cohen</strong>, (Executive Director, Transparency International Canada)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 November, 2020</strong></p>
     </div>
   </div>
 </div>
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">D</h2>
   <div class="WitnessList">
-    <p class="NamesOfWitnesses"><strong>Chris Dawkins</strong>, (Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance)</p>
+  <p class="NamesOfWitnesses"><strong>Chris Dawkins</strong>, (Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Peter Dent</strong>, (Partner, Deloitte Forensic)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Giles Dixon</strong>, (Senior Manager, Grant Thornton, Toronto)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -98,6 +122,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Cpl. Aaron Gilkes</strong>, (Digital Forensic Supervisor, RCMP "E" Division, British Columbia)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">23 November, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>William Gilmore</strong>, (Emeritus Professor, School of Law, University of Edinburgh, Scotland)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 June, 2020</strong></p>
@@ -128,10 +156,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList"></div>
 </div>
 <div class="WitnessListContainer">
-  <div class="NoWitnesses">
-    <h2 class="WitnessAlphabetTitle">J</h2>
+  <h2 class="WitnessAlphabetTitle">J</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Mora Johnson</strong>, (Lawyer, Ottawa)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 November, 2020</strong></p>
+    </div>
   </div>
-  <div class="WitnessList"></div>
 </div>
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">K</h2>
@@ -141,6 +172,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">29 October, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">30 October, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Sgt. Warren Krahenbil</strong>, (RCMP Federal Cybercrime Operations Group Team Leader)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">23 November, 2020</strong></p>
+    </div>
   </div>
 </div>
 <div class="WitnessListContainer">
@@ -149,6 +184,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Muriel Labine</strong>, (Former Great Canadian Gaming Corporation (GCGC) Dealer Supervisor)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Tim Law</strong>, (UK Consultant, Co-Author of <em>Towards a Global Norm of Beneficial Ownership Transparency</em>)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">27 November, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Stone Lee</strong>, (British Columbia Lottery Corporation (BCLC) Investigator, Former Great Canadian Gaming Corporation (GCGC) Surveillance Manager)</p>
     <div class="WitnessHearingsList">
@@ -170,10 +209,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">M</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Barbara McIsaac</strong>, (Lawyer, Author of <em>The Law of Privacy in Canada</em>)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">3 December, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Jeanette McPhee</strong>, (CFO and Director of Trust Regulation, Law Society of British Columbia)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">19 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Ryan Mueller</strong>, (Chief Compliance Officer, Netcoins)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -195,11 +242,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">P</h2>
   <div class="WitnessList">
-    <p class="NamesOfWitnesses"><strong>Fred Pinnock</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team)</p>
+  <p class="NamesOfWitnesses"><strong>Fred Pinnock</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">6 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">17 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Carol Prest</strong>, (Executive Director and Registrar, BC Registries and Online Services)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">1 December, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Joey Primeau</strong>, (A/ED, Financial and Corporate Sector Policy Branch, BC Ministry of Finance)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">1 December, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -237,6 +292,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Jesse Spiro</strong>, (Global Head of Policy & Regulatory Affairs Chainalysis)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">24 November, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Leslie Stevens</strong>, (Inspector, Criminal Intelligence Service British Columbia/Yukon Territory Bureau)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
@@ -247,6 +306,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">T</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Chris Taggart</strong>, (Co-founder and CEO, OpenCorporates)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 November, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Daryl Tottenham</strong>, (British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">4 November, 2020</strong></p>
@@ -256,10 +319,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
 </div>
 <div class="WitnessListContainer">
-  <div class="NoWitnesses">
-    <h2 class="WitnessAlphabetTitle">U</h2>
+  <h2 class="WitnessAlphabetTitle">U</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Brigitte Unger</strong>, (Professor of Law, Economics and Governance, Utrecht University School of Economics, and Economics of the Public Sector Chair, Utrecht University, Netherlands)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">4 December, 2020</strong></p>
+    </div>
   </div>
-  <div class="WitnessList"></div>
 </div>
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">V</h2>
@@ -268,6 +334,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">13 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Sgt. Adrienne Vickery</strong>, (RCMP National Cryptocurrency Coordinator, National Headquarters Federal Policing Criminal Operations, Financial Crime – Proceeds of Crime Money Laundering Section)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">23 November, 2020</strong></p>
     </div>
   </div>
 </div>
@@ -282,6 +352,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Bruce Wallace</strong>, (Manager of Strategic Policy and Reviews, Financial Transactions and Reports Analysis Centre of Canada)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">16 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Peter Warrack</strong>, (Chief Compliance Officer, Bitfinex)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Ryland Wellwood</strong>, (Civilian Member Analyst, RCMP)</p>
     <div class="WitnessHearingsList">
