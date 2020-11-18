@@ -178,10 +178,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/122 - Applied_BCLC45.pdf" target="_blank">Email from John Karlovcec to Trevor Emmerson, re Casino Cash Facilitators_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
-    <p>#121</p>
-    <p><a href="/data/exhibits/121 - Applied_BCLC44.pdf" target="_blank">Email from John Karlovcec to Robert Grace, re CFSEU River Rock Casino Orientation – Jun 20, 2014_Redacted</a></p>
-</div>
-<div class="ExhibitElement">
     <p>#120</p>
     <p><a href="/data/exhibits/120 - BCLC0000040 - Email from Kurt Bulow June 17, 2014.pdf" target="_blank">Email from Kurt Bulow to John Karlovcec, Subject: CFSEU Uniform Team BCLC - June 17, 2014</a></p>
 </div>
