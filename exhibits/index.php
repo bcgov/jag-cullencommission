@@ -10,6 +10,38 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#221</p>
+    <p><a href="/data/exhibits/221 - 11178.2013.Tidd.pdf" target="_blank">Solicitors Disciplinary Tribunal - Case no. 11178-2013 - Hearing date 17 December 2013</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#219</p>
+    <p><a href="/data/exhibits/219 - Money Laundering, Anti-Money Laundering.pdf" target="_blank">Money Laundering, Anti-Money Laundering and the Legal Profession by Katie Benson, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#218</p>
+    <p><a href="/data/exhibits/218 - LSB027510 (Katie Benson PhD Thesis).pdf" target="_blank">The Facilitation of Money Laundering by Legal and Financial Professionals; Roles, Relationships and Response - A thesis submitted by Katie Benson, 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#217</p>
+    <p><a href="/data/exhibits/217 - CV - Katie Benson (redacted).pdf" target="_blank">Curriculum Vitae of Katie Benson_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#216</p>
+    <p><a href="/data/exhibits/216 - FLSC000020.pdf" target="_blank">Thematic summary of Feedback from Consultation on 2018 AMLTF Model Rules amendments</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#215</p>
+    <p><a href="/data/exhibits/215 - FLSC000037.pdf" target="_blank">Federation of Law Societies of Canada - Risk Assessment Case Studies for the Legal Profession - February 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#214</p>
+    <p><a href="/data/exhibits/214 - FLSC000036.pdf" target="_blank">Federation of Law Societies of Canada - Risk advisories to the legal profession - December 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#213</p>
+    <p><a href="/data/exhibits/213 - FLSC000035.pdf" target="_blank">Federation of Law Societies of Canada - Guidance to the Legal Profession - December 14, 2018</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#212</p>
     <p><a href="/data/exhibits/212 - FLSC000034.pdf" target="_blank">Federation of Law Societies of Canada - Model Trust Accounting Rule</a></p>
 </div>
