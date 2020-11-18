@@ -17,16 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>November 18, 2020</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Law Society of British Columbia Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Craig Ferris</strong>, QC, President, Law Society of British Columbia</li>
-      <li><strong>Don Avison</strong>, QC, Executive Director / CEO, Law Society of British Columbia</li>
-      <li><strong>Jeanette McPhee</strong>, CFO and Director of Trust Regulation, Law Society of British Columbia</li>
-      <li><strong>Gurprit Bains</strong>, Deputy Chief Legal Officer, Law Society of British Columbia</li>
-    </ul>
-  </div>
   <p>November 19, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Law Society of British Columbia Panel (cont’d):</p>
@@ -124,6 +114,16 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>November 18, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Law Society of British Columbia Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Craig Ferris</strong>, QC, President, Law Society of British Columbia</li>
+      <li><strong>Don Avison</strong>, QC, Executive Director / CEO, Law Society of British Columbia</li>
+      <li><strong>Jeanette McPhee</strong>, CFO and Director of Trust Regulation, Law Society of British Columbia</li>
+      <li><strong>Gurprit Bains</strong>, Deputy Chief Legal Officer, Law Society of British Columbia</li>
+    </ul>
+  </div>
   <p>November 17, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Frederica Wilson</strong> (cont'd), Executive Director and Deputy CEO, Federation of Law Societies of Canada</li>
