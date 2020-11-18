@@ -12,6 +12,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WebArchiveMonthDiv">
   <h3>November - 2020</h3>
   <p class="ArchiveVideoTitle"><strong>November 17</strong>: <a onclick="openVideo('480570942'); return false" class="ArchiveVideoLink">Watch Session 1</a> - <a onclick="openVideo('480585881'); return false" class="ArchiveVideoLink">Watch&nbsp;Session&nbsp;2</a></p>
+  <p class="ArchiveVideoTitle"><strong>November 16</strong>: <a onclick="openVideo('480127493'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>November 13</strong>: <a onclick="openVideo('479149656'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>November 12</strong>: <a onclick="openVideo('478728288'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>November 10</strong>: <a onclick="openVideo('477855188'); return false" class="ArchiveVideoLink">Watch Session</a></p>
