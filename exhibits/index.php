@@ -10,8 +10,36 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#202</p>
+    <p><a href="/data/exhibits/202 - LSB009258-1 (Redacted)_Redacted.pdf" target="_blank">Email from Deborah Armour, Re FATF - November 09, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#201</p>
+    <p><a href="/data/exhibits/201 - FLSC000001.pdf" target="_blank">Federation of Law Societies of Canada - Executive memo to Council re Anti-Money Laundering and Terrorist Financing Issues - September 14, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#200</p>
+    <p><a href="/data/exhibits/200 - RESTRICTED-No.101887-v1-SANITIZED_WF_CASE_SUMMARY.pdf" target="_blank">Sanitized Case Executive Summary</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#199</p>
+    <p><a href="/data/exhibits/199 - CAN-001123.pdf" target="_blank">Presentation to the Federation of Law Societies of Canada and the Government of Canada Working Group on Money Laundering and Terrorist Financing – June 26, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#198</p>
+    <p><a href="/data/exhibits/198 - CAN-001254.pdf" target="_blank">Overview of the FLSC and the Govt. of Canada Working Group on Money Laundering and Terrorist Financing presented by Dept. of Finance Canada presentation - October 2020</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#197</p>
     <p><a href="/data/exhibits/197 - FLSC000119.pdf" target="_blank">Audit Program Presentation</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#196</p>
+    <p><a href="/data/exhibits/196 - CAN-001124.pdf" target="_blank">Recent Amendments to Canada’s AML-ATF Regulations – June 25, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#195</p>
+    <p><a href="/data/exhibits/195 - CAN-001122_Redacted.pdf" target="_blank">Terms of Reference - FLSC and the Government of Canada Working Group on Money Laundering and Terrorist Financing (Draft for policy discussion)_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#194</p>
@@ -84,6 +112,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#146</p>
     <p><a href="/data/exhibits/146 - GPEB3325 - Email from Scott McGregor February 23, 2017.pdf" target="_blank">Email Robert Stewart, subject Fw CIR_17-003_AML Month of December - February 23, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#145</p>
+    <p><a href="/data/exhibits/145 - 2020 10 29 - Affidavit No. 1 of R. Barber_Redacted.pdf" target="_blank">Affidavit #1 of Robert Barber, made on October 29, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#144</p>
