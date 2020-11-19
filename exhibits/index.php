@@ -182,6 +182,58 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/165 - CAN-000094_Redacted.pdf" target="_blank">Email from Donald Smith, Re IIGET File 05-661 Loansharking Investigation - February 25, 2005_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#162</p>
+    <p><a href="/data/exhibits/162 - GPEB0549.0001.pdf" target="_blank">Overview of the Report on the Integrated Illegal Gaming Enforcement Team (IIGET) Effectiveness Review by Catherine Tait – March 31, 2009</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#161</p>
+    <p><a href="/data/exhibits/161 - CAN-000052.pdf" target="_blank">S/Sgt F Pinnock - Business Case for the Expansion of Integrated Illegal Gaming Enforcement Team (IIGET) – 20-July-2007 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#160</p>
+    <p><a href="/data/exhibits/160 - CAN-000054_Redacted.pdf" target="_blank">Email from Fred Pinnock Re IIGET Business Cases – DD 07JUN27 – 19-June-2007 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#159</p>
+    <p><a href="/data/exhibits/159 - CAN-000077.pdf" target="_blank">Integrated Illegal Gaming Enforecement Team (IIGET) - A Provincial Casino Enforcement - Intelligence Unit, June 27, 2007</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#158</p>
+    <p><a href="/data/exhibits/158 - CAN-000107.pdf" target="_blank">Undated memo detailing IIGET and BCLC working group to target loan sharks and other organized criminal activity</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#157</p>
+    <p><a href="/data/exhibits/157 - CAN-000061_Redacted.pdf" target="_blank">S/Sgt F Pinnock – Integrated Illegal Gaming Enforcement Team Performance Report for IIGET Consultative Board – 23-July-2007 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#156</p>
+    <p><a href="/data/exhibits/156 - CAN-000055.pdf" target="_blank">Memo from NCO IIGET "E" Division Re Status Report – Integrated Illegal Gaming Enforcement Team– 14-March-2007 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#155</p>
+    <p><a href="/data/exhibits/155 - CAN-000103.pdf" target="_blank">RCMP Backgrounder (2003-05)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#154</p>
+    <p><a href="/data/exhibits/154 - CAN-000074.pdf" target="_blank">Integrated Illegal Gaming Enforcement Team RCMP and GPEB Consultative Board Meeting – 29-Nov-2004 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#153</p>
+    <p><a href="/data/exhibits/153 - CAN-000064.pdf" target="_blank">S/Sgt F Pinnock – IIGET Consultative Board Meeting minutes – 26-Nov-2007</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#152</p>
+    <p><a href="/data/exhibits/152 - CAN-000046.pdf" target="_blank">RCMP - Five Year Strategic Projection Provincial Policing – 2004-2009 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#151</p>
+    <p><a href="/data/exhibits/151 - CAN-000101_Redacted.pdf" target="_blank">Integrated Illegal Gaming Enforcement Team – Implementation Plan of Operations – 24-June-2004_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#150</p>
+    <p><a href="/data/exhibits/150 - CAN-000087_Redacted.pdf" target="_blank">Memo from S/Sgt T Robertson Re Introduction and Mandate of the RCMP’s Integrated Illegal Gaming Enforcement Team – 10-Nov-2004_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#146</p>
     <p><a href="/data/exhibits/146 - GPEB3325 - Email from Scott McGregor February 23, 2017.pdf" target="_blank">Email Robert Stewart, subject Fw CIR_17-003_AML Month of December - February 23, 2017</a></p>
 </div>
