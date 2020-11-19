@@ -11,6 +11,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning&nbsp;October&nbsp;26,&nbsp;2020,&nbsp;onwards.</em></p>
 <div class="WebArchiveMonthDiv">
   <h3>November - 2020</h3>
+  <p class="ArchiveVideoTitle"><strong>November 18</strong>: <a onclick="openVideo('481005458'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>November 17</strong>: <a onclick="openVideo('480570942'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p style="font-style: italic; margin: 5px auto 20px 20px; padding-top: 0px">The witness Fred Pinnock has applied to have a portion of his evidence not published, from the afternoon hearing on 17 November 2020. The Commissioner will determine his application soon, but the webcast for this session is not available in the meantime.</p>
   <p class="ArchiveVideoTitle"><strong>November 16</strong>: <a onclick="openVideo('480127493'); return false" class="ArchiveVideoLink">Watch Session</a></p>
