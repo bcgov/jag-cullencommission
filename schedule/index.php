@@ -59,15 +59,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </ul>
   </div>
   <p>November 26, 2020</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Industry Panel (cont’d):</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Peter Warrack</strong>, Chief Compliance Officer, Bitfinex</li>
-      <li><strong>Charlene Cieslik</strong>, Chief Compliance Officer, Localcoin, Principal, Complifact AML Inc., former Chief Compliance Officer, Chief Anti-Money Laundering Officer, and Privacy Officer, Coinsquare Ltd and subsidiaries</li>
-      <li><strong>Ryan Mueller</strong>, Chief Compliance Officer, Netcoins</li>
-      <li><strong>Giles Dixon</strong>, Senior Manager, Grant Thornton, Toronto</li>
-    </ul>
-  </div>
+  <p><strong>TBD</strong></p>
   <p>November 27, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Beneficial Ownership Panel:</p>
