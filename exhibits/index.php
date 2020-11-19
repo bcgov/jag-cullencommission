@@ -10,8 +10,64 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#234</p>
+    <p><a href="/data/exhibits/234 - LSB004401-1 - REDACTED.pdf" target="_blank">Email from Jeanette McPhee to Michael Lucas re Model Trust Accounting Rule, Lawyers Acting in a Representative Capacity – October 11, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#233</p>
+    <p><a href="/data/exhibits/233 - LSB000196-1.pdf" target="_blank">LSBC Agenda for Act and Rules Committee – October 24, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#232</p>
+    <p><a href="/data/exhibits/232 - LSB004607 - REDACTED.pdf" target="_blank">Email from Gurprit Bains re Fiduciary Property Examples – January 14, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#231</p>
+    <p><a href="/data/exhibits/231 - LSB004402-1 - REDACTED.pdf" target="_blank">Email from Jeanette McPhee to Michael Lucas re re Model Trust Accounting Rule, comments from Eva Milz – October 11, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#230</p>
+    <p><a href="/data/exhibits/230 - LSB004449 - REDACTED.pdf" target="_blank">Amendments to Rules Relating to Fiduciary Property Under Consideration – Undated_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#229</p>
+    <p><a href="/data/exhibits/229 - LSB006725-1 - REDACTED.pdf" target="_blank">Email from Deborah Armour to Craig Ferris re Code of Conduct Rule 3.2-7 Commentary – May 11, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#228</p>
+    <p><a href="/data/exhibits/228 - LSB000762.pdf" target="_blank">LSBC Memo to Executive Committee from Michael Lucas re Summary of Relevant Points in German Report (real estate, luxury vehicle sales & horse racing) – May 13, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#227</p>
+    <p><a href="/data/exhibits/227 - LSB000390.pdf" target="_blank">LSBC 2020 Fees and Budgets Report</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#226</p>
+    <p><a href="/data/exhibits/226 - Law Society of BC - Education Summary.pdf" target="_blank">LSBC – Education of the Profession</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#225</p>
+    <p><a href="/data/exhibits/225 - LSBC – Trust Assurance Program Summary.pdf" target="_blank">LSBC – Trust Assurance Program Summary</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#224</p>
+    <p><a href="/data/exhibits/224 - Law Society of BC - Regulation Summary.pdf" target="_blank">LSBC – Regulation of the Practice of Law</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#223</p>
+    <p><a href="/data/exhibits/223 - Law Society of BC - Investigations and Discipline Summary.pdf" target="_blank">LSBC – Investigations and Discipline Programs Summary</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#222</p>
+    <p><a href="/data/exhibits/222 - Law Society of BC - Introduction to the Law Society Summary.pdf" target="_blank">LSBC – Introduction to the Law Society Summary</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#221</p>
     <p><a href="/data/exhibits/221 - 11178.2013.Tidd.pdf" target="_blank">Solicitors Disciplinary Tribunal - Case no. 11178-2013 - Hearing date 17 December 2013</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#220</p>
+    <p>The Law of Financial Crime – Lawyers and the Proceeds of Crime – The Facilitation of Money Laundering and Its Control<br />- Katie Benson</p>
 </div>
 <div class="ExhibitElement">
     <p>#219</p>
