@@ -13,7 +13,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
             <div class="LatestEvent">
-                <p class="LatestEventDesc">November 17, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application Pursuant to Rule 60 – Ruling #17</a></p>
+                <p class="LatestEventDesc">November 19, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application Pursuant to Rule 60 – Ruling #17</a></p>
             </div>
             <div class="LatestEvent">
                 <p class="LatestEventDesc">November 16, 2020<br /><strong>News Release</strong><br /><a href="/media?open=22/">Interim Report Submitted</a></p>
