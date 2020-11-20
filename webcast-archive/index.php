@@ -12,8 +12,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WebArchiveMonthDiv">
   <h3>November - 2020</h3>
   <p class="ArchiveVideoTitle"><strong>November 18</strong>: <a onclick="openVideo('481005458'); return false" class="ArchiveVideoLink">Watch Session</a></p>
-  <p class="ArchiveVideoTitle"><strong>November 17</strong>: <a onclick="openVideo('480570942'); return false" class="ArchiveVideoLink">Watch Session</a></p>
-  <p style="font-style: italic; margin: 5px auto 20px 20px; padding-top: 0px">The witness Fred Pinnock has applied to have a portion of his evidence not published, from the afternoon hearing on 17 November 2020. The Commissioner will determine his application soon, but the webcast for this session is not available in the meantime.</p>
+  <p class="ArchiveVideoTitle"><strong>November 17</strong>: <a onclick="openVideo('480570942'); return false" class="ArchiveVideoLink">Watch Session 1</a> - <a onclick="openVideo('481739560'); return false" class="ArchiveVideoLink">Watch Session 2</a></p>
   <p class="ArchiveVideoTitle"><strong>November 16</strong>: <a onclick="openVideo('480127493'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>November 13</strong>: <a onclick="openVideo('479149656'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>November 12</strong>: <a onclick="openVideo('478728288'); return false" class="ArchiveVideoLink">Watch Session</a></p>
