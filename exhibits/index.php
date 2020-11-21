@@ -10,6 +10,42 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#243</p>
+    <p><a href="/data/exhibits/243 - LSB027514 REDACTED.pdf" target="_blank">Letter from Catherine George - October 26, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#242</p>
+    <p><a href="/data/exhibits/242 - LSB027511.pdf" target="_blank">LSBC Guidelines for Disclosing Information to Law Enforcement</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#241</p>
+    <p><a href="/data/exhibits/241 - LSB027512 REDACTED.pdf" target="_blank">Letter from Catherine George re Question to the LSBC re Information-sharing with law enforcement entities – September 24, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#240</p>
+    <p><a href="/data/exhibits/240 - LSB009224-1.pdf" target="_blank">LSBC Memo to Jeanette McPhee from Eva Milz re Resources – April 24, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#239</p>
+    <p><a href="/data/exhibits/239 - LSB002682-1 REDACTED.pdf" target="_blank">Email from Jeanette McPhee to Varro & Wilson re Further Issues for Phase 2, Update from BC – May 29, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#238</p>
+    <p><a href="/data/exhibits/238 - LSB005611-1 REDACTED.pdf" target="_blank">Email from Karen Mok re Law Firm Regulation AML Issues – January 29, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#237</p>
+    <p><a href="/data/exhibits/237 - LSB027515.pdf" target="_blank">LSBC Briefing Note for Cullen Commission – October 7, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#236</p>
+    <p><a href="/data/exhibits/236 - LSB005522-1 REDACTED.pdf" target="_blank">Email from Jeanette McPhee re CIV Rules – March 26, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#235</p>
+    <p><a href="/data/exhibits/235 - LSB005250-1.pdf" target="_blank">Memo to FLSC AMLTF Working Group, CIV Working Group from Jeanette McPhee re Source of Funds and Wealth – October 25, 2019</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#234</p>
     <p><a href="/data/exhibits/234 - LSB004401-1 - REDACTED.pdf" target="_blank">Email from Jeanette McPhee to Michael Lucas re Model Trust Accounting Rule, Lawyers Acting in a Representative Capacity – October 11, 2018_Redacted</a></p>
 </div>
