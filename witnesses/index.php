@@ -251,6 +251,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">6 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">17 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Ian Place</strong>, (Director Solutions Architecture, Chainalysis)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">24 November, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Carol Prest</strong>, (Executive Director and Registrar, BC Registries and Online Services)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">1 December, 2020</strong></p>

@@ -17,21 +17,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>November 23, 2020</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">RCMP Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Sgt. Adrienne Vickery</strong>, RCMP National Cryptocurrency Coordinator, National Headquarters Federal Policing Criminal Operations, Financial Crime – Proceeds of Crime Money Laundering Section</li>
-      <li><strong>Sgt. Warren Krahenbil</strong>, RCMP Federal Cybercrime Operations Group Team Leader</li>
-      <li><strong>Cpl. Aaron Gilkes</strong>, Digital Forensic Supervisor, RCMP "E" Division, British Columbia</li>
-    </ul>
-  </div>
   <p>November 24, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Chainalysis Panel:</p>
     <ul class="ScheduleListWitnesses">
       <li><strong>Jesse Spiro</strong>, Global Head of Policy & Regulatory Affairs Chainalysis</li>
-      <li><strong>TBD</strong>, Chainalysis</li>
+      <li><strong>Ian Place</strong>, Director Solutions Architecture, Chainalysis</li>
     </ul>
   </div>
   <p>November 25, 2020</p>
@@ -92,6 +83,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>November 23, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">RCMP Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Sgt. Adrienne Vickery</strong>, RCMP National Cryptocurrency Coordinator, National Headquarters Federal Policing Criminal Operations, Financial Crime – Proceeds of Crime Money Laundering Section</li>
+      <li><strong>Sgt. Warren Krahenbil</strong>, RCMP Federal Cybercrime Operations Group Team Leader</li>
+      <li><strong>Cpl. Aaron Gilkes</strong>, Digital Forensic Supervisor, RCMP "E" Division, British Columbia</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>November 20, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Prof. Michael Levi</strong>, Professor, Cardiff University</li>
