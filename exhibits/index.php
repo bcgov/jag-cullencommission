@@ -10,6 +10,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#245</p>
+    <p><a href="/data/exhibits/245 - Levi Cullen Report I.pdf" target="_blank">The Legal and Institutional Infrastructure of Anti-Money Laundering in the UK: A Report for the Cullen Commission</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#244</p>
+    <p><a href="/data/exhibits/244 - Levi Cullen Report II - Amended.pdf" target="_blank">Lawyers, their AML regulation and Suspicious Transaction Reporting – Report for the Cullen Commission - 2020</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#243</p>
     <p><a href="/data/exhibits/243 - LSB027514 REDACTED.pdf" target="_blank">Letter from Catherine George - October 26, 2020_Redacted</a></p>
 </div>
