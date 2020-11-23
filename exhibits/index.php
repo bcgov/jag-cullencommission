@@ -10,6 +10,38 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#253</p>
+    <p><a href="/data/exhibits/253 - 004 RCMP VA Slideshow.pdf" target="_blank">RCMP Virtual Assets Slideshow</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#252</p>
+    <p><a href="/data/exhibits/252 - 001 CV of Sgt. Warren Krahenbil.pdf" target="_blank">CV of Sgt. Warren Krahenbil</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#251</p>
+    <p><a href="/data/exhibits/251 - 003 CV of Aaron Gilkes.pdf" target="_blank">CV of Cpl. Aaron Gilkes</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#250</p>
+    <p><a href="/data/exhibits/250 - 002 CV of Sgt. Adrienne Vickery.pdf" target="_blank">CV of Sgt. Adrienne Vickery</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#249</p>
+    <p><a href="/data/exhibits/249 - VA Regulation Overview Report_Final.pdf" target="_blank">Overview Report - Federal Regulation of Virtual Currencies</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#248</p>
+    <p><a href="/data/exhibits/248 - OR Virtual Assets re FATF documents w Appendices- Final Nov 17, 2020.pdf" target="_blank">Overview Report - FATF Publications on Virtual Assets</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#247</p>
+    <p><a href="/data/exhibits/247 - Overview Report Virtual Assets re CSA guidance - FINAL.pdf" target="_blank">Overview Report - Canadian Securities Administrators Publications on Virtual Assets</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#246</p>
+    <p><a href="/data/exhibits/246 - Overview Report - Quadriga CX Final.pdf" target="_blank">Overview Report - Quadriga CX</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#245</p>
     <p><a href="/data/exhibits/245 - Levi Cullen Report I.pdf" target="_blank">The Legal and Institutional Infrastructure of Anti-Money Laundering in the UK: A Report for the Cullen Commission</a></p>
 </div>
