@@ -952,7 +952,7 @@ $highLight: rgb(141, 0, 47);
   border-width: 1px;
   border-color: #999;
   padding: 10px;
-  margin: 12px 0px 0px 0px;
+  margin: 12px 0px 20px 0px;
 }
 
 .SchedulePanelName {
@@ -977,7 +977,7 @@ $highLight: rgb(141, 0, 47);
 
 .ScheduleTranscriptButton {
   display: grid;
-  grid-template-columns: 40fr 60fr;
+  grid-template-columns: 1fr 1fr;
   justify-items: center;
   grid-column: 1 / span 2;
   border-style: solid;
