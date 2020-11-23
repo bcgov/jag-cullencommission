@@ -96,6 +96,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <ul class="ScheduleListWitnesses">
     <li><strong>Prof. Michael Levi</strong>, Professor, Cardiff University</li>
   </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>November 19, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Law Society of British Columbia Panel (cont’d):</p>
@@ -120,6 +124,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <li><strong>Gurprit Bains</strong>, Deputy Chief Legal Officer, Law Society of British Columbia</li>
     </ul>
   </div>
+  <div class="ScheduleTranscriptButton">
+    <div>
+    <p><a href="/data/transcripts/Transcript November 18, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a></p>
+    </div>
+    <div></div>
+  </div>
   <p>November 17, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Frederica Wilson</strong> (cont'd), Executive Director and Deputy CEO, Federation of Law Societies of Canada</li>
@@ -133,10 +143,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
-    <a href="/data/transcripts/Transcript November 17, 2020 - Session 1.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Session 1 Transcript</button></a>
     <div>
-      <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('480570942'); return false">Watch Video of Session 1</button>
-      <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('481739560'); return false">Watch Video of Session 2</button>
+      <p><a href="/data/transcripts/Transcript November 17, 2020 - Session 1.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Session 1 Transcript</button></a></p>
+      <p><a href="/data/transcripts/Transcript November 17, 2020 - Session 2.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Session 2 Transcript</button></a></p>
+    </div>
+    <div>
+      <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('480570942'); return false">Watch Video of Session 1</button></p>
+      <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('481739560'); return false">Watch Video of Session 2</button></p>
     </div>
   </div>
   <p>November 16, 2020</p>
@@ -170,12 +183,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="ScheduleTranscriptButton">
     <a href="/data/transcripts/Transcript November 12, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <div><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('478728288'); return false">Watch Video of Session</button></div>
-  </div>
-  <p>November 11, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Remembrance Day</strong>, Hearings Not in Session</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
   </div>
   <p>November 10, 2020</p>
   <ul class="ScheduleListWitnesses">

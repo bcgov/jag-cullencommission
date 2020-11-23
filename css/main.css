@@ -975,7 +975,7 @@ a.active, a.NavbarButton:hover {
   border-width: 1px;
   border-color: #999;
   padding: 10px;
-  margin: 12px 0px 0px 0px;
+  margin: 12px 0px 20px 0px;
 }
 
 .SchedulePanelName {
@@ -1001,8 +1001,8 @@ a.active, a.NavbarButton:hover {
 .ScheduleTranscriptButton {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 40fr 60fr;
-      grid-template-columns: 40fr 60fr;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
   justify-items: center;
   -ms-grid-column: 1;
   -ms-grid-column-span: 2;
