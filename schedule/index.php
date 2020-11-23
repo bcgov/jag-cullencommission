@@ -45,7 +45,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </ul>
   </div>
   <p>November 26, 2020</p>
-  <p><strong>TBD</strong></p>
+  <p><strong>No hearing scheduled</strong></p>
   <p>November 27, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Beneficial Ownership Panel:</p>
@@ -125,10 +125,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div>
-    <p><a href="/data/transcripts/Transcript November 18, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a></p>
-    </div>
-    <div></div>
+    <a href="/data/transcripts/Transcript November 18, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('481005458'); return false">Watch Video of Session</button>
   </div>
   <p>November 17, 2020</p>
   <ul class="ScheduleListWitnesses">
