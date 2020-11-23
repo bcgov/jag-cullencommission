@@ -246,6 +246,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/185 - GPEB0688.0001.pdf" target="_blank">Gaming Policy and Enforcement Branch, Investigations and Regional Operations Division - Compliance Note to the Minister - February 19, 2014</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#184</p>
+    <p><a href="/data/exhibits/184 - GPEB0073.0001.pdf" target="_blank">Email from Larry Vander Graaf, Re: Patron Gaming Fund Account Discussion - September 14, 2009</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#183</p>
+    <p><a href="/data/exhibits/183 - GPEB0068.0001.pdf" target="_blank">Letter from Derek Struko To Vic Poleschuk - March 28, 2003</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#182</p>
+    <p><a href="/data/exhibits/182 - DOC-00001549.pdf" target="_blank">Curriculum Vitae of Larry Peter Vander Graaf</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#174</p>
     <p><a href="/data/exhibits/174 - Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted.pdf" target="_blank">Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted</a></p>
 </div>
