@@ -10,6 +10,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#259</p>
+    <p><a href="/data/exhibits/259 - 003 Appendix C - Virtual-Assets-Red-Flag-Indicators.pdf" target="_blank">FATF Report - Virtual Assets Red Flag Indicators – September 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#258</p>
+    <p><a href="/data/exhibits/258 - 002 Appendix B - 2020-Geography-of-Crypto 1.pdf" target="_blank">Chainalysis - The 2020 Geography of Cryptocurrency Report - September 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#257</p>
+    <p><a href="/data/exhibits/257 - 001 Appendix A - 2020-Crypto-Crime-Report Chainanalysis.pdf" target="_blank">Chainalysis - The 2020 State of Crypto Crime report - January 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#256</p>
+    <p><a href="/data/exhibits/256 - 008 CV of Ian Place.pdf" target="_blank">Curriculum Vitae of Ian Place</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#255</p>
+    <p><a href="/data/exhibits/255 - 007 CV of Jesse Spiro.pdf" target="_blank">Curriculum Vitae of Jesse Spiro</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#254</p>
     <p><a href="/data/exhibits/254 - Digital Currency - You Cant Flip this Coin.pdf" target="_blank">Senate Report - Digital Currency You Can't Flip this Coin! - June 2015</a></p>
 </div>
