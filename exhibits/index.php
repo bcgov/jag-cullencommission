@@ -10,6 +10,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#268</p>
+    <p><a href="/data/exhibits/268 - 009 Central 1 Credit Union Anti-Money Laundering and Counter-Terrorist Financing Requirements.pdf" target="_blank">Central 1 Credit Union Anti-Money Laundering and Counter-Terrorist Financing Requirements</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#267</p>
+    <p><a href="/data/exhibits/267 - 008 COV - Memo to mayor and council re money laundering Oct 29 2020.pdf" target="_blank">City of Vancouver Memo to mayor re: Bitcoin ATMS – October 30, 2020</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#266</p>
     <p><a href="/data/exhibits/266 - EY - Fifth Monitor Report.pdf" target="_blank">Fifth Report of the Monitor - June 19, 2019</a></p>
 </div>
