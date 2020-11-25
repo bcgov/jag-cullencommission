@@ -12,6 +12,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>Available transcripts of the public hearings are posted here. (The exception to this would be in the event of special circumstances where there is a need for protective measures for a witness, document or evidence. This could include measures such as a publication ban, sealing materials or proceeding in a closed (non-public) hearing.)</p>
 <h2>2020 Transcripts</h2>
 <h3>November</h3>
+<p class="ArchiveVideoTitle">November 20 - <a href="/data/transcripts/Transcript November 20, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">November 19 - <a href="/data/transcripts/Transcript November 19, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 18 - <a href="/data/transcripts/Transcript November 18, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 17 - <a href="/data/transcripts/Transcript November 17, 2020 - Session 1.pdf" target="_blank" class="ArchiveVideoLink"> Session 1 Transcript</a> - <a href="/data/transcripts/Transcript November 17, 2020 - Session 2.pdf" target="_blank" class="ArchiveVideoLink"> Session 2 Transcript</a></p>
 <p class="ArchiveVideoTitle">November 16 - <a href="/data/transcripts/Transcript November 16, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
