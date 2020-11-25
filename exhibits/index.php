@@ -10,6 +10,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#254</p>
+    <p><a href="/data/exhibits/254 - Digital Currency - You Cant Flip this Coin.pdf" target="_blank">Senate Report - Digital Currency You Can't Flip this Coin! - June 2015</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#253</p>
     <p><a href="/data/exhibits/253 - 004 RCMP VA Slideshow.pdf" target="_blank">RCMP Virtual Assets Slideshow</a></p>
 </div>
@@ -476,6 +480,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#122</p>
     <p><a href="/data/exhibits/122 - Applied_BCLC45.pdf" target="_blank">Email from John Karlovcec to Trevor Emmerson, re Casino Cash Facilitators_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#121</p>
+    <p><a href="/data/exhibits/121 - Email from John Karlovcec re CFSEU River Rock Casino Orientation - Jun 20, 2014_Redacted.pdf" target="_blank">Email from John Karlovcec re CFSEU River Rock Casino Orientation – Jun 20, 2014_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#120</p>
