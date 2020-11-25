@@ -101,7 +101,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Prof. Michael Levi</strong>, Professor, Cardiff University</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript November 20, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <div></div>
   </div>
   <p>November 19, 2020</p>
@@ -115,7 +115,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript November 19, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <div><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('481486256'); return false">Watch Video of Session</button></div>
   </div>
   <p>November 18, 2020</p>
