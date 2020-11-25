@@ -98,7 +98,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('482851882'); return false">Watch Video of Session</button>
   </div>
   <p>November 20, 2020</p>
   <ul class="ScheduleListWitnesses">
@@ -106,7 +106,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </ul>
   <div class="ScheduleTranscriptButton">
     <a href="/data/transcripts/Transcript November 20, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('482813421'); return false">Watch Video of Session</button>
   </div>
   <p>November 19, 2020</p>
   <div class="ScheduleListPanel">
@@ -120,7 +120,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <div class="ScheduleTranscriptButton">
     <a href="/data/transcripts/Transcript November 19, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
-    <div><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('481486256'); return false">Watch Video of Session</button></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('481486256'); return false">Watch Video of Session</button>
   </div>
   <p>November 18, 2020</p>
   <div class="ScheduleListPanel">
