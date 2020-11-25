@@ -10,6 +10,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#266</p>
+    <p><a href="/data/exhibits/266 - EY - Fifth Monitor Report.pdf" target="_blank">Fifth Report of the Monitor - June 19, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#265</p>
+    <p><a href="/data/exhibits/265 - OSC Report.pdf" target="_blank">Ontario Securities Commission Report - April 14, 2020</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#264</p>
     <p><a href="/data/exhibits/264 - 004 Appendix A - Giles Dixon CV - Redacted.pdf" target="_blank">Curriculum Vitae of Giles Dixon_Redacted</a></p>
 </div>
