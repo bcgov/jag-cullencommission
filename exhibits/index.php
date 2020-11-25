@@ -10,6 +10,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#264</p>
+    <p><a href="/data/exhibits/264 - 004 Appendix A - Giles Dixon CV - Redacted.pdf" target="_blank">Curriculum Vitae of Giles Dixon_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#263</p>
+    <p><a href="/data/exhibits/263 - 003 Appendix A - Ryan Mueller CV - November 2020.pdf" target="_blank">Curriculum Vitae of Ryan Mueller</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#262</p>
+    <p><a href="/data/exhibits/262 - 001 CIESLIK_CV_Oct 2020_REDACTED.pdf" target="_blank">Curriculum Vitae of Charlene Cieslik_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#261</p>
+    <p><a href="/data/exhibits/261 - 002 Appendix A CV.pdf" target="_blank">Curriculum Vitae of Peter Warrack</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#260</p>
+    <p><a href="/data/exhibits/260 - 009 Chainalysis Reactor Webpage.pdf" target="_blank">Chainalysis Reactor webpage</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#259</p>
     <p><a href="/data/exhibits/259 - 003 Appendix C - Virtual-Assets-Red-Flag-Indicators.pdf" target="_blank">FATF Report - Virtual Assets Red Flag Indicators – September 2020</a></p>
 </div>
