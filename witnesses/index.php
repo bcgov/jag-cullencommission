@@ -150,6 +150,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 November, 2020</strong></p>
     </div>
   </div>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Wayne Holland</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team; Former Chief Constable, Nelson Police Department)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">2 December, 2020</strong></p>
+    </div>
+  </div>
 </div>
 <div class="WitnessListContainer">
   <div class="NoWitnesses">

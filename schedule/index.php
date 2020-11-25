@@ -55,6 +55,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p>December 2, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Graham Barrow</strong>, UK Transparency Expert, Co-Host of "The Dark Money Files"</li>
+    <li><strong>Wayne Holland</strong>, Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team; Former Chief Constable, Nelson Police Department</li>
   </ul>
   <p>December 3, 2020</p>
   <ul class="ScheduleListWitnesses">
