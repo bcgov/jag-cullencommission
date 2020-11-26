@@ -19,6 +19,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p><strong><u>Witness Name</u></strong></p>
   <p>November 26, 2020</p>
   <p><strong>No hearing scheduled</strong></p>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>November 27, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Beneficial Ownership Panel:</p>
@@ -26,6 +30,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <li><strong>Michael Barron</strong>, UK Consultant, Co-Author of <em>Towards a Global Norm of Beneficial Ownership Transparency</em></li>
       <li><strong>Tim Law</strong>, UK Consultant, Co-Author of <em>Towards a Global Norm of Beneficial Ownership Transparency</em></li>
     </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
   </div>
   <p>November 30, 2020</p>
   <div class="ScheduleListPanel">
@@ -37,6 +45,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <li><strong>Mora Johnson</strong>, Lawyer, Ottawa</li>
     </ul>
   </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>December 1, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Carol Prest</strong>, Executive Director and Registrar, BC Registries and Online Services</li>
@@ -47,13 +59,118 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Graham Barrow</strong>, UK Transparency Expert, Co-Host of "The Dark Money Files"</li>
     <li><strong>Wayne Holland</strong>, Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team; Former Chief Constable, Nelson Police Department</li>
   </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>December 3, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Barbara McIsaac</strong>, Lawyer, Author of <em>The Law of Privacy in Canada</em></li>
   </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>December 4, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><span style="color: red; font-weight: bold">(starting at 8:30 a.m.)</span><br /><strong>Brigitte Unger</strong>, Professor of Law, Economics and Governance, Utrecht University School of Economics, and Economics of the Public Sector Chair, Utrecht University, Netherlands</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>December 7, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">The Fentanyl Market in B.C. Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Dr. Martin Bouchard</strong>, Ph.D., Professor, School of Criminology, Simon Fraser University</li>
+      <li><strong>Dr. M-J Milloy</strong>, Ph.D., Research Scientist, British Columbia Centre on Substance Use</li>
+    </ul>
+  </div>
+  <div></div>
+  <p>(Dr. Bouchard and Dr. Milloy will speak to their report – <em>Estimating the Size of the Fentanyl Market in B.C.</em> – commissioned by the Cullen Commission)</p>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>December 8, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Illegal Markets and Money Laundering Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Peter Reuter</strong>, Professor, University of Maryland School of Public Policy and Department of Criminology</li>
+      <li><strong>Jonathan Caulkins</strong>, Professor of Operations Research and Public Policy, Carnegie Mellon University’s Heinz College</li>
+    </ul>
+  </div>
+  <div></div>
+  <p>(Professors Reuter and Caulkins will speak to their White Paper: <em>Relating the Size of Illegal Markets to Associated Amounts of Money Laundered</em> – commissioned by the Cullen Commission)</p>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>December 9, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>John Cassara</strong>, Former US Intelligence Officer and Treasury Special Agent in the Treasury’s Financial Crimes Enforcement Network (FinCEN), the US Secret Service and the US Customs Service</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>December 10, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Trade-Based Money Laundering Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Joel Gibbons</strong>, Senior Program Advisor, Intelligence and Targeting Directorate, Canada Border Services Agency (CBSA)</li>
+      <li><strong>C/M Bryanna Gateley</strong>, Intelligence Analyst, Federal Serious and Organized Crime Unit, RCMP</li>
+      <li><strong>Sgt. Sushile Sharma</strong>, Member, Federal Serious and Organized Crime Unit, RCMP</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>December 11, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Dr. John Zdanowicz</strong>, President of International Trade Alert, Inc. and Professor of Finance, Florida International University</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>December 14, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Jeffrey Simser</strong>, Co-Author of <em>Civil Asset Forfeiture in Canada</em></li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>December 15, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Helena Wood</strong>, Associate Fellow, Royal United Services Institute</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>December 16, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Anton Moiseienko</strong>, Research Fellow, Centre for Financial Crime and Security Studies, Royal United Services Institute</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>December 17, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><span style="color: red;">(Please note that this session will take place from 4:00-8:00 p.m. to accommodate the time difference between<br />British Columbia and Western Australia)</span><br /><strong>Dr. Natalie Skead</strong>, Professor in Law and Dean and Head of School, University of Western Australia Law School</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>December 18, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Phil Tawtel</strong>, Executive Director, British Columbia Civil Forfeiture Office</li>
   </ul>
 </div>
 
