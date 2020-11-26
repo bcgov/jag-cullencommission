@@ -17,16 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>November 25, 2020</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Industry Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Peter Warrack</strong>, Chief Compliance Officer, Bitfinex</li>
-      <li><strong>Charlene Cieslik</strong>, Chief Compliance Officer, Localcoin, Principal, Complifact AML Inc., former Chief Compliance Officer, Chief Anti-Money Laundering Officer, and Privacy Officer, Coinsquare Ltd and subsidiaries</li>
-      <li><strong>Ryan Mueller</strong>, Chief Compliance Officer, Netcoins</li>
-      <li><strong>Giles Dixon</strong>, Senior Manager, Grant Thornton, Toronto</li>
-    </ul>
-  </div>
   <p>November 26, 2020</p>
   <p><strong>No hearing scheduled</strong></p>
   <p>November 27, 2020</p>
@@ -76,6 +66,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>November 25, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Industry Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Peter Warrack</strong>, Chief Compliance Officer, Bitfinex</li>
+      <li><strong>Charlene Cieslik</strong>, Chief Compliance Officer, Localcoin, Principal, Complifact AML Inc., former Chief Compliance Officer, Chief Anti-Money Laundering Officer, and Privacy Officer, Coinsquare Ltd and subsidiaries</li>
+      <li><strong>Ryan Mueller</strong>, Chief Compliance Officer, Netcoins</li>
+      <li><strong>Giles Dixon</strong>, Senior Manager, Grant Thornton, Toronto</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>November 24, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Chainalysis Panel:</p>
