@@ -20,6 +20,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p class="ArchiveVideoTitle">November 16 - <a href="/data/transcripts/Transcript November 16, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 13 - <a href="/data/transcripts/Transcript November 13, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 12 - <a href="/data/transcripts/Transcript November 12, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">November 10 - <a href="/data/transcripts/Transcript November 10, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">November 9 - <a href="/data/transcripts/Transcript November 9, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 6 - <a href="/data/transcripts/Transcript November 6, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 5 - <a href="/data/transcripts/Transcript November 5, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 4 - <a href="/data/transcripts/Transcript November 4, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
