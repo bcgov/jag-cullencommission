@@ -95,14 +95,15 @@ node {
     }
   }
 
-  stage("Deploy ${config.DEV_ENV}") {
+  stage("Deploy ${config.PROD_ENV}") {
     script {
+      echo "Deploy ${config.APP_NAME}${config.SUFFIX} to ${config.NAME_SPACE}-${config.PROD_ENV} ..."
       deploy("${config.APP_NAME}",
              "${config.SUFFIX}",
              "${config.NAME_SPACE}",
-             "${config.DEV_ENV}")
+             "${config.PROD_ENV}")
     }
-  }
+  }  
 
   stage('Trigger ZAP Scan') {
     script {
