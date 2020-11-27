@@ -8,6 +8,99 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h1>FAQs</h1>
 <p><strong>The FAQs will be updated as needed over the coming months. Please check back often for additional information.</strong></p>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection20">
+        <p class="ExpandableSectionTitle">Why are the hearings being held online/via video conference and not in a hearing room?</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent20">
+        <p>The decision was made to hold the hearings online/via video conference in order to lessen the risk of the transmission of COVID-19. They run from 9:30 a.m. to 1:30 p.m., Monday to Friday, with a break or two partway through the hearing time.</p>
+        <p>The hearings are being livestreamed and can be viewed by members of the public on the <a href="/webcast-live/">Commission’s website here</a>. The livestream provides the ability for British Columbians from around the province to watch the hearings.</p>
+        <p>Video archives of the hearings can be <a href="/webcast-archive/">found here</a>. It takes approximately 48 hours from the end of the hearing for the video archive to be reviewed and uploaded to the website.</p>
+    </div>
+    
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection19">
+        <p class="ExpandableSectionTitle">The daily hearing time/length – 9:30 a.m. to 1:30 p.m. – seems to be shorter than if the hearings were being held in person in a courtroom. Why is that?</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent19">
+        <p>In fact, the hearings that are being held online via video conference are similar in length to those held in a courtroom. The Cullen Commission hearings start at 9:30 a.m. each day and are scheduled until 1:30 p.m., but often run until 2 or sometimes 2:30. The hearings run straight through, with (usually) only one 10- or 15-minute break. As a comparison, the British Columbia Supreme Court sits from 10 a.m. – 12:30 p.m. and from 2 p.m. – 4 p.m., with a morning and afternoon break, which totals four hours of court time. While the Commission’s hearings are compressed, we are sitting for the equivalent of a regular court day.</p>
+        <p>The start and end times of the hearings were decided upon by the Commissioner, with guidance from Senior Commission Counsel and the input of participants. It is important to note that not only is this schedule designed to cover ground efficiently, it must take into account considerations as a result of the global COVID-19 pandemic. The start and end times also accommodate witnesses in other time zones across Canada and around the world who participate via video conference.</p>
+        <p>The start and end times of the hearings were decided upon by the Commissioner, with guidance from Senior Commission Counsel and the input of participants. It is important to note that not only is this schedule designed to cover ground efficiently, it must take into account considerations as a result of the global COVID-19 pandemic. The start and end times also accommodate witnesses in other time zones across Canada and around the world who participate via video conference.</p>
+    </div>
+    
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection18">
+        <p class="ExpandableSectionTitle">What are the areas being covered by the hearings?</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent18">
+        <p>The main hearings, at which Commission Counsel plan to address specific issues*, include:</p>
+        <ul>
+            <li>Gaming, casinos, horseracing</li>
+            <li>Real estate</li>
+            <li>Professional services, including accounting and legal</li>
+            <li>Corporate sector</li>
+            <li>Financial institutions and money services</li>
+            <li>Luxury goods</li>
+            <li>Cryptocurrency</li>
+            <li>Cash-based businesses</li>
+            <li>Trade-based money laundering</li>
+            <li>Other sectors</li>
+            <li>Asset recovery</li>
+            <li>Enforcement and regulation</li>
+            <li>Government response</li>
+            <li>Other jurisdictions’ approaches</li>
+        </ul>
+        <p>* These topics are not necessarily listed in sequence, and this hearing plan is subject to variation. Information about the dates on which specific topics will be addressed in the hearings will be posted here on the <a href="/schedule/">Commission website</a>.</p>
+    </div>
+    
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection17">
+        <p class="ExpandableSectionTitle">How can I see who is testifying on what day?</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent17">
+        <p>To see the hearing schedule and witness list, <a href="/schedule/">please go here</a>.</p>
+    </div>
+    
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection16">
+        <p class="ExpandableSectionTitle">When are you going to announce high-profile witnesses?</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent16">
+        <p>The Commission is committed to being open and transparent, and all Commission witnesses are announced in as timely a manner as possible. Creating the schedule for witness testimony is a complex process that involves multiple people including witnesses, participants, their legal counsel, and Commission Counsel and staff — and as such, the hearings schedule and witness list are subject to change.</p>
+    </div>
+    
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection15">
+        <p class="ExpandableSectionTitle">Why haven’t you announced the entire witness list from start to finish? The schedule seems to come out a week at a time.</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent15">
+        <p>There are multiple participants, their legal counsel, witnesses and other stakeholders who must be considered when developing the hearing schedule and witness list. In addition, as new evidence or information emerges through the research and investigations being undertaken by the Commission team, new witnesses are being identified and are being added to the schedule.</p>
+        <p>This is a complex initiative that involves multiple people and it takes time to develop a hearing schedule that works for everyone involved. It is important to note that the hearings schedule and witness list are subject to change. It is not possible for the Commission to announce a complete A-to-Z witness list because the process is ongoing and changes are often made. But as soon as the Commission has settled on its upcoming witnesses, that information is conveyed to the public.</p>
+    </div>
+    
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection14">
+        <p class="ExpandableSectionTitle">Why do exhibits and other documents take so long to upload to the Commission website?</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent14">
+        <p>The Commission is committed to being open and transparent. Within that, we must also ensure that we protect the privacy and confidentiality of some individuals and information, and that can take additional time. In fact, the <a href="/files/ApplicationForDirectionsRegardingRedactions-Ruling13.pdf" target="_blank">Commissioner’s Ruling #13 (Application for Directions Regarding Redactions)</a> requires that the participants and Commission follow a mandated process for redacting information. That process relies on identified participants (the document holder or, in some cases, the participant who used/introduced the exhibit) to make the redactions. This can take additional time.</p>
+        <p>The Commission team is working to make this process as streamlined as possible so that the exhibits and other documents can be uploaded within 24 hours, but we also need to make sure that they are properly redacted.</p>
+    </div>
+    
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection13">
+        <p class="ExpandableSectionTitle">Some of the witnesses don’t show their face — they appear in silhouette on the webcast. Why is that?</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent13">
+        <p>In <a href="/files/ApplicationForWitnessAccommodation-Ruling12.pdf" target="_blank">Ruling #12 (Application for Witness Accommodation)</a>, the Commissioner outlined his reasons for allowing a few specific witnesses — who applied for witness accommodation measures — to provide testimony using silhouettes for their testimony.</p>
+    </div>
+    
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection12">
+        <p class="ExpandableSectionTitle">When will the hearings end?</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent12">
+        <p>The hearings are expected to conclude in May 2021.</p>
+    </div>
+    
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection11">
+        <p class="ExpandableSectionTitle">When will the final report be submitted to the provincial government?</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent11">
+        <p>The Commission has determined that it will need time beyond the original date of May 15, 2021, to complete its final report. There are a few reasons for this, including the breadth of the issues being addressed, the length of the public hearings, the effects of the pandemic, and delays and challenges in obtaining documents. The Commission’s hearings will conclude in May of 2021 and at that point, the Commissioner will seek an extension of time from the Province of British Columbia for submission of the final report. The request will be made at that time because the Commission will have a much better understanding of the amount of time that will be needed.</p>
+    </div>
+    
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection07">
         <p class="ExpandableSectionTitle">When are the public hearings?</p>
     </div>
@@ -106,6 +199,36 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection10').click(function() {
             $('#ExpandableSectionContent10').slideToggle(time);
+        });
+        $('#ExpandableSection11').click(function() {
+            $('#ExpandableSectionContent11').slideToggle(time);
+        });
+        $('#ExpandableSection12').click(function() {
+            $('#ExpandableSectionContent12').slideToggle(time);
+        });
+        $('#ExpandableSection13').click(function() {
+            $('#ExpandableSectionContent13').slideToggle(time);
+        });
+        $('#ExpandableSection14').click(function() {
+            $('#ExpandableSectionContent14').slideToggle(time);
+        });
+        $('#ExpandableSection15').click(function() {
+            $('#ExpandableSectionContent15').slideToggle(time);
+        });
+        $('#ExpandableSection16').click(function() {
+            $('#ExpandableSectionContent16').slideToggle(time);
+        });
+        $('#ExpandableSection17').click(function() {
+            $('#ExpandableSectionContent17').slideToggle(time);
+        });
+        $('#ExpandableSection18').click(function() {
+            $('#ExpandableSectionContent18').slideToggle(time);
+        });
+        $('#ExpandableSection19').click(function() {
+            $('#ExpandableSectionContent19').slideToggle(time);
+        });
+        $('#ExpandableSection20').click(function() {
+            $('#ExpandableSectionContent20').slideToggle(time);
         });
     });
 </script>
