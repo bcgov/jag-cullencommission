@@ -17,12 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>November 26, 2020</p>
-  <p><strong>No hearing scheduled</strong></p>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>November 27, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Beneficial Ownership Panel:</p>
@@ -172,6 +166,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <ul class="ScheduleListWitnesses">
     <li><strong>Phil Tawtel</strong>, Executive Director, British Columbia Civil Forfeiture Office</li>
   </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
 </div>
 
 <!--  PAST HEARINGS  -->
@@ -183,6 +181,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>November 26, 2020</p>
+  <p><strong>No hearing scheduled</strong></p>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>November 25, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Industry Panel:</p>
