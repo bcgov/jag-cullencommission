@@ -10,6 +10,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#269</p>
+    <p><a href="/data/exhibits/269 - Transcript of phone call between Heed and Pinnock on December 31, 2018_Redacted.pdf" target="_blank">Transcript of phone call between Heed and Pinnock on December 31, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#268</p>
     <p><a href="/data/exhibits/268 - 009 Central 1 Credit Union Anti-Money Laundering and Counter-Terrorist Financing Requirements.pdf" target="_blank">Central 1 Credit Union Anti-Money Laundering and Counter-Terrorist Financing Requirements</a></p>
 </div>
@@ -384,6 +388,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#165</p>
     <p><a href="/data/exhibits/165 - CAN-000094_Redacted.pdf" target="_blank">Email from Donald Smith, Re IIGET File 05-661 Loansharking Investigation - February 25, 2005_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#164</p>
+    <p><a href="/data/exhibits/164 - Transcript of a lunch meeting between Heed and Pinnock on September 7, 2018_Redacted.pdf" target="_blank">Transcript of a lunch meeting between Heed and Pinnock on September 7, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#163</p>
+    <p><a href="/data/exhibits/163 - Transcript of a phone call between Heed and Pinnock on July 10, 2018_Redacted.pdf" target="_blank">Transcript of a phone call between Heed and Pinnock on July 10, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#162</p>
