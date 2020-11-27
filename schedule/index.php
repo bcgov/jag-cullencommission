@@ -199,7 +199,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('483898310'); return false">Watch Video of Session</button>
   </div>
   <p>November 24, 2020</p>
   <div class="ScheduleListPanel">
