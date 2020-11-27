@@ -10,6 +10,38 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#277</p>
+    <p><a href="/data/exhibits/277 - 005 Global Witness - Learning the Lessons from UK BOR.pdf" target="_blank">Global Witness - Learning the lessons from the UK’s public beneficial ownership register - October 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#276</p>
+    <p><a href="/data/exhibits/276 - 008 MOF2432.0001.pdf" target="_blank">Response to BC Government's Consultation on a Public Benefical Ownership Registry - from Michael Barron - April 29, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#275</p>
+    <p><a href="/data/exhibits/275 - 007 - MOF2400.0001_Redacted.pdf" target="_blank">Ministry of Finance Briefing Document – Company Beneficial Ownership Consultation - Summary - May 26, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#274</p>
+    <p><a href="/data/exhibits/274 - 009 FATF_Best-Practices-Beneficial-Ownership-Legal-Persons, Oct. 2019.pdf" target="_blank">FATF Best Practices on Beneficial Ownership for Legal Persons - October 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#273</p>
+    <p><a href="/data/exhibits/273 - Canadas 2018-2020 National Action Plan on Open Government.pdf" target="_blank">Canada’s 2018-2020 National Action Plan on Open Government</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#272</p>
+    <p><a href="/data/exhibits/272 - 003 Towards-a-Global-Norm-of-Beneficial-Ownership-Transparency-Phase-2-Paper-March-2019.pdf" target="_blank">Towards a Global Norm of Beneficial Ownership - A scoping study on a strategic approach to achieving a global norm - March 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#271</p>
+    <p><a href="/data/exhibits/271 - 002 CV - Timothy Law.pdf" target="_blank">Curriculum Vitae of Timothy Law</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#270</p>
+    <p><a href="/data/exhibits/270 - 001 CV - Michael Barron.pdf" target="_blank">Curriculum Vitae of Michael Barron</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#269</p>
     <p><a href="/data/exhibits/269 - Transcript of phone call between Heed and Pinnock on December 31, 2018_Redacted.pdf" target="_blank">Transcript of phone call between Heed and Pinnock on December 31, 2018_Redacted</a></p>
 </div>
