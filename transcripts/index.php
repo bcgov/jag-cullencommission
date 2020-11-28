@@ -18,7 +18,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p class="ArchiveVideoTitle">November 20 - <a href="/data/transcripts/Transcript November 20, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 19 - <a href="/data/transcripts/Transcript November 19, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 18 - <a href="/data/transcripts/Transcript November 18, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
-<p class="ArchiveVideoTitle">November 17 - <a href="/data/transcripts/Transcript November 17, 2020 - Session 1.pdf" target="_blank" class="ArchiveVideoLink"> Session 1 Transcript</a> - <a href="/data/transcripts/Transcript November 17, 2020 - Session 2.pdf" target="_blank" class="ArchiveVideoLink"> Session 2 Transcript</a></p>
+<p class="ArchiveVideoTitle">November 17 - <a href="/data/transcripts/Transcript November 17, 2020 - Session 1.pdf" target="_blank" class="ArchiveVideoLink">Session 1 Transcript</a> - <a href="/data/transcripts/Transcript November 17, 2020 - Session 2.pdf" target="_blank" class="ArchiveVideoLink">Session 2 Transcript</a></p>
 <p class="ArchiveVideoTitle">November 16 - <a href="/data/transcripts/Transcript November 16, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 13 - <a href="/data/transcripts/Transcript November 13, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 12 - <a href="/data/transcripts/Transcript November 12, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
