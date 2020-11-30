@@ -36,6 +36,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Carol Prest</strong>, Executive Director and Registrar, BC Registries and Online Services</li>
     <li><strong>Joey Primeau</strong>, A/ED, Financial and Corporate Sector Policy Branch, BC Ministry of Finance</li>
   </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>December 2, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Graham Barrow</strong>, UK Transparency Expert, Co-Host of "The Dark Money Files"</li>
@@ -198,7 +202,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript November 25, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('483898310'); return false">Watch Video of Session</button>
   </div>
   <p>November 24, 2020</p>
