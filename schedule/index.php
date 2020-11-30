@@ -155,7 +155,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>December 17, 2020</p>
   <ul class="ScheduleListWitnesses">
-    <li style="color: red; font-weight: bold">(Please note that this session will take place from 4:00-8:00 p.m. to accommodate the time difference between<br />British Columbia and Western Australia)</li>
+    <li style="color: red; font-weight: bold">(Please note that this session will take place from 4:00-8:00 p.m. to accommodate the time difference between British&nbsp;Columbia&nbsp;and&nbsp;Western&nbsp;Australia)</li>
     <li><strong>Dr. Natalie Skead</strong>, Professor in Law and Dean and Head of School, University of Western Australia Law School</li>
   </ul>
   <div class="ScheduleTranscriptButton">
