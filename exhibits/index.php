@@ -10,6 +10,66 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#292</p>
+    <p><a href="/data/exhibits/292 - 008 TI Technical Briefing Note_Necessary Components and Considerations 2020.pdf" target="_blank">Transparency International Canada, <em>Technical Briefing Note – Necessary Components and Considerations for a Publicly Accessible, Pan-Canadian Company Registry of Beneficial Owners</em> (2020)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#291</p>
+    <p><a href="/data/exhibits/291 - 007 TI Technical Briefing Note_Comparison of Information Fields 2020.pdf" target="_blank">Transparency International Canada, Technical Briefing Note - Comparison of Information Fields Amongst Beneficial Registries in International Jurisdictions (2020)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#290</p>
+    <p><a href="/data/exhibits/290 - 009 M. Johnson_Public Beneficial Ownership_A Legal Analysis 2019.pdf" target="_blank">Mora Johnson, <em>A Public Beneficial Ownership Registry and the Canadian Privacy Regime: A Legal Analysis</em>, October 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#289</p>
+    <p><a href="/data/exhibits/289 - Review of the implementation of the PSC Register.pdf" target="_blank">UK Department for Business, Energy and Industry Strategy <em>Review of the Implementation of the PSC Register</em>, March 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#288</p>
+    <p><a href="/data/exhibits/288 - 012 OpenCorporates US Company Data_State of the Union 2020.pdf" target="_blank">Opencorporates, <em>US Company Data: State of the Union 2020 – How Accessible is official company register data in the US</em>, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#287</p>
+    <p><a href="/data/exhibits/287 - 011 OpenCorporates EU Company Data_State of the Union 2020.pdf" target="_blank">Opencorporates, <em>EU Company Data: State of the Union 2020 – How Poor Access to Company Data is Undermining the EU</em>, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#286</p>
+    <p><a href="/data/exhibits/286 - 016 MOF2426.0001_BC Consultation TI Coalition 2020_Redacted.pdf" target="_blank">BC Beneficial Ownership Consultation Submission, TI Coalition, 2020 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#285</p>
+    <p><a href="/data/exhibits/285 - 015 MOF2438.0001_BC Consultation, Deloitte Peter Dent_Redacted.pdf" target="_blank">BC Beneficial Ownership Consultation Submission, Deloitte (Peter Dent), 2020 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#284</p>
+    <p><a href="/data/exhibits/284 - 006 TI Implementing a Publicly Accessible Pan-Canadian Registry_LegOptions 2019.pdf" target="_blank">Transparency International Canada, <em>Implementing a Publicly Accessible Pan-Canadian Registry of Beneficial Ownership – Legislative and Technical Options</em>, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#283</p>
+    <p><a href="/data/exhibits/283 - 010 Mora Johnson Cullen Commission Submission - Nov 2020.pdf" target="_blank">Mora Johnson: Submission to the Cullen Commission - November 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#282</p>
+    <p><a href="/data/exhibits/282 - 005 TI Ending Canadas Snow-Washing Problem_Advocacy Handbook 2020.pdf" target="_blank">Transparency International Canada, <em>Ending Canada’s Snow-Washing Problem with a Publicly Accessible Beneficial Ownership Registry – An Advocacy Handbook</em>, April 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#281</p>
+    <p><a href="/data/exhibits/281 - 002 Chris Taggart CV.pdf" target="_blank">Curriculum Vitae of Chris Taggart</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#280</p>
+    <p><a href="/data/exhibits/280 - 003 Mora Johnson CV September 2020.pdf" target="_blank">Curriculum Vitae of Mora Johnson</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#279</p>
+    <p><a href="/data/exhibits/279 - 004 Peter Dent Bio - Nov 2020.pdf" target="_blank">Biography of Peter Dent</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#278</p>
+    <p><a href="/data/exhibits/278 - 001 James Cohen Resume 201120 Cullen Commission.pdf" target="_blank">Resume of James Cohen</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#277</p>
     <p><a href="/data/exhibits/277 - 005 Global Witness - Learning the Lessons from UK BOR.pdf" target="_blank">Global Witness - Learning the lessons from the UK’s public beneficial ownership register - October 2017</a></p>
 </div>
