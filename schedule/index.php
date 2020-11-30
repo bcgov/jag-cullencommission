@@ -59,7 +59,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>December 4, 2020</p>
   <ul class="ScheduleListWitnesses">
-    <li><span style="color: red; font-weight: bold">(starting at 8:30 a.m.)</span><br /><strong>Brigitte Unger</strong>, Professor of Law, Economics and Governance, Utrecht University School of Economics, and Economics of the Public Sector Chair, Utrecht University, Netherlands</li>
+    <li style="color: red; font-weight: bold">(starting at 8:30 a.m.)</li>
+    <li><strong>Brigitte Unger</strong>, Professor of Law, Economics and Governance, Utrecht University School of Economics, and Economics of the Public Sector Chair, Utrecht University, Netherlands</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -80,12 +81,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
   <p>December 8, 2020</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Illegal Markets and Money Laundering Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Peter Reuter</strong>, Professor, University of Maryland School of Public Policy and Department of Criminology</li>
-      <li><strong>Jonathan Caulkins</strong>, Professor of Operations Research and Public Policy, Carnegie Mellon University’s Heinz College</li>
-    </ul>
+  <div>
+    <p style="color: red; font-weight: bold">(Please note that this session will take place from 9 a.m. – 1 p.m. to accommodate the schedules of the witnesses)</p>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Illegal Markets and Money Laundering Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Peter Reuter</strong>, Professor, University of Maryland School of Public Policy and Department of Criminology</li>
+        <li><strong>Jonathan Caulkins</strong>, Professor of Operations Research and Public Policy, Carnegie Mellon University’s Heinz College</li>
+      </ul>
+    </div>
   </div>
   <div></div>
   <p>(Professors Reuter and Caulkins will speak to their White Paper: <em>Relating the Size of Illegal Markets to Associated Amounts of Money Laundered</em> – commissioned by the Cullen Commission)</p>
@@ -151,7 +155,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>December 17, 2020</p>
   <ul class="ScheduleListWitnesses">
-    <li><span style="color: red;">(Please note that this session will take place from 4:00-8:00 p.m. to accommodate the time difference between<br />British Columbia and Western Australia)</span><br /><strong>Dr. Natalie Skead</strong>, Professor in Law and Dean and Head of School, University of Western Australia Law School</li>
+    <li style="color: red; font-weight: bold">(Please note that this session will take place from 4:00-8:00 p.m. to accommodate the time difference between<br />British Columbia and Western Australia)</li>
+    <li><strong>Dr. Natalie Skead</strong>, Professor in Law and Dean and Head of School, University of Western Australia Law School</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
