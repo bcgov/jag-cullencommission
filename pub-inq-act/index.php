@@ -702,7 +702,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <tr>
             <td align="right" valign="top" width="100"><em>37</em></td>
             <td valign="top" width="35">&nbsp;</td>
-            <td valign="top" width="375"><em><a href="http://www.bclaws.ca/civix/document/id/complete/statreg/E3tlc96323" target="_blank">Local Government Act</a></em></td>
+            <td valign="top" width="375"><em><a href="https://www.bclaws.ca/civix/document/id/complete/statreg/r15001_01" target="_blank">Local Government Act</a></em></td>
         </tr>
         <tr>
             <td align="right" valign="top" width="100"><em>38-39</em></td>
