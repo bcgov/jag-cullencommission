@@ -59,6 +59,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">1 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 June, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Detective Inspector Barry Butler</strong>, (Criminal Assets Bureau (Ireland))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 December, 2020</strong></p>
+    </div>
   </div>
 </div>
 <div class="WitnessListContainer">
@@ -200,6 +204,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">29 October, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">30 October, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Dr. Colin King</strong>, (Reader in Law and Director of Postgraduate Research Studies, Institute of Advanced Legal Studies, University of London)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 December, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Sgt. Warren Krahenbil</strong>, (RCMP Federal Cybercrime Operations Group Team Leader)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">23 November, 2020</strong></p>
@@ -241,6 +249,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 December, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Kevin McMeel</strong>, (Bureau Legal Officer, Criminal Assets Bureau (Ireland))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 December, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Jeanette McPhee</strong>, (CFO and Director of Trust Regulation, Law Society of British Columbia)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
@@ -252,7 +264,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Anton Moiseienko</strong>, (Research Fellow, Centre for Financial Crime and Security Studies, Royal United Services Institute)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 December, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">15 December, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Ryan Mueller</strong>, (Chief Compliance Officer, Netcoins)</p>
     <div class="WitnessHearingsList">

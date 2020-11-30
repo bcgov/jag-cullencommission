@@ -133,6 +133,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p>December 15, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Helena Wood</strong>, Associate Fellow, Royal United Services Institute</li>
+    <li><strong>Anton Moiseienko</strong>, Research Fellow, Centre for Financial Crime and Security Studies, Royal United Services Institute</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -140,7 +141,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>December 16, 2020</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>Anton Moiseienko</strong>, Research Fellow, Centre for Financial Crime and Security Studies, Royal United Services Institute</li>
+    <li><strong>Dr. Colin King</strong>, Reader in Law and Director of Postgraduate Research Studies, Institute of Advanced Legal Studies, University of London</li>
+    <li><strong>Detective Inspector Barry Butler</strong>, Criminal Assets Bureau (Ireland)</li>
+    <li><strong>Kevin McMeel</strong>, Bureau Legal Officer, Criminal Assets Bureau (Ireland)</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
