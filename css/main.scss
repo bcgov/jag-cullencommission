@@ -531,6 +531,51 @@ $buttonPaddingHorizontalHover: 20px;
   margin-right: (30px - $buttonPaddingHorizontalHover);
 }
 
+.ButtonBar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: stretch;
+  border-radius: $sectionBorderRadius;
+  border-width: 0px 0px 3px 0px;
+  border-style: solid;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.418), 0px 0px 3px rgba(255, 255, 255, 0.438) inset;
+  text-shadow: 0px 1px 1px black;
+  background-image: linear-gradient(to bottom, #cccccc, #777777);
+  border-color: #585858;
+  overflow: hidden;
+}
+
+.ButtonBarButton {
+  border-radius: 0px;
+  border-width: 0px !important;
+  padding: $buttonPaddingVertical ($buttonPaddingHorizontal - 10px);
+  background-color: #666;
+  box-shadow: 0px 0px 3px rgba(255, 255, 255, 0.438) inset;
+  text-shadow: 0px 1px 1px black;
+  background-image: linear-gradient(to bottom, #ccc, #ffffff00);
+  transition: all 0.25s;
+}
+
+.ButtonBarButton:hover {
+  padding: $buttonPaddingVertical $buttonPaddingHorizontal !important;
+  background-color: #333;
+  box-shadow: 0px 0px 3px rgba(255, 255, 255, 0.438) inset;
+}
+
+.LanguageButton {
+  width: 100%;
+}
+
+.LanguageLink {
+  display: block;
+  flex-grow: 1;
+  text-align: center;
+}
+
+
 
 
 /*  CALENDAR  */
