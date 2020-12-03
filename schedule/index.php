@@ -156,7 +156,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('486666385'); return false">Watch Video of Session</button>
   </div>
   <p>December 1, 2020</p>
   <ul class="ScheduleListWitnesses">
@@ -165,7 +165,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('486220800'); return false">Watch Video of Session</button>
   </div>
   <p>November 30, 2020</p>
   <div class="ScheduleListPanel">
@@ -179,7 +179,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('485757780'); return false">Watch Video of Session</button>
   </div>
   <p>November 27, 2020</p>
   <div class="ScheduleListPanel">
