@@ -17,38 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>November 30, 2020</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Beneficial Ownership Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>James Cohen</strong>, Executive Director, Transparency International Canada</li>
-      <li><strong>Peter Dent</strong>, Partner, Deloitte Forensic</li>
-      <li><strong>Chris Taggart</strong>, Co-founder and CEO, OpenCorporates</li>
-      <li><strong>Mora Johnson</strong>, Lawyer, Ottawa</li>
-    </ul>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
-  <p>December 1, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Carol Prest</strong>, Executive Director and Registrar, BC Registries and Online Services</li>
-    <li><strong>Joey Primeau</strong>, A/ED, Financial and Corporate Sector Policy Branch, BC Ministry of Finance</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
-  <p>December 2, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Graham Barrow</strong>, UK Transparency Expert, Co-Host of "The Dark Money Files"</li>
-    <li><strong>Wayne Holland</strong>, Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team; Former Chief Constable, Nelson Police Department</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>December 3, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Barbara McIsaac</strong>, Lawyer, Author of <em>The Law of Privacy in Canada</em></li>
@@ -181,6 +149,38 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>December 2, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Graham Barrow</strong>, UK Transparency Expert, Co-Host of "The Dark Money Files"</li>
+    <li><strong>Wayne Holland</strong>, Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team; Former Chief Constable, Nelson Police Department</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>December 1, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Carol Prest</strong>, Executive Director and Registrar, BC Registries and Online Services</li>
+    <li><strong>Joey Primeau</strong>, A/ED, Financial and Corporate Sector Policy Branch, BC Ministry of Finance</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>November 30, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Beneficial Ownership Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>James Cohen</strong>, Executive Director, Transparency International Canada</li>
+      <li><strong>Peter Dent</strong>, Partner, Deloitte Forensic</li>
+      <li><strong>Chris Taggart</strong>, Co-founder and CEO, OpenCorporates</li>
+      <li><strong>Mora Johnson</strong>, Lawyer, Ottawa</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>November 27, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Beneficial Ownership Panel:</p>
