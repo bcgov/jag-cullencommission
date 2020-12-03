@@ -10,6 +10,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#317</p>
+    <p><a href="/data/exhibits/317 - CAN-000122_Redacted.pdf" target="_blank">Email from Kevin Begg, Re: Media A-TIP-IIGET - December 17, 2009_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#316</p>
+    <p><a href="/data/exhibits/316 - CAN-000048 IIGET Consultative Board Meeting - Meeting Agenda Dec 16 2008.pdf" target="_blank">IIGET Consultative Board Meeting Agenda - December 16, 2008</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#315</p>
+    <p><a href="/data/exhibits/315 - CAN-000059 IIGET Status Report - Consultative Board Meeting.pdf" target="_blank">IIGET Status Report - IIGET Consultative Board Meeting -- July 25, 2007</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#314</p>
     <p><a href="/data/exhibits/314 - Barrow Canadian Entities Involved in Global Laundromat Formations 2020.pdf" target="_blank">Canadian Entities Involved in Global Laundromat Style Company Formations</a></p>
 </div>
