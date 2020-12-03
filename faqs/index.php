@@ -98,7 +98,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="ExpandableSectionTitle">When will the final report be submitted to the provincial government?</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent11">
-        <p>The Commission has determined that it will need time beyond the original date of May 15, 2021, to complete its final report. There are a few reasons for this, including the breadth of the issues being addressed, the length of the public hearings, the effects of the pandemic, and delays and challenges in obtaining documents. The Commission’s hearings will conclude in May of 2021 and at that point, the Commissioner will seek an extension of time from the Province of British Columbia for submission of the final report. The request will be made at that time because the Commission will have a much better understanding of the amount of time that will be needed.</p>
+        <p>The Commission’s hearings are presently scheduled to conclude in May of 2021. The Commissioner has determined that the Commission team will need time beyond the original delivery date of May 15, 2021 to complete its final report. There are a few reasons for this, including the breadth of the issues being addressed, the length of the public hearings, the effects of the pandemic, and delays and challenges in obtaining documents. The Commissioner will seek an extension of time from the Province of British Columbia for submission of the final report in due course, once there is a better understanding of the amount of time that will be needed.</p>
     </div>
     
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection07">
