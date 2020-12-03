@@ -10,6 +10,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#314</p>
+    <p><a href="/data/exhibits/314 - Barrow Canadian Entities Involved in Global Laundromat Formations 2020.pdf" target="_blank">Canadian Entities Involved in Global Laundromat Style Company Formations</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#313</p>
+    <p><a href="/data/exhibits/313 - 003 DBEIS Corporate Transparency and Register Reform 2020.pdf" target="_blank">UK Department for Business, Energy and Industry Strategy, Corporate Transparency and Register Reform - 18 September 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#312</p>
+    <p><a href="/data/exhibits/312 - 001 Graham Barrow CV.pdf" target="_blank">Curriculum Vitae of Graham Barrow</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#292</p>
     <p><a href="/data/exhibits/292 - 008 TI Technical Briefing Note_Necessary Components and Considerations 2020.pdf" target="_blank">Transparency International Canada, <em>Technical Briefing Note – Necessary Components and Considerations for a Publicly Accessible, Pan-Canadian Company Registry of Beneficial Owners</em> (2020)</a></p>
 </div>
