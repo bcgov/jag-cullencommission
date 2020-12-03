@@ -22,6 +22,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/312 - 001 Graham Barrow CV.pdf" target="_blank">Curriculum Vitae of Graham Barrow</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#295</p>
+    <p><a href="/data/exhibits/295 - BCR0014.0001.pdf" target="_blank">Active Entities (Excel spreadsheet)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#294</p>
+    <p><a href="/data/exhibits/294 - BCR0010.0001.pdf" target="_blank">Structure of BC Registries</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#293</p>
+    <p><a href="/data/exhibits/293 - BCR0011.0001.pdf" target="_blank">BC Registries Budget (Excel spreadsheet)</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#292</p>
     <p><a href="/data/exhibits/292 - 008 TI Technical Briefing Note_Necessary Components and Considerations 2020.pdf" target="_blank">Transparency International Canada, <em>Technical Briefing Note – Necessary Components and Considerations for a Publicly Accessible, Pan-Canadian Company Registry of Beneficial Owners</em> (2020)</a></p>
 </div>
