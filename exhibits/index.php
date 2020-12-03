@@ -22,6 +22,30 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/312 - 001 Graham Barrow CV.pdf" target="_blank">Curriculum Vitae of Graham Barrow</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#302</p>
+    <p><a href="/data/exhibits/302 - BCR0009.0001.pdf" target="_blank">Enforcement - Question and Answers</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#301</p>
+    <p><a href="/data/exhibits/301 - BCR0003.0001.pdf" target="_blank">Searches - BC Onlines and Corporate searches</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#300</p>
+    <p><a href="/data/exhibits/300 - BCR0006.0001.pdf" target="_blank">Directors / Officers - Quenstions and Answers</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#299</p>
+    <p><a href="/data/exhibits/299 - BCR0007.0001.pdf" target="_blank">Directors / Officers Showing How Many Corporations (Including XPro) They Were Appointed to Since 2010 (Excel spreadsheet)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#297</p>
+    <p><a href="/data/exhibits/297 - BCR0013.0001.pdf" target="_blank">"Nature of Business" Occurring More than 200 Times – May 25, 2020 (Excel spreadsheet)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#296</p>
+    <p><a href="/data/exhibits/296 - BCR0002.0001.pdf" target="_blank">Types of Registered Entities - Questions and Answers</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#295</p>
     <p><a href="/data/exhibits/295 - BCR0014.0001.pdf" target="_blank">Active Entities (Excel spreadsheet)</a></p>
 </div>
