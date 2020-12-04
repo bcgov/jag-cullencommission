@@ -11,6 +11,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <p>Available transcripts of the public hearings are posted here. (The exception to this would be in the event of special circumstances where there is a need for protective measures for a witness, document or evidence. This could include measures such as a publication ban, sealing materials or proceeding in a closed (non-public) hearing.)</p>
 <h2>2020 Transcripts</h2>
+<h3>December</h3>
+<p class="ArchiveVideoTitle">December 1 - <a href="/data/transcripts/Transcript December 1, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <h3>November</h3>
 <p class="ArchiveVideoTitle">November 30 - <a href="/data/transcripts/Transcript November 30, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">November 27 - <a href="/data/transcripts/Transcript November 27, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
