@@ -10,6 +10,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#321</p>
+    <p><a href="/data/exhibits/321 - 09 Privacy Commissioner of Canada - FINTRAC 2017.pdf" target="_blank">OPCC – Financial Transactions and Reports Analysis Centre of Canada Audit Report of the Privacy Commissioner of Canada (2017)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#320</p>
+    <p><a href="/data/exhibits/320 - 09 Privacy Commissioner of Canada - FINTRAC 2013.pdf" target="_blank">OPCC – Financial Transactions and Reports Analysis Centre of Canada Audit Report of the Privacy Commissioner of Canada (2013)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#319</p>
+    <p><a href="/data/exhibits/319 - 02 Report for the Cullen Commission on Privacy Laws and Information Sharing - Nov 17 2020.pdf" target="_blank">Report for the Cullen Commission on Privacy Laws and Information Sharing - November 17, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#318</p>
+    <p><a href="/data/exhibits/318 - Curriculum Vitae of Barbara McIsaac QC_Redacted.pdf" target="_blank">Curriculum Vitae of Barbara McIsaac, QC_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#317</p>
     <p><a href="/data/exhibits/317 - CAN-000122_Redacted.pdf" target="_blank">Email from Kevin Begg, Re: Media A-TIP-IIGET - December 17, 2009_Redacted</a></p>
 </div>
@@ -48,6 +64,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#299</p>
     <p><a href="/data/exhibits/299 - BCR0007.0001.pdf" target="_blank">Directors / Officers Showing How Many Corporations (Including XPro) They Were Appointed to Since 2010 (Excel spreadsheet)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#298</p>
+    <p><a href="/data/exhibits/298 - Converted.pdf" target="_blank">Incorporators Showing How Many Corporations (No Xpro) They Incorporated Since 2020 (Excel spreadsheet)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#297</p>
