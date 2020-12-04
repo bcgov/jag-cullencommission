@@ -6,6 +6,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Rulings</h1>
+<p><a href="/files/ApplicationForStanding-Ruling21.pdf" target="_blank">4 December 2020 - Application for Standing – Ruling #21 <i class="fas fa-file-pdf PdfIcon"></i></a></p>
 <p><a href="/files/ApplicationForWitnessAccommodation-Ruling20.pdf" target="_blank">2 December 2020 - Application for Witness Accommodation – Ruling #20 <i class="fas fa-file-pdf PdfIcon"></i></a></p>
 <p><a href="/files/ApplicationForProtectiveMeasures-Ruling19.pdf" target="_blank">2 December 2020 - Application for Protective Measures – Ruling #19 <i class="fas fa-file-pdf PdfIcon"></i></a></p>
 <p><a href="/files/RulingOnAdmissibilityOfTranscripts-Ruling 18.pdf" target="_blank">26 November 2020 - Ruling on Admissibility of Transcripts – Ruling #18 <i class="fas fa-file-pdf PdfIcon"></i></a></p>
