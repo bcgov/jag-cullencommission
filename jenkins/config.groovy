@@ -3,7 +3,7 @@
 class config {
 
   // Wait timeout in minutes
-  public static final int WAIT_TIMEOUT = 10
+  public static final int WAIT_TIMEOUT = 20
 
   // Deployment configuration
   public static final String[] DEPLOYMENT_ENVIRONMENT_TAGS = ['dev', 'test', 'prod']
