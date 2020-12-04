@@ -17,15 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>December 4, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li style="color: red; font-weight: bold">(starting at 8:30 a.m.)</li>
-    <li><strong>Brigitte Unger</strong>, Professor of Law, Economics and Governance, Utrecht University School of Economics, and Economics of the Public Sector Chair, Utrecht University, Netherlands</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>December 7, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">The Fentanyl Market in B.C. Panel:</p>
@@ -141,6 +132,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>December 4, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li style="color: red; font-weight: bold">(starting at 8:30 a.m.)</li>
+    <li><strong>Brigitte Unger</strong>, Professor of Law, Economics and Governance, Utrecht University School of Economics, and Economics of the Public Sector Chair, Utrecht University, Netherlands</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>December 3, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Barbara McIsaac</strong>, Lawyer, Author of <em>The Law of Privacy in Canada</em></li>
