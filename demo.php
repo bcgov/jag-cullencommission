@@ -41,7 +41,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/welcome_' . $lang);
 <div class="AnnouncementContainer">
     <p class="AnnouncementHeading">Interim Report Released</p>
     <p style="font-size: 0.85rem; margin: 0px 0px 30px 0px">December 3</p>
-    <p><a href="/com-rep/" target="_blank">View report here</a></p>
+    <p><a href="/com-rep/">View report here</a></p>
 </div>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/home_' . $lang);
