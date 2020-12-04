@@ -10,6 +10,50 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#332</p>
+    <p><a href="/data/exhibits/332 - 004 Gravity models of trade based money laundering - Applied Economics 45 - Ferwerda and Unger-2013.pdf" target="_blank">Gravity models of trade based money laundering - Applied Economics 45 (Ferwerda & Unger) (2013)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#331</p>
+    <p><a href="/data/exhibits/331 - 002 Estimating Illicit Financial Flows UNODC - Unger and Walker-2011.pdf" target="_blank">Estimating Illicit Financial Flows, UNODC (Unger and Walker) (October 2011)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#330</p>
+    <p><a href="/data/exhibits/330 - Combatting Money Laundering in BC Real Estate.pdf" target="_blank">Combatting Money Laundering in BC Real Estate (“The Maloney Report”)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#329</p>
+    <p><a href="/data/exhibits/329 - 010 cullen commission presentation.pdf" target="_blank">Slides - Scientific Reports 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#328</p>
+    <p><a href="/data/exhibits/328 - 003 Estimating Money Laundering Flows with a Gravity model Based Simulation_Unger et al 2020.pdf" target="_blank">Estimating Money Laundering Flows with a Gravity model Based Simulation (Unger et al 2020)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#327</p>
+    <p><a href="/data/exhibits/327 - How Big is Global Money Laundering - Journal of Money Laundering Control-Walker-1999.pdf" target="_blank">How Big is Global Money Laundering (Journal of Money Laundering Control) (Walker) (1999)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#326</p>
+    <p><a href="/data/exhibits/326 - 006 Measuring Global Money Laundering - The Walker Gravity Model - Review of Law and Economics-Unger and Walker-2009.pdf" target="_blank">Measuring Global Money Laundering - The Walker Gravity Model (Review of Law and Economics) (Unger & Walker) (2009)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#325</p>
+    <p><a href="/data/exhibits/325 - 007 Slides - Prof. Unger.pdf" target="_blank">Slides - Regarding controversy between criminologists and economists on measuring money laundering and on politics based on real numbers - Prof. Unger</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#324</p>
+    <p><a href="/data/exhibits/324 - 001 CV Unger - redacted.pdf" target="_blank">Curriculum Vitae of Dr. Brigitte Unger (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#323</p>
+    <p><a href="/data/exhibits/323 - Quantification of ML OR Revised FINAL.pdf" target="_blank">Overview Report: Quantification of Money Laundering</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#322</p>
+    <p><a href="/data/exhibits/322 - Overview Report Simplified Text on Quantification Revised FINAL.pdf" target="_blank">Overview Report: Simplified Text on Quantification of Money Laundering</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#321</p>
     <p><a href="/data/exhibits/321 - 09 Privacy Commissioner of Canada - FINTRAC 2017.pdf" target="_blank">OPCC – Financial Transactions and Reports Analysis Centre of Canada Audit Report of the Privacy Commissioner of Canada (2017)</a></p>
 </div>
