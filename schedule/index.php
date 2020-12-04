@@ -155,7 +155,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Wayne Holland</strong>, Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team; Former Chief Constable, Nelson Police Department</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript December 2, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('486666385'); return false">Watch Video of Session</button>
   </div>
   <p>December 1, 2020</p>
