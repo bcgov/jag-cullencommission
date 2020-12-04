@@ -918,6 +918,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/80 - Applied_(GCGC_PROD_0023272).pdf" target="_blank">Email from Patrick Ennis re DVD/Footage request: Large Cash Buy ins – Jan 28, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#76</p>
+    <p><a href="/data/exhibits/76 - 2020 12 03 BCLC Standards OR FINAL - Redacted.pdf" target="_blank">Overview Report: BCLC Standards, Policies, Procedures and Operational Services Agreements</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#75</p>
     <p><a href="/data/exhibits/75 - 2020 10 19 VSODNC OR FINAL.pdf" target="_blank">Overview Report: 2016 BCLC Voluntary Self-Declaration of Non-Compliance</a></p>
 </div>
