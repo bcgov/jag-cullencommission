@@ -17,14 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>December 3, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Barbara McIsaac</strong>, Lawyer, Author of <em>The Law of Privacy in Canada</em></li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>December 4, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li style="color: red; font-weight: bold">(starting at 8:30 a.m.)</li>
@@ -149,6 +141,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>December 3, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Barbara McIsaac</strong>, Lawyer, Author of <em>The Law of Privacy in Canada</em></li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('487053153'); return false">Watch Video of Session</button>
+  </div>
   <p>December 2, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Graham Barrow</strong>, UK Transparency Expert, Co-Host of "The Dark Money Files"</li>
@@ -164,7 +164,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Joey Primeau</strong>, A/ED, Financial and Corporate Sector Policy Branch, BC Ministry of Finance</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript December 1, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('486220800'); return false">Watch Video of Session</button>
   </div>
   <p>November 30, 2020</p>
