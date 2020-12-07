@@ -17,20 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>December 7, 2020</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">The Fentanyl Market in B.C. Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Dr. Martin Bouchard</strong>, Ph.D., Professor, School of Criminology, Simon Fraser University</li>
-      <li><strong>Dr. M-J Milloy</strong>, Ph.D., Research Scientist, British Columbia Centre on Substance Use</li>
-    </ul>
-  </div>
-  <div></div>
-  <p>(Dr. Bouchard and Dr. Milloy will speak to their report – <em>Estimating the Size of the Fentanyl Market in B.C.</em> – commissioned by the Cullen Commission)</p>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>December 8, 2020</p>
   <div>
     <p style="color: red; font-weight: bold">(Please note that this session will take place from 9 a.m. – 1 p.m. to accommodate the schedules of the witnesses)</p>
@@ -132,6 +118,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>December 7, 2020</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">The Fentanyl Market in B.C. Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Dr. Martin Bouchard</strong>, Ph.D., Professor, School of Criminology, Simon Fraser University</li>
+      <li><strong>Dr. M-J Milloy</strong>, Ph.D., Research Scientist, British Columbia Centre on Substance Use</li>
+    </ul>
+  </div>
+  <div></div>
+  <p>(Dr. Bouchard and Dr. Milloy will speak to their report – <em>Estimating the Size of the Fentanyl Market in B.C.</em> – commissioned by the Cullen Commission)</p>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>December 4, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li style="color: red; font-weight: bold">(starting at 8:30 a.m.)</li>
