@@ -106,6 +106,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/312 - 001 Graham Barrow CV.pdf" target="_blank">Curriculum Vitae of Graham Barrow</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#305</p>
+    <p><a href="/data/exhibits/305 - MOF2355.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Exemptions to the Corporate Transparency Register Requirement in the Business Corporations Act – November 28, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#304</p>
+    <p><a href="/data/exhibits/304 - MOF2327.0001.pdf" target="_blank">DOF Canada, Agreement to Strengthen Beneficial Ownership Transparency – July 11, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#303</p>
+    <p><a href="/data/exhibits/303 - MOF2341.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Federal Proposal for Improving Beneficial Ownership Transparency in Canada – November 30, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#302</p>
     <p><a href="/data/exhibits/302 - BCR0009.0001.pdf" target="_blank">Enforcement - Question and Answers</a></p>
 </div>
