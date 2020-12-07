@@ -106,6 +106,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/312 - 001 Graham Barrow CV.pdf" target="_blank">Curriculum Vitae of Graham Barrow</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#311</p>
+    <p><a href="/data/exhibits/311 - MOF2401.0001_Redacted.pdf" target="_blank">BC MOF Briefing Document re Money Services Businesses Consultation – Summary – June 8, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#310</p>
+    <p><a href="/data/exhibits/310 - MOF2398.0001.pdf" target="_blank">BC MOF - Money Service Businesses Public Consultation Paper - March 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#308</p>
+    <p><a href="/data/exhibits/308 - MOF2400.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Company Beneficial Ownership Consultation – Summary – May 26, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#307</p>
+    <p><a href="/data/exhibits/307 - MOF2352.0001 - Redacted.pdf" target="_blank">BC MOF Briefing document re Consultation for a publicly accessible, government-maintained transparency registry of the significant individuals of BC private companies – September 18, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#306</p>
+    <p><a href="/data/exhibits/306 - MOF2348.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Effective Date of Beneficial Ownership Transparency Register – May 31, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#305</p>
     <p><a href="/data/exhibits/305 - MOF2355.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Exemptions to the Corporate Transparency Register Requirement in the Business Corporations Act – November 28, 2019_Redacted</a></p>
 </div>
