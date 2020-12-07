@@ -10,6 +10,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#335</p>
+    <p><a href="/data/exhibits/335 - 003 Bouchard Expert Report Fentanyl Market_Redacted.pdf" target="_blank">Research Report Estimating the size of the fentanyl market in British Columbia, October 26, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#334</p>
+    <p><a href="/data/exhibits/334 - 002 Biosketch_Milloy-20201120.pdf" target="_blank">Curriculum Vitae of Dr. Michael-John Milloy</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#333</p>
+    <p><a href="/data/exhibits/333 - Curriculum Vitae.pdf" target="_blank">Curriculum Vitae of Dr. Martin Bouchard</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#332</p>
     <p><a href="/data/exhibits/332 - 004 Gravity models of trade based money laundering - Applied Economics 45 - Ferwerda and Unger-2013.pdf" target="_blank">Gravity models of trade based money laundering - Applied Economics 45 (Ferwerda & Unger) (2013)</a></p>
 </div>
