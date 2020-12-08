@@ -17,23 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>December 8, 2020</p>
-  <div>
-    <p style="color: red; font-weight: bold">(Please note that this session will take place from 9 a.m. – 1 p.m. to accommodate the schedules of the witnesses)</p>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Illegal Markets and Money Laundering Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Peter Reuter</strong>, Professor, University of Maryland School of Public Policy and Department of Criminology</li>
-        <li><strong>Jonathan Caulkins</strong>, Professor of Operations Research and Public Policy, Carnegie Mellon University’s Heinz College</li>
-      </ul>
-    </div>
-  </div>
-  <div></div>
-  <p>(Professors Reuter and Caulkins will speak to their White Paper: <em>Relating the Size of Illegal Markets to Associated Amounts of Money Laundered</em> – commissioned by the Cullen Commission)</p>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>December 9, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>John Cassara</strong>, Former US Intelligence Officer and Treasury Special Agent in the Treasury’s Financial Crimes Enforcement Network (FinCEN), the US Secret Service and the US Customs Service</li>
@@ -118,6 +101,23 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>December 8, 2020</p>
+  <div>
+    <p style="color: red; font-weight: bold">(Please note that this session will take place from 9 a.m. – 1 p.m. to accommodate the schedules of the witnesses)</p>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Illegal Markets and Money Laundering Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Peter Reuter</strong>, Professor, University of Maryland School of Public Policy and Department of Criminology</li>
+        <li><strong>Jonathan Caulkins</strong>, Professor of Operations Research and Public Policy, Carnegie Mellon University’s Heinz College</li>
+      </ul>
+    </div>
+  </div>
+  <div></div>
+  <p>(Professors Reuter and Caulkins will speak to their White Paper: <em>Relating the Size of Illegal Markets to Associated Amounts of Money Laundered</em> – commissioned by the Cullen Commission)</p>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>December 7, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">The Fentanyl Market in B.C. Panel:</p>
@@ -138,7 +138,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Brigitte Unger</strong>, Professor of Law, Economics and Governance, Utrecht University School of Economics, and Economics of the Public Sector Chair, Utrecht University, Netherlands</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript December 4, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('487461688'); return false">Watch Video of Session</button>
   </div>
   <p>December 3, 2020</p>
@@ -146,7 +146,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Barbara McIsaac</strong>, Lawyer, Author of <em>The Law of Privacy in Canada</em></li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript December 3, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('487053153'); return false">Watch Video of Session</button>
   </div>
   <p>December 2, 2020</p>
