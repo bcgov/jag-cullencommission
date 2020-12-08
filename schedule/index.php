@@ -130,7 +130,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p>(Dr. Bouchard and Dr. Milloy will speak to their report – <em>Estimating the Size of the Fentanyl Market in B.C.</em> – commissioned by the Cullen Commission)</p>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('488297026'); return false">Watch Video of Session</button>
   </div>
   <p>December 4, 2020</p>
   <ul class="ScheduleListWitnesses">
