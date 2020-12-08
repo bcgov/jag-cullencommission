@@ -10,6 +10,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#337</p>
+    <p><a href="/data/exhibits/337 - 003 Reuter and Caulkins - White Paper.pdf" target="_blank">White Paper on Relating the Size of Illegal Markets to Associated Amounts of Money Laundered - November 19, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#336</p>
+    <p><a href="/data/exhibits/336 - 001 Caulkins CV 2020_Redacted.pdf" target="_blank">Curriculum Vitae of Jonathan Caulkins_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#335</p>
     <p><a href="/data/exhibits/335 - 003 Bouchard Expert Report Fentanyl Market_Redacted.pdf" target="_blank">Research Report Estimating the size of the fentanyl market in British Columbia, October 26, 2020_Redacted</a></p>
 </div>
