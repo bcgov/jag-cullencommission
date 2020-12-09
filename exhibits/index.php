@@ -10,6 +10,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#341</p>
+    <p><a href="/data/exhibits/341 - 002 J. Cassara - Final Statement to the Cullen Commission.pdf" target="_blank">Final Statement by John A. Cassara</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#340</p>
+    <p><a href="/data/exhibits/340 - 001 J. Cassara - Biography.pdf" target="_blank">Biography of J. Cassara</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#339</p>
+    <p><a href="/data/exhibits/339 - Overview TBML with appendices final - Nov 23 2020.pdf" target="_blank">Overview Report: Trade-Based Money Laundering Publications and Records</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#338</p>
+    <p><a href="/data/exhibits/338 - Overivew Report CMAA with appendices final - Nov 23 2020.pdf" target="_blank">Overview Report: Canada's Customs Mutual Assistance Agreements</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#337</p>
     <p><a href="/data/exhibits/337 - 003 Reuter and Caulkins - White Paper.pdf" target="_blank">White Paper on Relating the Size of Illegal Markets to Associated Amounts of Money Laundered - November 19, 2020</a></p>
 </div>
