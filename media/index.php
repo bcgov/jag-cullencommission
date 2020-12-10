@@ -8,12 +8,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection23">
-        <p class="ExpandableSectionTitle">Interim Report Released Publicly</p>
+        <p class="ExpandableSectionTitle">Interim Report Released</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
         <p class="ExpandableSectionUnderTitleRight">December 10, 2020</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent23">
-        <h2>Interim Report Released Publicly</h2>
+        <h2>Interim Report Released</h2>
         <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia Interim Report, which was submitted to the Provincial Government on November 15, 2020, has been released publicly. It can be found on the <a href="/com-rep/">Cullen Commission website here</a>.</p>
         <p><strong>About the Commission</strong></p>
         <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission is looking at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission is also examining regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>

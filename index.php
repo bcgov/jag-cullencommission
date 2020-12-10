@@ -17,7 +17,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/welcome_' . $lang);
         <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
             <div class="LatestEvent">
-                <p class="LatestEventDesc">December 10, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=23">Interim Report Released Publicly</a></p>
+                <p class="LatestEventDesc">December 10, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=23">Interim Report Released</a></p>
             </div>
             <div class="LatestEvent">
                 <p class="LatestEventDesc">December 7, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for Directions Regarding Redactions – Ruling #22</a></p>
