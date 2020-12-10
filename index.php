@@ -40,7 +40,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/welcome_' . $lang);
 </div>
 <div class="AnnouncementContainer">
     <p class="AnnouncementHeading">Interim Report Released</p>
-    <p style="font-size: 0.85rem; margin: 0px 0px 30px 0px">December 8</p>
+    <p style="font-size: 0.85rem; margin: 0px 0px 30px 0px">December 10</p>
     <p><a href="/com-rep/">View report here</a></p>
 </div>
 <?php
