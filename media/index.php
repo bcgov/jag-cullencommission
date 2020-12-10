@@ -7,6 +7,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection23">
+        <p class="ExpandableSectionTitle">Interim Report Released Publicly</p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">December 10, 2020</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent23">
+        <h2>Interim Report Released Publicly</h2>
+        <p><strong>Vancouver, B.C.</strong> – The Commission of Inquiry into Money Laundering in British Columbia Interim Report, which was submitted to the Provincial Government on November 15, 2020, has been released publicly. It can be found on the <a href="/com-rep/">Cullen Commission website here</a>.</p>
+        <p><strong>About the Commission</strong></p>
+        <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission is looking at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission is also examining regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
+        <p>The Commissioner delivered an Interim Report to the Provincial Government on November 15, 2020. The Commission’s hearings are presently scheduled to conclude in May of 2021. The Commissioner has determined that the Commission team will need time beyond the original delivery date of May 15, 2021 to complete its final report. There are a few reasons for this, including the breadth of the issues being addressed, the length of the public hearings, the effects of the pandemic, and delays and challenges in obtaining documents. The Commissioner will seek an extension of time from the Province of British Columbia for submission of the final report in due course, once there is a better understanding of the amount of time that will be needed.</p>
+        <p>For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection22">
         <p class="ExpandableSectionTitle">Interim Report Submitted</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
@@ -789,6 +802,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection22').click(function() {
             $('#ExpandableSectionContent22').slideToggle(time);
+        });
+        $('#ExpandableSection23').click(function() {
+            $('#ExpandableSectionContent23').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
