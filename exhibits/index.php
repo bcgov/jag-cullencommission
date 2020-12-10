@@ -10,6 +10,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#345</p>
+    <p><a href="/data/exhibits/345 - 004 TBML Overview-Approved for Commission Circulation.pdf" target="_blank">Government of Canada, <em>Trade-Based Money Laundering Overview</em>, presented April 1, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#344</p>
+    <p><a href="/data/exhibits/344 - 003 CV Bryanna Gateley_Redacted.pdf" target="_blank">Curriculum Vitae of Bryanna Gateley_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#343</p>
+    <p><a href="/data/exhibits/343 - 002 CV Sushile Sharma redacted.pdf" target="_blank">Curriculum Vitae of Sushile Sharma_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#342</p>
+    <p><a href="/data/exhibits/342 - 001 CV Joel GIbbons_Redacted.pdf" target="_blank">Curriculum Vitae of Joel Gibbons_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#341</p>
     <p><a href="/data/exhibits/341 - 002 J. Cassara - Final Statement to the Cullen Commission.pdf" target="_blank">Final Statement by John A. Cassara</a></p>
 </div>
