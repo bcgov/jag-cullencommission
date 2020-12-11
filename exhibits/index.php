@@ -10,6 +10,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#348</p>
+    <p><a href="/data/exhibits/348 - 020 CAN-000953.pdf" target="_blank">RCMP <em>Trade-Based Money Laundering: A Law Enforcement Perspective</em></a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#347</p>
+    <p><a href="/data/exhibits/347 - 014 CAN-000118.pdf" target="_blank">CBSA, <em>Trade-Based Money Laundering 101</em>, June 5, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#346</p>
+    <p><a href="/data/exhibits/346 - 011 CAN-000172.pdf" target="_blank">FINTRAC, <em>Professional money laundering through trade and money services businesses</em>, July 18, 2018</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#345</p>
     <p><a href="/data/exhibits/345 - 004 TBML Overview-Approved for Commission Circulation.pdf" target="_blank">Government of Canada, <em>Trade-Based Money Laundering Overview</em>, presented April 1, 2020</a></p>
 </div>
