@@ -10,8 +10,40 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#366</p>
+    <p><a href="/data/exhibits/366 - 9 CANADA INTERNATIONAL TRADE PRICING 2019-1.pdf" target="_blank">Canada International Trade Pricing Analysis 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#365</p>
+    <p><a href="/data/exhibits/365 - 8 CANADA INTERNATIONAL TRADE PRICING 2018-1.pdf" target="_blank">Canada International Trade Pricing Analysis 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#364</p>
+    <p><a href="/data/exhibits/364 - 7 CANADA INTERNATIONAL TRADE PRICING 2017.pdf" target="_blank">Canada International Trade Pricing Analysis 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#363</p>
+    <p><a href="/data/exhibits/363 - 6 CANADA INTERNATIONAL TRADE PRICING 2016-1.pdf" target="_blank">Canada International Trade Pricing Analysis 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#362</p>
+    <p><a href="/data/exhibits/362 - 5 CANADA INTERNATIONAL TRADE PRICING 2015.pdf" target="_blank">Canada International Trade Pricing Analysis 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#361</p>
+    <p><a href="/data/exhibits/361 - 3 Zdanowicz Article Trade Based Money Laundering.pdf" target="_blank">Review of Law & Economics Article by John Zdanowicz, TBML and Terrorist Financing - 2009</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#360</p>
+    <p><a href="/data/exhibits/360 - 1 ITA BIO 2020.pdf" target="_blank">Biography of John Zdanowicz</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#359</p>
+    <p><a href="/data/exhibits/359 - 023 CAN-001281.pdf" target="_blank">CBSA, <em>Electronics and Canadian Goods Returned/The Abuse of Tariff Codes 9813 and 9814 in TBML ICAP</em>, October 1, 2020</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#358</p>
-    <p><a href="/data/exhibits/358 - 018 CAN-000901.pdf" target="_blank">CBSA, <em>Trade-Based Money Laundering Overview</em>, June 8, 2020</a></p>
+    <p><a href="/data/exhibits/358 - CBSA, Trade-Based Money Laundering Overview, June 8, 2020" target="_blank">CBSA, <em>Trade-Based Money Laundering Overview</em>, June 8, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#357</p>
