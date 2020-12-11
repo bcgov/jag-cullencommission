@@ -138,10 +138,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>C/M Bryanna Gateley</strong>, (Intelligence Analyst, Federal Serious and Organized Crime Unit, RCMP)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 December, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 December, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Joel Gibbons</strong>, (Senior Program Advisor, Intelligence and Targeting Directorate, Canada Border Services Agency (CBSA))</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 December, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 December, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Robert Gilchrist</strong>, (RCMP Chief Superintendent, Director General of the Criminal Intelligence Service of Canada)</p>
     <div class="WitnessHearingsList">
@@ -344,6 +346,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Sgt. Sushile Sharma</strong>, (Member, Federal Serious and Organized Crime Unit, RCMP)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 December, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 December, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Jeffrey Simser</strong>, (Co-Author of <em>Civil Asset Forfeiture in Canada</em>)</p>
     <div class="WitnessHearingsList">
