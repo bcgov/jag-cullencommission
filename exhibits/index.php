@@ -10,6 +10,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#350</p>
+    <p><a href="/data/exhibits/350 - 013 CAN-000117.pdf" target="_blank">CBSA, <em>Trade Fraud & Trade-Based Money Laundering Centre of Expertise</em>, 101 Overview, April 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#349</p>
+    <p><a href="/data/exhibits/349 - 017 CAN-000121.pdf" target="_blank">CBSA, <em>Backgrounder: Trade-Based Money Laundering in Canada</em>, September 10, 2019</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#348</p>
     <p><a href="/data/exhibits/348 - 020 CAN-000953.pdf" target="_blank">RCMP <em>Trade-Based Money Laundering: A Law Enforcement Perspective</em></a></p>
 </div>
