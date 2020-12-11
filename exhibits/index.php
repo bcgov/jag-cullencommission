@@ -10,6 +10,38 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#358</p>
+    <p><a href="/data/exhibits/358 - 018 CAN-000901.pdf" target="_blank">CBSA, <em>Trade-Based Money Laundering Overview</em>, June 8, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#357</p>
+    <p><a href="/data/exhibits/357 - 019 CAN-001126.pdf" target="_blank">CBSA, <em>COVID-19 Implications for Trade Fraud</em>, April, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#356</p>
+    <p><a href="/data/exhibits/356 - 010 CAN-000171.pdf" target="_blank">Criminal Intelligence Service British Columbia & Yukon Territory, <em>General Framework of how TBML fits into the ML Process</em>, February 13, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#355</p>
+    <p><a href="/data/exhibits/355 - 008 CAN-000169.pdf" target="_blank">Criminal Intelligence Service British Columbia & Yukon Territory, <em>CISBC-YT Money Laundering Collection Initiative (2018)</em>, May 3, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#354</p>
+    <p><a href="/data/exhibits/354 - 007 CAN-000168.pdf" target="_blank">Criminal Intelligence Service British Columbia & Yukon Territory, <em>CISCBC/YT 2018 Provincial Threat Assessment</em>, Part “B”, undated</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#353</p>
+    <p><a href="/data/exhibits/353 - 006 CAN-000167.pdf" target="_blank">Criminal Intelligence Service British Columbia & Yukon Territory, <em>CISCBC/YT 2017 Provincial Threat Assessment</em>, Part “B”, undated</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#352</p>
+    <p><a href="/data/exhibits/352 - 005 CAN-000166.pdf" target="_blank">Criminal Intelligence Service British Columbia & Yukon Territory, <em>CISCBC/YT 2017 Provincial Threat Assessment</em>, Part “B”, undated</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#351</p>
+    <p><a href="/data/exhibits/351 - 015 CAN-000119.pdf" target="_blank"><em>CBSA Knowledge Pool on Trade-Based Money Laundering</em>, undated</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#350</p>
     <p><a href="/data/exhibits/350 - 013 CAN-000117.pdf" target="_blank">CBSA, <em>Trade Fraud & Trade-Based Money Laundering Centre of Expertise</em>, 101 Overview, April 2020</a></p>
 </div>
