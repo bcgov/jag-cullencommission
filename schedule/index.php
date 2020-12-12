@@ -17,25 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>December 11, 2020</p>
-  <div>
-    <p style="color: red; font-weight: bold">(Please note that this session will start at 9 a.m.)</p>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Trade-Based Money Laundering Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Joel Gibbons</strong>, Senior Program Advisor, Intelligence and Targeting Directorate, Canada Border Services Agency (CBSA)</li>
-        <li><strong>C/M Bryanna Gateley</strong>, Intelligence Analyst, Federal Serious and Organized Crime Unit, RCMP</li>
-        <li><strong>Sgt. Sushile Sharma</strong>, Member, Federal Serious and Organized Crime Unit, RCMP</li>
-      </ul>
-    </div>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Dr. John Zdanowicz</strong>, President of International Trade Alert, Inc. and Professor of Finance, Florida International University</li>
-    </ul>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>December 14, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Jeffrey Simser</strong>, Co-Author of <em>Civil Asset Forfeiture in Canada</em></li>
@@ -91,6 +72,25 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>December 11, 2020</p>
+  <div>
+    <p style="color: red; font-weight: bold">(Please note that this session will start at 9 a.m.)</p>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Trade-Based Money Laundering Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Joel Gibbons</strong>, Senior Program Advisor, Intelligence and Targeting Directorate, Canada Border Services Agency (CBSA)</li>
+        <li><strong>C/M Bryanna Gateley</strong>, Intelligence Analyst, Federal Serious and Organized Crime Unit, RCMP</li>
+        <li><strong>Sgt. Sushile Sharma</strong>, Member, Federal Serious and Organized Crime Unit, RCMP</li>
+      </ul>
+    </div>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Dr. John Zdanowicz</strong>, President of International Trade Alert, Inc. and Professor of Finance, Florida International University</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>December 10, 2020</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Trade-Based Money Laundering Panel:</p>
