@@ -38,66 +38,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/360 - 1 ITA BIO 2020.pdf" target="_blank">Biography of John Zdanowicz</a></p>
 </div>
 <div class="ExhibitElement">
-    <p>#359</p>
-    <p><a href="/data/exhibits/359 - 023 CAN-001281.pdf" target="_blank">CBSA, <em>Electronics and Canadian Goods Returned/The Abuse of Tariff Codes 9813 and 9814 in TBML ICAP</em>, October 1, 2020</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#358</p>
-    <p><a href="/data/exhibits/358 - CBSA, Trade-Based Money Laundering Overview, June 8, 2020" target="_blank">CBSA, <em>Trade-Based Money Laundering Overview</em>, June 8, 2020</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#357</p>
-    <p><a href="/data/exhibits/357 - 019 CAN-001126.pdf" target="_blank">CBSA, <em>COVID-19 Implications for Trade Fraud</em>, April, 2020</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#356</p>
-    <p><a href="/data/exhibits/356 - 010 CAN-000171.pdf" target="_blank">Criminal Intelligence Service British Columbia & Yukon Territory, <em>General Framework of how TBML fits into the ML Process</em>, February 13, 2018</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#355</p>
-    <p><a href="/data/exhibits/355 - 008 CAN-000169.pdf" target="_blank">Criminal Intelligence Service British Columbia & Yukon Territory, <em>CISBC-YT Money Laundering Collection Initiative (2018)</em>, May 3, 2018</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#354</p>
-    <p><a href="/data/exhibits/354 - 007 CAN-000168.pdf" target="_blank">Criminal Intelligence Service British Columbia & Yukon Territory, <em>CISCBC/YT 2018 Provincial Threat Assessment</em>, Part “B”, undated</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#353</p>
-    <p><a href="/data/exhibits/353 - 006 CAN-000167.pdf" target="_blank">Criminal Intelligence Service British Columbia & Yukon Territory, <em>CISCBC/YT 2017 Provincial Threat Assessment</em>, Part “B”, undated</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#352</p>
-    <p><a href="/data/exhibits/352 - 005 CAN-000166.pdf" target="_blank">Criminal Intelligence Service British Columbia & Yukon Territory, <em>CISCBC/YT 2017 Provincial Threat Assessment</em>, Part “B”, undated</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#351</p>
-    <p><a href="/data/exhibits/351 - 015 CAN-000119.pdf" target="_blank"><em>CBSA Knowledge Pool on Trade-Based Money Laundering</em>, undated</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#350</p>
-    <p><a href="/data/exhibits/350 - 013 CAN-000117.pdf" target="_blank">CBSA, <em>Trade Fraud & Trade-Based Money Laundering Centre of Expertise</em>, 101 Overview, April 2020</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#349</p>
-    <p><a href="/data/exhibits/349 - 017 CAN-000121.pdf" target="_blank">CBSA, <em>Backgrounder: Trade-Based Money Laundering in Canada</em>, September 10, 2019</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#348</p>
-    <p><a href="/data/exhibits/348 - 020 CAN-000953.pdf" target="_blank">RCMP <em>Trade-Based Money Laundering: A Law Enforcement Perspective</em></a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#347</p>
-    <p><a href="/data/exhibits/347 - 014 CAN-000118.pdf" target="_blank">CBSA, <em>Trade-Based Money Laundering 101</em>, June 5, 2019</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#346</p>
-    <p><a href="/data/exhibits/346 - 011 CAN-000172.pdf" target="_blank">FINTRAC, <em>Professional money laundering through trade and money services businesses</em>, July 18, 2018</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#345</p>
-    <p><a href="/data/exhibits/345 - 004 TBML Overview-Approved for Commission Circulation.pdf" target="_blank">Government of Canada, <em>Trade-Based Money Laundering Overview</em>, presented April 1, 2020</a></p>
-</div>
-<div class="ExhibitElement">
     <p>#344</p>
     <p><a href="/data/exhibits/344 - 003 CV Bryanna Gateley_Redacted.pdf" target="_blank">Curriculum Vitae of Bryanna Gateley_Redacted</a></p>
 </div>
