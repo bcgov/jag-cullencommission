@@ -10,6 +10,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#379</p>
+    <p><a href="/data/exhibits/379 - Seizing Family Homes from the Innocent by Louis Rulli.pdf" target="_blank">Seizing Family Homes from the Innocent by Louis Rulli</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#378</p>
     <p><a href="/data/exhibits/378 - Civil Asset Forfeiture in Canada by Jeffrey Simser.pdf" target="_blank">Civil Asset Forfeiture in Canada by Jeffrey Simser</a></p>
 </div>
