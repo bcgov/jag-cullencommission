@@ -10,6 +10,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#372</p>
+    <p><a href="/data/exhibits/372 -Slide Presentation by John Zdanowicz TBML - undated.pdf" target="_blank">Slide Presentation by John Zdanowicz, TBML - undated</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#371</p>
+    <p><a href="/data/exhibits/371 - TBML in Canada and BC 2015-2019 - undated.pdf" target="_blank">TBML in Canada and BC, 2015-2019 - undated</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#366</p>
     <p><a href="/data/exhibits/366 - 9 CANADA INTERNATIONAL TRADE PRICING 2019-1.pdf" target="_blank">Canada International Trade Pricing Analysis 2019</a></p>
 </div>
