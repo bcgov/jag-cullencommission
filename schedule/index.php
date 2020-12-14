@@ -132,7 +132,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div></div>
   <p>(Professors Reuter and Caulkins will speak to their White Paper: <em>Relating the Size of Illegal Markets to Associated Amounts of Money Laundered</em> – commissioned by the Cullen Commission)</p>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript December 8, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('488745618'); return false">Watch Video of Session</button>
   </div>
   <p>December 7, 2020</p>
