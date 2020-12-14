@@ -10,6 +10,30 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#378</p>
+    <p><a href="/data/exhibits/378 - Civil Asset Forfeiture in Canada by Jeffrey Simser.pdf" target="_blank">Civil Asset Forfeiture in Canada by Jeffrey Simser</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#377</p>
+    <p><a href="/data/exhibits/377 - Curriculum Vitae of Jeffrey Simser_Redacted.pdf" target="_blank">Curriculum Vitae of Jeffrey Simser_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#376</p>
+    <p><a href="/data/exhibits/376 - Overview Report - Selected Writings of Dr. Natalie Skead.pdf" target="_blank">Overview Report: Selected Writings of Dr. Natalie Skead</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#375</p>
+    <p><a href="/data/exhibits/375 - Overview Report - Asset Forfeiture in Ireland and Selected Writings of Dr. Colin King.pdf" target="_blank">Overview Report: Asset Forfeiture in Ireland and Selected Writings of Dr. Colin King</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#374</p>
+    <p><a href="/data/exhibits/374 - Overview Report - Reports Related to Asset Forfeiture and Unexplained Wealth Legislation in Jurisdictions outside of Canada.pdf" target="_blank">Overview Report: Reports Related to Asset Forfeiture and Unexplained Wealth Legislation in Jurisdictions outside of Canada</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#373</p>
+    <p><a href="/data/exhibits/373 - Overview Report - Asset Forfeiture in British Columbia.pdf" target="_blank">Overview Report: Asset Forfeiture in British Columbia</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#372</p>
     <p><a href="/data/exhibits/372 -Slide Presentation by John Zdanowicz TBML - undated.pdf" target="_blank">Slide Presentation by John Zdanowicz, TBML - undated</a></p>
 </div>
