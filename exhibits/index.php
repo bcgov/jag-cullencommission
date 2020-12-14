@@ -18,6 +18,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/371 - TBML in Canada and BC 2015-2019 - undated.pdf" target="_blank">TBML in Canada and BC, 2015-2019 - undated</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#370</p>
+    <p><a href="/data/exhibits/370 - Excel Spreadsheet BC Money Out - Exports Under 2019.xlsx" target="_blank">Excel Spreadsheet, BC Money Out - Exports Under 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#369</p>
+    <p><a href="/data/exhibits/369 - Excel Spreadsheet BC Money Out - Imports Over 2019.xlsx" target="_blank">Excel Spreadsheet, BC Money Out - Imports Over 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#368</p>
+    <p><a href="/data/exhibits/368 - Excel Spreadsheet BC Money In - Imports Under 2019.xlsx" target="_blank">Excel Spreadsheet, BC Money In – Imports Under 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#367</p>
+    <p><a href="/data/exhibits/367 - Excel Spreadsheet BC Money In - Exports Over 2019.xlsx" target="_blank">Excel Spreadsheet, BC Money In – Exports Over 2019</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#366</p>
     <p><a href="/data/exhibits/366 - 9 CANADA INTERNATIONAL TRADE PRICING 2019-1.pdf" target="_blank">Canada International Trade Pricing Analysis 2019</a></p>
 </div>
