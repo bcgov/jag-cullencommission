@@ -88,8 +88,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
+    <div>
+      <div></div>
+      <div></div>
+    </div>
+    <div>
+      <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('490021280'); return false">Watch Video of Session 1</button></p>
+      <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('490032673'); return false">Watch Video of Session 2</button></p>
+    </div>
   </div>
   <p>December 10, 2020</p>
   <div class="ScheduleListPanel">
@@ -102,7 +108,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('489659354'); return false">Watch Video of Session</button>
   </div>
   <p>December 9, 2020</p>
   <ul class="ScheduleListWitnesses">
@@ -602,10 +608,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p>February 24, 2020</p>
   <ul class="ScheduleListWitnesses"></ul>
   <div class="ScheduleTranscriptButton">
-    <a href="/data/transcripts/2020 02 24 Hearing Transcripts - Opening Statements.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <div>
-      <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('397033542'); return false">Watch Video of Session 1</button>
-      <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('396980448'); return false">Watch Video of Session 2</button>
+      <a href="/data/transcripts/2020 02 24 Hearing Transcripts - Opening Statements.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
+      <div></div>
+    </div>
+    <div>
+      <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('397033542'); return false">Watch Video of Session 1</button></p>
+      <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('396980448'); return false">Watch Video of Session 2</button></p>
     </div>
   </div>
 </div>
