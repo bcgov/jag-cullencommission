@@ -89,7 +89,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <div class="ScheduleTranscriptButton">
     <div>
-      <div></div>
+      <a href="/data/transcripts/Transcript December 11, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
       <div></div>
     </div>
     <div>
