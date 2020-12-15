@@ -12,6 +12,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><strong>RULING</strong></p>
     <p class="RulingTitle"><strong>TITLE</strong></p>
 
+    <p>15 December, 2020</p>
+    <p>#23</p>
+    <p class="RulingTitle"><a href="/files/ApplicationForRedactions-Ruling23.pdf" target="_blank">Application for Redactions</a></p>
+
     <p>7 December, 2020</p>
     <p>#22</p>
     <p class="RulingTitle"><a href="/files/ApplicationForDirectionsRegardingRedactions-Ruling22.pdf" target="_blank">Application for Directions Regarding Redactions</a></p>
