@@ -10,6 +10,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#386</p>
+    <p><a href="/data/exhibits/386 - Slide deck - Criminal Assets Bureau Structure and Legislation - Kevin McMeel - December 16 2020.pdf" target="_blank">Slide deck - Criminal Assets Bureau Structure and Legislation - Kevin McMeel, December 16, 2020</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#385</p>
     <p><a href="/data/exhibits/385 - Kevin McMeel Career History Summary_Redacted.pdf" target="_blank">Kevin McMeel Career History Summary_Redacted</a></p>
 </div>
