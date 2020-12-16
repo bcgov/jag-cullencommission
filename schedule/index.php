@@ -17,15 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>December 15, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Helena Wood</strong>, Associate Fellow, Royal United Services Institute</li>
-    <li><strong>Anton Moiseienko</strong>, Research Fellow, Centre for Financial Crime and Security Studies, Royal United Services Institute</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>December 16, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Dr. Colin King</strong>, Reader in Law and Director of Postgraduate Research Studies, Institute of Advanced Legal Studies, University of London</li>
@@ -64,6 +55,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>December 15, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Helena Wood</strong>, Associate Fellow, Royal United Services Institute</li>
+    <li><strong>Anton Moiseienko</strong>, Research Fellow, Centre for Financial Crime and Security Studies, Royal United Services Institute</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>December 14, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Jeffrey Simser</strong>, Co-Author of <em>Civil Asset Forfeiture in Canada</em></li>
