@@ -69,7 +69,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Jeffrey Simser</strong>, Co-Author of <em>Civil Asset Forfeiture in Canada</em></li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript December 14, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('490975775'); return false">Watch Video of Session</button>
   </div>
   <p>December 11, 2020</p>
