@@ -258,6 +258,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/310 - MOF2398.0001.pdf" target="_blank">BC MOF - Money Service Businesses Public Consultation Paper - March 2020</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#309</p>
+    <p><strong>This is a very large file - it will be posted in due course. If you would like access to Exhibit 309, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#308</p>
     <p><a href="/data/exhibits/308 - MOF2400.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Company Beneficial Ownership Consultation – Summary – May 26, 2020_Redacted</a></p>
 </div>
@@ -852,6 +856,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#150</p>
     <p><a href="/data/exhibits/150 - CAN-000087_Redacted.pdf" target="_blank">Memo from S/Sgt T Robertson Re Introduction and Mandate of the RCMP’s Integrated Illegal Gaming Enforcement Team – 10-Nov-2004_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#149</p>
+    <p><strong>This is a very large file - it will be posted in due course. If you would like access to Exhibit 149, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#146</p>
