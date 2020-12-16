@@ -74,7 +74,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>December 11, 2020</p>
   <div>
-    <p style="color: red; font-weight: bold">(Please note that this session will start at 9 a.m.)</p>
     <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Trade-Based Money Laundering Panel:</p>
       <ul class="ScheduleListWitnesses">
@@ -120,7 +119,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>December 8, 2020</p>
   <div>
-    <p style="color: red; font-weight: bold">(Please note that this session will take place from 9 a.m. – 1 p.m. to accommodate the schedules of the witnesses)</p>
     <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Illegal Markets and Money Laundering Panel:</p>
       <ul class="ScheduleListWitnesses">
@@ -151,7 +149,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>December 4, 2020</p>
   <ul class="ScheduleListWitnesses">
-    <li style="color: red; font-weight: bold">(starting at 8:30 a.m.)</li>
     <li><strong>Brigitte Unger</strong>, Professor of Law, Economics and Governance, Utrecht University School of Economics, and Economics of the Public Sector Chair, Utrecht University, Netherlands</li>
   </ul>
   <div class="ScheduleTranscriptButton">
