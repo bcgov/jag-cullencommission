@@ -113,10 +113,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
 </div>
 <div class="WitnessListContainer">
-  <div class="NoWitnesses">
-    <h2 class="WitnessAlphabetTitle">E</h2>
+  <h2 class="WitnessAlphabetTitle">E</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Lisa Eng-Liu</strong>, (CPABC Vice President, Public Practice Regulation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 January, 2021</strong></p>
+    </div>
   </div>
-  <div class="WitnessList"></div>
 </div>
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">F</h2>
@@ -169,6 +172,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
+    </div>
+  </div>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Dr. José Hernandez</strong>, (Ph.D., CEO, Ortus Strategies)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">13 January, 2021</strong></p>
     </div>
   </div>
   <div class="WitnessList">
@@ -248,6 +257,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">M</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Nicholas Maxwell</strong>, (Head of the Future of Financial Intelligence Sharing (FFIS) Programme, RUSI Centre for Financial Crime and Securities Studies)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 January, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Matthew McGuire</strong>, (Co-Founder, The AML Shop)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Barbara McIsaac</strong>, (Lawyer, Author of <em>The Law of Privacy in Canada</em>)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 December, 2020</strong></p>
@@ -380,6 +397,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">30 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Edward Tanaka</strong>, (CPABC Vice President, Professional Conduct)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Phil Tawtel</strong>, (Executive Director, British Columbia Civil Forfeiture Office)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 December, 2020</strong></p>
@@ -445,6 +466,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Helena Wood</strong>, (Associate Fellow, Royal United Services Institute)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">15 December, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Michele Wood-Tweel</strong>, (CPA Canada Vice President, Regulatory Affairs)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">13 January, 2021</strong></p>
     </div>
   </div>
 </div>
