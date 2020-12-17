@@ -17,16 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>December 16, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Dr. Colin King</strong>, Reader in Law and Director of Postgraduate Research Studies, Institute of Advanced Legal Studies, University of London</li>
-    <li><strong>Detective Inspector Barry Butler</strong>, Criminal Assets Bureau (Ireland)</li>
-    <li><strong>Kevin McMeel</strong>, Bureau Legal Officer, Criminal Assets Bureau (Ireland)</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>December 17, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li style="color: red; font-weight: bold">(Please note that this session will take place from 4:00-8:00 p.m. to accommodate the time difference between British&nbsp;Columbia&nbsp;and&nbsp;Western&nbsp;Australia)</li>
@@ -55,6 +45,16 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>December 16, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Dr. Colin King</strong>, Reader in Law and Director of Postgraduate Research Studies, Institute of Advanced Legal Studies, University of London</li>
+    <li><strong>Detective Inspector Barry Butler</strong>, Criminal Assets Bureau (Ireland)</li>
+    <li><strong>Kevin McMeel</strong>, Bureau Legal Officer, Criminal Assets Bureau (Ireland)</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>December 15, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Helena Wood</strong>, Associate Fellow, Royal United Services Institute</li>
