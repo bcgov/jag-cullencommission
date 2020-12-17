@@ -323,7 +323,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#309</p>
-    <p><strong>This is a very large file - it will be posted in due course. If you would like access to Exhibit 309, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a></p>
+    <p>A collection of emails – Beneficial Ownership Transparency consultation submissions_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to Exhibit 309, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#308</p>
@@ -923,7 +923,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#149</p>
-    <p><strong>This is a very large file - it will be posted in due course. If you would like access to Exhibit 149, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a></p>
+    <p>Affidavit #2 of Daryl Tottenham, sworn October 30, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to Exhibit 149, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#146</p>
