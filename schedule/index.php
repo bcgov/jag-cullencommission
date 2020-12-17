@@ -34,6 +34,46 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
     <div></div>
   </div>
+  <p>January 11, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Matthew McGuire</strong>, Co-Founder, The AML Shop</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 12, 2021</p>
+  <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Chartered Professional Accountants of BC (CPABC) Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Edward Tanaka</strong>, CPABC Vice President, Professional Conduct</li>
+        <li><strong>Lisa Eng-Liu</strong>, CPABC Vice President, Public Practice Regulation</li>
+      </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 13, 2021</p>
+  <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Chartered Professional Accountants of Canada (CPAC) Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Michele Wood-Tweel</strong>, CPA Canada Vice President, Regulatory Affairs</li>
+        <li><strong>Dr. José Hernandez</strong>, Ph.D., CEO, Ortus Strategies</li>
+      </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 14, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Nicholas Maxwell</strong>, Head of the Future of Financial Intelligence Sharing (FFIS) Programme, RUSI Centre for Financial Crime and Securities Studies</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
 </div>
 
 <!--  PAST HEARINGS  -->
