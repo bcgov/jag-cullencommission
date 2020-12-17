@@ -61,7 +61,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Anton Moiseienko</strong>, Research Fellow, Centre for Financial Crime and Security Studies, Royal United Services Institute</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript December 15, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('491413629'); return false">Watch Video of Session</button>
   </div>
   <p>December 14, 2020</p>
