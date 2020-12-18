@@ -10,6 +10,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#388</p>
+    <p><a href="/data/exhibits/388 - Curriculum Vitae of Dr. Natalie Skead.pdf" target="_blank">Curriculum Vitae of Dr. Natalie Skead</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#387</p>
     <p><a href="/data/exhibits/387 - Civil Processes and Tainted Assets - Exploring Canadian Models of Forfeiture - Michelle Gallant - Ch 8 - 2014.pdf" target="_blank">Civil Processes and Tainted Assets: Exploring Canadian Models of Forfeiture, Michelle Gallant – Ch 8 - 2014</a></p>
 </div>
