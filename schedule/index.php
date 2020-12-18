@@ -14,7 +14,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 
 <p>For a brief overview of the main hearings, please <a href="/hearings-description/">click here</a>.</p>
 <div class="ScheduleList">
-  <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
+  <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
   <p>December 18, 2020</p>
