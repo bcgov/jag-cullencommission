@@ -1178,6 +1178,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/80 - Applied_(GCGC_PROD_0023272).pdf" target="_blank">Email from Patrick Ennis re DVD/Footage request: Large Cash Buy ins – Jan 28, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#77</p>
+    <p><a href="/data/exhibits/77 - Overview Report Integrated Illegal Gaming Enforcement Team.pdf" target="_blank">Overview Report: Integrated Illegal Gaming Enforcement Team</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#76</p>
     <p><a href="/data/exhibits/76 - 2020 12 03 BCLC Standards OR FINAL - Redacted.pdf" target="_blank">Overview Report: BCLC Standards, Policies, Procedures and Operational Services Agreements</a></p>
 </div>
