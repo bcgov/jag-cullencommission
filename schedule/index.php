@@ -17,15 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS: GAMING, CASINOS AND HORSE RACING</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>December 17, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li style="color: red; font-weight: bold">(Please note that this session will take place from 4:00-8:00 p.m. to accommodate the time difference between British&nbsp;Columbia&nbsp;and&nbsp;Western&nbsp;Australia)</li>
-    <li><strong>Dr. Natalie Skead</strong>, Professor in Law and Dean and Head of School, University of Western Australia Law School</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>December 18, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Phil Tawtel</strong>, Executive Director, British Columbia Civil Forfeiture Office</li>
@@ -44,11 +35,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>January 12, 2021</p>
   <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Chartered Professional Accountants of BC (CPABC) Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Edward Tanaka</strong>, CPABC Vice President, Professional Conduct</li>
-        <li><strong>Lisa Eng-Liu</strong>, CPABC Vice President, Public Practice Regulation</li>
-      </ul>
+    <p class="SchedulePanelName">Chartered Professional Accountants of BC (CPABC) Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Edward Tanaka</strong>, CPABC Vice President, Professional Conduct</li>
+      <li><strong>Lisa Eng-Liu</strong>, CPABC Vice President, Public Practice Regulation</li>
+    </ul>
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -56,11 +47,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>January 13, 2021</p>
   <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Chartered Professional Accountants of Canada (CPAC) Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Michele Wood-Tweel</strong>, CPA Canada Vice President, Regulatory Affairs</li>
-        <li><strong>Dr. José Hernandez</strong>, Ph.D., CEO, Ortus Strategies</li>
-      </ul>
+    <p class="SchedulePanelName">Chartered Professional Accountants of Canada (CPAC) Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Michele Wood-Tweel</strong>, CPA Canada Vice President, Regulatory Affairs</li>
+      <li><strong>Dr. José Hernandez</strong>, Ph.D., CEO, Ortus Strategies</li>
+    </ul>
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -85,6 +76,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>December 17, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Dr. Natalie Skead</strong>, Professor in Law and Dean and Head of School, University of Western Australia Law School</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('492564381'); return false">Watch Video of Session</button>
+  </div>
   <p>December 16, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Dr. Colin King</strong>, Reader in Law and Director of Postgraduate Research Studies, Institute of Advanced Legal Studies, University of London</li>
