@@ -242,7 +242,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>CDAS</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Kevin B. Westell</p>
+                <p>Kevin B. Westell<br />Stephanie Dickson</p>
             </div>
             <div class="rTableCell">
                 <p>Pender Litigation</p>
