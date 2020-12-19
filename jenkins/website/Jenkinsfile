@@ -33,7 +33,7 @@ void build(OpenShiftDSL openshift, String buildConfigName, int waitTimeout = 10,
     echo "buildFromDir: ${buildFromDir}"
   }
 
-  // Cancel all builds ...  
+  // Cancel all running builds, starting over ...  
   buildconfigs.cancelBuild()
 
   // Kick off all the builds in parallel ...
@@ -90,6 +90,21 @@ node {
       script {
         openshift.withCluster() {
           openshift.withProject() {
+
+            def latestBuildNumber = 0
+            def builds = openshift.selector("build", [ name : "website-pipeline" ])
+            echo "Found ${builds.count()} builds: ${builds.names()}"
+            
+            builds.withEach {
+              int nextBuildNumber = "${it.object().metadata.annotations.get("openshift.io/build.number")}" as Integer
+              echo "build.number: ${nextBuildNumber}"
+              if (nextBuildNumber > latestBuildNumber && builds.count() > 1) {
+                latestBuildNumber = nextBuildNumber
+                echo "Canceling build ${it.name()} ..."
+                it.cancelBuild()
+              }
+            }
+
             echo "Building the ${it} image ..."
             build(openshift, "${it}", config.WAIT_TIMEOUT)
           }
