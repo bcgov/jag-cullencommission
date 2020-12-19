@@ -93,13 +93,15 @@ node {
 
             def latestBuildNumber = 0
             def builds = openshift.selector("build", [ name : "website-pipeline" ])
-            echo "Found ${builds.count()} builds: ${builds.names()}"
+            def buildCount = builds.count()
+            echo "Found ${buildCount} builds: ${builds.names()}"
             
             builds.withEach {
               int nextBuildNumber = "${it.object().metadata.annotations.get("openshift.io/build.number")}" as Integer
               echo "build.number: ${nextBuildNumber}"
-              if (nextBuildNumber > latestBuildNumber && builds.count() > 1) {
+              if (nextBuildNumber > latestBuildNumber && buildCount > 1) {
                 latestBuildNumber = nextBuildNumber
+                buildCount -= 1
                 echo "Canceling build ${it.name()} ..."
                 it.cancelBuild()
               }
