@@ -33,6 +33,9 @@ void build(OpenShiftDSL openshift, String buildConfigName, int waitTimeout = 10,
     echo "buildFromDir: ${buildFromDir}"
   }
 
+  // Cancel all builds ...  
+  buildconfigs.cancelBuild()
+
   // Kick off all the builds in parallel ...
   def builds = buildconfigs.startBuild("${buildFromDir}")
   echo "Started ${builds.count()} builds: ${builds.names()}"
