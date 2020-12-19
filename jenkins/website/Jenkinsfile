@@ -33,7 +33,8 @@ void build(OpenShiftDSL openshift, String buildConfigName, int waitTimeout = 10,
     echo "buildFromDir: ${buildFromDir}"
   }
 
-  // Cancel all running builds, starting over ...  
+  // Cancel all running builds, starting over ...
+  echo "Canceling all previous build instances ..."
   buildconfigs.cancelBuild()
 
   // Kick off all the builds in parallel ...
@@ -90,19 +91,16 @@ node {
       script {
         openshift.withCluster() {
           openshift.withProject() {
-
+            echo "Canceling all previous pipeline instances ..."
             def latestBuildNumber = 0
             def builds = openshift.selector("build", [ name : "website-pipeline" ])
             def buildCount = builds.count()
-            echo "Found ${buildCount} builds: ${builds.names()}"
-            
             builds.withEach {
               int nextBuildNumber = "${it.object().metadata.annotations.get("openshift.io/build.number")}" as Integer
-              echo "build.number: ${nextBuildNumber}"
               if (nextBuildNumber > latestBuildNumber && buildCount > 1) {
                 latestBuildNumber = nextBuildNumber
                 buildCount -= 1
-                echo "Canceling build ${it.name()} ..."
+                echo "Canceling ${it.name()} ..."
                 it.cancelBuild()
               }
             }
@@ -123,7 +121,7 @@ node {
              "${config.NAME_SPACE}",
              "${config.PROD_ENV}")
     }
-  }  
+  }
 
   stage('Trigger ZAP Scan') {
     script {
