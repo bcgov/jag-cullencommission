@@ -17,14 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>December 18, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Phil Tawtel</strong>, Executive Director, British Columbia Civil Forfeiture Office</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>January 11, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Matthew McGuire</strong>, Co-Founder, The AML Shop</li>
@@ -76,12 +68,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>December 18, 2020</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Phil Tawtel</strong>, Executive Director, British Columbia Civil Forfeiture Office</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <a href="/data/transcripts/Transcript December 18, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('492691036'); return false">Watch Video of Session</button>
+  </div>
   <p>December 17, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Dr. Natalie Skead</strong>, Professor in Law and Dean and Head of School, University of Western Australia Law School</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript December 17, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('492564381'); return false">Watch Video of Session</button>
   </div>
   <p>December 16, 2020</p>
