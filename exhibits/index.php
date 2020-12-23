@@ -119,7 +119,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#362</p>
-    <p><a href="/data/exhibits/362 - 5 CANADA INTERNATIONAL TRADE PRICING 2015.pdf" target="_blank">Canada International Trade Pricing Analysis 2016</a></p>
+    <p><a href="/data/exhibits/362 - 5 CANADA INTERNATIONAL TRADE PRICING 2015.pdf" target="_blank">Canada International Trade Pricing Analysis 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#361</p>
