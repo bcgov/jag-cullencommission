@@ -23,12 +23,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <li>Government response</li>
   <li>Other jurisdictions’ approaches</li>
 </ul>
-<p>* These topics are not necessarily listed in sequence, and this hearing plan is subject to variation. Information about the dates on which specific topics will be addressed in the hearings will be posted on our website at: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
-  <p>The hearings are being held online via video conference. They can be seen via <a href="https://cullencommission.ca/webcast-live/">livestream here</a>.</p>
-<p>For an alphabetical list of witnesses from completed hearings, please go to our <a href="https://cullencommission.ca/witnesses/">Witnesses page</a>.</p>
-<p>You can find the webcast archives of completed hearings at our <a href="https://cullencommission.ca/webcast-archive/">Webcast Archive page</a>.</p>
-<p>You can find the transcripts of completed hearings at our <a href="https://cullencommission.ca/transcripts/">Transcripts page</a>.</p>
-<p>You can find the exhibits from completed hearings at our <a href="https://cullencommission.ca/exhibits/">Exhibits page</a>.</p>
+<p>* These topics are not necessarily listed in sequence, and this hearing plan is subject to variation. Information about the dates on which specific topics will be addressed in the hearings will be posted on our website at: <a href="https://cullencommission.ca">www.cullencommission.ca</a>.</p>
+  <p>The hearings are being held online via video conference. They can be seen via <a href="/webcast-live/">livestream here</a>.</p>
+<p>For an alphabetical list of witnesses from completed hearings, please go to our <a href="/witnesses/">Witnesses page</a>.</p>
+<p>You can find the webcast archives of completed hearings at our <a href="/webcast-archive/">Webcast Archive page</a>.</p>
+<p>You can find the transcripts of completed hearings at our <a href="/transcripts/">Transcripts page</a>.</p>
+<p>You can find the exhibits from completed hearings at our <a href="/exhibits/">Exhibits page</a>.</p>
 <h2>Completed Hearings</h2>
 <h3>February 24 - 26:</h3>
 <p>These hearings focused on participants’ opening statements and provided an opportunity for participants (groups, organizations and individuals granted formal standing) to address the Commissioner and to set out the issues and matters that participants would like to see the Inquiry address.</p>
@@ -54,8 +54,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h3>May 25 - June 17:</h3>
 <p>These hearings dealt with an overview of the money laundering topic and regulatory models. Adjustments to the hearing plan were made in response to the global pandemic and its impact on some participants and witnesses.</p>
 <p>These hearings were held via videoconferencing.</p>
-<p>Video archives of these hearings can be <a href="http://www.cullencommission.ca/webcast-archive/">found here</a>.</p>
-<p>You can see the witness list and their testimony date <a href="http://www.cullencommission.ca/media/?open=18">here</a>.</p>
+<p>Video archives of these hearings can be <a href="/webcast-archive/">found here</a>.</p>
+<p>You can see the witness list and their testimony date <a href="/media/?open=18">here</a>.</p>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
