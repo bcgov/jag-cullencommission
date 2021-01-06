@@ -57,6 +57,67 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
     <div></div>
   </div>
+  <p>January 15, 2021</p>
+  <div>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Chris Elgar</strong>, Vice President and Deputy Superintendent of Financial Institutions, Prudential Supervision, BC Financial Services Authority</li>
+    </ul>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">White Label ATM Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Chris Chandler</strong>, CEO, Access Cash; President and CEO, Perativ; past President, ATM Industry Association</li>
+        <li><strong>Kirkland Morris</strong>, Vice President, Enterprise Initiatives & External Affairs, Interac Corp.</li>
+        <li><strong>Melanie Paddon</strong>, Investigator, Joint Illegal Gaming Investigation Team, Combined Forces Special Enforcement Unit – BC</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 18, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Money Services Business (MSB) – Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, FINTRAC</li>
+        <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
+        <li><strong>Annette Ryan</strong>, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">MSB – Industry and Policing Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Megan Nettleton</strong>, Supervisor, RCMP National Headquarters (NHQ) Financial Crime Analysis Unit</li>
+        <li><strong>Michael Cox</strong>, Chief Compliance Officer & Finance Director, Vancouver Bullion & Currency Exchange</li>
+        <li><strong>Joseph Iuso</strong>, Executive Director, Canadian Money Service Business Association</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 19, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Bank/Credit Union Chief Anti-Money Laundering Officer (CAMLO) Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li>Representatives of Banks and Credit Unions – additional information to follow</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 20, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Anna Gabriele</strong>, Anti-Money Laundering Manager, Financial Intelligence Unit – High Risk Customer Group, Global Anti-Money Laundering, Toronto Dominion Bank</li>
+    <li><strong>Michael Bowman</strong>, Global Chief Anti-Money Laundering Officer, Toronto Dominion Bank Group</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
 </div>
 
 <!--  PAST HEARINGS  -->
