@@ -12,6 +12,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">A</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Donna Achimov</strong>, (Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Ken Ackles</strong>, (Gaming Policy and Enforcement Branch (GPEB) Manager of Investigations, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 November, 2020</strong></p>
@@ -55,6 +59,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">7 December, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Michael Bowman</strong>, (Global Chief Anti-Money Laundering Officer, Toronto Dominion Bank Group)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">20 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Oliver Bullough</strong>, (Journalist and Author)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">1 June, 2020</strong></p>
@@ -73,6 +81,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 December, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Chris Chandler</strong>, (CEO, Access Cash; President and CEO, Perativ; past President, ATM Industry Association)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">15 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Charlene Cieslik</strong>, (Chief Compliance Officer, Localcoin, Principal, Complifact AML Inc., former Chief Compliance Officer, Chief Anti-Money Laundering Officer, and Privacy Officer, Coinsquare Ltd and subsidiaries)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
@@ -90,6 +102,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>James Cohen</strong>, (Executive Director, Transparency International Canada)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">30 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Michael Cox</strong>, (Chief Compliance Officer & Finance Director, Vancouver Bullion & Currency Exchange)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 January, 2021</strong></p>
     </div>
   </div>
 </div>
@@ -115,6 +131,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">E</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Chris Elgar</strong>, (Vice President and Deputy Superintendent of Financial Institutions, Prudential Supervision, BC Financial Services Authority)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">15 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Lisa Eng-Liu</strong>, (CPABC Vice President, Public Practice Regulation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 January, 2021</strong></p>
@@ -139,6 +159,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">G</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Anna Gabriele</strong>, (Anti-Money Laundering Manager, Financial Intelligence Unit – High Risk Customer Group, Global Anti-Money Laundering, Toronto Dominion Bank)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">20 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>C/M Bryanna Gateley</strong>, (Intelligence Analyst, Federal Serious and Organized Crime Unit, RCMP)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 December, 2020</strong></p>
@@ -194,10 +218,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
 </div>
 <div class="WitnessListContainer">
-  <div class="NoWitnesses">
-    <h2 class="WitnessAlphabetTitle">I</h2>
+  <h2 class="WitnessAlphabetTitle">I</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Joseph Iuso</strong>, (Executive Director, Canadian Money Service Business Association)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 January, 2021</strong></p>
+    </div>
   </div>
-  <div class="WitnessList"></div>
 </div>
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">J</h2>
@@ -257,6 +284,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">M</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Barry MacKillop</strong>, (Deputy Director, Intelligence Sector, FINTRAC)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Nicholas Maxwell</strong>, (Head of the Future of Financial Intelligence Sharing (FFIS) Programme, RUSI Centre for Financial Crime and Securities Studies)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">14 January, 2021</strong></p>
@@ -286,6 +317,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">15 December, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Kirkland Morris</strong>, (Vice President, Enterprise Initiatives & External Affairs, Interac Corp.)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">15 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Ryan Mueller</strong>, (Chief Compliance Officer, Netcoins)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
@@ -296,6 +331,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">N</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Megan Nettleton</strong>, (Supervisor, RCMP National Headquarters (NHQ) Financial Crime Analysis Unit)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Gabriel Ngo</strong>, (Senior Advisor, Financial Crimes Policy, Department of Finance – Canada)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">16 November, 2020</strong></p>
@@ -311,6 +350,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">P</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Melanie Paddon</strong>, (Investigator, Joint Illegal Gaming Investigation Team, Combined Forces Special Enforcement Unit – BC)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">15 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Fred Pinnock</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 November, 2020</strong></p>
@@ -349,6 +392,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Tom Robertson</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team, Former Gaming Policy and Enforcement Branch (GPEB) Investigator)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">6 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Annette Ryan</strong>, (Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 January, 2021</strong></p>
     </div>
   </div>
 </div>
