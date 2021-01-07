@@ -374,10 +374,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/299 - BCR0007.0001.pdf" target="_blank">Directors / Officers Showing How Many Corporations (Including XPro) They Were Appointed to Since 2010 (Excel spreadsheet)</a></p>
 </div>
 <div class="ExhibitElement">
-    <p>#298</p>
-    <p><a href="/data/exhibits/298 - Converted.pdf" target="_blank">Incorporators Showing How Many Corporations (No Xpro) They Incorporated Since 2020 (Excel spreadsheet)</a></p>
-</div>
-<div class="ExhibitElement">
     <p>#297</p>
     <p><a href="/data/exhibits/297 - BCR0013.0001.pdf" target="_blank">"Nature of Business" Occurring More than 200 Times – May 25, 2020 (Excel spreadsheet)</a></p>
 </div>
