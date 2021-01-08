@@ -23,7 +23,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>He is a graduate of the University of Victoria (Law) and Queen’s University (B.A. (Hon.)). Mr. Martland clerked for the Honourable Justice Major at the Supreme Court of Canada. He is a fellow of the American College of Trial Lawyers.</p>
     </div>
     <div class="Aside">
-        <p class="AsideTitle">Patrick McGowan</p>
+        <p class="AsideTitle">Patrick McGowan, QC</p>
         <p>A Vancouver-based trial and appellate lawyer who practises criminal, civil and administrative law, Patrick McGowan has been involved in cases dealing with a wide variety of complex legal and constitutional issues in British Columbia and at the Supreme Court of Canada.</p>
         <p>Mr. McGowan served as Associate Commission Counsel in two earlier inquiries: the Cohen Commission of Inquiry into the Decline of Sockeye Salmon in the Fraser River, and the Braidwood Commissions of Inquiry into Conducted Energy Weapon Use and the Death of Robert Dziekanski.</p>
         <p>Mr. McGowan obtained his law degree from the University of British Columbia, following which he clerked with the Supreme Court of British Columbia. He currently practises with the law firm Ritchie Sandford McGowan.</p>
