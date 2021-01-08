@@ -312,10 +312,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>Paul King Jin</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Bibhas Vaze</p>
+                <p></p>
             </div>
             <div class="rTableCell">
-                <p>Hira Rowan LLP</p>
+                <p></p>
             </div>
         </div>
         <div class="rTableRow">
