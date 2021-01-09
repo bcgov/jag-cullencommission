@@ -62,38 +62,24 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>Canada</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Jan Brongers<br /> BJ Wray</p>
+                <p>Jan Brongers<br />BJ Wray</p>
             </div>
             <div class="rTableCell">
-                <p>Department of Justice<br /> BC Regional Office</p>
-            </div>
-        </div>
-        <div class="rTableRow">
-            <div class="rTableCell">
-                <p>Ministry of Attorney General - Gaming Policy Enforcement Branch</p>
-            </div>
-            <div class="rTableCell">
-                <p><strong>GPEB</strong></p>
-            </div>
-            <div class="rTableCell">
-                <p>Jacqueline D. Hughes<br /> J. Cherisse Friesen<br /> Chantelle Rajotte</p>
-            </div>
-            <div class="rTableCell">
-                <p>Ministry of Attorney General</p>
+                <p>Department of Justice<br />BC Regional Office</p>
             </div>
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
-                <p>Ministry of Attorney General - Ministry of Finance</p>
+                <p>The Provincial Government of BC</p>
             </div>
             <div class="rTableCell">
-                <p><strong>Ministry of Finance</strong></p>
+                <p><strong>BC</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Jacqueline D. Hughes<br /> J. Cherisse Friesen<br /> Chantelle Rajotte</p>
+                <p>Jacqueline D. Hughes<br />J. Cherisse Friesen<br />Chantelle Rajotte<br />Alandra Harlingten<br />Kaitlyn Chewka</p>
             </div>
             <div class="rTableCell">
-                <p>Ministry of Attorney General</p>
+                <p>Ministry of Attorney General<br />Ministry of Attorney General<br />Ministry of Attorney General<br />Lovett Westmacott<br />Lovett Westmacott</p>
             </div>
         </div>
         <div class="rTableRow">
@@ -104,7 +90,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>BCREA</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Chris Weafer<br /> Patrick Weafer</p>
+                <p>Chris Weafer<br />Patrick Weafer</p>
             </div>
             <div class="rTableCell">
                 <p>Owen Bird Law Corporation</p>
@@ -132,8 +118,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>BCCLA</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Megan Tweedie<br />
-                    Jessica Magonet</p>
+                <p>Megan Tweedie<br />Jessica Magonet</p>
             </div>
             <div class="rTableCell">
             </div>
@@ -160,7 +145,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>BCLC</strong></p>
             </div>
             <div class="rTableCell">
-                <p>William B. Smart, QC<br /> Shannon P. Ramsay<br />Susan Humphrey</p>
+                <p>William B. Smart, QC<br />Shannon P. Ramsay<br />Susan Humphrey</p>
             </div>
             <div class="rTableCell">
                 <p>Hunter Litigation Chambers Law Corporation</p>
@@ -222,7 +207,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
-                <p>Coalition: <br /> Transparency International Canada <strong>(TI Canada)</strong><br /> Canadians For Tax Fairness <strong>(C4TF)</strong><br /> Publish What you Pay Canada <strong>(PWYP)</strong></p>
+                <p>Coalition: <br />Transparency International Canada <strong>(TI Canada)</strong><br />Canadians For Tax Fairness <strong>(C4TF)</strong><br />Publish What you Pay Canada <strong>(PWYP)</strong></p>
             </div>
             <div class="rTableCell">
                 <p><strong>Coalition</strong></p>
@@ -270,10 +255,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>Gateway</strong></p>
             </div>
             <div class="rTableCell">
-                <p>David Gruber<br /> Laura L. Bevan<br /> Meg Gaily</p>
+                <p>David Gruber<br />Laura L. Bevan<br />Meg Gaily</p>
             </div>
             <div class="rTableCell">
-                <p>Bennett Jones<br /> Lawson Lundell<br /> Lawson Lundell</p>
+                <p>Bennett Jones<br />Lawson Lundell<br />Lawson Lundell</p>
             </div>
         </div>
         <div class="rTableRow">
@@ -284,7 +269,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>GCGC</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Mark L. Skwarok<br /> Melanie Harmer</p>
+                <p>Mark L. Skwarok<br />Melanie Harmer</p>
             </div>
             <div class="rTableCell">
                 <p>McMillan LLP</p>
@@ -326,7 +311,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>Robert Kroeker</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Marie Henein<br /> Christine Mainville</p>
+                <p>Marie Henein<br />Christine Mainville</p>
             </div>
             <div class="rTableCell">
                 <p>Henein Hutchison LLP</p>
@@ -354,7 +339,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>James Lightbody</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Robin N. McFee, QC<br /> Jessie Meikle-Kahs</p>
+                <p>Robin N. McFee, QC<br />Jessie Meikle-Kahs</p>
             </div>
             <div class="rTableCell">
                 <p>Sugden, McFee &amp; Roes LLP</p>
