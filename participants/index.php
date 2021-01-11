@@ -159,7 +159,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>CBA</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Kevin B. Westell<br />Jo-Anne Stark, Director of Advocacy, CBA, BC Branch</p>
+                <p>Kevin B. Westell<br />Jo-Anne Stark, Director of<br />&nbsp;&nbsp;&nbsp;Advocacy, CBA, BC Branch<br />Stephanie Dickson</p>
             </div>
             <div class="rTableCell">
             </div>
