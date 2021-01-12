@@ -10,6 +10,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#394</p>
+    <p><a href="/data/exhibits/394 - Report on Accountants Money Laundering and Anti-Money Laundering prepared by the amlSHOP October 31 2020 and updated December 31 2020.pdf" target="_blank">Report on Accountants, Money Laundering, and Anti-Money Laundering prepared by the amlSHOP October 31, 2020 and updated December 31, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#393</p>
+    <p><a href="/data/exhibits/393 - CPA Guide to Comply with Canadas Anti-Money Laundering-AML-Legislation prepared by MNP LLP.pdf" target="_blank">CPA Guide to Comply with Canada’s Anti-Money Laundering (AML) Legislation prepared by MNP LLP</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#392</p>
+    <p><a href="/data/exhibits/392 - Curriculum Vitae of Matt McGuire.pdf" target="_blank">Curriculum Vitae of Matt McGuire</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#391</p>
+    <p><a href="/data/exhibits/391 - Overview Report on the Accounting Sector in British Columbia - Dec 17 2020.pdf" target="_blank">Overview Report on the Accounting Sector in British Columbia - Dec 17, 2020</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#390</p>
     <p><a href="/data/exhibits/390 - Patrick Daley - Civil Asset Forfeiture - An Economic Analysis of Ontario and British Columbia - 2014.pdf" target="_blank">Patrick Daley, "Civil Asset Forfeiture: An Economic Analysis of Ontario and British Columbia" - 2014</a></p>
 </div>
