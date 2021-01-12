@@ -91,23 +91,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
   <p>January 19, 2021</p>
-  <div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Credit Unions’ Chief Anti-Money Laundering Officers (CAMLOs) Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Ezekiel Chhoa</strong>, BlueShore Financial</li>
-        <li><strong>Lindzee Herring</strong>, First West Credit Union</li>
-        <li><strong>Erin Tolfo</strong>, Coast Capital Savings Credit Union</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Banks’ Chief Anti-Money Laundering Officers (CAMLOs) Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Stuart Davis</strong>, Scotiabank</li>
-        <li><strong>Jay Stark</strong>, RBC</li>
-        <li><strong>Georgia Stavridis</strong>, HSBC</li>
-      </ul>
-    </div>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Bank/Credit Union Chief Anti-Money Laundering Officer (CAMLO) Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li>Representatives of Banks and Credit Unions – additional information to follow</li>
+    </ul>
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
