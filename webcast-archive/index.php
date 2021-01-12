@@ -10,6 +10,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning&nbsp;October&nbsp;26,&nbsp;2020,&nbsp;onwards.</em></p>
 <div class="WebArchiveMonthDiv">
+  <h3>January - 2021</h3>
+  <p class="ArchiveVideoTitle"><strong>January 11</strong>: <a onclick="openVideo('499461794'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <h3>December - 2020</h3>
   <p class="ArchiveVideoTitle"><strong>December 18</strong>: <a onclick="openVideo('492691036'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>December 17</strong>: <a onclick="openVideo('492564381'); return false" class="ArchiveVideoLink">Watch Session</a></p>
