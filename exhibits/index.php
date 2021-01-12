@@ -10,6 +10,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#397</p>
+    <p><a href="/data/exhibits/397 - CPA Canada Alert Proceedings of Crime -Money Laundering- and Terrorist Financing - Know Your Obligations -July 2015-.pdf" target="_blank">CPA Canada, Alert Proceedings of Crime (Money Laundering) and Terrorist Financing – Know Your Obligations (July 2015)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#396</p>
+    <p><a href="/data/exhibits/396 - Department of Finance Canada Assessment of Inherent Risks of Money Laundering and Terrorist Financing in Canada 2015.pdf" target="_blank">Department of Finance Canada, Assessment of Inherent Risks of Money Laundering and Terrorist Financing in Canada (2015)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#395</p>
+    <p><a href="/data/exhibits/395 - Email from Marial Stirling re Materials for AMLATF Committees conference call - July 13 2015 - only PDF pages 8-14 are marked as exhibit.pdf" target="_blank">Email from Marial Stirling re Materials for AMLATF Committees conference call – July 13, 2015 (only PDF pages 8-14 are marked as exhibit)</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#394</p>
     <p><a href="/data/exhibits/394 - Report on Accountants Money Laundering and Anti-Money Laundering prepared by the amlSHOP October 31 2020 and updated December 31 2020.pdf" target="_blank">Report on Accountants, Money Laundering, and Anti-Money Laundering prepared by the amlSHOP October 31, 2020 and updated December 31, 2020</a></p>
 </div>
