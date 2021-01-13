@@ -38,11 +38,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/welcome_' . $lang);
     <a href="/?ln=kor" class="LanguageLink"><button class="Button TonedDownButton SmallerButtonLabel ButtonBarButton LanguageButton">Korean</button></a>
     <a href="/?ln=fil" class="LanguageLink"><button class="Button TonedDownButton SmallerButtonLabel ButtonBarButton LanguageButton">Filipino</button></a>
 </div>
-<div class="AnnouncementContainer">
-    <p class="AnnouncementHeading">Interim Report Released</p>
-    <p style="font-size: 0.85rem; margin: 0px 0px 30px 0px">December 10</p>
-    <p><a href="/com-rep/">View report here</a></p>
-</div>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/home_' . $lang);
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
