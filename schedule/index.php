@@ -17,18 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>January 12, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Chartered Professional Accountants of BC (CPABC) Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Edward Tanaka</strong>, CPABC Vice President, Professional Conduct</li>
-      <li><strong>Lisa Eng-Liu</strong>, CPABC Vice President, Public Practice Regulation</li>
-    </ul>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>January 13, 2021</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Chartered Professional Accountants of Canada (CPAC) Panel:</p>
@@ -91,11 +79,23 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
   <p>January 19, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Bank/Credit Union Chief Anti-Money Laundering Officer (CAMLO) Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li>Representatives of Banks and Credit Unions – additional information to follow</li>
-    </ul>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Credit Unions’ Chief Anti-Money Laundering Officers (CAMLOs) Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Ezekiel Chhoa</strong>, BlueShore Financial</li>
+        <li><strong>Lindzee Herring</strong>, First West Credit Union</li>
+        <li><strong>Erin Tolfo</strong>, Coast Capital Savings Credit Union</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Banks’ Chief Anti-Money Laundering Officers (CAMLOs) Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Stuart Davis</strong>, Scotiabank</li>
+        <li><strong>Jay Stark</strong>, RBC</li>
+        <li><strong>Georgia Stavridis</strong>, HSBC</li>
+      </ul>
+    </div>
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -121,6 +121,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>January 12, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Chartered Professional Accountants of BC (CPABC) Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Edward Tanaka</strong>, CPABC Vice President, Professional Conduct</li>
+      <li><strong>Lisa Eng-Liu</strong>, CPABC Vice President, Public Practice Regulation</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('499860162'); return false">Watch Video of Session</button>
+  </div>
   <p>January 11, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Matthew McGuire</strong>, Co-Founder, The AML Shop</li>
