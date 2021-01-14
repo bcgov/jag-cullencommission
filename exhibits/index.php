@@ -10,6 +10,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#408</p>
+    <p><a href="/data/exhibits/408 - FINTRAC presentation - Anti-Money Laundering and Anti-Terrorism Financing in Canada -CPA Canada- March 4 2015.pdf" target="_blank">FINTRAC presentation – Anti-Money Laundering and Anti- Terrorism Financing in Canada (CPA Canada) – March 4, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#407</p>
+    <p><a href="/data/exhibits/407 - Anti-Money Laundering and Anti-Terrorist Financing Committee of the Chartered Professional Accountants of Canada - Terms of Reference - February 2015.pdf" target="_blank">Anti-Money Laundering & Anti-Terrorist Financing Committee of the Chartered Professional Accountants of Canada – Terms of Reference – February 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#406</p>
+    <p><a href="/data/exhibits/406 - CPAC Background Report on CPA Canadas AML Activities -with appendices-.pdf" target="_blank">CPAC Background Report on CPA Canada’s AML Activities (with appendices)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#405</p>
+    <p><a href="/data/exhibits/405 - Curriculum Vitae of Jose Hernandez.pdf" target="_blank">Curriculum Vitae of José Hernandez</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#404</p>
+    <p><a href="/data/exhibits/404 - Curriculum Vitae of Michele Wood-Tweel.pdf" target="_blank">Curriculum Vitae of Michele Wood-Tweel</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#397</p>
     <p><a href="/data/exhibits/397 - CPA Canada Alert Proceedings of Crime -Money Laundering- and Terrorist Financing - Know Your Obligations -July 2015-.pdf" target="_blank">CPA Canada, Alert Proceedings of Crime (Money Laundering) and Terrorist Financing – Know Your Obligations (July 2015)</a></p>
 </div>
