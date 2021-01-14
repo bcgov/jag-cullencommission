@@ -1471,7 +1471,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#13</p>
-    <p><a href="/data/exhibits/13 - NAC Chinese Underground Banking Daigou October 2013.pdf" target="_blank">National Crime Agency - Chinese Underground Banking and "Diagou" (NAC/NECC v.1.0)</a></p>
+    <p><a href="/data/exhibits/13 - NAC Chinese Underground Banking Daigou October 2013.pdf" target="_blank">National Crime Agency - Chinese Underground Banking and "Daigou" (NAC/NECC v.1.0)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#12</p>

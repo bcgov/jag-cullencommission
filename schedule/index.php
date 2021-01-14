@@ -17,18 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>January 13, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Chartered Professional Accountants of Canada (CPAC) Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Michele Wood-Tweel</strong>, CPA Canada Vice President, Regulatory Affairs</li>
-      <li><strong>Dr. José Hernandez</strong>, Ph.D., CEO, Ortus Strategies</li>
-    </ul>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>January 14, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Nicholas Maxwell</strong>, Head of the Future of Financial Intelligence Sharing (FFIS) Programme, RUSI Centre for Financial Crime and Securities Studies</li>
@@ -121,6 +109,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>January 13, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Chartered Professional Accountants of Canada (CPAC) Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Michele Wood-Tweel</strong>, CPA Canada Vice President, Regulatory Affairs</li>
+      <li><strong>Dr. José Hernandez</strong>, Ph.D., CEO, Ortus Strategies</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('500238152'); return false">Watch Video of Session</button>
+  </div>
   <p>January 12, 2021</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Chartered Professional Accountants of BC (CPABC) Panel:</p>
@@ -138,7 +138,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Matthew McGuire</strong>, Co-Founder, The AML Shop</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript January 11, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('499461794'); return false">Watch Video of Session</button>
   </div>
   <p>December 18, 2020</p>
