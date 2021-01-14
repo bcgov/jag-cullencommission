@@ -11,7 +11,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
     <p>#408</p>
-    <p><a href="/data/exhibits/408 - FINTRAC presentation - Anti-Money Laundering and Anti-Terrorism Financing in Canada -CPA Canada- March 4 2015.pdf" target="_blank">FINTRAC presentation – Anti-Money Laundering and Anti- Terrorism Financing in Canada (CPA Canada) – March 4, 2015</a></p>
+    <p><a href="/data/exhibits/408 - FINTRAC presentation - Anti-Money Laundering and Anti-Terrorism Financing in Canada -CPA Canada- March 4 2015.pdf" target="_blank">FINTRAC presentation – Anti-Money Laundering and Anti-Terrorism Financing in Canada (CPA Canada) – March 4, 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#407</p>
