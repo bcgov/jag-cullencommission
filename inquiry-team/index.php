@@ -59,7 +59,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <br class="ClearFloats">
 <h2>Junior Commission Counsel</h2>
-<div class="Aside3Col">
+<div class="Aside2Col">
     <div class="Aside">
         <p class="AsideTitle">Steven Davis</p>
         <p>Steven Davis has been appointed to the role of Junior Commission Counsel for the Commission of Inquiry into Money Laundering in British Columbia. He is a graduate of McGill University (B.Com.) and has experience in finance. Mr. Davis obtained his law degree from the University of Victoria. After articling with the Department of Justice, he clerked for two justices of the British Columbia Court of Appeal.</p>
@@ -72,6 +72,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p class="AsideTitle">Kelsey Rose</p>
         <p>Kelsey Rose is a general civil litigator based in Vancouver. Ms. Rose has joined the Commission of Inquiry into Money Laundering in British Columbia as Junior Commission Counsel. Prior to joining the Commission, she practised at a large regional law firm, where she primarily focused on complex commercial litigation, health law and cross-border disputes. Much of Ms. Rose’s work has centered on complex issues of privacy, confidentiality and privilege.</p>
         <p>Ms. Rose has appeared at all levels of court in B.C. and in writing at the Supreme Court of Canada. She obtained her law degree from the University of British Columbia in 2014. After clerking for the Ontario Superior Court of Justice, she was called to the Bar in B.C. in 2016.</p>
+    </div>
+    <div class="Aside">
+        <p class="AsideTitle">Dahlia Shuhaibar</p>
+        <p>Dahlia Shuhaibar has been appointed Junior Policy Counsel for the Commission of Inquiry into Money Laundering in British Columbia. She obtained her BA in French-Spanish-English translation from the University of Ottawa, where she also earned her Juris Doctor (JD).</p>
+        <p>Ms. Shuhaibar has clerked at the Supreme Court of Canada and the Federal Court. She practices public law and civil litigation at Gib van Ert Law in Ottawa.</p>
     </div>
 </div>
 <br class="ClearFloats">
