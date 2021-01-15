@@ -10,6 +10,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#413</p>
+    <p><a href="/data/exhibits/413 - FFIS Case Studies of the Use of Privacy Preserving Analysis - January 8 2021.pdf" target="_blank">FFIS, Case Studies of the Use of Privacy Preserving Analysis – January 8, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#412</p>
+    <p><a href="/data/exhibits/412 - FFIS Case Studies of the Use of Privacy Preserving Analysis - June 2020 Version.pdf" target="_blank">FFIS, Case Studies of the Use of Privacy Preserving Analysis – June 2020 Version</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#411</p>
+    <p><a href="/data/exhibits/411 - Canada in Context FFIS Briefing Paper to the Cullen Commission - January 4 2021.pdf" target="_blank">Canada in Context FFIS Briefing Paper to the Cullen Commission – January 4, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#410</p>
+    <p><a href="/data/exhibits/410 - Curriculum Vitae of Nick Maxwell.pdf" target="_blank">Curriculum Vitae of Nick Maxwell</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#408</p>
     <p><a href="/data/exhibits/408 - FINTRAC presentation - Anti-Money Laundering and Anti-Terrorism Financing in Canada -CPA Canada- March 4 2015.pdf" target="_blank">FINTRAC presentation – Anti-Money Laundering and Anti-Terrorism Financing in Canada (CPA Canada) – March 4, 2015</a></p>
 </div>
