@@ -7,6 +7,23 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection24">
+        <p class="ExpandableSectionTitle">Commission to Hold Anti-Money Laundering Officers Panel <em>In Camera</em></p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">January 15, 2021</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent24">
+        <h2>Commission to Hold<br />Anti-Money Laundering Officers Panel <em>In Camera</em></h2>
+        <p><strong>Vancouver, B.C.</strong> – Commissioner Austin Cullen has ruled that a portion of the Commission’s hearing on January 19, 2021 will be held <em>in camera</em>, which means that it will not be accessible to the public. Only identified participants and their legal counsel will be allowed to view this portion of the hearings that day. This will allow the Commission to receive evidence from a panel of three chief anti-money laundering officers for three major national banks (Scotiabank, Royal Bank of Canada, and HSBC Canada).</p>
+        <p>While the norm for the Cullen Commission is to hold hearings that are accessible to the public via the Commission’s livestream on its website (<a href="https://www.cullencommission.ca/webcast-live/">www.cullencommission.ca/webcast-live/</a> the Commissioner has today ruled that this panel requires special arrangements. The evidence will be of a highly sensitive nature and it is expected that it will describe typologies and methods of money laundering – including new and cutting-edge techniques – in some detail.</p>
+        <p>Explained Senior Commission Counsel Brock Martland, who brought the application for this panel to be held <em>in camera</em>: “We expect that these experienced people will provide information on what they are seeing in the real world in the context of money laundering efforts, and they will describe what banks are doing in response. As I am sure people can understand, there could be a serious negative impact – not just for the banks but also for public interest – to have people learn the specialized knowledge of what money launderers are doing and how banks are addressing the issue. It would give rise to a realistic likelihood that bad actors would learn what works and what doesn’t, what the banks do and don’t do, and what gaps exist that they can take advantage of.” He added: “The Commissioner and Commission team are committed to doing our work in a transparent and open manner; however, this is a special circumstance and Commission counsel felt that it was important to have this testimony led in this way.</p>
+        <p>There will be no publicly available video or transcripts for this panel’s testimony. The Commissioner will be able to draw on the panel’s evidence for his final report, which will be public.</p>
+        <p>The Ruling can be found here: <a href="https://cullencommission.ca/files/ApplicationForInCameraHearing-Ruling24.pdf">cullencommission.ca/files/ApplicationForInCameraHearing-Ruling24.pdf</a>.</p>
+        <p><strong>About the Commission</strong></p>
+        <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission is looking at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission is also examining regulatory authorities and barriers to effective law enforcement of money laundering activities. Commissioner Cullen has the ability to compel witnesses and order the production of documents and records.</p>
+        <p>The Commissioner delivered an Interim Report to the Provincial Government on November 15, 2020. The Commissioner has determined that the Commission team will need time beyond the original delivery date of May 15, 2021 to complete its final report. There are a few reasons for this, including the breadth of the issues being addressed, the length of the public hearings, the effects of the pandemic, and delays and challenges in obtaining documents. The Commission’s hearings are expected to conclude in May of 2021 and at that point, the Commissioner will seek an extension of time from the Province of British Columbia for submission of the final report. The request will be made at that time because the Commission will have a much better understanding of the amount of time that will be needed.</p>
+        <p>For more information, please visit: <a href="http://www.cullencommission.ca">www.cullencommission.ca</a>.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection23">
         <p class="ExpandableSectionTitle">Interim Report Released</p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
@@ -805,6 +822,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection23').click(function() {
             $('#ExpandableSectionContent23').slideToggle(time);
+        });
+        $('#ExpandableSection24').click(function() {
+            $('#ExpandableSectionContent24').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
