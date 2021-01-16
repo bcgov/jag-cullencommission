@@ -6,6 +6,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Rulings</h1>
+<p><a href="/files/ApplicationForInCameraHearing-Ruling24.pdf" target="_blank">15 January 2021 - Application for <em>In Camera</em> Hearing – Ruling #24 <i class="fas fa-file-pdf PdfIcon"></i></a></p>
 <p><a href="/files/ApplicationForRedactions-Ruling23.pdf" target="_blank">15 December 2020 - Application for Redactions – Ruling #23 <i class="fas fa-file-pdf PdfIcon"></i></a></p>
 <p><a href="/files/ApplicationForDirectionsRegardingRedactions-Ruling22.pdf" target="_blank">7 December 2020 - Application for Directions Regarding Redactions – Ruling #22 <i class="fas fa-file-pdf PdfIcon"></i></a></p>
 <p><a href="/files/ApplicationForStanding-Ruling21.pdf" target="_blank">4 December 2020 - Application for Standing – Ruling #21 <i class="fas fa-file-pdf PdfIcon"></i></a></p>

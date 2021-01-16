@@ -17,13 +17,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/welcome_' . $lang);
         <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
             <div class="LatestEvent">
+                <p class="LatestEventDesc">January 15, 2021<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for <em>In Camera</em> Hearing – Ruling #24</a></p>
+            </div>
+            <div class="LatestEvent">
                 <p class="LatestEventDesc">December 15, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for Redactions – Ruling #23</a></p>
             </div>
             <div class="LatestEvent">
                 <p class="LatestEventDesc">December 10, 2020<br /><strong>News Release</strong><br /><a href="/media/?open=23">Interim Report Released</a></p>
-            </div>
-            <div class="LatestEvent">
-                <p class="LatestEventDesc">December 7, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for Directions Regarding Redactions – Ruling #22</a></p>
             </div>
         </div>
     </div>
