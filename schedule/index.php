@@ -51,6 +51,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       </ul>
     </div>
     <div class="ScheduleListPanel">
+      <p style="color: red"><strong>This panel will be held In Camera as per <a href="/rulings/">Commissioner Cullen's Ruling 24</a>.</strong></p>
       <p class="SchedulePanelName">Banks’ Chief Anti-Money Laundering Officers (CAMLOs) Panel:</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Stuart Davis</strong>, Scotiabank</li>
