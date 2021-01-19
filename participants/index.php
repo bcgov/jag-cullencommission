@@ -51,7 +51,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>Counsel Name or Participant</strong></p>
             </div>
             <div class="rTableCell">
-                <p><strong>Law Firm</strong></p>
+                <p><strong>Law Firm/Organization</strong></p>
             </div>
         </div>
         <div class="rTableRow">
@@ -159,9 +159,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>CBA</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Kevin B. Westell<br />Jo-Anne Stark, Director of<br />&nbsp;&nbsp;&nbsp;Advocacy, CBA, BC Branch<br />Stephanie Dickson</p>
+                <p>Jo-Anne Stark<br /><br />Kevin B. Westell<br />Stephanie Dickson</p>
             </div>
             <div class="rTableCell">
+                <p>Director of Advocacy,<br />&nbsp;&nbsp;&nbsp;CBA, BC Branch<br />Pender Litigation<br />Pender Litigation</p>
             </div>
         </div>
         <div class="rTableRow">
