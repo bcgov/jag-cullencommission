@@ -20,6 +20,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Gurmit Aujla</strong>, (Director, Internal Audit, Audit Service Department, British Columbia Lottery Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">21 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Don Avison</strong>, (QC, Executive Director / CEO, Law Society of British Columbia)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
@@ -81,18 +85,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 December, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Jonathan Caulkins</strong>, (Professor of Operations Research and Public Policy, Carnegie Mellon University’s Heinz College)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">8 December, 2020</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Chris Chandler</strong>, (CEO, Access Cash; President and CEO, Perativ; past President, ATM Industry Association)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">15 January, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Maggie Chiu</strong>, (Manager, VIP Development, Gateway Casinos & Entertainment Ltd.)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">21 January, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Charlene Cieslik</strong>, (Chief Compliance Officer, Localcoin, Principal, Complifact AML Inc., former Chief Compliance Officer, Chief Anti-Money Laundering Officer, and Privacy Officer, Coinsquare Ltd and subsidiaries)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">26 November, 2020</strong></p>
-    </div>
-    <p class="NamesOfWitnesses"><strong>Jonathan Caulkins</strong>, (Professor of Operations Research and Public Policy, Carnegie Mellon University’s Heinz College)</p>
-    <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">8 December, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Ward Clapham</strong>, (Former Officer-in-Charge, Richmond RCMP Detachment)</p>
     <div class="WitnessHearingsList">
@@ -107,6 +115,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 January, 2021</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Caterina Cuglietta</strong>, (AML Business Intelligence Analyst, British Columbia Lottery Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">21 January, 2021</strong></p>
+    </div>
   </div>
 </div>
 <div class="WitnessListContainer">
@@ -117,9 +129,17 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Kevin deBruyckere</strong>, (Director, AML & Investigations, Legal Compliance, Security Division, British Columbia Lottery Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">21 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Peter Dent</strong>, (Partner, Deloitte Forensic)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">30 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Derek Dickson</strong>, (Director, Casino Investigations, Gaming Policy and Enforcement Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">22 January, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Giles Dixon</strong>, (Senior Manager, Grant Thornton, Toronto)</p>
     <div class="WitnessHearingsList">
@@ -251,6 +271,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">23 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Robert Kroeker</strong>, (Former Vice President, Legal, Compliance and Security and Chief Compliance Officer, British Columbia Lottery Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">25 January, 2021</strong></p>
+    </div>
   </div>
 </div>
 <div class="WitnessListContainer">
@@ -259,6 +283,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Muriel Labine</strong>, (Former Great Canadian Gaming Corporation (GCGC) Dealer Supervisor)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Bill Lang</strong>, (Executive Director, VIP, Gateway Casinos & Entertainment Ltd.)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">21 January, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Tim Law</strong>, (UK Consultant, Co-Author of <em>Towards a Global Norm of Beneficial Ownership Transparency</em>)</p>
     <div class="WitnessHearingsList">
@@ -402,6 +430,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">S</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Joe Schalk</strong>, (Former Senior Director, Casino Investigations, Gaming Policy and Enforcement Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">22 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Stephen Schneider</strong>, (Professor, St. Mary's University, Halifax)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 May, 2020</strong></p>

@@ -50,6 +50,35 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
     <div></div>
   </div>
+  <p>January 21, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Maggie Chiu</strong>, Manager, VIP Development, Gateway Casinos & Entertainment Ltd.</li>
+    <li><strong>Bill Lang</strong>, Executive Director, VIP, Gateway Casinos & Entertainment Ltd.</li>
+    <li><strong>Gurmit Aujla</strong>, Director, Internal Audit, Audit Service Department, British Columbia Lottery Corporation</li>
+    <li><strong>Caterina Cuglietta</strong>, AML Business Intelligence Analyst, British Columbia Lottery Corporation</li>
+    <li><strong>Kevin deBruyckere</strong>, Director, AML & Investigations, Legal Compliance, Security Division, British Columbia Lottery Corporation</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 22, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Derek Dickson</strong>, Director, Casino Investigations, Gaming Policy and Enforcement Branch</li>
+    <li><strong>Joe Schalk</strong>, Former Senior Director, Casino Investigations, Gaming Policy and Enforcement Branch</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 25, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Robert Kroeker</strong>, Former Vice President, Legal, Compliance and Security and Chief Compliance Officer, British Columbia Lottery Corporation</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
 </div>
 
 <!--  PAST HEARINGS  -->
