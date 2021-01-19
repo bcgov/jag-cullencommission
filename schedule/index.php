@@ -17,30 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>January 19, 2021</p>
-  <div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Credit Unions’ Chief Anti-Money Laundering Officers (CAMLOs) Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Ezekiel Chhoa</strong>, BlueShore Financial</li>
-        <li><strong>Lindzee Herring</strong>, First West Credit Union</li>
-        <li><strong>Erin Tolfo</strong>, Coast Capital Savings Credit Union</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p style="color: red"><strong>This panel will be held In Camera as per <a href="/rulings/">Commissioner Cullen's Ruling 24</a>.</strong></p>
-      <p class="SchedulePanelName">Banks’ Chief Anti-Money Laundering Officers (CAMLOs) Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Stuart Davis</strong>, Scotiabank</li>
-        <li><strong>Jay Stark</strong>, RBC</li>
-        <li><strong>Georgia Stavridis</strong>, HSBC</li>
-      </ul>
-    </div>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>January 20, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Anna Gabriele</strong>, Anti-Money Laundering Manager, Financial Intelligence Unit – High Risk Customer Group, Global Anti-Money Laundering, Toronto Dominion Bank</li>
@@ -90,6 +66,30 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>January 19, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Credit Unions’ Chief Anti-Money Laundering Officers (CAMLOs) Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Ezekiel Chhoa</strong>, BlueShore Financial</li>
+        <li><strong>Lindzee Herring</strong>, First West Credit Union</li>
+        <li><strong>Erin Tolfo</strong>, Coast Capital Savings Credit Union</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p style="color: red"><strong>This panel was held In Camera as per <a href="/rulings/">Commissioner Cullen's Ruling 24</a>.</strong></p>
+      <p class="SchedulePanelName">Banks’ Chief Anti-Money Laundering Officers (CAMLOs) Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Stuart Davis</strong>, Scotiabank</li>
+        <li><strong>Jay Stark</strong>, RBC</li>
+        <li><strong>Georgia Stavridis</strong>, HSBC</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>January 18, 2021</p>
   <div>
     <div class="ScheduleListPanel">
