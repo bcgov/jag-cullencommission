@@ -10,6 +10,50 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#436</p>
+    <p><a href="/data/exhibits/436 - Confronting Money Laundering and Terrorist Financing -  Moving Canada Forward.pdf" target="_blank">Confronting Money Laundering and Terrorist Financing - Moving Canada Forward</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#432</p>
+    <p><a href="/data/exhibits/432 - Actual versus Perceived Risks of Money Laundering at White-Label ATMs in Canada - 2017.pdf" target="_blank">Actual versus Perceived Risks of Money Laundering at White-Label ATMs in Canada – 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#431</p>
+    <p><a href="/data/exhibits/431 - ATMs in Context Debunking the myth that ATMs present a material risk for organized crime money laundering.pdf" target="_blank">ATMs in Context Debunking the myth that ATMs present a material risk for organized crime money laundering</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#430</p>
+    <p><a href="/data/exhibits/430 - WLTM Brief - Department of Finance March 5 2020.pdf" target="_blank">WLTM Brief – Department of Finance, March 5, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#429</p>
+    <p><a href="/data/exhibits/429 - RCMP Criminal Intelligence - Project Scot November 10 2008.pdf" target="_blank">RCMP Criminal Intelligence – Project Scot, November 10, 2008</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#428</p>
+    <p><a href="/data/exhibits/428 - Interac - Number of WLATMs in BC since 2010.pdf" target="_blank">Interac - Number of WLATMs in BC since 2010</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#427</p>
+    <p><a href="/data/exhibits/427 - Biography of Kirkland Morris.pdf" target="_blank">Biography of Kirkland Morris</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#426</p>
+    <p><a href="/data/exhibits/426 - Curriculum Vitae of C. Chandler_Redacted.pdf" target="_blank">Curriculum Vitae of C. Chandler_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#425</p>
+    <p><a href="/data/exhibits/425 - Curriculum Vitae of Melanie D. Paddon.pdf" target="_blank">Curriculum Vitae of Melanie D. Paddon</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#416</p>
+    <p><a href="/data/exhibits/416 - Office of the Superintendent of Financial Institutions Canada guideline Deterring and Detecting Money Laundering and Terrorist Finance no. B-8 dated December 2008.pdf" target="_blank">Office of the Superintendent of Financial Institutions Canada guideline, Deterring and Detecting Money Laundering and Terrorist Finance no. B-8 dated December 2008</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#414</p>
+    <p><a href="/data/exhibits/414 - Government Response to the 24th report of the House of Commons Standing Committee on Finance.pdf" target="_blank">Government Response to the 24th report of the House of Commons Standing Committee on Finance</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#413</p>
     <p><a href="/data/exhibits/413 - FFIS Case Studies of the Use of Privacy Preserving Analysis - January 8 2021.pdf" target="_blank">FFIS, Case Studies of the Use of Privacy Preserving Analysis – January 8, 2021</a></p>
 </div>
