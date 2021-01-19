@@ -17,29 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>January 18, 2021</p>
-  <div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Money Services Business (MSB) – Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, FINTRAC</li>
-        <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
-        <li><strong>Annette Ryan</strong>, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">MSB – Industry and Policing Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Megan Nettleton</strong>, Supervisor, RCMP National Headquarters (NHQ) Financial Crime Analysis Unit</li>
-        <li><strong>Michael Cox</strong>, Chief Compliance Officer & Finance Director, Vancouver Bullion & Currency Exchange</li>
-        <li><strong>Joseph Iuso</strong>, Executive Director, Canadian Money Service Business Association</li>
-      </ul>
-    </div>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>January 19, 2021</p>
   <div>
     <div class="ScheduleListPanel">
@@ -84,6 +61,29 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>January 18, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Money Services Business (MSB) – Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, FINTRAC</li>
+        <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
+        <li><strong>Annette Ryan</strong>, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">MSB – Industry and Policing Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Megan Nettleton</strong>, Supervisor, RCMP National Headquarters (NHQ) Financial Crime Analysis Unit</li>
+        <li><strong>Michael Cox</strong>, Chief Compliance Officer & Finance Director, Vancouver Bullion & Currency Exchange</li>
+        <li><strong>Joseph Iuso</strong>, Executive Director, Canadian Money Service Business Association</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('502010729'); return false">Watch Video of Session</button>
+  </div>
   <p>January 15, 2021</p>
   <div>
     <ul class="ScheduleListWitnesses">
