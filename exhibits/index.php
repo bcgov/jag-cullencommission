@@ -10,6 +10,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#440</p>
+    <p><a href="/data/exhibits/440 - Money Services Businesses Public Consultation Paper - March 2020.pdf" target="_blank">Money Services Businesses Public Consultation Paper – March 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#439</p>
+    <p><a href="/data/exhibits/439 - Email exchange between Christian Nordin and Joseph Iuso March and April 2020_Redacted.pdf" target="_blank">Email exchange between Christian Nordin and Joseph Iuso March and April 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#436</p>
     <p><a href="/data/exhibits/436 - Confronting Money Laundering and Terrorist Financing -  Moving Canada Forward.pdf" target="_blank">Confronting Money Laundering and Terrorist Financing - Moving Canada Forward</a></p>
 </div>
