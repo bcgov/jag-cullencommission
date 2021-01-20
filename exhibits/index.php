@@ -10,12 +10,52 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#449</p>
+    <p><a href="/data/exhibits/449 - List of Compliance Engagement Activities 2017-18 to 2019-20.pdf" target="_blank">List of Compliance Engagement Activities 2017-18 to 2019-20</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#448</p>
+    <p><a href="/data/exhibits/448 - 2018 FinTRACs Report to the Minister of Finance on Compliance and Related Activities - September 2018.pdf" target="_blank">2018 FinTRAC's Report to the Minister of Finance on Compliance and Related Activities – September 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#447</p>
+    <p><a href="/data/exhibits/447 - FinTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 30 2017.pdf" target="_blank">FinTRAC Report to the Minister of Finance on Compliance and Related Activities – Sept 30, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#445</p>
+    <p><a href="/data/exhibits/445 - Financial Intelligence Report Criminal Informal Value Transfer Systems IVTS - February 2016.pdf" target="_blank">Financial Intelligence Report Criminal Informal Value Transfer Systems (IVTS) – February 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#444</p>
+    <p><a href="/data/exhibits/444 - Trends in Canadian Suspicious Transaction Reporting STR - Part II - Oct 1 2011.pdf" target="_blank">Trends in Canadian Suspicious Transaction Reporting (STR) - Part II – Oct 1, 2011</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#443</p>
+    <p><a href="/data/exhibits/443 - Trends in Canadian Suspicious Transaction Reporting STR  FINTRAC Typologies and Trends Reports - April 1 2011.pdf" target="_blank">Trends in Canadian Suspicious Transaction Reporting (STR) FINTRAC Typologies and Trends Reports - April 2011 – April 1, 2011</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#442</p>
+    <p><a href="/data/exhibits/442 - Professional Money Laundering in Canada - March 2019.pdf" target="_blank">Professional Money Laundering in Canada - March 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#441</p>
+    <p><a href="/data/exhibits/441 - Money Laundering and Terrorist Financing ML-TF Typologies and Trends for Canadian Money Services Businesses MSBs FINTRAC Typologies and Trends Reports - July 2010.pdf" target="_blank">Money Laundering and Terrorist Financing (ML-TF) Typologies and Trends for Canadian Money Services Businesses (MSBs) FINTRAC Typologies and Trends Reports - July 2010</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#440</p>
     <p><a href="/data/exhibits/440 - Money Services Businesses Public Consultation Paper - March 2020.pdf" target="_blank">Money Services Businesses Public Consultation Paper – March 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#439</p>
     <p><a href="/data/exhibits/439 - Email exchange between Christian Nordin and Joseph Iuso March and April 2020_Redacted.pdf" target="_blank">Email exchange between Christian Nordin and Joseph Iuso March and April 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#438</p>
+    <p><a href="/data/exhibits/438 - CISBC-YT - Report - Money Service Businesses - Nov 1 2018.pdf" target="_blank">CISBC-YT - Report - Money Service Businesses – Nov 1, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#437</p>
+    <p><a href="/data/exhibits/437 - CISBC-YT - Provincial Threat Assessment 2018.pdf" target="_blank">CISBC-YT – Provincial Threat Assessment 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#436</p>
@@ -54,8 +94,44 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/425 - Curriculum Vitae of Melanie D. Paddon.pdf" target="_blank">Curriculum Vitae of Melanie D. Paddon</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#424</p>
+    <p><a href="/data/exhibits/424 - FICOM Letter from Frank Chong to All Provincially Regulated Financial Institution May 5 2016.pdf" target="_blank">FICOM Letter from Frank Chong to All Provincially Regulated Financial Institution May 5, 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#423</p>
+    <p><a href="/data/exhibits/423 - BCFSA 2020-21 - 2022-23 Service Plan February 2020.pdf" target="_blank">BCFSA 2020-21 – 2022-23 Service Plan February 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#422</p>
+    <p><a href="/data/exhibits/422 - BCSFA Advisory Number re 20-002 2020-2021 Regulatory Roadmap dated November 5 2020.pdf" target="_blank">BCSFA Advisory Number re 20-002 2020-2021 Regulatory Roadmap dated November 5, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#421</p>
+    <p><a href="/data/exhibits/421 - FINTRAC ComPack_Redacted.pdf" target="_blank">FINTRAC ComPack_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#420</p>
+    <p><a href="/data/exhibits/420 - FICOM - Reporting Statistics Update Fiscal Year 2017-2018.pdf" target="_blank">FICOM – Reporting Statistics Update Fiscal Year 2017-2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#419</p>
+    <p><a href="/data/exhibits/419 - Memorandum of Understanding January 9 2005.pdf" target="_blank">Memorandum of Understanding January 9, 2005</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#418</p>
+    <p><a href="/data/exhibits/418 - BCFSA Risk Matrix.pdf" target="_blank">BCFSA Risk Matrix</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#417</p>
+    <p><a href="/data/exhibits/417 - FICOM Letter from Frank Chong to All Provincially Regulated Financial Institution May 5 2016.pdf" target="_blank">FICOM Letter from Frank Chong to All Provincially Regulated Financial Institution May 5, 2016</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#416</p>
     <p><a href="/data/exhibits/416 - Office of the Superintendent of Financial Institutions Canada guideline Deterring and Detecting Money Laundering and Terrorist Finance no. B-8 dated December 2008.pdf" target="_blank">Office of the Superintendent of Financial Institutions Canada guideline, Deterring and Detecting Money Laundering and Terrorist Finance no. B-8 dated December 2008</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#415</p>
+    <p><a href="/data/exhibits/415 - BCFSA Organizational Chart November 30 2019.pdf" target="_blank">BCFSA Organizational Chart November 30, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#414</p>
