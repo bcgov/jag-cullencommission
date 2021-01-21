@@ -174,6 +174,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/404 - Curriculum Vitae of Michele Wood-Tweel.pdf" target="_blank">Curriculum Vitae of Michele Wood-Tweel</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#403</p>
+    <p><a href="/data/exhibits/403 - CPABC Review of McGuire Report on Accountants - Jan 7 2021.pdf" target="_blank">CPABC Review of McGuire Report on Accountants – Jan 7, 2021</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#402</p>
     <p><a href="/data/exhibits/402 - Public Practice Committee Data Sheet Pre-Reading No.6 dated September 4 2020.pdf" target="_blank">Public Practice Committee Data Sheet, Pre-Reading #6 dated September 4, 2020</a></p>
 </div>
