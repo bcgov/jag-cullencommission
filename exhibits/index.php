@@ -10,6 +10,30 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#456</p>
+    <p><a href="/data/exhibits/456 - Biography of Georgia Stavridis.pdf" target="_blank">Biography of Georgia Stavridis</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#455</p>
+    <p><a href="/data/exhibits/455 - Biography of Jay Stark.pdf" target="_blank">Biography of Jay Stark</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#454</p>
+    <p><a href="/data/exhibits/454 - Curriculum Vitae of Stuart Davis.pdf" target="_blank">Curriculum Vitae of Stuart Davis</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#452</p>
+    <p><a href="/data/exhibits/452 - Biography of Erin Tolfo.pdf" target="_blank">Biography of Erin Tolfo</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#451</p>
+    <p><a href="/data/exhibits/451 - Biography of Lindzee Herring.pdf" target="_blank">Biography of Lindzee Herring</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#450</p>
+    <p><a href="/data/exhibits/450 - Biography of Ezekiel Chhoa.pdf" target="_blank">Biography of Ezekiel Chhoa</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#449</p>
     <p><a href="/data/exhibits/449 - List of Compliance Engagement Activities 2017-18 to 2019-20.pdf" target="_blank">List of Compliance Engagement Activities 2017-18 to 2019-20</a></p>
 </div>
