@@ -17,15 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>January 20, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Anna Gabriele</strong>, Anti-Money Laundering Manager, Financial Intelligence Unit – High Risk Customer Group, Global Anti-Money Laundering, Toronto Dominion Bank</li>
-    <li><strong>Michael Bowman</strong>, Global Chief Anti-Money Laundering Officer, Toronto Dominion Bank Group</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>January 21, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Maggie Chiu</strong>, Manager, VIP Development, Gateway Casinos & Entertainment Ltd.</li>
@@ -66,6 +57,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>January 20, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Anna Gabriele</strong>, Anti-Money Laundering Manager, Financial Intelligence Unit – High Risk Customer Group, Global Anti-Money Laundering, Toronto Dominion Bank</li>
+    <li><strong>Michael Bowman</strong>, Global Chief Anti-Money Laundering Officer, Toronto Dominion Bank Group</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('502877670'); return false">Watch Video of Session</button>
+  </div>
   <p>January 19, 2021</p>
   <div>
     <div class="ScheduleListPanel">
