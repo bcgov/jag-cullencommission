@@ -17,18 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>January 21, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Maggie Chiu</strong>, Manager, VIP Development, Gateway Casinos & Entertainment Ltd.</li>
-    <li><strong>Bill Lang</strong>, Executive Director, VIP, Gateway Casinos & Entertainment Ltd.</li>
-    <li><strong>Gurmit Aujla</strong>, Director, Internal Audit, Audit Service Department, British Columbia Lottery Corporation</li>
-    <li><strong>Caterina Cuglietta</strong>, AML Business Intelligence Analyst, British Columbia Lottery Corporation</li>
-    <li><strong>Kevin deBruyckere</strong>, Director, AML & Investigations, Legal Compliance, Security Division, British Columbia Lottery Corporation</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>January 22, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Derek Dickson</strong>, Director, Casino Investigations, Gaming Policy and Enforcement Branch</li>
@@ -57,6 +45,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>January 21, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Maggie Chiu</strong>, Manager, VIP Development, Gateway Casinos & Entertainment Ltd.</li>
+    <li><strong>Bill Lang</strong>, Executive Director, VIP, Gateway Casinos & Entertainment Ltd.</li>
+    <li><strong>Gurmit Aujla</strong>, Director, Internal Audit, Audit Service Department, British Columbia Lottery Corporation</li>
+    <li><strong>Caterina Cuglietta</strong>, AML Business Intelligence Analyst, British Columbia Lottery Corporation</li>
+    <li><strong>Kevin deBruyckere</strong>, Director, AML & Investigations, Legal Compliance, Security Division, British Columbia Lottery Corporation</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>January 20, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Anna Gabriele</strong>, Anti-Money Laundering Manager, Financial Intelligence Unit – High Risk Customer Group, Global Anti-Money Laundering, Toronto Dominion Bank</li>
