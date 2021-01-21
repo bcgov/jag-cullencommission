@@ -76,7 +76,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>BC</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Jacqueline D. Hughes<br />J. Cherisse Friesen<br />Chantelle Rajotte<br />Alandra Harlingten<br />Kaitlyn Chewka</p>
+                <p>Jacqueline D. Hughes QC<br />J. Cherisse Friesen<br />Chantelle Rajotte<br />Alandra Harlingten<br />Kaitlyn Chewka</p>
             </div>
             <div class="rTableCell">
                 <p>Ministry of Attorney General<br />Ministry of Attorney General<br />Ministry of Attorney General<br />Lovett Westmacott<br />Lovett Westmacott</p>
