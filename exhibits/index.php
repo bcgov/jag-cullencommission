@@ -174,6 +174,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/404 - Curriculum Vitae of Michele Wood-Tweel.pdf" target="_blank">Curriculum Vitae of Michele Wood-Tweel</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#402</p>
+    <p><a href="/data/exhibits/402 - Public Practice Committee Data Sheet Pre-Reading No.6 dated September 4 2020.pdf" target="_blank">Public Practice Committee Data Sheet, Pre-Reading #6 dated September 4, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#401</p>
+    <p><a href="/data/exhibits/401 - Public Practice Committee Meeting Minutes - September 11 2020 (redacted).pdf" target="_blank">Public Practice Committee Meeting Minutes – September 11, 2020 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#400</p>
+    <p><a href="/data/exhibits/400 - CPA Memo from Lisa Eng-Liu Re Possible opportunities for education December 21 2020.pdf" target="_blank">CPA Memo from Lisa Eng-Liu, Re Possible opportunities for education, December 21, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#399</p>
+    <p><a href="/data/exhibits/399 - CPABC Strategy Governance Risk and Human Resource AudioWeb - Anti-Money Laundering  - An Interactive Overview.pdf" target="_blank">CPABC Strategy, Governance, Risk & Human Resource AudioWeb – Anti-Money Laundering - An Interactive Overview</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#397</p>
     <p><a href="/data/exhibits/397 - CPA Canada Alert Proceedings of Crime -Money Laundering- and Terrorist Financing - Know Your Obligations -July 2015-.pdf" target="_blank">CPA Canada, Alert Proceedings of Crime (Money Laundering) and Terrorist Financing – Know Your Obligations (July 2015)</a></p>
 </div>
