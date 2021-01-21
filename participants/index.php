@@ -298,10 +298,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>Paul King Jin</strong></p>
             </div>
             <div class="rTableCell">
-                <p></p>
+                <p>Greg DelBigio, QC</p>
             </div>
             <div class="rTableCell">
-                <p></p>
+                <p>Thorsteinssons LLP</p>
             </div>
         </div>
         <div class="rTableRow">
