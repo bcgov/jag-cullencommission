@@ -28,7 +28,44 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>January 25, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>Robert Kroeker</strong>, Former Vice President, Legal, Compliance and Security and Chief Compliance Officer, British Columbia Lottery Corporation</li>
+    <li><strong>Rick Duff</strong>, Former Employee of Great Canadian Gaming Corporation and Paragon (Mr. Duff held a range of positions including Dealer, Assistant General Manager of Casino Operations, and Director of Guest Experiences)</li>
+    <li><strong>Robert Kroeker</strong>, Former Officer, RCMP; Former Director of Civil Forfeiture and Former Vice President, Compliance and Legal, Great Canadian Gaming Corporation; Former Vice President, Legal, Compliance and Security/Chief Compliance Officer, British Columbia Lottery Corporation</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 26, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Robert Kroeker</strong> (cont’d), Former Officer, RCMP; Former Director of Civil Forfeiture and Former Vice President, Compliance and Legal, Great Canadian Gaming Corporation; Former Vice President, Legal, Compliance and Security/Chief Compliance Officer, British Columbia Lottery Corporation</li>
+    <li><strong>Cary Skrine</strong>, Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 27, 2021</p>
+  <ul class="ScheduleListWitnesses">
+  <li><strong>Cary Skrine</strong> (cont’d), Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 28, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Jim Lightbody</strong>, Chief Executive Officer and President, British Columbia Lottery Corporation</li>
+    <li><strong>Derek Sturko</strong>, Former Assistant Deputy Minister and General Manager, Gaming Policy and Enforcement Branch</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>January 29, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Jim Lightbody</strong> (cont’d), Chief Executive Officer and President, British Columbia Lottery Corporation</li>
+    <li><strong>Kevin Sweeney</strong>, Director of Security, Privacy and Compliance, Legal, Compliance, Security Division, British Columbia Lottery Corporation</li>
+    <li><strong>Terry Towns</strong>, Former Vice President of Corporate Security and Compliance, British Columbia Lottery Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>

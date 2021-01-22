@@ -146,6 +146,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">26 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Rick Duff</strong>, (Former Employee of Great Canadian Gaming Corporation and Paragon (Mr. Duff held a range of positions including Dealer, Assistant General Manager of Casino Operations, and Director of Guest Experiences))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">25 January, 2021</strong></p>
+    </div>
   </div>
 </div>
 <div class="WitnessListContainer">
@@ -271,9 +275,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">23 November, 2020</strong></p>
     </div>
-    <p class="NamesOfWitnesses"><strong>Robert Kroeker</strong>, (Former Vice President, Legal, Compliance and Security and Chief Compliance Officer, British Columbia Lottery Corporation)</p>
+    <p class="NamesOfWitnesses"><strong>Robert Kroeker</strong>, (Former Officer, RCMP; Former Director of Civil Forfeiture and Former Vice President, Compliance and Legal, Great Canadian Gaming Corporation; Former Vice President, Legal, Compliance and Security/Chief Compliance Officer, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 January, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">26 January, 2021</strong></p>
     </div>
   </div>
 </div>
@@ -301,6 +306,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">8 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">November 20, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Jim Lightbody</strong>, (Chief Executive Officer and President, British Columbia Lottery Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">28 January, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">29 January, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Simon Lord</strong>, (Senior Officer and Money Laundering Expert, National Crime Agency (UK))</p>
     <div class="WitnessHearingsList">
@@ -458,6 +468,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">17 December, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Cary Skrine</strong>, (Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">26 January, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">27 January, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Jesse Spiro</strong>, (Global Head of Policy & Regulatory Affairs Chainalysis)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">24 November, 2020</strong></p>
@@ -466,6 +481,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Derek Sturko</strong>, (Former Assistant Deputy Minister and General Manager, Gaming Policy and Enforcement Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">28 January, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Kevin Sweeney</strong>, (Director of Security, Privacy and Compliance, Legal, Compliance, Security Division, British Columbia Lottery Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">29 January, 2021</strong></p>
     </div>
   </div>
 </div>
@@ -489,6 +512,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">4 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Terry Towns</strong>, (Former Vice President of Corporate Security and Compliance, British Columbia Lottery Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">29 January, 2021</strong></p>
     </div>
   </div>
 </div>
