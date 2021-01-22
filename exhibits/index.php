@@ -218,6 +218,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/399 - CPABC Strategy Governance Risk and Human Resource AudioWeb - Anti-Money Laundering  - An Interactive Overview.pdf" target="_blank">CPABC Strategy, Governance, Risk & Human Resource AudioWeb – Anti-Money Laundering - An Interactive Overview</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#398</p>
+    <p><a href="/data/exhibits/398 - BCs Public Registry to Combat Money Laundering Broken on Arrival by Kevin Comeau C.D. Howe Institue - Commentary No. 583 Nov 2020.pdf" target="_blank">BC's Public Registry to Combat Money Laundering Broken on Arrival, by Kevin Comeau, C.D. Howe Institue - Commentary No. 583, Nov 2020</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#397</p>
     <p><a href="/data/exhibits/397 - CPA Canada Alert Proceedings of Crime -Money Laundering- and Terrorist Financing - Know Your Obligations -July 2015-.pdf" target="_blank">CPA Canada, Alert Proceedings of Crime (Money Laundering) and Terrorist Financing – Know Your Obligations (July 2015)</a></p>
 </div>
