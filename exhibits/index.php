@@ -10,6 +10,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#472</p>
+    <p><a href="/data/exhibits/472 - Email from Melanie Paddon re Project Athena bank drafts for July 2018 - September 27 2018_Redacted.pdf" target="_blank">Email from Melanie Paddon re Project Athena bank drafts for July 2018 – September 27, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#471</p>
+    <p><a href="/data/exhibits/471 - Email from Anna Gabriele re Project Athena meeting date with Amy H. - January 7 2020_Redacted.pdf" target="_blank">Email from Anna Gabriele re Project Athena meeting date with Amy H. – January 7, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#470</p>
+    <p><a href="/data/exhibits/470 - Email from Dermot Hickey re Project Athena customer review - November 28 2019_Redacted.pdf" target="_blank">Email from Dermot Hickey re Project Athena, customer review – November 28, 2019 (redacted)_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#468</p>
     <p><a href="/data/exhibits/468 - Message from Anna Gabriele and Kevin Doherty re TDs involvement with Project Athena - July 11 2019_Redacted.pdf" target="_blank">Message from Anna Gabriele and Kevin Doherty re TDs involvement with Project Athena – July 11, 2019_Redacted</a></p>
 </div>
