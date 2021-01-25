@@ -10,6 +10,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#477</p>
+    <p><a href="/data/exhibits/477 - Email from Kevin Doherty re Project Athena - May 13 2019_Redacted.pdf" target="_blank">Email from Kevin Doherty re Project Athena – May 13, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#476</p>
+    <p><a href="/data/exhibits/476 - Project Athena Stakeholders Meeting minutes - October 24th 2018.pdf" target="_blank">Project Athena Stakeholders Meeting minutes – October 24th, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#475</p>
+    <p><a href="/data/exhibits/475 - Letter from Michael Bowman re Misuse of Bank Drafts TDs Response - June 15 2020_Redacted.pdf" target="_blank">Letter from Michael Bowman re Misuse of Bank Drafts, TDs Response – June 15, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#474</p>
+    <p><a href="/data/exhibits/474 - Letter to Michael Bowman re Misuse of Bank Drafts TDs Response - March 20 2020_Redacted.pdf" target="_blank">Letter to Michael Bowman re Misuse of Bank Drafts, TDs Response – March 20, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#472</p>
     <p><a href="/data/exhibits/472 - Email from Melanie Paddon re Project Athena bank drafts for July 2018 - September 27 2018_Redacted.pdf" target="_blank">Email from Melanie Paddon re Project Athena bank drafts for July 2018 – September 27, 2018_Redacted</a></p>
 </div>
