@@ -10,6 +10,46 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#468</p>
+    <p><a href="/data/exhibits/468 - Message from Anna Gabriele and Kevin Doherty re TDs involvement with Project Athena - July 11 2019_Redacted.pdf" target="_blank">Message from Anna Gabriele and Kevin Doherty re TDs involvement with Project Athena – July 11, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#467</p>
+    <p><a href="/data/exhibits/467 - Email from Amy Hellen re Project Athena advisory role - November 7 2019_Redacted.pdf" target="_blank">Email from Amy Hellen re Project Athena advisory role, - November 7, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#466</p>
+    <p><a href="/data/exhibits/466 - Email from Kevin Doherty re Project Athena - June 21 2019_Redacted.pdf" target="_blank">Email from Kevin Doherty re Project Athena – June 21, 2019 (Redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#465</p>
+    <p><a href="/data/exhibits/465 - Email from Anna Gabriele re Project Athena - May 17 2019_Redacted.pdf" target="_blank">Email from Anna Gabriele re Project Athena – May 17, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#464</p>
+    <p><a href="/data/exhibits/464 - TD - Project Athena - A Public-Private Partnership presentation - Undated_Redacted.pdf" target="_blank">TD – Project Athena - A Public-Private Partnership presentation - Undated (Redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#463</p>
+    <p><a href="/data/exhibits/463 - Email from Melanie Paddon re Project Athena Jan 2019 - March 21 2019_Redacted.pdf" target="_blank">Email from Melanie Paddon re Project Athena, Jan 2019 – March 21, 2019 (Redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#462</p>
+    <p><a href="/data/exhibits/462 -  Email from Ben Robinson re Project Athena Update - January 24th 2019_Redacted.pdf" target="_blank">Email from Ben Robinson re Project Athena Update – January 24th, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#461</p>
+    <p><a href="/data/exhibits/461 - Combined Forces Special Enforcement Unit British Columbia - Project Athena Stakeholders Meeting Agenda - January 23 2019_Redacted.pdf" target="_blank">Combined Forces Special Enforcement Unit British Columbia – Project Athena Stakeholders Meeting Agenda – January 23, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#460</p>
+    <p><a href="/data/exhibits/460 - Email from Melanie Paddon re Project Athena June 2018 - August 14 2018_Redacted.pdf" target="_blank">Email from Melanie Paddon re Project Athena June 2018 – August 14, 2018 (Redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#459</p>
+    <p><a href="/data/exhibits/459 - Email from Alezandra Andreu re Project Athena casino patrons list Oct 2018 - January 9 2019_Redacted.pdf" target="_blank">Email from Alezandra Andreu re Project Athena casino patrons list Oct 2018 – January 9, 2019 (Redacted)</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#456</p>
     <p><a href="/data/exhibits/456 - Biography of Georgia Stavridis.pdf" target="_blank">Biography of Georgia Stavridis</a></p>
 </div>
