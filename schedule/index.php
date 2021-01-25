@@ -17,15 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>January 22, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Derek Dickson</strong>, Director, Casino Investigations, Gaming Policy and Enforcement Branch</li>
-    <li><strong>Joe Schalk</strong>, Former Senior Director, Casino Investigations, Gaming Policy and Enforcement Branch</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>January 25, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Rick Duff</strong>, Former Employee of Great Canadian Gaming Corporation and Paragon (Mr. Duff held a range of positions including Dealer, Assistant General Manager of Casino Operations, and Director of Guest Experiences)</li>
@@ -82,6 +73,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>January 22, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Derek Dickson</strong>, Director, Casino Investigations, Gaming Policy and Enforcement Branch</li>
+    <li><strong>Joe Schalk</strong>, Former Senior Director, Casino Investigations, Gaming Policy and Enforcement Branch</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>January 21, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Maggie Chiu</strong>, Manager, VIP Development, Gateway Casinos & Entertainment Ltd.</li>
