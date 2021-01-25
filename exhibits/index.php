@@ -10,6 +10,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#489</p>
+    <p><a href="/data/exhibits/489 - Email exchange between Douglas Scott and Michael Graydon re GPEB letter - Privileged and Confidential - Jan 18 2013_Redacted.pdf" target="_blank">(Previously marked as Exhibit B) Email exchange between Douglas Scott and Michael Graydon, re GPEB letter - Privileged and Confidential - Jan 18, 2013_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#486</p>
+    <p><a href="/data/exhibits/486 - Email exchange between Kris Gade and Derek Dickson re Confirmation Requested - March 13 2015_Redacted.pdf" target="_blank">Email exchange between Kris Gade and Derek Dickson, re Confirmation Requested - March 13, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#485</p>
+    <p><a href="/data/exhibits/485 - Affidavit No.3 of Kevin deBruyckere sworn January 19 2021.pdf" target="_blank">Affidavit #3 of Kevin deBruyckere sworn January 19, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#483</p>
+    <p><a href="/data/exhibits/483 - A report to John Karlovcec re STR Trend Analysis prepared by Cathy Cuglietta - July 18 2018.pdf" target="_blank">A report to John Karlovcec, re STR Trend Analysis, prepared by Cathy Cuglietta - July 18, 2018</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#477</p>
     <p><a href="/data/exhibits/477 - Email from Kevin Doherty re Project Athena - May 13 2019_Redacted.pdf" target="_blank">Email from Kevin Doherty re Project Athena – May 13, 2019_Redacted</a></p>
 </div>
