@@ -26,6 +26,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/483 - A report to John Karlovcec re STR Trend Analysis prepared by Cathy Cuglietta - July 18 2018.pdf" target="_blank">A report to John Karlovcec, re STR Trend Analysis, prepared by Cathy Cuglietta - July 18, 2018</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#478</p>
+    <p><a href="/data/exhibits/478 - Michael Bowman Interview - October 22 2020.pdf" target="_blank">Michael Bowman Interview - October 22, 2020</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#477</p>
     <p><a href="/data/exhibits/477 - Email from Kevin Doherty re Project Athena - May 13 2019_Redacted.pdf" target="_blank">Email from Kevin Doherty re Project Athena – May 13, 2019_Redacted</a></p>
 </div>
@@ -40,6 +44,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#474</p>
     <p><a href="/data/exhibits/474 - Letter to Michael Bowman re Misuse of Bank Drafts TDs Response - March 20 2020_Redacted.pdf" target="_blank">Letter to Michael Bowman re Misuse of Bank Drafts, TDs Response – March 20, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#473</p>
+    <p><a href="/data/exhibits/473 - Caitlin RIddolls Interview - October 21 2020.pdf" target="_blank">Caitlin RIddolls Interview - October 21, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#472</p>
@@ -94,6 +102,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/459 - Email from Alezandra Andreu re Project Athena casino patrons list Oct 2018 - January 9 2019_Redacted.pdf" target="_blank">Email from Alezandra Andreu re Project Athena casino patrons list Oct 2018 – January 9, 2019 (Redacted)</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#458</p>
+    <p><a href="/data/exhibits/458 - Meeting minutes - Project Athena - April 24 2019.pdf" target="_blank">Meeting minutes - Project Athena - April 24, 2019</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#456</p>
     <p><a href="/data/exhibits/456 - Biography of Georgia Stavridis.pdf" target="_blank">Biography of Georgia Stavridis</a></p>
 </div>
@@ -104,6 +116,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#454</p>
     <p><a href="/data/exhibits/454 - Curriculum Vitae of Stuart Davis.pdf" target="_blank">Curriculum Vitae of Stuart Davis</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#453</p>
+    <p><a href="/data/exhibits/453 - Brief of Kevin Comeau to FINA Committee respecting proposed changes to PCMLTFA June 12 2018.pdf" target="_blank">Brief of Kevin Comeau to FINA Committee respecting proposed changes to PCMLTFA, June 12, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#452</p>
