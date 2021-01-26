@@ -505,7 +505,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Cary Skrine</strong>, (Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">26 January, 2021</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">27 January, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Bud Smith</strong>, (Former Board Chair, British Columbia Lottery Corporation)</p>
