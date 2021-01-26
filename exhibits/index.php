@@ -22,8 +22,24 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/485 - Affidavit No.3 of Kevin deBruyckere sworn January 19 2021.pdf" target="_blank">Affidavit #3 of Kevin deBruyckere sworn January 19, 2021</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#484</p>
+    <p>Affidavit no. 2 of Kevin deBruyckere sworn October 23, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#483</p>
     <p><a href="/data/exhibits/483 - A report to John Karlovcec re STR Trend Analysis prepared by Cathy Cuglietta - July 18 2018.pdf" target="_blank">A report to John Karlovcec, re STR Trend Analysis, prepared by Cathy Cuglietta - July 18, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#482</p>
+    <p>Affidavit no. 1 of Caterina Cuglietta sworn October 22, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#481</p>
+    <p>Affidavit no. 1 of Gurmit Aujla, sworn October 29, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#480</p>
+    <p>Affidavit no. 1 of Bill Lang affirmed January 15, 2021<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#478</p>
@@ -60,6 +76,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#470</p>
     <p><a href="/data/exhibits/470 - Email from Dermot Hickey re Project Athena customer review - November 28 2019_Redacted.pdf" target="_blank">Email from Dermot Hickey re Project Athena, customer review – November 28, 2019 (redacted)_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#469</p>
+    <p>Project Athena Meeting Minutes – July 24, 2019<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#468</p>
@@ -278,6 +298,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/410 - Curriculum Vitae of Nick Maxwell.pdf" target="_blank">Curriculum Vitae of Nick Maxwell</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#409</p>
+    <p>CPA Canada Alert - Proceeds of Crime (Money Laundering) and Terrorist Financing – Know your Obligations, July 2015<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#408</p>
     <p><a href="/data/exhibits/408 - FINTRAC presentation - Anti-Money Laundering and Anti-Terrorism Financing in Canada -CPA Canada- March 4 2015.pdf" target="_blank">FINTRAC presentation – Anti-Money Laundering and Anti-Terrorism Financing in Canada (CPA Canada) – March 4, 2015</a></p>
 </div>
@@ -352,6 +376,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#390</p>
     <p><a href="/data/exhibits/390 - Patrick Daley - Civil Asset Forfeiture - An Economic Analysis of Ontario and British Columbia - 2014.pdf" target="_blank">Patrick Daley, "Civil Asset Forfeiture: An Economic Analysis of Ontario and British Columbia" - 2014</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#389</p>
+    <p>Affidavit #1 of P. Tawtel, made December 14, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#388</p>
@@ -671,7 +699,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#309</p>
-    <p>A collection of emails – Beneficial Ownership Transparency consultation submissions_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to Exhibit 309, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a></p>
+    <p>A collection of emails – Beneficial Ownership Transparency consultation submissions_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#308</p>
@@ -1182,6 +1210,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/182 - DOC-00001549.pdf" target="_blank">Curriculum Vitae of Larry Peter Vander Graaf</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#181</p>
+    <p>Affidavit No. 1 of Larry Vander Graaf made on November 8, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#174</p>
     <p><a href="/data/exhibits/174 - Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted.pdf" target="_blank">Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted</a></p>
 </div>
@@ -1271,7 +1303,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#149</p>
-    <p>Affidavit #2 of Daryl Tottenham, sworn October 30, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to Exhibit 149, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a></p>
+    <p>Affidavit #2 of Daryl Tottenham, sworn October 30, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#147</p>
+    <p>Affidavit #1 of Muriel Labine, affirmed on 23 day of October, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#146</p>
