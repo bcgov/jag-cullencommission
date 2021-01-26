@@ -14,10 +14,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/489 - Email exchange between Douglas Scott and Michael Graydon re GPEB letter - Privileged and Confidential - Jan 18 2013_Redacted.pdf" target="_blank">(Previously marked as Exhibit B) Email exchange between Douglas Scott and Michael Graydon, re GPEB letter - Privileged and Confidential - Jan 18, 2013_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
-    <p>#486</p>
-    <p><a href="/data/exhibits/486 - Email exchange between Kris Gade and Derek Dickson re Confirmation Requested - March 13 2015_Redacted.pdf" target="_blank">Email exchange between Kris Gade and Derek Dickson, re Confirmation Requested - March 13, 2015_Redacted</a></p>
-</div>
-<div class="ExhibitElement">
     <p>#485</p>
     <p><a href="/data/exhibits/485 - Affidavit No.3 of Kevin deBruyckere sworn January 19 2021.pdf" target="_blank">Affidavit #3 of Kevin deBruyckere sworn January 19, 2021</a></p>
 </div>
