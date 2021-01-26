@@ -59,6 +59,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">17 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Sue Birge</strong>, (Former Executive Director, Policy and Legislation Division, Gaming Policy Enforcement Branch; Former Acting Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">3 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Dr. Martin Bouchard</strong>, (Ph.D., Professor, School of Criminology, Simon Fraser University)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">7 December, 2020</strong></p>
@@ -137,6 +141,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">30 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Brad Desmarais</strong>, (Chief Operating Officer, Vice President of Casino and Community Gaming, Interim Vice President of Legal Compliance and Security, British Columbia Lottery Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">1 February, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">2 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Derek Dickson</strong>, (Director, Casino Investigations, Gaming Policy and Enforcement Branch)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">22 January, 2021</strong></p>
@@ -145,6 +154,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">26 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Terrance Doyle</strong>, (President, Strategic Growth and Chief Compliance Officer, Great Canadian Gaming Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">10 February, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Rick Duff</strong>, (Former Employee of Great Canadian Gaming Corporation and Paragon (Mr. Duff held a range of positions including Dealer, Assistant General Manager of Casino Operations, and Director of Guest Experiences))</p>
     <div class="WitnessHearingsList">
@@ -162,6 +176,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Lisa Eng-Liu</strong>, (CPABC Vice President, Public Practice Regulation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 January, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Patrick Ennis</strong>, (Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Company)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">3 February, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">4 February, 2021</strong></p>
     </div>
   </div>
 </div>
@@ -210,6 +229,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">4 June, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Michael Graydon</strong>, (Former Chief Executive Officer, British Columbia Lottery Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 February, 2021</strong></p>
     </div>
   </div>
 </div>
@@ -330,6 +353,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">14 January, 2021</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>John Mazure</strong>, (Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">5 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Matthew McGuire</strong>, (Co-Founder, The AML Shop)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 January, 2021</strong></p>
@@ -346,6 +373,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">19 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Len Meilleur</strong>, (Former Executive Director of Compliance, Gaming Policy Enforcement Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Dr. M-J Milloy</strong>, (Ph.D., Research Scientist, British Columbia Centre on Substance Use)</p>
     <div class="WitnessHearingsList">
@@ -450,6 +481,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">26 May, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">27 May, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Doug Scott</strong>, (Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">8 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Sgt. Sushile Sharma</strong>, (Member, Federal Serious and Organized Crime Unit, RCMP)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 December, 2020</strong></p>
@@ -472,6 +507,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">26 January, 2021</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">27 January, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Bud Smith</strong>, (Former Board Chair, British Columbia Lottery Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">4 February, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Walter Soo</strong>, (Former Employee of Great Canadian Gaming Corporation (including as Vice President of Player and Gaming Development))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Jesse Spiro</strong>, (Global Head of Policy & Regulatory Affairs Chainalysis)</p>
     <div class="WitnessHearingsList">
@@ -516,6 +559,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Terry Towns</strong>, (Former Vice President of Corporate Security and Compliance, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">29 January, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">1 February, 2021</strong></p>
     </div>
   </div>
 </div>
