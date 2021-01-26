@@ -177,7 +177,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 January, 2021</strong></p>
     </div>
-    <p class="NamesOfWitnesses"><strong>Patrick Ennis</strong>, (Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Company)</p>
+    <p class="NamesOfWitnesses"><strong>Patrick Ennis</strong>, (Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Corporation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 February, 2021</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">4 February, 2021</strong></p>

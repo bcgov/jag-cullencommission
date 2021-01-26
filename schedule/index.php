@@ -17,18 +17,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>January 26, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Robert Kroeker</strong> (cont’d), Former Officer, RCMP; Former Director of Civil Forfeiture and Former Vice President, Compliance and Legal, Great Canadian Gaming Corporation; Former Vice President, Legal, Compliance and Security/Chief Compliance Officer, British Columbia Lottery Corporation</li>
-    <li><strong>Cary Skrine</strong>, Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>January 27, 2021</p>
   <ul class="ScheduleListWitnesses">
-  <li><strong>Cary Skrine</strong> (cont’d), Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch</li>
+    <li><strong>Cary Skrine</strong>, Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -73,7 +64,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p>February 3, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Sue Birge</strong>, Former Executive Director, Policy and Legislation Division, Gaming Policy Enforcement Branch; Former Acting Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch</li>
-    <li><strong>Patrick Ennis</strong>, Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Company</li>
+    <li><strong>Patrick Ennis</strong>, Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -81,7 +72,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>February 4, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>Patrick Ennis</strong> (cont’d), Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Company</li>
+    <li><strong>Patrick Ennis</strong> (cont’d), Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Corporation</li>
     <li><strong>Bud Smith</strong>, Former Board Chair, British Columbia Lottery Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
@@ -148,6 +139,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>January 26, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Robert Kroeker</strong> (cont’d), Former Officer, RCMP; Former Director of Civil Forfeiture and Former Vice President, Compliance and Legal, Great Canadian Gaming Corporation; Former Vice President, Legal, Compliance and Security/Chief Compliance Officer, British Columbia Lottery Corporation</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>January 25, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Rick Duff</strong>, Former Employee of Great Canadian Gaming Corporation and Paragon (Mr. Duff held a range of positions including Dealer, Assistant General Manager of Casino Operations, and Director of Guest Experiences)</li>
