@@ -53,6 +53,90 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
     <div></div>
   </div>
+  <p>February 1, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Terry Towns</strong> (cont’d), Former Vice President of Corporate Security and Compliance, British Columbia Lottery Corporation</li>
+    <li><strong>Brad Desmarais</strong>, Chief Operating Officer, Vice President of Casino and Community Gaming, Interim Vice President of Legal Compliance and Security, British Columbia Lottery Corporation</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 2, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Brad Desmarais</strong> (cont’d), Chief Operating Officer, Vice President of Casino and Community Gaming, Interim Vice President of Legal Compliance and Security, British Columbia Lottery Corporation</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 3, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Sue Birge</strong>, Former Executive Director, Policy and Legislation Division, Gaming Policy Enforcement Branch; Former Acting Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch</li>
+    <li><strong>Patrick Ennis</strong>, Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Company</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 4, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Patrick Ennis</strong> (cont’d), Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Company</li>
+    <li><strong>Bud Smith</strong>, Former Board Chair, British Columbia Lottery Corporation</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 5, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>John Mazure</strong>, Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 8, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Doug Scott</strong>, Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 9, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Walter Soo</strong>, Former Employee of Great Canadian Gaming Corporation (including as Vice President of Player and Gaming Development)</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 10, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Terrance Doyle</strong>, President, Strategic Growth and Chief Compliance Officer, Great Canadian Gaming Corporation</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 11, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Terrance Doyle</strong> (cont’d), President, Strategic Growth and Chief Compliance Officer, Great Canadian Gaming Corporation</li>
+    <li><strong>Michael Graydon</strong>, Former Chief Executive Officer, British Columbia Lottery Corporation</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 12, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Len Meilleur</strong>, Former Executive Director of Compliance, Gaming Policy Enforcement Branch</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
 </div>
 
 <!--  PAST HEARINGS  -->
