@@ -91,7 +91,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Kevin deBruyckere</strong>, Director, AML & Investigations, Legal Compliance, Security Division, British Columbia Lottery Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript January 21, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('503299881'); return false">Watch Video of Session</button>
   </div>
   <p>January 20, 2021</p>
@@ -100,7 +100,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Michael Bowman</strong>, Global Chief Anti-Money Laundering Officer, Toronto Dominion Bank Group</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript January 20, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('502877670'); return false">Watch Video of Session</button>
   </div>
   <p>January 19, 2021</p>
