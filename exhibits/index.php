@@ -14,6 +14,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/489 - Email exchange between Douglas Scott and Michael Graydon re GPEB letter - Privileged and Confidential - Jan 18 2013_Redacted.pdf" target="_blank">(Previously marked as Exhibit B) Email exchange between Douglas Scott and Michael Graydon, re GPEB letter - Privileged and Confidential - Jan 18, 2013_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#488</p>
+    <p><a href="/data/exhibits/" target="_blank"></a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#487</p>
+    <p><a href="/data/exhibits/487 - Memo Organized Crime Groups_Redacted - Nov 20 2013.pdf" target="_blank">Memo Organized Crime Groups (redacted) - Nov 20, 2013</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#486</p>
     <p><a href="/data/exhibits/486 - Email exchange between Kris Gade and Derek Dickson re Confirmation Requested - March 13 2015_Redacted.pdf" target="_blank">Email exchange between Kris Gade and Derek Dickson, re Confirmation Requested - March 13, 2015_Redacted</a></p>
 </div>
@@ -164,6 +172,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#447</p>
     <p><a href="/data/exhibits/447 - FinTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 30 2017.pdf" target="_blank">FinTRAC Report to the Minister of Finance on Compliance and Related Activities – Sept 30, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#446</p>
+    <p><a href="/data/exhibits/446 - FINTRAC Statistics Letter - January 15th 2021.pdf" target="_blank">FINTRAC Statistics Letter – January 15th, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#445</p>
