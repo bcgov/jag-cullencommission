@@ -15,7 +15,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#488</p>
-    <p><a href="/data/exhibits/" target="_blank"></a></p>
+    <p><a href="/data/exhibits/488 - Letter from Joe Schalk re Suspicious Currency Transactions - Money Laundering Review Report - December 27 2012.pdf" target="_blank">(Previously marked as Exhibit A) Letter from Joe Schalk re Suspicious Currency Transactions - Money Laundering Review Report – December 27, 2012</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#487</p>
