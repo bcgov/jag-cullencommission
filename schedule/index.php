@@ -162,7 +162,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Joe Schalk</strong>, Former Senior Director, Casino Investigations, Gaming Policy and Enforcement Branch</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript January 22, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('503714075'); return false">Watch Video of Session</button>
   </div>
   <p>January 21, 2021</p>
