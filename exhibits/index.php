@@ -10,6 +10,54 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#502</p>
+    <p>Overview report - British Columbia Lottery Corporation Service Plans<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#501</p>
+    <p><a href="/data/exhibits/501 - Overview report - BCLC Shareholders Letters of Expectations and Mandate Letters.pdf" target="_blank">Overview report - BCLC Shareholder's Letters of Expectations and Mandate Letters</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#500</p>
+    <p>Overview report - Ministry Service Plans - Ministries Responsible for Gaming<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#499</p>
+    <p><a href="/data/exhibits/499 - Resignation letter of Ross Alderson - 3 October 2017.pdf" target="_blank">Resignation letter of Ross Alderson - 3 October 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#498</p>
+    <p><a href="/data/exhibits/498 - Consent Order of Federal Court between BCLC and AG of Canada - July 2017_Redacted.pdf" target="_blank">Consent Order of Federal Court, between BCLC and AG of Canada - July 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#497</p>
+    <p><a href="/data/exhibits/497 - GPEB Section 86 Report re Alleged Service Provider non-compliance to PCMLTFA Jan 18 2016_Redacted.pdf" target="_blank">GPEB Section 86 Report re Alleged Service Provider non-compliance to PCMLTFA, Jan 18 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#496</p>
+    <p><a href="/data/exhibits/496 - Email from Rob Kroeker re MNP Audit Investigations and AML Response Jul 19 2016_Redacted.pdf" target="_blank">Email from Rob Kroeker re MNP Audit Investigations and AML Response, Jul 19 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#495</p>
+    <p><a href="/data/exhibits/495 - Information Note COMM-8669 Final Report - Draft_Redacted.pdf" target="_blank">BCLC Information note COMM-8669 Final Report – May 11, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#493</p>
+    <p><a href="/data/exhibits/493 - Corporate Security and Compliance AML Document - September 8 2015_Redacted.pdf" target="_blank">Corporate Security & Compliance AML Document - September 8, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#492B</p>
+    <p><a href="/data/exhibits/492B - Chart of Suspicious Transactions by Patrons and BCLCs Enforcement Actions_Redacted.pdf" target="_blank">Chart of Suspicious Transactions by Patrons and BCLCs Enforcement Actions_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#492A</p>
+    <p><a href="/data/exhibits/492A - Email from Brad Desmarais Re RR File 2014-52094 - Liu XIAO - April 16 2018_Redacted.pdf" target="_blank">Email from Brad Desmarais Re RR File 2014-52094 - Liu XIAO - April 16, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#491</p>
+    <p><a href="/data/exhibits/491 - Emails Re Story showing how vigilant Great Canadian Gaming is at preventing money launderings - Aug 26 2015_Redacted.pdf" target="_blank">Emails Re Story showing how vigilant Great Canadian Gaming is at preventing money launderings - Aug 26, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#489</p>
     <p><a href="/data/exhibits/489 - Email exchange between Douglas Scott and Michael Graydon re GPEB letter - Privileged and Confidential - Jan 18 2013_Redacted.pdf" target="_blank">(Previously marked as Exhibit B) Email exchange between Douglas Scott and Michael Graydon, re GPEB letter - Privileged and Confidential - Jan 18, 2013_Redacted</a></p>
 </div>
@@ -31,7 +79,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#484</p>
-    <p>Affidavit no. 2 of Kevin deBruyckere sworn October 23, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p>Affidavit no. 2 of Kevin deBruyckere sworn October 23, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#483</p>
@@ -39,15 +87,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#482</p>
-    <p>Affidavit no. 1 of Caterina Cuglietta sworn October 22, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p>Affidavit no. 1 of Caterina Cuglietta sworn October 22, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#481</p>
-    <p>Affidavit no. 1 of Gurmit Aujla, sworn October 29, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p>Affidavit no. 1 of Gurmit Aujla, sworn October 29, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#480</p>
-    <p>Affidavit no. 1 of Bill Lang affirmed January 15, 2021<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p>Affidavit no. 1 of Bill Lang affirmed January 15, 2021<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#478</p>
@@ -87,7 +135,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#469</p>
-    <p>Project Athena Meeting Minutes – July 24, 2019<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p>Project Athena Meeting Minutes – July 24, 2019<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#468</p>
@@ -311,7 +359,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#409</p>
-    <p>CPA Canada Alert - Proceeds of Crime (Money Laundering) and Terrorist Financing – Know your Obligations, July 2015<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p>CPA Canada Alert - Proceeds of Crime (Money Laundering) and Terrorist Financing – Know your Obligations, July 2015<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#408</p>
@@ -391,7 +439,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#389</p>
-    <p>Affidavit #1 of P. Tawtel, made December 14, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p>Affidavit #1 of P. Tawtel, made December 14, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#388</p>
@@ -711,7 +759,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#309</p>
-    <p>A collection of emails – Beneficial Ownership Transparency consultation submissions_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p>A collection of emails – Beneficial Ownership Transparency consultation submissions_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#308</p>
@@ -1223,7 +1271,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#181</p>
-    <p>Affidavit No. 1 of Larry Vander Graaf made on November 8, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p>Affidavit No. 1 of Larry Vander Graaf made on November 8, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#174</p>
@@ -1315,11 +1363,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#149</p>
-    <p>Affidavit #2 of Daryl Tottenham, sworn October 30, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p>Affidavit #2 of Daryl Tottenham, sworn October 30, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#147</p>
-    <p>Affidavit #1 of Muriel Labine, affirmed on 23 day of October, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p>Affidavit #1 of Muriel Labine, affirmed on 23 day of October, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#146</p>
