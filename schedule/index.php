@@ -17,15 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>January 28, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Jim Lightbody</strong>, Chief Executive Officer and President, British Columbia Lottery Corporation</li>
-    <li><strong>Derek Sturko</strong>, Former Assistant Deputy Minister and General Manager, Gaming Policy and Enforcement Branch</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>January 29, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Jim Lightbody</strong> (cont’d), Chief Executive Officer and President, British Columbia Lottery Corporation</li>
@@ -131,6 +122,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>January 28, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Jim Lightbody</strong>, Chief Executive Officer and President, British Columbia Lottery Corporation</li>
+    <li><strong>Derek Sturko</strong>, Former Assistant Deputy Minister and General Manager, Gaming Policy and Enforcement Branch</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>January 27, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Cary Skrine</strong>, Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch</li>
