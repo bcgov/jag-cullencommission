@@ -17,14 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>January 27, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Cary Skrine</strong>, Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>January 28, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Jim Lightbody</strong>, Chief Executive Officer and President, British Columbia Lottery Corporation</li>
@@ -139,6 +131,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>January 27, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Cary Skrine</strong>, Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('505450380'); return false">Watch Video of Session</button>
+  </div>
   <p>January 26, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Robert Kroeker</strong> (cont’d), Former Officer, RCMP; Former Director of Civil Forfeiture and Former Vice President, Compliance and Legal, Great Canadian Gaming Corporation; Former Vice President, Legal, Compliance and Security/Chief Compliance Officer, British Columbia Lottery Corporation</li>
