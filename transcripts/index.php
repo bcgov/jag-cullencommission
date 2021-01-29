@@ -12,6 +12,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p>Available transcripts of the public hearings are posted here. (The exception to this would be in the event of special circumstances where there is a need for protective measures for a witness, document or evidence. This could include measures such as a publication ban, sealing materials or proceeding in a closed (non-public) hearing.)</p>
 <h2>2021 Transcripts</h2>
 <h3>January</h3>
+<p class="ArchiveVideoTitle">January 27 - <a href="/data/transcripts/Transcript January 27, 2021.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">January 26 - <a href="/data/transcripts/Transcript January 26, 2021.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">January 25 - <a href="/data/transcripts/Transcript January 25, 2021.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">January 22 - <a href="/data/transcripts/Transcript January 22, 2021.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">January 21 - <a href="/data/transcripts/Transcript January 21, 2021.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
