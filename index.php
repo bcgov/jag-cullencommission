@@ -9,21 +9,21 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/lang.php');
 <div class="Aside2Col">
     <div class="Aside">
         <p class="AsideTitle">Welcome</p>
-<?php
-include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/welcome_' . $lang);
-?>
+        <?php
+        include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/welcome_' . $lang);
+        ?>
     </div>
     <div class="LatestEvents">
         <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
             <div class="LatestEvent">
+                <p class="LatestEventDesc">January 29, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for Removal of Certain Documents from Public View</a></p>
+            </div>
+            <div class="LatestEvent">
                 <p class="LatestEventDesc">January 15, 2021<br /><strong>News Release</strong><br /><a href="/media/?open=24">Commission to Hold Anti-Money Laundering Officers Panel <em>In Camera</em></a></p>
             </div>
             <div class="LatestEvent">
                 <p class="LatestEventDesc">January 15, 2021<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for <em>In Camera</em> Hearing – Ruling #24</a></p>
-            </div>
-            <div class="LatestEvent">
-                <p class="LatestEventDesc">December 15, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for Redactions – Ruling #23</a></p>
             </div>
         </div>
     </div>
