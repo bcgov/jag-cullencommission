@@ -10,6 +10,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#506</p>
+    <p><a href="/data/exhibits/506 - 1 - page undated notes of James Lightbody dealing with the conversation with Cheyl Wenezenki-Yolland_Redacted.pdf" target="_blank">1-page undated notes of James Lightbody dealing with the conversation with Cheyl Wenezenki-Yolland_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#502</p>
     <p>Overview report - British Columbia Lottery Corporation Service Plans<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
