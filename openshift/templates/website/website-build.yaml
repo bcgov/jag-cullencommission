@@ -23,6 +23,22 @@ objects:
       destination:
         - - ext:network=any
 
+  - kind: NetworkSecurityPolicy
+    apiVersion: security.devops.gov.bc.ca/v1alpha1
+    metadata:
+      name: pods-to-api
+      labels:
+        name: pods-to-api
+        env: ${ENV_NAME}
+    spec:
+      description: |
+        Allow pods to talk to the internal api so deployments work.
+        This only needs to be specified once per environment.
+      source:
+        - - $namespace=${NAMESPACE}-${ENV_NAME}
+      destination:
+        - - int:network=internal-cluster-api-endpoint
+
   - kind: ImageStream
     apiVersion: v1
     metadata:
@@ -109,7 +125,7 @@ parameters:
     displayName: Git Reference
     description: The git reference or branch.
     required: false
-    value: 
+    value:
   - name: SOURCE_CONTEXT_DIR
     displayName: Source Context Directory
     description: The source context directory.
@@ -121,7 +137,7 @@ parameters:
     required: true
     description: The 'kind' (type) of the  source image; typically ImageStreamTag, or DockerImage.
     value: DockerImage
-  
+
   - name: SOURCE_IMAGE_NAME
     displayName: Source Image Name
     required: true
