@@ -54,7 +54,7 @@ objects:
         sourceStrategy:
           from:
             kind: "${SOURCE_IMAGE_TYPE}"
-            namespace: "${SOURCE_IMAGE_NAMESPACE}"
+            # namespace: "${SOURCE_IMAGE_NAMESPACE}"
             name: "${SOURCE_IMAGE_NAME}:${SOURCE_IMAGE_TAG}"
       output:
         to:
@@ -119,24 +119,24 @@ parameters:
   - name: SOURCE_IMAGE_TYPE
     displayName: Source Image Type
     required: true
-    description: The type of the source image.
-    value: ImageStreamTag
+    description: The 'kind' (type) of the  source image; typically ImageStreamTag, or DockerImage.
+    value: DockerImage
   
   - name: SOURCE_IMAGE_NAME
     displayName: Source Image Name
     required: true
     description: The name of the source image.
-    value: php
+    value: registry.access.redhat.com/ubi8/php-74
   - name: SOURCE_IMAGE_TAG
     displayName: Source Image Tag
     required: true
     description: The tag of the source image.
-    value: "7.1"
-  - name: SOURCE_IMAGE_NAMESPACE
-    displayName: Namespace
-    required: true
-    description: The Namespace where the ImageStream resides.
-    value: openshift
+    value: "1"
+  # - name: SOURCE_IMAGE_NAMESPACE
+  #   displayName: Namespace
+  #   required: true
+  #   description: The Namespace where the ImageStream resides.
+  #   value: openshift
 
   - name: OUTPUT_IMAGE_TAG
     displayName: Output Image Tag
