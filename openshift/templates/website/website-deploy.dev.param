@@ -9,8 +9,8 @@
 # APP_GROUP=cullen-commission
 # ROLE=web
 # HTTP_PORT=8080
-APPLICATION_DOMAIN=cullen-commission-dev.pathfinder.gov.bc.ca
-APPLICATION_DOMAIN_WWW=www-cullen-commission-dev.pathfinder.gov.bc.ca
+APPLICATION_DOMAIN=cullen-commission-dev.apps.silver.devops.gov.bc.ca
+APPLICATION_DOMAIN_WWW=www-cullen-commission-dev.apps.silver.devops.gov.bc.ca
 # IMAGE_NAMESPACE=534380-tools
 TAG_NAME=dev
 # MIN_REPLICAS=3

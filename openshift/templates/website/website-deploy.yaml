@@ -212,12 +212,12 @@ parameters:
     displayName: Application Hostname
     description: The exposed hostname that will route to the service, if left blank a value will be defaulted.
     required: false
-    value: cullen-commission-dev.pathfinder.gov.bc.ca
+    value: cullen-commission-dev.apps.silver.devops.gov.bc.ca
   - name: APPLICATION_DOMAIN_WWW
     displayName: Application WWW Hostname
     description: The exposed www. hostname that will route to the service, if left blank a value will be defaulted.
     required: false
-    value: www-cullen-commission-dev.pathfinder.gov.bc.ca
+    value: www-cullen-commission-dev.apps.silver.devops.gov.bc.ca
 
   - name: IMAGE_NAMESPACE
     displayName: Image Namespace
