@@ -12,7 +12,7 @@ class config {
   public static final String PROD_ENV = "${DEPLOYMENT_ENVIRONMENT_TAGS[2]}"
 
   // The name of the project namespace(s).
-  public static final String  NAME_SPACE = 'kyrwwq'
+  public static final String  NAME_SPACE = '534380'
 
   // Instance Suffix
   public static final String  SUFFIX = ''
