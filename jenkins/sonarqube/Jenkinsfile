@@ -118,6 +118,12 @@ String getSecret(String resourceName, String key, String projectNameSpace = '') 
       echo "PWD: ${SONARQUBE_PWD}"
       echo "Token: ${SONARQUBE_TOKEN}"
 
+      echo "Removing the ./data folder, which contains pdf files ..."
+      sh (
+        returnStdout: true,
+        script: "rm -rf ./data"
+      )      
+
       // The `sonar-runner` MUST exist in your project and contain a Gradle environment consisting of:
       // - Gradle wrapper script(s)
       // - A simple `build.gradle` file that includes the SonarQube plug-in.
@@ -132,22 +138,9 @@ String getSecret(String resourceName, String key, String projectNameSpace = '') 
         // For more information on available properties visit:
         // - https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle
         // ======================================================================================================
-        // sh (
-        //   returnStdout: true,
-        //   script: "./gradlew sonarqube --stacktrace --info \
-        //     -Dsonar.verbose=true \
-        //     -Dsonar.host.url=${SONARQUBE_URL} \
-        //     -Dsonar.projectName='${SONAR_PROJECT_NAME}' \
-        //     -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
-        //     -Dsonar.projectBaseDir=${SONAR_PROJECT_BASE_DIR} \
-        //     -Dsonar.login='${SONARQUBE_TOKEN}' \
-        //     -Dsonar.sources=${SONAR_SOURCES} \
-        //     -Dsonar.exclusions='${SONAR_EXCLUSIONS}'"
-        // )
-
         sh (
           returnStdout: true,
-          script: "sonar-scanner \
+          script: "./gradlew sonarqube --stacktrace --info \
             -Dsonar.verbose=true \
             -Dsonar.host.url=${SONARQUBE_URL} \
             -Dsonar.projectName='${SONAR_PROJECT_NAME}' \
@@ -157,6 +150,19 @@ String getSecret(String resourceName, String key, String projectNameSpace = '') 
             -Dsonar.sources=${SONAR_SOURCES} \
             -Dsonar.exclusions='${SONAR_EXCLUSIONS}'"
         )
+
+        // sh (
+        //   returnStdout: true,
+        //   script: "sonar-scanner \
+        //     -Dsonar.verbose=true \
+        //     -Dsonar.host.url=${SONARQUBE_URL} \
+        //     -Dsonar.projectName='${SONAR_PROJECT_NAME}' \
+        //     -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
+        //     -Dsonar.projectBaseDir=${SONAR_PROJECT_BASE_DIR} \
+        //     -Dsonar.login='${SONARQUBE_TOKEN}' \
+        //     -Dsonar.sources=${SONAR_SOURCES} \
+        //     -Dsonar.exclusions='${SONAR_EXCLUSIONS}'"
+        // )
       }
     }
   }
