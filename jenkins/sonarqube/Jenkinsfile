@@ -128,21 +128,9 @@ String getSecret(String resourceName, String key, String projectNameSpace = '') 
         // For more information on available properties visit:
         // - https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle
         // ======================================================================================================
-        // sh (
-        //   returnStdout: true,
-        //   script: "./gradlew sonarqube --stacktrace --info \
-        //     -Dsonar.verbose=true \
-        //     -Dsonar.host.url=${SONARQUBE_URL} \
-        //     -Dsonar.projectName='${SONAR_PROJECT_NAME}' \
-        //     -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
-        //     -Dsonar.projectBaseDir=${SONAR_PROJECT_BASE_DIR} \
-        //     -Dsonar.login='${SONARQUBE_TOKEN}' \
-        //     -Dsonar.sources=${SONAR_SOURCES}"
-        // )
-
         sh (
           returnStdout: true,
-          script: "sonar-scanner \
+          script: "./gradlew sonarqube --stacktrace --info \
             -Dsonar.verbose=true \
             -Dsonar.host.url=${SONARQUBE_URL} \
             -Dsonar.projectName='${SONAR_PROJECT_NAME}' \
