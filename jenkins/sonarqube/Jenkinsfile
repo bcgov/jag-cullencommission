@@ -26,7 +26,7 @@ def SONAR_SOURCES = './'
 
 // Files and folders to exclude from the scan.
 // https://docs.sonarqube.org/latest/project-administration/narrowing-the-focus/
-def SONAR_EXCLUSIONS = '*.pdf'
+def SONAR_EXCLUSIONS = '**/*.pdf'
 // ================================================================================================
 
 // Gets the URL associated to a named route.
