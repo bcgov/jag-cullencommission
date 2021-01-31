@@ -112,7 +112,7 @@ String getSecret(String resourceName, String key, String projectNameSpace = '') 
       SONARQUBE_TOKEN = getSecret("sonarqube-token","token", SONAR_ROUTE_NAMESPACE).trim()
       echo "URL: ${SONARQUBE_URL}"
       echo "PWD: ${SONARQUBE_PWD}"
-      echo "PWD: ${SONARQUBE_TOKEN}"
+      echo "Token: ${SONARQUBE_TOKEN}"
 
       // The `sonar-runner` MUST exist in your project and contain a Gradle environment consisting of:
       // - Gradle wrapper script(s)
@@ -128,9 +128,21 @@ String getSecret(String resourceName, String key, String projectNameSpace = '') 
         // For more information on available properties visit:
         // - https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle
         // ======================================================================================================
+        // sh (
+        //   returnStdout: true,
+        //   script: "./gradlew sonarqube --stacktrace --info \
+        //     -Dsonar.verbose=true \
+        //     -Dsonar.host.url=${SONARQUBE_URL} \
+        //     -Dsonar.projectName='${SONAR_PROJECT_NAME}' \
+        //     -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
+        //     -Dsonar.projectBaseDir=${SONAR_PROJECT_BASE_DIR} \
+        //     -Dsonar.login='${SONARQUBE_TOKEN}' \
+        //     -Dsonar.sources=${SONAR_SOURCES}"
+        // )
+
         sh (
           returnStdout: true,
-          script: "./gradlew sonarqube --stacktrace --info \
+          script: "sonar-scanner \
             -Dsonar.verbose=true \
             -Dsonar.host.url=${SONARQUBE_URL} \
             -Dsonar.projectName='${SONAR_PROJECT_NAME}' \
