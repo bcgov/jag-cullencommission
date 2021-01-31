@@ -23,6 +23,10 @@ def SONAR_PROJECT_BASE_DIR = '../'
 // The source code directory you want to scan.
 // This is relative to the project base directory.
 def SONAR_SOURCES = './'
+
+// Files and folders to exclude from the scan.
+// https://docs.sonarqube.org/latest/project-administration/narrowing-the-focus/
+def SONAR_EXCLUSIONS = '*.pdf'
 // ================================================================================================
 
 // Gets the URL associated to a named route.
@@ -137,7 +141,8 @@ String getSecret(String resourceName, String key, String projectNameSpace = '') 
             -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
             -Dsonar.projectBaseDir=${SONAR_PROJECT_BASE_DIR} \
             -Dsonar.login='${SONARQUBE_TOKEN}' \
-            -Dsonar.sources=${SONAR_SOURCES}"
+            -Dsonar.sources=${SONAR_SOURCES} \
+            -Dsonar.exclusions='${SONAR_EXCLUSIONS}'"
         )
       }
     }
