@@ -119,7 +119,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Terry Towns</strong>, Former Vice President of Corporate Security and Compliance, British Columbia Lottery Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript January 29, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('506798958'); return false">Watch Video of Session</button>
   </div>
   <p>January 28, 2021</p>
