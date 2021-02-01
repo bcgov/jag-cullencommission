@@ -128,7 +128,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Derek Sturko</strong>, Former Assistant Deputy Minister and General Manager, Gaming Policy and Enforcement Branch</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript January 28, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('505926491'); return false">Watch Video of Session</button>
   </div>
   <p>January 27, 2021</p>
