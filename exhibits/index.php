@@ -253,7 +253,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#457</p>
-    <p><strong>This Exhibit has been sealed by order of the Commissioner and will not be posted to the website.</strong></p>
+    <p><strong>This exhibit has been sealed by order of the Commissioner and will not be posted to the website.</strong></p>
 </div>
 <div class="ExhibitElement">
     <p>#456</p>
