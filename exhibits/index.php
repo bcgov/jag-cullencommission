@@ -24,10 +24,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>Affidavit #1 of Kevin Sweeney sworn October 26, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
-    <p>#515</p>
-    <p>Five pages of notes of James Lightbody, dated 1-17-18 PDF pages 55, 56, 60, 63, 64<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
-</div>
-<div class="ExhibitElement">
     <p>#514</p>
     <p><a href="/data/exhibits/514 - BCLC Briefing - July 31 2017.pdf" target="_blank">BCLC Briefing - July 31, 2017</a></p>
 </div>
