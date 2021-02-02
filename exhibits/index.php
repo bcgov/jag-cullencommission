@@ -6,6 +6,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
+<!--
+<div class="ExhibitElement">
+    <p>#</p>
+    <p><a href="/data/exhibits/" target="_blank"></a></p>
+</div>
+-->
 <h1>Exhibits</h1>
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
@@ -26,6 +32,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>Five pages of notes of James Lightbody, dated 1-17-18 PDF pages 55, 56, 60, 63, 64<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
+    <p>#514</p>
+    <p><a href="/data/exhibits/514 - BCLC Briefing - July 31 2017.pdf" target="_blank">BCLC Briefing - July 31, 2017</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#513</p>
     <p><a href="/data/exhibits/513 - BCLC Minutes of the Meeting of the Board of Directors 29 October 2015.pdf" target="_blank">BCLC Minutes of the Meeting of the Board of Directors, 29 October 2015</a></p>
 </div>
@@ -34,8 +44,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/512 - Letter from Jim Lightbody to John Mazure re Peter German recommendations December 13 2017.pdf" target="_blank">Letter from Jim Lightbody to John Mazure, re Peter German recommendations, December 13, 2017</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#511</p>
+    <p><a href="/data/exhibits/511 - Emails from Bill McCrea re BCLC Money Management Material July 8 2009 with attachment_Redacted.pdf" target="_blank">Emails from Bill McCrea re BCLC Money Management Material, July 8, 2009 with attachment_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#510</p>
+    <p><a href="/data/exhibits/510 - Emails re Casino Lg Accounts March 31 2009_Redacted.pdf" target="_blank">Emails re Casino Lg Accounts, March 31, 2009_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#509</p>
     <p><a href="/data/exhibits/509 - Email from Bill McCrea re Money Laundering Risk Management March 30 2009_Redacted.pdf" target="_blank">Email from Bill McCrea, re Money Laundering Risk Management, March 30, 2009_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#508</p>
+    <p><a href="/data/exhibits/508 - GPEB - Roles and Responsibilities of Participants in British Columbias Gaming Industry - February 22 2010.pdf" target="_blank">GPEB - Roles and Responsibilities of Participants in British Columbia's Gaming Industry - February 22, 2010</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#507</p>
