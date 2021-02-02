@@ -17,14 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>February 2, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Brad Desmarais</strong> (cont’d), Chief Operating Officer, Vice President of Casino and Community Gaming, Interim Vice President of Legal Compliance and Security, British Columbia Lottery Corporation</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>February 3, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Sue Birge</strong>, Former Executive Director, Policy and Legislation Division, Gaming Policy Enforcement Branch; Former Acting Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch</li>
@@ -103,6 +95,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>February 2, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Brad Desmarais</strong> (cont’d), Chief Operating Officer, Vice President of Casino and Community Gaming, Interim Vice President of Legal Compliance and Security, British Columbia Lottery Corporation</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>February 1, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Terry Towns</strong> (cont’d), Former Vice President of Corporate Security and Compliance, British Columbia Lottery Corporation</li>
