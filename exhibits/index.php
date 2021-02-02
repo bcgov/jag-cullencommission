@@ -24,6 +24,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>Affidavit #1 of Kevin Sweeney sworn October 26, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
+    <p>#519</p>
+    <p><a href="/data/exhibits/519 - Email from Michael Graydon Re Year End Forecast - December 13 2011_redacted.pdf" target="_blank">Email from Michael Graydon Re Year End Forecast - December 13 2011_redacted.pdf</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#518</p>
+    <p><a href="/data/exhibits/518 - Email from Michael Graydon Re Current Year Forecast Budget - December 1 2011_redacted.pdf" target="_blank">Email from Michael Graydon Re Current Year Forecast Budget - December 1, 2011_redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#517</p>
+    <p>Affidavit of Terry Towns made January 22, 2021_redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#516</p>
     <p><a href="/data/exhibits/516 - One page of notes of James Lightbody dated 1-17-18 PDF page 54 - SINGLE PAGE.pdf" target="_blank">One page of notes of James Lightbody, dated 1-17-18 PDF page 54</a></p>
 </div>
