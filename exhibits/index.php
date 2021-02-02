@@ -108,6 +108,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/492B - Chart of Suspicious Transactions by Patrons and BCLCs Enforcement Actions_Redacted.pdf" target="_blank">Chart of Suspicious Transactions by Patrons and BCLCs Enforcement Actions_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#492A</p>
+    <p><a href="/data/exhibits/492A - Email from Brad Desmarais Re RR File 2014-52094 - April 16 2018_Redacted.pdf" target="_blank">Email from Brad Desmarais Re RR File 2014-52094 - April 16, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#491</p>
     <p><a href="/data/exhibits/491 - Emails Re Story showing how vigilant Great Canadian Gaming is at preventing money launderings - Aug 26 2015_Redacted.pdf" target="_blank">Emails Re Story showing how vigilant Great Canadian Gaming is at preventing money launderings - Aug 26, 2015_Redacted</a></p>
 </div>
