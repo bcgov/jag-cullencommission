@@ -252,6 +252,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/458 - Meeting minutes - Project Athena - April 24 2019.pdf" target="_blank">Meeting minutes - Project Athena - April 24, 2019</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#457</p>
+    <p><strong>This Exhibit has been sealed by order of the Commissioner and will not be posted to the website.</strong></p>
+</div>
+<div class="ExhibitElement">
     <p>#456</p>
     <p><a href="/data/exhibits/456 - Biography of Georgia Stavridis.pdf" target="_blank">Biography of Georgia Stavridis</a></p>
 </div>
