@@ -1348,6 +1348,30 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>Affidavit No. 1 of Larry Vander Graaf made on November 8, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
+    <p>#180</p>
+    <p><a href="/data/exhibits/180 - Email from Ross Alderson Subject Resignation - December 21 2017_Redacted.pdf" target="_blank">Email from Ross Alderson, Subject Resignation - December 21, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#179</p>
+    <p><a href="/data/exhibits/179 - Email from Ross Alderson Re AML - January 24 2017_Redacted.pdf" target="_blank">Email from Ross Alderson, Re AML - January 24, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#178</p>
+    <p><a href="/data/exhibits/178 - Email from Daryl Tottenham Re Jia Gao - October 5 2015_Redacted.pdf" target="_blank">Email from Daryl Tottenham, Re Jia Gao - October 5, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#177</p>
+    <p><a href="/data/exhibits/177 - Email from Ross Alderson Re Jia Gao - April 27 2015_Redacted.pdf" target="_blank">Email from Ross Alderson, Re Jia Gao - April 27, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#176</p>
+    <p><a href="/data/exhibits/176 - Email from Ross Alderson to Daryl Tottenham Re COMM-8669 Final Report - Provincially Banned Cash Facilitators - May 6 2017_Redacted.pdf" target="_blank">Email from Ross Alderson to Daryl Tottenham, Re COMM-8669 Final Report - Provincially Banned Cash Facilitators - May 6, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#175</p>
+    <p><a href="/data/exhibits/175 - A chain of email re German Recommendation No.1 - Source of Funds Declaration - December 28 2017_Redacted.pdf" target="_blank">A chain of email re German Recommendation #1 - Source of Funds Declaration - December 28, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#174</p>
     <p><a href="/data/exhibits/174 - Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted.pdf" target="_blank">Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted</a></p>
 </div>
@@ -1358,6 +1382,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#172</p>
     <p><a href="/data/exhibits/172 - Email from Daryl Tottenham to Patrick Ennis, re cash buy-in - August 3, 2016_Redacted.pdf" target="_blank">Email from Daryl Tottenham to Patrick Ennis, re cash buy-in - August 3, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#171</p>
+    <p><a href="/data/exhibits/171 - Email from Daryl Tottenham to Rob Kroeker Re Exhibit listing - October 10 2017_Redacted.pdf" target="_blank">Email from Daryl Tottenham to Rob Kroeker, Re Exhibit listing - October 10, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#170</p>
+    <p><a href="/data/exhibits/170 - Email from Ross Alderson subject List for VP - September 9 2015_Redacted.pdf" target="_blank">Email from Ross Alderson, subject List for VP - September 9, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#168</p>
@@ -1694,6 +1726,16 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#80</p>
     <p><a href="/data/exhibits/80 - Applied_(GCGC_PROD_0023272).pdf" target="_blank">Email from Patrick Ennis re DVD/Footage request: Large Cash Buy ins – Jan 28, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#79</p>
+    <p>Affidavit #2 of Steve Beeksma, affirmed on October 22, 2020_redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.
+    </p>
+</div>
+<div class="ExhibitElement">
+    <p>#78</p>
+    <p>Affidavit #1 of Steve Beeksma, affirmed on October 22, 2020_redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.
+    </p>
 </div>
 <div class="ExhibitElement">
     <p>#77</p>
