@@ -16,6 +16,30 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#526</p>
+    <p><a href="/data/exhibits/526 - Email exchange between B. Desmarais to R. Scarpelli Re SP Job Loss reduction of High Limit Rooms Cash Buy-Ins over 10K - Oct 12 2017_Redacted.pdf" target="_blank">Email exchange between Brad Desmarais to Rorbert Scarpelli, Re SP Job Loss in the event of reduction of High Limit Rooms andor elimination of Cash Buy-Ins over $10K - Oct 12, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#525</p>
+    <p><a href="/data/exhibits/525 - Letter from Douglas Scott re BCLC Request for Policy Change Regarding Casino Cheque Issuance - Sept 22 2013.pdf" target="_blank">Letter from Douglas Scott, re BCLC Request for Policy Change Regarding Casino Cheque Issuance - Sept 22, 2013</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#524C</p>
+    <p><a href="/data/exhibits/524C - Anti-Money Laundering in BC Gaming Measuring Performance Progress - draft - with comments.pdf" target="_blank">Anti-Money Laundering in BC Gaming Measuring Performance Progress - draft - with comments</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#524B</p>
+    <p><a href="/data/exhibits/524B - Email from Jim Lightbody to Brad Desmarais re Measurement Report to Ministry - March 15 2013_Redacted.pdf" target="_blank">Email from Jim Lightbody to Brad Desmarais re Measurement Report to Ministry - March 15, 2013_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#524A</p>
+    <p><a href="/data/exhibits/524A - Email from Brad Desmarais to Jim Lightbody Re Measurement Report to Ministry - March 14 2013_Redacted.pdf" target="_blank">Email from Brad Desmarais to Jim Lightbody Re Measurement Report to Ministry - March 14, 2013_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#523</p>
+    <p><a href="/data/exhibits/523 - BCLC Patron Risk Decision Tree.pdf" target="_blank">BCLC Patron Risk Decision Tree</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#521</p>
     <p><a href="/data/exhibits/521 - BCLC Directive.pdf" target="_blank">BCLC Directive</a></p>
 </div>
