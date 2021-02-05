@@ -17,13 +17,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/lang.php');
         <p class="LatestEventsTitle">Latest Information</p>
         <div class="LatestEventsContainer">
             <div class="LatestEvent">
+                <p class="LatestEventDesc">February 5, 2021<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for Directions on Access to Records</a></p>
+            </div>
+            <div class="LatestEvent">
                 <p class="LatestEventDesc">January 29, 2020<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for Removal of Certain Documents from Public View</a></p>
             </div>
             <div class="LatestEvent">
                 <p class="LatestEventDesc">January 15, 2021<br /><strong>News Release</strong><br /><a href="/media/?open=24">Commission to Hold Anti-Money Laundering Officers Panel <em>In Camera</em></a></p>
-            </div>
-            <div class="LatestEvent">
-                <p class="LatestEventDesc">January 15, 2021<br /><strong>Ruling</strong><br /><a href="/rulings/">Application for <em>In Camera</em> Hearing – Ruling #24</a></p>
             </div>
         </div>
     </div>
