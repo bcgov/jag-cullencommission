@@ -84,7 +84,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('508676369'); return false">Watch Video of Session</button>
   </div>
   <p>February 3, 2021</p>
   <ul class="ScheduleListWitnesses">
@@ -100,7 +100,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Brad Desmarais</strong> (cont’d), Chief Operating Officer, Vice President of Casino and Community Gaming, Interim Vice President of Legal Compliance and Security, British Columbia Lottery Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript February 2, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('507742368'); return false">Watch Video of Session</button>
   </div>
   <p>February 1, 2021</p>
