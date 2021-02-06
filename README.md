@@ -2,7 +2,7 @@
 
 # Cullen Commission Website
 
-[Cullen Commission Website](https://cullen-commission-prod.pathfinder.gov.bc.ca/) - the website of the Commission of Inquiry into Money Laundering in British Columbia.
+[Cullen Commission Website](https://cullen-commission-prod.apps.silver.devops.gov.bc.ca/) - the website of the Commission of Inquiry into Money Laundering in British Columbia.
 
 ## Hosted on OpenShift
 

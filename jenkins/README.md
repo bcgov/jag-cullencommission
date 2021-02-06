@@ -4,7 +4,7 @@
 
 *For details on how this project is integrated with SonarQube, refer to the [SonarQube Scanner Integration documentation ](../sonar-runner/README.md)*
 
-The deployed pipelines for this project can be found here; [Pipelines](https://console.pathfinder.gov.bc.ca:8443/console/project/kyrwwq-tools/browse/pipelines)
+The deployed pipelines for this project can be found here; [Pipelines](https://console.apps.silver.devops.gov.bc.ca:8443/console/project/534380-tools/browse/pipelines)
 
 ## Deployment
 
@@ -37,7 +37,7 @@ This pipeline performs the following operations in sequential order;
   - Duplications
 - Uploads the results to the project's SonarQube server.
 
-The results can be found here; [Cullen Commission Website - Code Quality](https://cullen-commission-sonarqube.pathfinder.gov.bc.ca/dashboard?id=CullenCommissionWebsite)
+The results can be found here; [Cullen Commission Website - Code Quality](https://cullen-commission-sonarqube.apps.silver.devops.gov.bc.ca/dashboard?id=CullenCommissionWebsite)
 
 ## ZAP (`zap-pipeline`)
 
@@ -49,4 +49,4 @@ This pipeline performs the following operations in sequential order;
 - Uploads the results to the project's SonarQube server.
 
 The results can be found here; [Cullen Commission Website OWASP ZAP Scan - Issues
-](https://cullen-commission-sonarqube.pathfinder.gov.bc.ca/project/issues?id=CullenCommissionWebsite-ZapScan&resolved=false)
+](https://cullen-commission-sonarqube.apps.silver.devops.gov.bc.ca/project/issues?id=CullenCommissionWebsite-ZapScan&resolved=false)

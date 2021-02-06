@@ -7,24 +7,24 @@ metadata:
     description: Deployment template.
 objects:
 
-  # - kind: NetworkSecurityPolicy
-  #   apiVersion: secops.pathfinder.gov.bc.ca/v1alpha1
-  #   metadata:
-  #     name: pods-to-api
-  #     labels:
-  #       name: pods-to-api
-  #       app: ${APP_NAME}
-  #       app-group: ${APP_GROUP}
-  #       role: ${ROLE}
-  #       env: ${TAG_NAME}
-  #   spec:
-  #     description: |
-  #       Allow pods to talk to the internal api so deployments work.
-  #       This only needs to be specified once per environment.
-  #     source:
-  #       - - $namespace=jag-csb-jes-family-protection-order-${TAG_NAME}
-  #     destination:
-  #       - - int:network=internal-cluster-api-endpoint
+  - kind: NetworkSecurityPolicy
+    apiVersion: security.devops.gov.bc.ca/v1alpha1
+    metadata:
+      name: pods-to-api
+      labels:
+        name: pods-to-api
+        app: ${APP_NAME}
+        app-group: ${APP_GROUP}
+        role: ${ROLE}
+        env: ${TAG_NAME}
+    spec:
+      description: |
+        Allow pods to talk to the internal api so deployments work.
+        This only needs to be specified once per environment.
+      source:
+        - - $namespace=${NAMESPACE}-${TAG_NAME}
+      destination:
+        - - int:network=internal-cluster-api-endpoint
 
   - kind: Service
     apiVersion: v1
@@ -198,6 +198,10 @@ parameters:
     description: Role
     required: true
     value: web
+  - name: NAMESPACE
+    displayName: The target namespace for the resources.
+    required: true
+    value: '534380'
 
   - name: HTTP_PORT
     displayName: Http Port
@@ -208,18 +212,18 @@ parameters:
     displayName: Application Hostname
     description: The exposed hostname that will route to the service, if left blank a value will be defaulted.
     required: false
-    value: cullen-commission-dev.pathfinder.gov.bc.ca
+    value: cullen-commission-dev.apps.silver.devops.gov.bc.ca
   - name: APPLICATION_DOMAIN_WWW
     displayName: Application WWW Hostname
     description: The exposed www. hostname that will route to the service, if left blank a value will be defaulted.
     required: false
-    value: www-cullen-commission-dev.pathfinder.gov.bc.ca
+    value: www-cullen-commission-dev.apps.silver.devops.gov.bc.ca
 
   - name: IMAGE_NAMESPACE
     displayName: Image Namespace
     required: true
     description: The namespace of the OpenShift project containing the imagestream for the application.
-    value: kyrwwq-tools
+    value: 534380-tools
   - name: TAG_NAME
     displayName: Environment TAG name
     description: The TAG name for this environment, e.g., dev, test, prod
