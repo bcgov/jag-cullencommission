@@ -8,6 +8,7 @@
 # APP_NAME=Cullen-Commission-Website
 # APP_GROUP=cullen-commission
 # ROLE=web
+# NAMESPACE=534380
 # HTTP_PORT=8080
 APPLICATION_DOMAIN=cullen-commission-test.apps.silver.devops.gov.bc.ca
 APPLICATION_DOMAIN_WWW=www-cullen-commission-test.apps.silver.devops.gov.bc.ca

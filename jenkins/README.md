@@ -4,7 +4,7 @@
 
 *For details on how this project is integrated with SonarQube, refer to the [SonarQube Scanner Integration documentation ](../sonar-runner/README.md)*
 
-The deployed pipelines for this project can be found here; [Pipelines](https://console.apps.silver.devops.gov.bc.ca:8443/console/project/534380-tools/browse/pipelines)
+The deployed pipelines for this project can be found here; [Pipelines](https://console.apps.silver.devops.gov.bc.ca/k8s/ns/534380-tools/buildconfigs?name=pipeline)
 
 ## Deployment
 

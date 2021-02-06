@@ -2,7 +2,7 @@
 kind: Template
 apiVersion: v1
 metadata:
-  name: "${NAME}${SUFFIX}"
+  name: ${NAME}${SUFFIX}
   annotations:
     description: Deployment template.
 objects:
@@ -113,8 +113,8 @@ objects:
               - ${NAME}${SUFFIX}
             from:
               kind: ImageStreamTag
-              namespace: "${IMAGE_NAMESPACE}"
-              name: "${NAME}${SUFFIX}:${TAG_NAME}"
+              namespace: ${IMAGE_NAMESPACE}
+              name: ${NAME}${SUFFIX}:${TAG_NAME}
         - type: ConfigChange
       replicas: 1
       selector:
@@ -131,7 +131,7 @@ objects:
         spec:
           containers:
             - name: ${NAME}${SUFFIX}
-              image: " "
+              image:  
               ports:
                 - containerPort: ${{HTTP_PORT}}
                   protocol: TCP
@@ -139,21 +139,21 @@ objects:
                 initialDelaySeconds: 3
                 timeoutSeconds: 30
                 httpGet:
-                  path: ""
+                  path: 
                   port: ${{HTTP_PORT}}
               livenessProbe:
                 initialDelaySeconds: 120
                 timeoutSeconds: 30
                 httpGet:
-                  path: ""
+                  path: 
                   port: ${{HTTP_PORT}}
               resources:
                 requests:
-                  cpu: "${CPU_REQUEST}"
-                  memory: "${MEMORY_REQUEST}"
+                  cpu: ${CPU_REQUEST}
+                  memory: ${MEMORY_REQUEST}
                 limits:
-                  cpu: "${CPU_LIMIT}"
-                  memory: "${MEMORY_LIMIT}"
+                  cpu: ${CPU_LIMIT}
+                  memory: ${MEMORY_LIMIT}
 
   - kind: HorizontalPodAutoscaler
     apiVersion: autoscaling/v1
@@ -182,7 +182,7 @@ parameters:
     displayName: Suffix
     description: A name suffix used for all objects
     required: false
-    value: ""
+    value: 
   - name: APP_NAME
     displayName: App Name
     description: App Name
@@ -207,7 +207,7 @@ parameters:
     displayName: Http Port
     description: The http port on which the service will listen.
     required: true
-    value: "8080"
+    value: '8080'
   - name: APPLICATION_DOMAIN
     displayName: Application Hostname
     description: The exposed hostname that will route to the service, if left blank a value will be defaulted.
