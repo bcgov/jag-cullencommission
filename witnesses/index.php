@@ -12,6 +12,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">A</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Aled ab Iorwerth</strong>, (Deputy Chief Economist, Canada Mortgage and Housing Corporation)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Donna Achimov</strong>, (Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 January, 2021</strong></p>
@@ -28,6 +32,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">19 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>David Avren</strong>, (Vice President, Legal and Compliance, RECBC)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 February, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">17 February, 2021</strong></p>
     </div>
   </div>
 </div>
@@ -85,6 +94,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">C</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Chris Carter</strong>, (Deputy Registrar of Mortgage Brokers, BCFSA)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>John Cassara</strong>, (Former US Intelligence Officer and Treasury Special Agent in the Treasury’s Financial Crimes Enforcement Network (FinCEN), the US Secret Service and the US Customs Service)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 December, 2020</strong></p>
@@ -230,6 +243,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">4 June, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Professor Joshua Gordon</strong>, (Simon Fraser University)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Michael Graydon</strong>, (Former Chief Executive Officer, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 February, 2021</strong></p>
@@ -244,23 +261,21 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
     </div>
-  </div>
-  <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Dr. José Hernandez</strong>, (Ph.D., CEO, Ortus Strategies)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">13 January, 2021</strong></p>
     </div>
-  </div>
-  <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Mike Hiller</strong>, (Former British Columbia Lottery Corporation (BCLC) Investigator, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 November, 2020</strong></p>
     </div>
-  </div>
-  <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Wayne Holland</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team; Former Chief Constable, Nelson Police Department)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 December, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Darlene Hyde</strong>, (Chief Executive Officer, British Columbia Real Estate Association (BCREA))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">17 February, 2021</strong></p>
     </div>
   </div>
 </div>
@@ -330,6 +345,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">8 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">November 20, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Professor David Ley</strong>, (University of British Columbia)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Jim Lightbody</strong>, (Chief Executive Officer and President, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">28 January, 2021</strong></p>
@@ -391,6 +410,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">15 January, 2021</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Blair Morrison</strong>, (Chief Executive Officer, BC Financial Services Authority (BCFSA))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Ryan Mueller</strong>, (Chief Compliance Officer, Netcoins)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
@@ -409,13 +432,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">16 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Micheal Noseworthy</strong>, (Superintendent of Real Estate)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 February, 2021</strong></p>
+    </div>
   </div>
 </div>
 <div class="WitnessListContainer">
-  <div class="NoWitnesses">
-    <h2 class="WitnessAlphabetTitle">O</h2>
+  <h2 class="WitnessAlphabetTitle">O</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Brendon Ogmundson</strong>, (Chief Economist, BCREA)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">17 February, 2021</strong></p>
+    </div>
   </div>
-  <div class="WitnessList"></div>
 </div>
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">P</h2>
@@ -472,6 +502,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">S</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Erin Seeley</strong>, (Chief Executive Officer, Real Estate Council of British Columbia (RECBC))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 February, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">17 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Joe Schalk</strong>, (Former Senior Director, Casino Investigations, Gaming Policy and Enforcement Branch)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">22 January, 2021</strong></p>
@@ -511,6 +546,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Bud Smith</strong>, (Former Board Chair, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">4 February, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Professor Tsur Somerville</strong>, (University of British Columbia)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">18 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Walter Soo</strong>, (Former Employee of Great Canadian Gaming Corporation (including as Vice President of Player and Gaming Development))</p>
     <div class="WitnessHearingsList">
@@ -630,10 +669,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList"></div>
 </div>
 <div class="WitnessListContainer">
-  <div class="NoWitnesses">
-    <h2 class="WitnessAlphabetTitle">Y</h2>
+  <h2 class="WitnessAlphabetTitle">Y</h2>
+  <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Professor Henry Yu</strong>, (University of British Columbia)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">19 February, 2021</strong></p>
+    </div>
   </div>
-  <div class="WitnessList"></div>
 </div>
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">Z</h2>

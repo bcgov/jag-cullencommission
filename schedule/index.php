@@ -59,7 +59,90 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
     <div></div>
   </div>
+  <p>February 16, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">BC Government Regulators Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Micheal Noseworthy</strong>, Superintendent of Real Estate</li>
+        <li><strong>Blair Morrison</strong>, Chief Executive Officer, BC Financial Services Authority (BCFSA)</li>
+        <li><strong>Chris Carter</strong>, Deputy Registrar of Mortgage Brokers, BCFSA</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Real Estate Council of British Columbia Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Erin Seeley</strong>, Chief Executive Officer, Real Estate Council of British Columbia (RECBC)</li>
+        <li><strong>David Avren</strong>, Vice President, Legal and Compliance, RECBC</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 17, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Real Estate Council of British Columbia Panel (cont’d):</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Erin Seeley</strong>, Chief Executive Officer, Real Estate Council of British Columbia (RECBC)</li>
+        <li><strong>David Avren</strong>, Vice President, Legal and Compliance, RECBC</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">British Columbia Real Estate Association Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Darlene Hyde</strong>, Chief Executive Officer, British Columbia Real Estate Association (BCREA)</li>
+        <li><strong>Brendon Ogmundson</strong>, Chief Economist, BCREA</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 18, 2021</p>
+  <div>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Aled ab Iorwerth</strong>, Deputy Chief Economist, Canada Mortgage and Housing Corporation</li>
+    </ul>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Housing Prices Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Professor Tsur Somerville</strong>, University of British Columbia</li>
+        <li><strong>Professor Joshua Gordon</strong>, Simon Fraser University</li>
+        <li><strong>Professor David Ley</strong>, University of British Columbia</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 19, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Professor Henry Yu</strong>, University of British Columbia</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
 </div>
+
+<!--
+NEW HEARING TEMPLATE
+
+  <p>, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong></strong>, </li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+
+-->
 
 <!--  PAST HEARINGS  -->
 
