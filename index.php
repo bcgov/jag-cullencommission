@@ -29,6 +29,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/lang/lang.php');
     </div>
 </div>
 <br class="ClearFloats" />
+<p style="color: white">TEST</p>
 <div class="ButtonBar">
     <a href="/?ln=fre" class="LanguageLink"><button class="Button TonedDownButton SmallerButtonLabel ButtonBarButton LanguageButton">French</button></a>
     <a href="/?ln=chi" class="LanguageLink"><button class="Button TonedDownButton SmallerButtonLabel ButtonBarButton LanguageButton">Chinese</button></a>
