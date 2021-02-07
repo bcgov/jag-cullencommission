@@ -157,8 +157,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Terrance Doyle</strong>, (President, Strategic Growth and Chief Compliance Officer, Great Canadian Gaming Corporation)</p>
     <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 February, 2021</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 February, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Rick Duff</strong>, (Former Employee of Great Canadian Gaming Corporation and Paragon (Mr. Duff held a range of positions including Dealer, Assistant General Manager of Casino Operations, and Director of Guest Experiences))</p>
     <div class="WitnessHearingsList">
@@ -356,6 +356,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>John Mazure</strong>, (Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 February, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Matthew McGuire</strong>, (Co-Founder, The AML Shop)</p>
     <div class="WitnessHearingsList">

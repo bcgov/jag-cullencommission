@@ -17,14 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>February 5, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>John Mazure</strong>, Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>February 8, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Doug Scott</strong>, Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch</li>
@@ -36,6 +28,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p>February 9, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Walter Soo</strong>, Former Employee of Great Canadian Gaming Corporation (including as Vice President of Player and Gaming Development)</li>
+    <li><strong>Terrance Doyle</strong>, President, Strategic Growth and Chief Compliance Officer, Great Canadian Gaming Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -43,7 +36,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>February 10, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>Terrance Doyle</strong>, President, Strategic Growth and Chief Compliance Officer, Great Canadian Gaming Corporation</li>
+    <li><strong>Terrance Doyle</strong> (cont’d), President, Strategic Growth and Chief Compliance Officer, Great Canadian Gaming Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -51,8 +44,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>February 11, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>Terrance Doyle</strong> (cont’d), President, Strategic Growth and Chief Compliance Officer, Great Canadian Gaming Corporation</li>
     <li><strong>Michael Graydon</strong>, Former Chief Executive Officer, British Columbia Lottery Corporation</li>
+    <li><strong>John Mazure</strong> (cont’d), Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -77,6 +70,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>February 5, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>John Mazure</strong>, Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>February 4, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Patrick Ennis</strong> (cont’d), Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Corporation</li>
