@@ -176,7 +176,7 @@ NEW HEARING TEMPLATE
     <li><strong>Patrick Ennis</strong>, Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript February 3, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('508237730'); return false">Watch Video of Session</button>
   </div>
   <p>February 2, 2021</p>
