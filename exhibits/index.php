@@ -44,6 +44,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>Affidavit no. 1 of Stuart Douglas Boland Smith sworn January 22, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
+    <p>#531</p>
+    <p><a href="/data/exhibits/531 - BCLC High Limit Baccarat Evaluation - a report by Bill Zender and Associates - Feb 2017.pdf" target="_blank">BCLC High Limit Baccarat Evaluation - a report by Bill Zender and Associates - Feb 2017</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#526</p>
     <p><a href="/data/exhibits/526 - Email exchange between B. Desmarais to R. Scarpelli Re SP Job Loss reduction of High Limit Rooms Cash Buy-Ins over 10K - Oct 12 2017_Redacted.pdf" target="_blank">Email exchange between Brad Desmarais to Rorbert Scarpelli, Re SP Job Loss in the event of reduction of High Limit Rooms andor elimination of Cash Buy-Ins over $10K - Oct 12, 2017_Redacted</a></p>
 </div>
