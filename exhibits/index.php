@@ -16,8 +16,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#540</p>
+    <p><a href="/data/exhibits/540 - Board Meeting - 29 October 2015 - Management Report - Corporate Security and Compliance_redacted.pdf" target="_blank">Board Meeting - 29 October 2015 - Management Report - Corporate Security & Compliance (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#539</p>
+    <p><a href="/data/exhibits/539 - Email to Bud Smith from Jim Lightbody re Background material for tomorrow - Nov 17 2015 with attachment_Redacted.pdf" target="_blank">Email to Bud Smith from Jim Lightbody, re Background material for tomorrow - Nov 17, 2015 with attachment_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#538</p>
     <p><a href="/data/exhibits/538 - Email to Bud Smith from Jim Lightbody re Letter to Minister Re AML - Oct 24 2015 with attachment_Redacted.pdf" target="_blank">Email to Bud Smith from Jim Lightbody re Letter to Minister Re AML - Oct 24, 2015 with attachment_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#537</p>
+    <p>Affidavit no. 1 of Stuart Douglas Boland Smith sworn January 22, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#526</p>
