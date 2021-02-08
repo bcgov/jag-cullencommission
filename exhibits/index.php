@@ -368,6 +368,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/436 - Confronting Money Laundering and Terrorist Financing -  Moving Canada Forward.pdf" target="_blank">Confronting Money Laundering and Terrorist Financing - Moving Canada Forward</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#435</p>
+    <p>Per <a href="/rulings/">Ruling #25</a> of the Commissioner, this exhibit will not be posted.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#434</p>
+    <p><a href="/data/exhibits/434 - Interac - Overview WLCO Regs 2020_Redacted.pdf" target="_blank">Interac – Overview WLCO Regs, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#433</p>
+    <p>Per <a href="/rulings/">Ruling #25</a> of the Commissioner, this exhibit will not be posted.</p>
+</div>
+<div class="ExhibitElement">
     <p>#432</p>
     <p><a href="/data/exhibits/432 - Actual versus Perceived Risks of Money Laundering at White-Label ATMs in Canada - 2017.pdf" target="_blank">Actual versus Perceived Risks of Money Laundering at White-Label ATMs in Canada – 2017</a></p>
 </div>
