@@ -16,6 +16,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#538</p>
+    <p><a href="/data/exhibits/538 - Email to Bud Smith from Jim Lightbody re Letter to Minister Re AML - Oct 24 2015 with attachment_Redacted.pdf" target="_blank">Email to Bud Smith from Jim Lightbody re Letter to Minister Re AML - Oct 24, 2015 with attachment_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#526</p>
     <p><a href="/data/exhibits/526 - Email exchange between B. Desmarais to R. Scarpelli Re SP Job Loss reduction of High Limit Rooms Cash Buy-Ins over 10K - Oct 12 2017_Redacted.pdf" target="_blank">Email exchange between Brad Desmarais to Rorbert Scarpelli, Re SP Job Loss in the event of reduction of High Limit Rooms andor elimination of Cash Buy-Ins over $10K - Oct 12, 2017_Redacted</a></p>
 </div>
