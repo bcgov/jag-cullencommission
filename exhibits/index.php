@@ -16,6 +16,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#544</p>
+    <p><a href="/data/exhibits/544 - BCLC letter from Michael Graydon to John Mazure re High Limit Table Changes - Dec 19 2013_redacted.pdf" target="_blank">BCLC letter from Michael Graydon to John Mazure, re High Limit Table Changes - Dec 19, 2013 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#543</p>
+    <p><a href="/data/exhibits/543 - MOF Briefing Document Title - Limits in Casinos - Dec 13 2013_Redacted.pdf" target="_blank">MOF Briefing Document, Title: Limits in Casinos - Dec 13, 2013_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#541</p>
+    <p><a href="/data/exhibits/541 - Affidavit no. 1 of John Mazure sworn on February 4 2021_Redacted.pdf" target="_blank">Affidavit no. 1 of John Mazure sworn on February 4, 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#540</p>
     <p><a href="/data/exhibits/540 - Board Meeting - 29 October 2015 - Management Report - Corporate Security and Compliance_redacted.pdf" target="_blank">Board Meeting - 29 October 2015 - Management Report - Corporate Security & Compliance (redacted)</a></p>
 </div>
