@@ -16,6 +16,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#558</p>
+    <p><a href="/data/exhibits/558 - Emails re Briefing Request - BCLC matter - May 6 2019_Redacted.pdf" target="_blank">Emails re Briefing Request - BCLC matter - May 6, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#544</p>
     <p><a href="/data/exhibits/544 - BCLC letter from Michael Graydon to John Mazure re High Limit Table Changes - Dec 19 2013_redacted.pdf" target="_blank">BCLC letter from Michael Graydon to John Mazure, re High Limit Table Changes - Dec 19, 2013 (redacted)</a></p>
 </div>
@@ -401,7 +405,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#435</p>
-    <p>Per <a href="/rulings/">Ruling #25</a> of the Commissioner, this exhibit will not be posted.</p>
+    <p><strong>Per <a href="/rulings/">Ruling #25</a> of the Commissioner, this exhibit will not be posted.</strong></p>
 </div>
 <div class="ExhibitElement">
     <p>#434</p>
@@ -409,7 +413,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#433</p>
-    <p>Per <a href="/rulings/">Ruling #25</a> of the Commissioner, this exhibit will not be posted.</p>
+    <p><strong>Per <a href="/rulings/">Ruling #25</a> of the Commissioner, this exhibit will not be posted.</strong></p>
 </div>
 <div class="ExhibitElement">
     <p>#432</p>
