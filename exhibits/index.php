@@ -16,6 +16,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#567</p>
+    <p><a href="/data/exhibits/567 - Letter from Ross Alderson to Pat Ennis Re BCLC Direction to RRCR regarding patron - December 18 2015.pdf" target="_blank">Letter from Ross Alderson to Pat Ennis, Re BCLC Direction to RRCR regarding patron - December 18, 2015</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#558</p>
     <p><a href="/data/exhibits/558 - Emails re Briefing Request - BCLC matter - May 6 2019_Redacted.pdf" target="_blank">Emails re Briefing Request - BCLC matter - May 6, 2019_Redacted</a></p>
 </div>
@@ -48,8 +52,32 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>Affidavit no. 1 of Stuart Douglas Boland Smith sworn January 22, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
+    <p>#536</p>
+    <p><a href="/data/exhibits/536 - BCLC forms - Reasonable Measures.pdf" target="_blank">BCLC forms - Reasonable Measures</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#535</p>
+    <p><a href="/data/exhibits/535 - BCLC Directive - FINTRAC Amendments effective June 17 2017 dated June 15 2017_Redacted.pdf" target="_blank">BCLC Directive - FINTRAC Amendments effective June 17, 2017, dated June 15, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#534</p>
+    <p><a href="/data/exhibits/534 - Email from Patrick Ennis to Dave Pacey and Arlene Strongman re  20 dollar bills buy ins - Nov 8 2010 -Page 2 only-.pdf" target="_blank">Email from Patrick Ennis to Dave Pacey and Arlene Strongman, re $20 bills buy ins - Nov 8, 2010 (Page 2 only)</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#531</p>
     <p><a href="/data/exhibits/531 - BCLC High Limit Baccarat Evaluation - a report by Bill Zender and Associates - Feb 2017.pdf" target="_blank">BCLC High Limit Baccarat Evaluation - a report by Bill Zender and Associates - Feb 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#529</p>
+    <p><a href="/data/exhibits/529 - Affidavit No. 2 of Larry Vander Graaf made on January 19 2021_Redacted.pdf" target="_blank">Affidavit #2 of Larry Vander Graaf made on January 19, 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#528</p>
+    <p><a href="/data/exhibits/528 - Email from Larry Vander Graaf to Bill McCrea and others Re Patron Gaming Fund Accounts Pilot - BCLC Report - Feb 25 2011_Redacted.pdf" target="_blank">Email from Larry Vander Graaf to Bill McCrea and others, Re Patron Gaming Fund Accounts Pilot - BCLC Report - Feb 25, 2011_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#527</p>
+    <p><a href="/data/exhibits/527 - Affidavit No 1 of Sue Birge made on February 1 2021.pdf" target="_blank">Affidavit No 1 of Sue Birge made on February 1, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#526</p>
