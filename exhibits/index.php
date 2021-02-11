@@ -32,6 +32,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/567 - Letter from Ross Alderson to Pat Ennis Re BCLC Direction to RRCR regarding patron - December 18 2015.pdf" target="_blank">Letter from Ross Alderson to Pat Ennis, Re BCLC Direction to RRCR regarding patron - December 18, 2015</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#564</p>
+    <p><a href="/data/exhibits/564 - Email from Robert Kroeker to Terrance Doyle and others re AML-Granting of Credit - Feb 18 2015_Redacted.pdf" target="_blank">Email from Robert Kroeker to Terrance Doyle and others, re AML-Granting of Credit - Feb 18, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#563</p>
+    <p><a href="/data/exhibits/563 - Email chain re patron -patron name- -Incident 14-55769- Nov 6 2014_Redacted.pdf" target="_blank">Email chain, re patron [patron name] (Incident 14-55769) - Nov 6, 2014_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#562</p>
+    <p><a href="/data/exhibits/562 - GCGC Business Case - River Rock Casino 3rd Floor High Limit Facilities Enhancements October 2014.pdf" target="_blank">GCGC Business Case - River Rock Casino 3rd Floor High Limit Facilities Enhancements, October, 2014</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#561</p>
+    <p><a href="/data/exhibits/561 - Email from Ross Alderson re -patron name- Buy in Clarification April 24 2015_Redacted.pdf" target="_blank">Email from Ross Alderson, re [patron name] Buy in Clarification, April 24, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#560</p>
+    <p>Affidavit #1 of Terrance Doyle made on February 2, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#558</p>
     <p><a href="/data/exhibits/558 - Emails re Briefing Request - BCLC matter - May 6 2019_Redacted.pdf" target="_blank">Emails re Briefing Request - BCLC matter - May 6, 2019_Redacted</a></p>
 </div>
