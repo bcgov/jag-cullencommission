@@ -16,6 +16,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#572</p>
+    <p>Amended and Restated Casino Operational Services Agreement between BCLC and Great Canadian Casions Inc. effective as at November 17, 2005<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#571</p>
+    <p><a href="/data/exhibits/571 - BCLC letter from Ross Alderson to Pat Ennis re large Cash Transaction Reporting at RRCR - April 21 2017.pdf" target="_blank">BCLC letter from Ross Alderson to Pat Ennis, re large Cash Transaction Reporting at RRCR - April 21, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#569</p>
+    <p><a href="/data/exhibits/569 - River Rock UFTSTR Review completed by AML Unit - Feb 12 2016.pdf" target="_blank">River Rock UFTSTR Review completed by AML Unit - Feb 12, 2016</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#567</p>
     <p><a href="/data/exhibits/567 - Letter from Ross Alderson to Pat Ennis Re BCLC Direction to RRCR regarding patron - December 18 2015.pdf" target="_blank">Letter from Ross Alderson to Pat Ennis, Re BCLC Direction to RRCR regarding patron - December 18, 2015</a></p>
 </div>
