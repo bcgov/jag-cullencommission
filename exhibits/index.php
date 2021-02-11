@@ -28,8 +28,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/569 - River Rock UFTSTR Review completed by AML Unit - Feb 12 2016.pdf" target="_blank">River Rock UFTSTR Review completed by AML Unit - Feb 12, 2016</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#568</p>
+    <p><a href="/data/exhibits/568 - Email from Ross Alderson re Patron name Conditions to be imposed - November 10 2015_Redacted.pdf" target="_blank">Email from Ross Alderson, re Patron name Conditions to be imposed - November 10, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#567</p>
     <p><a href="/data/exhibits/567 - Letter from Ross Alderson to Pat Ennis Re BCLC Direction to RRCR regarding patron - December 18 2015.pdf" target="_blank">Letter from Ross Alderson to Pat Ennis, Re BCLC Direction to RRCR regarding patron - December 18, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#566</p>
+    <p><a href="/data/exhibits/566 - Email from Terrance Doyle to Andrea Lieuwen re Credit report - September 14 2015_Redacted.pdf" target="_blank">Email from Terrance Doyle to Andrea Lieuwen, re Credit report - September 14, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#565</p>
+    <p><a href="/data/exhibits/565 - Email from Ross Alderson re Sanctions on high limit players - August 5 2015_Redacted.pdf" target="_blank">Email from Ross Alderson, re Sanctions on high limit players - August 5, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#564</p>
