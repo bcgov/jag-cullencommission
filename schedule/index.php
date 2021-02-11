@@ -150,7 +150,7 @@ NEW HEARING TEMPLATE
     <li><strong>Doug Scott</strong>, Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript February 8, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('510024381'); return false">Watch Video of Session</button>
   </div>
   <p>February 5, 2021</p>
