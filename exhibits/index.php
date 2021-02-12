@@ -16,6 +16,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#579</p>
+    <p><a href="/data/exhibits/579 - Email from Bryon Hodgkin to Michael Graydon Re GPEB letter-Privileged and Confidential - January 7 2013_Redacted.pdf" target="_blank">Email from Bryon Hodgkin to Michael Graydon, Re GPEB letter-Privileged and Confidential - January 7, 2013_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#578</p>
+    <p><a href="/data/exhibits/578 - Email from Byron Hodgkin to Michael Graydon re Fintrac audit - Dec 14 2012_Redacted.pdf" target="_blank">Email from Byron Hodgkin to Michael Graydon, re Fintrac audit - Dec 14, 2012_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#577</p>
+    <p><a href="/data/exhibits/577 - Email from Michael Graydon re Revenue - March 23 2012_Redacted.pdf" target="_blank">Email from Michael Graydon, re Revenue – March 23, 2012_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#576</p>
+    <p>Affidavit no. 1 of Michael Graydon made on February 8, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#572</p>
     <p>Amended and Restated Casino Operational Services Agreement between BCLC and Great Canadian Casions Inc. effective as at November 17, 2005<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
