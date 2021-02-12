@@ -24,6 +24,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/571 - BCLC letter from Ross Alderson to Pat Ennis re large Cash Transaction Reporting at RRCR - April 21 2017.pdf" target="_blank">BCLC letter from Ross Alderson to Pat Ennis, re large Cash Transaction Reporting at RRCR - April 21, 2017</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#570</p>
+    <p>GPEB Internal Memo from Parminder Basi to Len Meilleur, re Cash Flow Review of River Rock Casino High Limit Rooms - Dec 15, 2015_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#569</p>
     <p><a href="/data/exhibits/569 - River Rock UFTSTR Review completed by AML Unit - Feb 12 2016.pdf" target="_blank">River Rock UFTSTR Review completed by AML Unit - Feb 12, 2016</a></p>
 </div>
@@ -106,6 +110,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#534</p>
     <p><a href="/data/exhibits/534 - Email from Patrick Ennis to Dave Pacey and Arlene Strongman re  20 dollar bills buy ins - Nov 8 2010 -Page 2 only-.pdf" target="_blank">Email from Patrick Ennis to Dave Pacey and Arlene Strongman, re $20 bills buy ins - Nov 8, 2010 (Page 2 only)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#533</p>
+    <p><a href="/data/exhibits/533 - Emails re River Rock - Four Items Noted - Topic Tracking Sheeting and LCT Issues - November 2 2015_Redacted.pdf" target="_blank">Emails re River Rock - Four Items Noted - Topic Tracking Sheeting & LCT Issues - November 2, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#531</p>
