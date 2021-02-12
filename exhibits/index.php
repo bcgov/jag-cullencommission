@@ -220,6 +220,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/506 - 1 - page undated notes of James Lightbody dealing with the conversation with Cheyl Wenezenki-Yolland_Redacted.pdf" target="_blank">1-page undated notes of James Lightbody dealing with the conversation with Cheyl Wenezenki-Yolland_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#505</p>
+    <p>Affidavit no. 1 of Jim Lightbody sworn January 25, 2021 (redacted)<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#504</p>
     <p>Affidavit no. 1 of Cary Skrine made on January 15, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
