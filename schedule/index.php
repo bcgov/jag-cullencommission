@@ -86,6 +86,52 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
     <div></div>
   </div>
+  <p>February 22, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Samantha Gale</strong>, CEO, Canadian Mortgage Brokers Association – British Columbia</li>
+    <li><strong>Michael McTavish</strong>, Director, Business Solutions, BC Financial Services Authority</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 23, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Cpl. Karen Best</strong>, RCMP</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 24, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Jay Chaudhary</strong>, Former Mortgage Broker</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 25, 2021</p>
+  <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Real Estate Investigators Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Michael Scott</strong>, Director, Compliance and Investigations, Real Estate Council of British Columbia</li>
+        <li><strong>Raheel Humayun</strong>, Managing Director, Investigations, Office of the Superintendent of Real Estate</li>
+        <li><strong>Gerard West</strong>, Manager of Examinations, BC Financial Services Authority</li>
+      </ul>
+    </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>February 26, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Stephen Ellis</strong>, Real Estate Brokers Association of BC</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
 </div>
 
 <!--

@@ -68,6 +68,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">17 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Cpl. Karen Best</strong>, (RCMP)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">23 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Sue Birge</strong>, (Former Executive Director, Policy and Legislation Division, Gaming Policy Enforcement Branch; Former Acting Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 February, 2021</strong></p>
@@ -109,6 +113,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Chris Chandler</strong>, (CEO, Access Cash; President and CEO, Perativ; past President, ATM Industry Association)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">15 January, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Jay Chaudhary</strong>, (Former Mortgage Broker)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">24 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Maggie Chiu</strong>, (Manager, VIP Development, Gateway Casinos & Entertainment Ltd.)</p>
     <div class="WitnessHearingsList">
@@ -182,9 +190,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">E</h2>
   <div class="WitnessList">
-    <p class="NamesOfWitnesses"><strong>Chris Elgar</strong>, (Vice President and Deputy Superintendent of Financial Institutions, Prudential Supervision, BC Financial Services Authority)</p>
+  <p class="NamesOfWitnesses"><strong>Chris Elgar</strong>, (Vice President and Deputy Superintendent of Financial Institutions, Prudential Supervision, BC Financial Services Authority)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">15 January, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Stephen Ellis</strong>, (Real Estate Brokers Association of BC)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">26 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Lisa Eng-Liu</strong>, (CPABC Vice President, Public Practice Regulation)</p>
     <div class="WitnessHearingsList">
@@ -218,6 +230,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Anna Gabriele</strong>, (Anti-Money Laundering Manager, Financial Intelligence Unit – High Risk Customer Group, Global Anti-Money Laundering, Toronto Dominion Bank)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">20 January, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Samantha Gale</strong>, (CEO, Canadian Mortgage Brokers Association – British Columbia)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">22 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>C/M Bryanna Gateley</strong>, (Intelligence Analyst, Federal Serious and Organized Crime Unit, RCMP)</p>
     <div class="WitnessHearingsList">
@@ -272,6 +288,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Wayne Holland</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team; Former Chief Constable, Nelson Police Department)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 December, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Raheel Humayun</strong>, (Managing Director, Investigations, Office of the Superintendent of Real Estate)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">25 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Darlene Hyde</strong>, (Chief Executive Officer, British Columbia Real Estate Association (BCREA))</p>
     <div class="WitnessHearingsList">
@@ -393,6 +413,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">19 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Michael McTavish</strong>, (Director, Business Solutions, BC Financial Services Authority)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">22 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Len Meilleur</strong>, (Former Executive Director of Compliance, Gaming Policy Enforcement Branch)</p>
     <div class="WitnessHearingsList">
@@ -521,6 +545,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">8 February, 2021</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Michael Scott</strong>, (Director, Compliance and Investigations, Real Estate Council of British Columbia)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">25 February, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Sgt. Sushile Sharma</strong>, (Member, Federal Serious and Organized Crime Unit, RCMP)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 December, 2020</strong></p>
@@ -646,6 +674,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Gerard West</strong>, (Manager of Examinations, BC Financial Services Authority)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">25 February, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Frederica Wilson</strong>, (Executive Director and Deputy CEO, Federation of Law Societies of Canada)</p>
     <div class="WitnessHearingsList">
