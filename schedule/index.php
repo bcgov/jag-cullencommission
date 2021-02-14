@@ -179,7 +179,7 @@ NEW HEARING TEMPLATE
     <li><strong>Terrance Doyle</strong> (cont’d), President, Strategic Growth and Chief Compliance Officer, Great Canadian Gaming Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <a href="/data/transcripts/Transcript February 10, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
+    <div></div>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('510921459'); return false">Watch Video of Session</button>
   </div>
   <p>February 9, 2021</p>
