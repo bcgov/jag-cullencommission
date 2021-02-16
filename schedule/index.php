@@ -113,13 +113,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>February 25, 2021</p>
   <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Real Estate Investigators Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Michael Scott</strong>, Director, Compliance and Investigations, Real Estate Council of British Columbia</li>
-        <li><strong>Raheel Humayun</strong>, Managing Director, Investigations, Office of the Superintendent of Real Estate</li>
-        <li><strong>Gerard West</strong>, Manager of Examinations, BC Financial Services Authority</li>
-      </ul>
-    </div>
+    <p class="SchedulePanelName">Real Estate Investigators Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Michael Scott</strong>, Director, Compliance and Investigations, Real Estate Council of British Columbia</li>
+      <li><strong>Raheel Humayun</strong>, Managing Director, Investigations, Office of the Superintendent of Real Estate</li>
+      <li><strong>Gerard West</strong>, Manager of Examinations, BC Financial Services Authority</li>
+    </ul>
+  </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
     <div></div>
@@ -163,7 +163,7 @@ NEW HEARING TEMPLATE
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('511849580'); return false">Watch Video of Session</button>
   </div>
   <p>February 11, 2021</p>
   <ul class="ScheduleListWitnesses">
@@ -179,7 +179,7 @@ NEW HEARING TEMPLATE
     <li><strong>Terrance Doyle</strong> (cont’d), President, Strategic Growth and Chief Compliance Officer, Great Canadian Gaming Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript February 10, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('510921459'); return false">Watch Video of Session</button>
   </div>
   <p>February 9, 2021</p>
