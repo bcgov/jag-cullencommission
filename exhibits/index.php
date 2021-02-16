@@ -88,12 +88,64 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/558 - Emails re Briefing Request - BCLC matter - May 6 2019_Redacted.pdf" target="_blank">Emails re Briefing Request - BCLC matter - May 6, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#556</p>
+    <p><a href="/data/exhibits/556 - MOF Briefing Document Title Ministers Direction to Manage Source of Funds in BC Gambling Facilities - Feb 2017_Redacted.pdf" target="_blank">MOF Briefing Document, Title: Minister's Direction to Manage Source of Funds in BC Gambling Facilities - Feb 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#555</p>
+    <p><a href="/data/exhibits/555 - MOF Briefing Document Title 2016 MNP Report on Anti-Money Laundering Practices in Gaming Facilities - Sept 30 2016_Redacted.pdf" target="_blank">MOF Briefing Document, Title: 2016 MNP Report on Anti-Money Laundering Practices in Gaming Facilities - Sept 30, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#554</p>
+    <p><a href="/data/exhibits/554 - MOF Briefing Document Title Anti-money Laundering Strategy -Phase 3 Initiatives- Date Requsted May 17 2016_Redacted.pdf" target="_blank">MOF Briefing Document, Title Anti-money Laundering Strategy (Phase 3 Initiatives) - Date Requsted May 17, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#553</p>
+    <p><a href="/data/exhibits/553 - MOF Briefing Document Title Options for issuing anti-money laundering directives to BCLC - Sept 1 2015_Redacted.pdf" target="_blank">MOF Briefing Document, Title: Options for issuing anti-money laundering directives to BCLC - Sept 1, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#552</p>
+    <p><a href="/data/exhibits/552 - MOF Strategy Document Title Gaming Policy and Enforecment Branchs Anti-Money Laundering Strategy Phase 3 - Sept 3 2015_Redacted.pdf" target="_blank">MOF Strategy Document, Title: Gaming Policy and Enforecment Branch's Anti-Money Laundering Strategy Phase 3 - Sept 3, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#551</p>
+    <p><a href="/data/exhibits/551 - GPEB Meeting Highlights - Anti-Money Laundering Workshop Exploring Common Ground - June 25 2015.pdf" target="_blank">GPEB Meeting Highlights - Anti-Money Laundering Workshop Exploring Common Ground - June 25, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#550</p>
+    <p><a href="/data/exhibits/550 - MOF Briefing Document Title June 4 2015 Anti Money Laundering Workshop Exploring Common Ground Building Solutions - May 14 2015_Redacted.pdf" target="_blank">MOF Briefing Document, Title: June 4 2015 Anti Money Laundering Workshop Exploring Common Ground, Building Solutions - May 14, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#549</p>
+    <p><a href="/data/exhibits/549 - Prev marked as Ex. C MOF Gaming Policy and Enforcement Briefing Note prepared for Cheryl Wenezenki-Yolland - Nov 26 2014 _redacted.pdf" target="_blank">(Previously marked as Exhibit C) MOF Gaming Policy & Enforcement Briefing Note prepared for Cheryl Wenezenki-Yolland - Nov 26, 2014 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#548</p>
+    <p><a href="/data/exhibits/548 - MOF Briefing Document Title Internal operational review of the Gaming Policy and Enforcement Branch -GPEB- Update - Nov 22 2014_Redacted.pdf" target="_blank">MOF Briefing Document, Title Internal operational review of the Gaming Policy & Enforcement Branch (GPEB) - Update - Nov 22, 2014_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#547</p>
+    <p><a href="/data/exhibits/547 - MOF GPEB Review Investigations and Regional Operations and Audit and Compliance Divisions Review - Sept 18 2014.pdf" target="_blank">MOF GPEB Review Investigations and Regional Operations and Audit and Compliance Divisions Review - Sept 18, 2014</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#546</p>
+    <p>MOF Gaming Policy and Enforcement Branch Review - Sept 18, 2014<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#545</p>
+    <p><a href="/data/exhibits/545 - Letter from John Mazure to Michael Graydon - Dec 24 2013_Redacted.pdf" target="_blank">Letter from John Mazure to Michael Graydon - Dec 24, 2013_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#544</p>
     <p><a href="/data/exhibits/544 - BCLC letter from Michael Graydon to John Mazure re High Limit Table Changes - Dec 19 2013_redacted.pdf" target="_blank">BCLC letter from Michael Graydon to John Mazure, re High Limit Table Changes - Dec 19, 2013 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#543</p>
     <p><a href="/data/exhibits/543 - MOF Briefing Document Title - Limits in Casinos - Dec 13 2013_Redacted.pdf" target="_blank">MOF Briefing Document, Title: Limits in Casinos - Dec 13, 2013_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#542</p>
+    <p><a href="/data/exhibits/542 - MOF Briefing Document Title  Minimizing Unlawful Activity in BC Gambling Industry - Feb 6 2015_Redacted.pdf" target="_blank">MOF Briefing Document, Title: Minimizing Unlawful Activity in BC Gambling Industry - Feb 6, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#541</p>
