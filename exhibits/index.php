@@ -16,6 +16,58 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#615</p>
+    <p><a href="/data/exhibits/615 - RECBC Memorandum of Understanding with FINTRAC - March 2019_Redacted.pdf" target="_blank">RECBC Memorandum of Understanding with FINTRAC - March 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#605</p>
+    <p><a href="/data/exhibits/605 - Overview Report Mortgage Brokers Act Consultation.pdf" target="_blank">Overview Report Mortgage Brokers Act Consultation</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#604</p>
+    <p>Registrar of Mortgage Brokers Discipline Orders Overview Report<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#603</p>
+    <p>Overview Report Legislative and Regulatory Structure of Real Estate in British Columbia<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#602</p>
+    <p>Overview Report Lower Mainland Housing Prices<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#601</p>
+    <p>Overview Report Literature on Money Laundering and Real Estate & Response from Real Estate Industry<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#586</p>
+    <p><strong>This exhibit will not be posted by direction of the Commissioner.</strong></p>
+</div>
+<div class="ExhibitElement">
+    <p>#585</p>
+    <p><a href="/data/exhibits/585 - Email chain re BN for Minister - 2016 MNP Report on Anti-Money Laundering Practices in BC - Oct 4 2016 -with attachment-_Redacted.pdf" target="_blank">Email chain, re BN for Minister - 2016 MNP Report on Anti-Money Laundering Practices in BC - Oct 4, 2016 (with attachment)_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#584</p>
+    <p><a href="/data/exhibits/584 - MOF Briefing Document Title Ministers Directive to Refuse Unsourced Cash in British Columbia Gambling Facilities - Jan 2017_Redacted.pdf" target="_blank">MOF Briefing Document, Title Minister's Directive to Refuse Unsourced Cash in British Columbia Gambling Facilities - Jan, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#583</p>
+    <p><a href="/data/exhibits/583 - Email chain re BCLC Briefing Note date January 22 2017 - Jan 26 2017 -with attachment-_Redacted.pdf" target="_blank">Email chain, re BCLC Briefing Note date January 22, 2017 - Jan 26, 2017 (with attachment)_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#582</p>
+    <p><a href="/data/exhibits/582 - Presentation by GPEB - Minister of Finance Briefing Anti-Money Laundering AML Gaming Facilities - April 4 2016.pdf" target="_blank">Presentation by GPEB - Minister of Finance Briefing Anti-Money Laundering (AML) Gaming Facilities - April 4, 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#581</p>
+    <p><a href="/data/exhibits/581 - Presentation titled Gaming Policy and Enforcement Branch and the British Columbia Lottery Corporation Present Exploring Common Ground Building Solutions - June 4 2015.pdf" target="_blank">Presentation titled Gaming Policy and Enforcement Branch and the British Columbia Lottery Corporation Present Exploring Common Ground, Building Solutions - June 4, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#580</p>
+    <p><a href="/data/exhibits/580 - Presentation titled Gaming Policy and Enforcement Branch Anti-Money Laundering AML Briefing - January 2015.pdf" target="_blank">Presentation titled Gaming Policy and Enforcement Branch Anti-Money Laundering (AML) Briefing - January 2015</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#579</p>
     <p><a href="/data/exhibits/579 - Email from Bryon Hodgkin to Michael Graydon Re GPEB letter-Privileged and Confidential - January 7 2013_Redacted.pdf" target="_blank">Email from Bryon Hodgkin to Michael Graydon, Re GPEB letter-Privileged and Confidential - January 7, 2013_Redacted</a></p>
 </div>
@@ -30,6 +82,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#576</p>
     <p>Affidavit no. 1 of Michael Graydon made on February 8, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#573</p>
+    <p><a href="/data/exhibits/573 - Overview Report Ross Alderson.pdf" target="_blank">Overview Report: Ross Alderson</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#572</p>
