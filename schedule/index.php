@@ -17,27 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>February 17, 2021</p>
-  <div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Real Estate Council of British Columbia Panel (cont’d):</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Erin Seeley</strong>, Chief Executive Officer, Real Estate Council of British Columbia (RECBC)</li>
-        <li><strong>David Avren</strong>, Vice President, Legal and Compliance, RECBC</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">British Columbia Real Estate Association Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Darlene Hyde</strong>, Chief Executive Officer, British Columbia Real Estate Association (BCREA)</li>
-        <li><strong>Brendon Ogmundson</strong>, Chief Economist, BCREA</li>
-      </ul>
-    </div>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>February 18, 2021</p>
   <div>
     <ul class="ScheduleListWitnesses">
@@ -135,6 +114,27 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>February 17, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Real Estate Council of British Columbia Panel (cont’d):</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Erin Seeley</strong>, Chief Executive Officer, Real Estate Council of British Columbia (RECBC)</li>
+        <li><strong>David Avren</strong>, Vice President, Legal and Compliance, RECBC</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">British Columbia Real Estate Association Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Darlene Hyde</strong>, Chief Executive Officer, British Columbia Real Estate Association (BCREA)</li>
+        <li><strong>Brendon Ogmundson</strong>, Chief Economist, BCREA</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>February 16, 2021</p>
   <div>
     <div class="ScheduleListPanel">
