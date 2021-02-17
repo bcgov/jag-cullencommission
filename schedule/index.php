@@ -17,28 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>February 16, 2021</p>
-  <div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">BC Government Regulators Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Micheal Noseworthy</strong>, Superintendent of Real Estate</li>
-        <li><strong>Blair Morrison</strong>, Chief Executive Officer, BC Financial Services Authority (BCFSA)</li>
-        <li><strong>Chris Carter</strong>, Deputy Registrar of Mortgage Brokers, BCFSA</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Real Estate Council of British Columbia Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Erin Seeley</strong>, Chief Executive Officer, Real Estate Council of British Columbia (RECBC)</li>
-        <li><strong>David Avren</strong>, Vice President, Legal and Compliance, RECBC</li>
-      </ul>
-    </div>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>February 17, 2021</p>
   <div>
     <div class="ScheduleListPanel">
@@ -157,6 +135,28 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>February 16, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">BC Government Regulators Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Micheal Noseworthy</strong>, Superintendent of Real Estate</li>
+        <li><strong>Blair Morrison</strong>, Chief Executive Officer, BC Financial Services Authority (BCFSA)</li>
+        <li><strong>Chris Carter</strong>, Deputy Registrar of Mortgage Brokers, BCFSA</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Real Estate Council of British Columbia Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Erin Seeley</strong>, Chief Executive Officer, Real Estate Council of British Columbia (RECBC)</li>
+        <li><strong>David Avren</strong>, Vice President, Legal and Compliance, RECBC</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>February 12, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Len Meilleur</strong>, Former Executive Director of Compliance, Gaming Policy Enforcement Branch</li>
