@@ -140,6 +140,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>Affidavit #1 of Terrance Doyle made on February 2, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
+    <p>#559</p>
+    <p>Affidavit no. 1 of Walter Soo made on February 1, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#558</p>
     <p><a href="/data/exhibits/558 - Emails re Briefing Request - BCLC matter - May 6 2019_Redacted.pdf" target="_blank">Emails re Briefing Request - BCLC matter - May 6, 2019_Redacted</a></p>
 </div>
