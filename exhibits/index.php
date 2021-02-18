@@ -16,6 +16,70 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#639</p>
+    <p><a href="/data/exhibits/639 - Slides for the Cullen Commission - Joshua Gordon SFU.pdf" target="_blank">Slides for the Cullen Commission - Joshua Gordon, SFU</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#638</p>
+    <p><a href="/data/exhibits/638 - Reconnecting the Housing Market to the Labour Market by Joshua Gordon March 2020.pdf" target="_blank">Reconnecting the Housing Market to the Labour Market by Joshua Gordon, March 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#637</p>
+    <p><a href="/data/exhibits/637 - Curriculum Vitae of Craig Tsuriel -Tsur- Somerville_Redacted.pdf" target="_blank">Curriculum Vitae of Craig Tsuriel (Tsur) Somerville_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#636</p>
+    <p><a href="/data/exhibits/636 - Publications Summary of David Ley.pdf" target="_blank">Publications Summary of David Ley</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#635</p>
+    <p><a href="/data/exhibits/635 - Summary Curriculum Vitae of David Ley_Redacted.pdf" target="_blank">Summary Curriculum Vitae of David Ley_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#634</p>
+    <p><a href="/data/exhibits/634 - Biography of Josh Gordon.pdf" target="_blank">Biography of Josh Gordon</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#633</p>
+    <p><a href="/data/exhibits/633 - CV of Aled ab Iorwerth_Redacted.pdf" target="_blank">CV of Aled ab Iorwerth_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#630</p>
+    <p><a href="/data/exhibits/630 - FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 2017.pdf" target="_blank">FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#629</p>
+    <p><a href="/data/exhibits/629 - FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 2019.pdf" target="_blank">FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#628</p>
+    <p><a href="/data/exhibits/628 - FINTRAC memorandum on issue Money Laundering and Real Estate in British Colombia -redacted- Banking and Private Lenders -  December 13 2018.pdf" target="_blank">FINTRAC memorandum on issue Money Laundering and Real Estate in British Colombia [redacted] Banking and Private Lenders - December 13, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#627</p>
+    <p><a href="/data/exhibits/627 - FINTRACs Meeting with the representatives of the Canadian Real Estate Association - June 5 2018.pdf" target="_blank">FINTRAC's Meeting with the representatives of the Canadian Real Estate Association - June 5, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#626</p>
+    <p><a href="/data/exhibits/626 - FINTRACS AMLTF Real Estate Sector Presentation - Sept 19 2018.pdf" target="_blank">FINTRAC'S AMLTF Real Estate Sector Presentation - Sept 19, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#622</p>
+    <p><a href="/data/exhibits/622 - Curriculum Vitae of Brendon Ogmundson_Redacted.pdf" target="_blank">Curriculum Vitae of Brendon Ogmundson_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#621</p>
+    <p><a href="/data/exhibits/621 - Curriculum Vitae of Darlene Hyde_Redacted.pdf" target="_blank">Curriculum Vitae of Darlene Hyde_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#620</p>
+    <p><a href="/data/exhibits/620 - FINTRAC Overview - slide presentation to RECBC - May 2019.pdf" target="_blank">FINTRAC Overview - slide presentation to RECBC - May 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#619</p>
+    <p><a href="/data/exhibits/619 - RECBC Administrative Penalty Guidelines 2021.pdf" target="_blank">RECBC Administrative Penalty Guidelines 2021</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#615</p>
     <p><a href="/data/exhibits/615 - RECBC Memorandum of Understanding with FINTRAC - March 2019_Redacted.pdf" target="_blank">RECBC Memorandum of Understanding with FINTRAC - March 2019_Redacted</a></p>
 </div>
@@ -242,6 +306,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#533</p>
     <p><a href="/data/exhibits/533 - Emails re River Rock - Four Items Noted - Topic Tracking Sheeting and LCT Issues - November 2 2015_Redacted.pdf" target="_blank">Emails re River Rock - Four Items Noted - Topic Tracking Sheeting & LCT Issues - November 2, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#532</p>
+    <p><a href="/data/exhibits/532 - BCLC Incident Report 2016-0008580 at River Rock Casino Resort -10 Feb 2016 _Redacted.pdf" target="_blank">BCLC Incident Report 2016-0008580 at River Rock Casino Resort -10 Feb 2016 _Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#531</p>
