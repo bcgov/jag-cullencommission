@@ -44,6 +44,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/633 - CV of Aled ab Iorwerth_Redacted.pdf" target="_blank">CV of Aled ab Iorwerth_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#632</p>
+    <p><a href="/data/exhibits/632 - BCREA First Quarter Forecast Update - January 2021.pdf" target="_blank">BCREA First Quarter Forecast Update – January 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#631</p>
+    <p><a href="/data/exhibits/631 - BCREA Market Intelligence Report - September 9 2020 -The Unusual World of Pandemic Economics- - Why BCs Housing Market Remains Strong Despite COVID-19.pdf" target="_blank">BCREA Market Intelligence Report – September 9, 2020 “The Unusual World of Pandemic Economics” – Why BC’s Housing Market Remains Strong Despite COVID-19</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#630</p>
     <p><a href="/data/exhibits/630 - FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 2017.pdf" target="_blank">FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept, 2017</a></p>
 </div>
@@ -62,6 +70,38 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#626</p>
     <p><a href="/data/exhibits/626 - FINTRACS AMLTF Real Estate Sector Presentation - Sept 19 2018.pdf" target="_blank">FINTRAC'S AMLTF Real Estate Sector Presentation - Sept 19, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#625</p>
+    <p><a href="/data/exhibits/625 - Letter from Darlene Hyde to Expert Panel on Money Laundering re Proposal for risk assesment on money laundering in real estate - Dec 10 2018.pdf" target="_blank">Letter from Darlene Hyde to Expert Panel on Money Laundering, re Proposal for risk assesment on money laundering in real estate - Dec 10, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#624</p>
+    <p><a href="/data/exhibits/624 - BC Real Estate Sector Submits Anti-Money Laundering Recommendations to Government - April 15 2019.pdf" target="_blank">BC Real Estate Sector Submits Anti-Money Laundering Recommendations to Government - April 15, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#623F</p>
+    <p><a href="/data/exhibits/623F - Mastering Compliance AMLTraining for Brokers - Module 8 Effectiveness Review and Examinations Part 1.pdf" target="_blank">Mastering Compliance AMLTraining for Brokers - Module 8 Effectiveness Review and Examinations Part 1</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#623E</p>
+    <p><a href="/data/exhibits/623E - Mastering Compliance AMLTraining for Brokers - Module 7 The Training Program.pdf" target="_blank">Mastering Compliance AMLTraining for Brokers - Module 7 The Training Program</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#623D</p>
+    <p><a href="/data/exhibits/623D - Mastering Compliance AMLTraining for Brokers - Module 5 Risk Assessments.pdf" target="_blank">Mastering Compliance AMLTraining for Brokers - Module 5 Risk Assessments</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#623C</p>
+    <p>Mastering Compliance AMLTraining for Brokers - Module 3 Compliance Reporting and Record Keeping<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#623B</p>
+    <p><a href="/data/exhibits/623B - Mastering Compliance AMLTraining for Brokers - Module 2 Defining Roles and Responsibilities.pdf" target="_blank">Mastering Compliance AMLTraining for Brokers - Module 2 Defining Roles and Responsibilities</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#623A</p>
+    <p><a href="/data/exhibits/623A - Mastering Compliance AMLTraining for Brokers - Module 1 Introduction and Culture of Compliance.pdf" target="_blank">Mastering Compliance AMLTraining for Brokers - Module 1 Introduction and Culture of Compliance</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#622</p>
