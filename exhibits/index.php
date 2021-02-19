@@ -16,6 +16,34 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#646</p>
+    <p><a href="/data/exhibits/646 - Chinese foreign property investment at 4-year low amid clampdown - Financial Times by Gabriel Wildau - Nov 22 2017.pdf" target="_blank">Chinese foreign property investment at 4-year low amid clampdown - Financial Times, by Gabriel Wildau - Nov 22, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#645</p>
+    <p><a href="/data/exhibits/645 - China Tightens Controls on Overseas Use of Its Currency - The New York Times - by Keith Bradsher - Nov 29 2016.pdf" target="_blank">China Tightens Controls on Overseas Use of Its Currency - The New York Times - by Keith Bradsher - Nov 29, 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#644</p>
+    <p><a href="/data/exhibits/644 - Keohane So you want to get your money out of China_Cut out and keep edition_FT Alphaville.pdf" target="_blank">Keohane, So you want to get your money out of China_ Cut out and keep edition _ FT Alphaville</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#643</p>
+    <p><a href="/data/exhibits/643 - Review Essay - Is Vancouver the Future or the Past - Henry Yu -  2006.pdf" target="_blank">Review Essay - Is Vancouver the Future or the Past - Henry Yu - 2006</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#642</p>
+    <p><a href="/data/exhibits/642 - Global migrants and the new Pacific Canada - International - Journal -  Henry Yu -  Autumn 2009.pdf" target="_blank">Global migrants and the new Pacific Canada - International - Journal - Henry Yu - Autumn 2009</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#641</p>
+    <p><a href="/data/exhibits/641 - Then and Now Trans-pacific Ethnic Chinese Migrants - Henry Yu - January 2006.pdf" target="_blank">Then and Now Trans-pacific Ethnic Chinese Migrants - Henry Yu - January 2006</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#640</p>
+    <p><a href="/data/exhibits/640 - Curriculum Vitae of Henry Yu Redacted.pdf" target="_blank">Curriculum Vitae of Henry Yu (Redacted)</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#639</p>
     <p><a href="/data/exhibits/639 - Slides for the Cullen Commission - Joshua Gordon SFU.pdf" target="_blank">Slides for the Cullen Commission - Joshua Gordon, SFU</a></p>
 </div>
