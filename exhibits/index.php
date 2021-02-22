@@ -524,6 +524,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/495 - Information Note COMM-8669 Final Report - Draft_Redacted.pdf" target="_blank">BCLC Information note COMM-8669 Final Report – May 11, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#494</p>
+    <p><a href="/data/exhibits/494 - A spreadsheet with five incident reports from different casinos dated between Feb 14 2015 and May 13 2015_Redacted.pdf" target="_blank">A spreadsheet with five incident reports from different casinos, dated between Feb 14, 2015 and May 13, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#493</p>
     <p><a href="/data/exhibits/493 - Corporate Security and Compliance AML Document - September 8 2015_Redacted.pdf" target="_blank">Corporate Security & Compliance AML Document - September 8, 2015_Redacted</a></p>
 </div>
