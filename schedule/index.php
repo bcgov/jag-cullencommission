@@ -43,14 +43,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
   <p>February 25, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Real Estate Investigators Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Michael Scott</strong>, Director, Compliance and Investigations, Real Estate Council of British Columbia</li>
-      <li><strong>Raheel Humayun</strong>, Managing Director, Investigations, Office of the Superintendent of Real Estate</li>
-      <li><strong>Gerard West</strong>, Manager of Examinations, BC Financial Services Authority</li>
-    </ul>
-  </div>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Michael Scott</strong>, Director, Compliance and Investigations, Real Estate Council of British Columbia</li>
+    <li><strong>Raheel Humayun</strong>, Managing Director, Investigations, Office of the Superintendent of Real Estate</li>
+    <li><strong>Gerard West</strong>, Manager of Examinations, BC Financial Services Authority</li>
+  </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
     <div></div>
