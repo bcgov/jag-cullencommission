@@ -148,6 +148,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/619 - RECBC Administrative Penalty Guidelines 2021.pdf" target="_blank">RECBC Administrative Penalty Guidelines 2021</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#618</p>
+    <p><a href="/data/exhibits/618 - Report of the Independent Advisory Group - June 2016.pdf" target="_blank">Report of the Independent Advisory Group - June 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#617</p>
+    <p>Report of the Independent Advisory Group - June 2016<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#615</p>
     <p><a href="/data/exhibits/615 - RECBC Memorandum of Understanding with FINTRAC - March 2019_Redacted.pdf" target="_blank">RECBC Memorandum of Understanding with FINTRAC - March 2019_Redacted</a></p>
 </div>
