@@ -16,6 +16,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#648</p>
+    <p><a href="/data/exhibits/648 - What the German Report Got Wrong by Samantha Gale - Summer 2019.pdf" target="_blank">What the German Report Got Wrong by Samantha Gale - Summer 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#647</p>
+    <p><a href="/data/exhibits/647 - CMBA-BC Anti Money Laundering Course Module.pdf" target="_blank">CMBA-BC Anti Money Laundering Course Module</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#646</p>
     <p><a href="/data/exhibits/646 - Chinese foreign property investment at 4-year low amid clampdown - Financial Times by Gabriel Wildau - Nov 22 2017.pdf" target="_blank">Chinese foreign property investment at 4-year low amid clampdown - Financial Times, by Gabriel Wildau - Nov 22, 2017</a></p>
 </div>
