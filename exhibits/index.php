@@ -168,6 +168,38 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/615 - RECBC Memorandum of Understanding with FINTRAC - March 2019_Redacted.pdf" target="_blank">RECBC Memorandum of Understanding with FINTRAC - March 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#613</p>
+    <p><a href="/data/exhibits/613 - OSRE Briefing Document re Filing regulatory data and information gaps - Oct 24 2019_Redacted.pdf" target="_blank">OSRE Briefing Document, re Filing regulatory data and information gaps - Oct 24, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#612</p>
+    <p><a href="/data/exhibits/612 - Email from Jonathan Vandall Re 2019-08-20 Discussion Paper re Regulating Market Conduct v2 - Aug 29 2019 -with attachment-.pdf" target="_blank">Email from Jonathan Vandall, Re 2019-08-20 Discussion Paper re Regulating Market Conduct v2 - Aug 29, 2019 (with attachment)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#611</p>
+    <p><a href="/data/exhibits/611 - OSREs Presentation to the Provinces Expert Panel on Money Laundering - January 23 2019_Redacted.pdf" target="_blank">OSRE's Presentation to the Province's Expert Panel on Money Laundering - January 23, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#610</p>
+    <p><a href="/data/exhibits/610 - Vulnerabilities in mortgage lending -FICOM CMHC-.pdf" target="_blank">Vulnerabilities in mortgage lending (FICOM, CMHC)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#609</p>
+    <p><a href="/data/exhibits/609 - Mandate letter from Carol James to Dr. Stanley Hamilton - January 14 2020.pdf" target="_blank">Mandate letter from Carol James to Dr. Stanley Hamilton - January 14, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#608</p>
+    <p><a href="/data/exhibits/608 - Organizational chart - Office of the Superintendent of Real Estate_Redacted.pdf" target="_blank">Organizational chart - Office of the Superintendent of Real Estate_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#607</p>
+    <p><a href="/data/exhibits/607 - Real Estate Regulatory Structure Review by Dan Perrin.pdf" target="_blank">Real Estate Regulatory Structure Review by Dan Perrin</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#606</p>
+    <p><a href="/data/exhibits/606 - BC Financial Services Authority Organizational Chart.pdf" target="_blank">BC Financial Services Authority Organizational Chart</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#605</p>
     <p><a href="/data/exhibits/605 - Overview Report Mortgage Brokers Act Consultation.pdf" target="_blank">Overview Report Mortgage Brokers Act Consultation</a></p>
 </div>

@@ -90,7 +90,7 @@ NEW HEARING TEMPLATE
     <li><strong>Professor Henry Yu</strong>, University of British Columbia</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript February 19, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('514528186'); return false">Watch Video of Session</button>
   </div>
   <p>February 18, 2021</p>
