@@ -12,7 +12,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><strong>RULING</strong></p>
     <p class="RulingTitle"><strong>TITLE</strong></p>
 
-<!--
+    <!--
     NEW RULING TEMPLATE BELOW
 
     <p>, 2021</p>
@@ -20,6 +20,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="RulingTitle"><a href="/files/" target="_blank"></a></p>
 
 -->
+
+    <p>February 23, 2021</p>
+    <p>#28</p>
+    <p class="RulingTitle"><a href="/files/ApplicationForWitnessSafetyMeasuresRuling28.pdf" target="_blank">Application for Witness Safety Measures</a></p>
+
+    <p>February 23, 2021</p>
+    <p>#27</p>
+    <p class="RulingTitle"><a href="/files/ApplicationForAccessToSurveillanceFootageRuling27.pdf" target="_blank">Application for Access to Surveillance Footage</a></p>
 
     <p>5 February, 2021</p>
     <p>#26</p>
