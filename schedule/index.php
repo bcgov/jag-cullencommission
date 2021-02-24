@@ -127,42 +127,46 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
   <p>March 11, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Canada Mortgage and Housing Corporation Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Bert Pereboom</strong>, Senior Manager, Housing Market Policy, Canada Mortgage and Housing Corporation (CMHC)</li>
-      <li><strong>Elisabeth Koulouris</strong>, Specialist, Policy Analysis, CMHC</li>
-      <li><strong>Wahid Abdallah</strong>, Specialist, Policy Analysis, CMHC</li>
-    </ul>
-  </div>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Statistics Canada Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Haig McCarrell</strong>, Director of Investment, Science and Technology, Statistics Canada</li>
-      <li><strong>Ellen Bekkering</strong>, Chief, Statistics Canada</li>
-      <li><strong>Jean-Philippe Deschamps-Laporte</strong>, Chief, Statistics Canada</li>
-    </ul>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Canada Mortgage and Housing Corporation Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Bert Pereboom</strong>, Senior Manager, Housing Market Policy, Canada Mortgage and Housing Corporation (CMHC)</li>
+        <li><strong>Elisabeth Koulouris</strong>, Specialist, Policy Analysis, CMHC</li>
+        <li><strong>Wahid Abdallah</strong>, Specialist, Policy Analysis, CMHC</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Statistics Canada Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Haig McCarrell</strong>, Director of Investment, Science and Technology, Statistics Canada</li>
+        <li><strong>Ellen Bekkering</strong>, Chief, Statistics Canada</li>
+        <li><strong>Jean-Philippe Deschamps-Laporte</strong>, Chief, Statistics Canada</li>
+      </ul>
+    </div>
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
     <div></div>
   </div>
   <p>March 12, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Land Title and Survey Authority of British Columbia Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Carlos MacDonald</strong>, Director of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
-      <li><strong>Larry Blaschuk</strong>, Registrar of Land Titles, LTSA</li>
-      <li><strong>Gregory Steves</strong>, Vice President, Policy and Legal Services, LTSA</li>
-    </ul>
-  </div>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Financial Transactions and Reports Analysis Centre of Canada Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)</li>
-      <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
-      <li><strong>Annette Ryan, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</strong>, </li>
-    </ul>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Land Title and Survey Authority of British Columbia Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Carlos MacDonald</strong>, Director of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
+        <li><strong>Larry Blaschuk</strong>, Registrar of Land Titles, LTSA</li>
+        <li><strong>Gregory Steves</strong>, Vice President, Policy and Legal Services, LTSA</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Financial Transactions and Reports Analysis Centre of Canada Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)</li>
+        <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
+        <li><strong>Annette Ryan, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</strong>, </li>
+      </ul>
+    </div>
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
