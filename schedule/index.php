@@ -43,6 +43,131 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
     <div></div>
   </div>
+  <p>March 1, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Cpl. Melvin Chizawsky</strong>, RCMP</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>March 2, 2021</p>
+  <div>
+    <p style="color: red"><strong>This hearing starts at 8:30am and ends at 12:30pm.</strong></p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Brad Rudnicki</strong>, Anti-Money Laundering Intelligence Specialist, British Columbia Lottery Corporation</li>
+      <li><strong>Peter Dent</strong>, Partner, Director of Operations Financial Advisory, BC Region, Deloitte LLP</li>
+      <li><strong>Beth Dewitt</strong>, National Leader, Data Protection and Privacy, Deloitte LLP</li>
+      <li><strong>David Stewart</strong>, Partner, Financial Crime Analytics, Deloitte LLP</li>
+      <li><strong>Alexon Bell</strong>, Chief Product Officer, Quantexa</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>March 3, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Qi Li</strong>, Former Edgewater Casino Employee<br /><strong style="color: red">(Please note that Ms. Li will use a Mandarin interpreter.)</strong></li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>March 4, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>TBA</strong></li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>March 5, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Society of Notaries Public Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Marny Morin</strong>, Secretary, Society of Notaries Public BC (SNPBC)</li>
+      <li><strong>John Mayr</strong>, Executive Director, SNPBC</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>March 8, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Finance Real Estate Data Analytics Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Christina Dawkins</strong>, Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance</li>
+      <li><strong>Joseph Primeau</strong>, Executive Director, Policy, FREDA</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>March 9, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Federal-Provincial Working Group on Real Estate Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Christina Dawkins</strong> (cont’d), Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance</li>
+      <li><strong>Justin Brown</strong>, Senior Director, Financial Crimes Policy, Department of Finance – Canada</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>March 10, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>TBA</strong></li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>March 11, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Canada Mortgage and Housing Corporation Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Bert Pereboom</strong>, Senior Manager, Housing Market Policy, Canada Mortgage and Housing Corporation (CMHC)</li>
+      <li><strong>Elisabeth Koulouris</strong>, Specialist, Policy Analysis, CMHC</li>
+      <li><strong>Wahid Abdallah</strong>, Specialist, Policy Analysis, CMHC</li>
+    </ul>
+  </div>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Statistics Canada Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Haig McCarrell</strong>, Director of Investment, Science and Technology, Statistics Canada</li>
+      <li><strong>Ellen Bekkering</strong>, Chief, Statistics Canada</li>
+      <li><strong>Jean-Philippe Deschamps-Laporte</strong>, Chief, Statistics Canada</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>March 12, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Land Title and Survey Authority of British Columbia Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Carlos MacDonald</strong>, Director of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
+      <li><strong>Larry Blaschuk</strong>, Registrar of Land Titles, LTSA</li>
+      <li><strong>Gregory Steves</strong>, Vice President, Policy and Legal Services, LTSA</li>
+    </ul>
+  </div>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Financial Transactions and Reports Analysis Centre of Canada Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)</li>
+      <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
+      <li><strong>Annette Ryan, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</strong>, </li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
 </div>
 
 <!--
@@ -852,7 +977,7 @@ NEW HEARING TEMPLATE
   <p>June 12, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Mark Sieben</strong> (cont'd), Deputy Solicitor General, BC Ministry of Public Safety and Solicitor General</li>
-    <li><strong>Chris Dawkins</strong> (cont'd), Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance</li>
+    <li><strong>Christina Dawkins</strong> (cont'd), Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance</li>
     <li><strong>Megan Harris</strong> (cont'd), Executive Director and Anti-Money Laundering Secretariat Lead, BC Ministry of Attorney General</li>
   </ul>
   <div class="ScheduleTranscriptButton">
@@ -862,7 +987,7 @@ NEW HEARING TEMPLATE
   <p>June 11, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Mark Sieben</strong>, Deputy Solicitor General, BC Ministry of Public Safety and Solicitor General</li>
-    <li><strong>Chris Dawkins</strong>, Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance</li>
+    <li><strong>Christina Dawkins</strong>, Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance</li>
     <li><strong>Megan Harris</strong>, Executive Director and Anti-Money Laundering Secretariat Lead, BC Ministry of Attorney General</li>
   </ul>
   <div class="ScheduleTranscriptButton">
