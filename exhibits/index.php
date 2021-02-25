@@ -164,8 +164,16 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>Report of the Independent Advisory Group - June 2016<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
+    <p>#616</p>
+    <p><a href="/data/exhibits/616 - RECBC Information Sharing Agreement with Registrar of Mortgage Brokers_Redacted.pdf" target="_blank">RECBC Information Sharing Agreement with Registrar of Mortgage Brokers_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#615</p>
     <p><a href="/data/exhibits/615 - RECBC Memorandum of Understanding with FINTRAC - March 2019_Redacted.pdf" target="_blank">RECBC Memorandum of Understanding with FINTRAC - March 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#614</p>
+    <p><a href="/data/exhibits/614 - PPT presentation - Overview of RECBC - Jan 2019.pdf" target="_blank">PPT presentation - Overview of RECBC - Jan 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#613</p>
@@ -1866,6 +1874,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#170</p>
     <p><a href="/data/exhibits/170 - Email from Ross Alderson subject List for VP - September 9 2015_Redacted.pdf" target="_blank">Email from Ross Alderson, subject List for VP - September 9, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#169</p>
+    <p>Email from Heather Samson to Laurin Stenerson, Re Subject Detailed Report - October 2, 2017_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#168</p>
