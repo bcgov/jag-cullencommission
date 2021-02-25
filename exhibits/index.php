@@ -440,6 +440,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/531 - BCLC High Limit Baccarat Evaluation - a report by Bill Zender and Associates - Feb 2017.pdf" target="_blank">BCLC High Limit Baccarat Evaluation - a report by Bill Zender and Associates - Feb 2017</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#530</p>
+    <p>Affidavit no. 1 of Patrick Ennis made on January 22, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#529</p>
     <p><a href="/data/exhibits/529 - Affidavit No. 2 of Larry Vander Graaf made on January 19 2021_Redacted.pdf" target="_blank">Affidavit #2 of Larry Vander Graaf made on January 19, 2021_Redacted</a></p>
 </div>
