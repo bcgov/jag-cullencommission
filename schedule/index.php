@@ -45,12 +45,17 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p>March 2, 2021</p>
   <div>
     <p style="color: red"><strong>This hearing starts at 8:30am and ends at 12:30pm.</strong></p>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Deloitte/Quantexa Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Peter Dent</strong>, Partner, Director of Operations Financial Advisory, BC Region, Deloitte LLP</li>
+        <li><strong>Beth Dewitt</strong>, National Leader, Data Protection and Privacy, Deloitte LLP</li>
+        <li><strong>David Stewart</strong>, Partner, Financial Crime Analytics, Deloitte LLP</li>
+        <li><strong>Alexon Bell</strong>, Chief Product Officer, Quantexa</li>
+      </ul>
+    </div>
     <ul class="ScheduleListWitnesses">
       <li><strong>Brad Rudnicki</strong>, Anti-Money Laundering Intelligence Specialist, British Columbia Lottery Corporation</li>
-      <li><strong>Peter Dent</strong>, Partner, Director of Operations Financial Advisory, BC Region, Deloitte LLP</li>
-      <li><strong>Beth Dewitt</strong>, National Leader, Data Protection and Privacy, Deloitte LLP</li>
-      <li><strong>David Stewart</strong>, Partner, Financial Crime Analytics, Deloitte LLP</li>
-      <li><strong>Alexon Bell</strong>, Chief Product Officer, Quantexa</li>
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
