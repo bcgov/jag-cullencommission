@@ -185,7 +185,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">21 January, 2021</strong></p>
     </div>
-    <p class="NamesOfWitnesses"><strong>Peter Dent</strong>, (Partner, Deloitte Forensic)</p>
+    <p class="NamesOfWitnesses"><strong>Peter Dent</strong>, (Managing Partner, Financial Advisory, BC Region, Deloitte LLP)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">30 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 March, 2021</strong></p>
@@ -226,7 +226,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">E</h2>
   <div class="WitnessList">
-  <p class="NamesOfWitnesses"><strong>Chris Elgar</strong>, (Vice President and Deputy Superintendent of Financial Institutions, Prudential Supervision, BC Financial Services Authority)</p>
+    <p class="NamesOfWitnesses"><strong>Chris Elgar</strong>, (Vice President and Deputy Superintendent of Financial Institutions, Prudential Supervision, BC Financial Services Authority)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">15 January, 2021</strong></p>
     </div>
@@ -478,6 +478,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Len Meilleur</strong>, (Former Executive Director of Compliance, Gaming Policy Enforcement Branch)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 February, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">10 March, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Dr. M-J Milloy</strong>, (Ph.D., Research Scientist, British Columbia Centre on Substance Use)</p>
     <div class="WitnessHearingsList">

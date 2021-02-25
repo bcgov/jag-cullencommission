@@ -48,7 +48,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Deloitte/Quantexa Panel:</p>
       <ul class="ScheduleListWitnesses">
-        <li><strong>Peter Dent</strong>, Partner, Director of Operations Financial Advisory, BC Region, Deloitte LLP</li>
+        <li><strong>Peter Dent</strong>, Managing Partner, Financial Advisory, BC Region, Deloitte LLP</li>
         <li><strong>Beth Dewitt</strong>, National Leader, Data Protection and Privacy, Deloitte LLP</li>
         <li><strong>David Stewart</strong>, Partner, Financial Crime Analytics, Deloitte LLP</li>
         <li><strong>Alexon Bell</strong>, Chief Product Officer, Quantexa</li>
@@ -72,9 +72,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>March 4, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>TBA</strong></li>
+    <li><strong style="color: red;">In camera (non-public) hearing, in accordance with <a href="/files/ApplicationForWitnessSafetyMeasuresRuling28.pdf">Ruling #28</a></strong></li>
   </ul>
-  <div class="ScheduleTranscriptButton">
+  <div class=" ScheduleTranscriptButton">
     <div></div>
     <div></div>
   </div>
@@ -116,7 +116,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>March 10, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>TBA</strong></li>
+    <li><strong>Len Meilleur</strong> (cont’d), Former Executive Director of Compliance, Gaming Policy Enforcement Branch</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -708,7 +708,7 @@ NEW HEARING TEMPLATE
     <p class="SchedulePanelName">Beneficial Ownership Panel:</p>
     <ul class="ScheduleListWitnesses">
       <li><strong>James Cohen</strong>, Executive Director, Transparency International Canada</li>
-      <li><strong>Peter Dent</strong>, Partner, Deloitte Forensic</li>
+      <li><strong>Peter Dent</strong>, Managing Partner, Financial Advisory, BC Region, Deloitte LLP</li>
       <li><strong>Chris Taggart</strong>, Co-founder and CEO, OpenCorporates</li>
       <li><strong>Mora Johnson</strong>, Lawyer, Ottawa</li>
     </ul>
