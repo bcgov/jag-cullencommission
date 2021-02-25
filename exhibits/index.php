@@ -388,6 +388,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/558 - Emails re Briefing Request - BCLC matter - May 6 2019_Redacted.pdf" target="_blank">Emails re Briefing Request - BCLC matter - May 6, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#557</p>
+    <p>Affidavit no. 1 of Douglas Scott made on February 3, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#556</p>
     <p><a href="/data/exhibits/556 - MOF Briefing Document Title Ministers Direction to Manage Source of Funds in BC Gambling Facilities - Feb 2017_Redacted.pdf" target="_blank">MOF Briefing Document, Title: Minister's Direction to Manage Source of Funds in BC Gambling Facilities - Feb 2017_Redacted</a></p>
 </div>
