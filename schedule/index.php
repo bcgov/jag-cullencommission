@@ -206,7 +206,7 @@ NEW HEARING TEMPLATE
     <li><strong>Cpl. Karen Best</strong>, RCMP</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript February 23, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('515994338'); return false">Watch Video of Session</button>
   </div>
   <p>February 22, 2021</p>
@@ -215,7 +215,7 @@ NEW HEARING TEMPLATE
     <li><strong>Michael McTavish</strong>, Director, Business Solutions, BC Financial Services Authority</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript February 22, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('515555186'); return false">Watch Video of Session</button>
   </div>
   <p>February 19, 2021</p>
