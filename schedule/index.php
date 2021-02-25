@@ -164,7 +164,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <ul class="ScheduleListWitnesses">
         <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)</li>
         <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
-        <li><strong>Annette Ryan, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</strong>, </li>
+        <li><strong>Annette Ryan</strong>, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</li>
       </ul>
     </div>
   </div>
