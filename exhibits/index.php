@@ -228,6 +228,54 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>Overview Report Literature on Money Laundering and Real Estate & Response from Real Estate Industry<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
+    <p>#599</p>
+    <p><a href="/data/exhibits/599 - Email from Murray Dugger to Ross Alderson re BCLC Casino proposals - March 9 2016_Redacted.pdf" target="_blank">Email from Murray Dugger to Ross Alderson, re BCLC Casino proposals - March 9, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#598</p>
+    <p><a href="/data/exhibits/598 - Current Intelligence Report -CIR 17-009- August - September 2017.pdf" target="_blank">Current Intelligence Report (CIR 17-009) August – September 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#597</p>
+    <p><a href="/data/exhibits/597 - GPEB Current Intelligence Report -CIR 17-006- May 5 2017.pdf" target="_blank">GPEB Current Intelligence Report (CIR 17-006) May 5, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#596</p>
+    <p><a href="/data/exhibits/596 - GPEB Current Intelligence Report -CIR 17-004- March 17 2017.pdf" target="_blank">GPEB Current Intelligence Report (CIR 17-004) March 17, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#595</p>
+    <p><a href="/data/exhibits/595 - GPEB Current Intelligence Report -CIR 17-003- February 17 2017.pdf" target="_blank">GPEB Current Intelligence Report (CIR 17-003) February 17, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#594</p>
+    <p><a href="/data/exhibits/594 - GPEB Current Intelligence Report - CIR 17-002 January 19 2017.pdf" target="_blank">GPEB Current Intelligence Report - CIR 17-002 January 19, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#593</p>
+    <p><a href="/data/exhibits/593 - GPEB Current Intelligence Report -CIR 16-005- November 8 2016.pdf" target="_blank">GPEB Current Intelligence Report (CIR 16-005) November 8, 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#592</p>
+    <p><a href="/data/exhibits/592 - Email from Derek Dickson to Len Meilleur re AML Strategies - Aug 31 2015.pdf" target="_blank">Email from Derek Dickson to Len Meilleur, re AML Strategies - Aug 31, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#591</p>
+    <p><a href="/data/exhibits/591 - GPEB AML Timeline - Significant Events and GPEB Activities.pdf" target="_blank">GPEB AML Timeline – Significant Events and GPEB Activities</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#590</p>
+    <p><a href="/data/exhibits/590 - Email from Cal Chrustie re AML June 4 Workshop - Backgrounder - final draft - May 22 2015_Redacted.pdf" target="_blank">Email from Cal Chrustie, re AML June 4 Workshop - Backgrounder - final draft - May 22, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#589</p>
+    <p><a href="/data/exhibits/589 - Email from Derek Dickson to Len Meilleur re AML - May 21 2015_Redacted.pdf" target="_blank">Email from Derek Dickson to Len Meilleur, re AML - May 21, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#588</p>
+    <p><a href="/data/exhibits/588 - Email from Len Meilleur to John Mazure re Draft - AML Direction for discussion Nov 6 2014 - Nov 12 2014 -with attachment-.pdf" target="_blank">Email from Len Meilleur to John Mazure, re Draft - AML Direction for discussion Nov 6, 2014 - Nov 12, 2014 (with attachment)</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#586</p>
     <p><strong>This exhibit will not be posted by direction of the Commissioner.</strong></p>
 </div>
@@ -270,6 +318,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#576</p>
     <p>Affidavit no. 1 of Michael Graydon made on February 8, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#574</p>
+    <p>Overview report Casino Surveillance Footage_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#573</p>
