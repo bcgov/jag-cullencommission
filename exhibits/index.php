@@ -925,7 +925,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#424</p>
-    <p><a href="/data/exhibits/424 - FICOM Letter from Frank Chong to All Provincially Regulated Financial Institution May 5 2016.pdf" target="_blank">FICOM Letter from Frank Chong to All Provincially Regulated Financial Institution May 5, 2016</a></p>
+    <p><a href="/data/exhibits/424 - BCFSA Letter from Frank Chong re New Regulatory Guidance Terminology August 11 2020.pdf" target="_blank">BCFSA Letter from Frank Chong re New Regulatory Guidance Terminology August 11, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#423</p>
