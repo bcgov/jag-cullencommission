@@ -16,6 +16,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#662</p>
+    <p><a href="/data/exhibits/662 - Curriculum Vitae of Stephen Ellis.pdf" target="_blank">Curriculum Vitae of Stephen Ellis</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#648</p>
     <p><a href="/data/exhibits/648 - What the German Report Got Wrong by Samantha Gale - Summer 2019.pdf" target="_blank">What the German Report Got Wrong by Samantha Gale - Summer 2019</a></p>
 </div>
