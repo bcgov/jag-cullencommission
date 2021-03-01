@@ -181,7 +181,7 @@ NEW HEARING TEMPLATE
     <li><strong>Stephen Ellis</strong>, Real Estate Brokers Association of BC</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript February 26, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('517377134'); return false">Watch Video of Session</button>
   </div>
   <p>February 25, 2021</p>
@@ -190,7 +190,7 @@ NEW HEARING TEMPLATE
     <li><strong>Raheel Humayun</strong>, Managing Director, Investigations, Office of the Superintendent of Real Estate</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript February 25, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('516939112'); return false">Watch Video of Session</button>
   </div>
   <p>February 24, 2021</p>
