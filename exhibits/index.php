@@ -664,6 +664,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/491 - Emails Re Story showing how vigilant Great Canadian Gaming is at preventing money launderings - Aug 26 2015_Redacted.pdf" target="_blank">Emails Re Story showing how vigilant Great Canadian Gaming is at preventing money launderings - Aug 26, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#490</p>
+    <p>Affidavit No. 1 of Robert Kroeker made on January 15, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#489</p>
     <p><a href="/data/exhibits/489 - Email exchange between Douglas Scott and Michael Graydon re GPEB letter - Privileged and Confidential - Jan 18 2013_Redacted.pdf" target="_blank">(Previously marked as Exhibit B) Email exchange between Douglas Scott and Michael Graydon, re GPEB letter - Privileged and Confidential - Jan 18, 2013_Redacted</a></p>
 </div>
