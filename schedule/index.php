@@ -182,7 +182,7 @@ NEW HEARING TEMPLATE
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('517377134'); return false">Watch Video of Session</button>
   </div>
   <p>February 25, 2021</p>
   <ul class="ScheduleListWitnesses">
@@ -198,7 +198,7 @@ NEW HEARING TEMPLATE
     <li><strong>Jay Chaudhary</strong>, Former Mortgage Broker</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript February 24, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('516501327'); return false">Watch Video of Session</button>
   </div>
   <p>February 23, 2021</p>
