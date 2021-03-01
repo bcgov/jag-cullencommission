@@ -17,14 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>February 26, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Stephen Ellis</strong>, Real Estate Brokers Association of BC</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>March 1, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Cpl. Melvin Chizawsky</strong>, RCMP</li>
@@ -184,6 +176,14 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>February 26, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Stephen Ellis</strong>, Real Estate Brokers Association of BC</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>February 25, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Michael Scott</strong>, Director, Compliance and Investigations, Real Estate Council of British Columbia</li>
