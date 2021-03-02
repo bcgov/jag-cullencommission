@@ -9,25 +9,61 @@ metadata:
       "${NAME} build pod template pre-configured to use a jenkins slave in the same project/namespace"
 objects:
 
-  - kind: NetworkSecurityPolicy
-    apiVersion: security.devops.gov.bc.ca/v1alpha1
+  - kind: NetworkPolicy
+    apiVersion: networking.k8s.io/v1
     metadata:
-      name: jenkins
+      name: nodes-to-jenkins
       labels:
-        name: jenkins
+        name: nodes-to-jenkins
     spec:
       description: |
-        Allow jenkins and it's nodes to communicate.
-      source:
-        - - name=jenkins
-          - $namespace=${NAMESPACE}
-        - - jenkins=slave
-          - $namespace=${NAMESPACE}
-      destination:
-        - - name=jenkins
-          - $namespace=${NAMESPACE}
-        - - jenkins=slave
-          - $namespace=${NAMESPACE}
+        Allow jenkins nodes to talk with jenkins.
+      ingress:
+        - from:
+            - podSelector:
+                matchLabels:
+                  jenkins: slave
+      podSelector:
+        matchLabels:
+          name: jenkins
+
+  - kind: NetworkPolicy
+    apiVersion: networking.k8s.io/v1
+    metadata:
+      name: jenkins-to-nodes
+      labels:
+        name: jenkins-to-nodes
+    spec:
+      description: |
+        Allow jenkins to talk with it's nodes.
+      ingress:
+        - from:
+            - podSelector:
+                matchLabels:
+                  name: jenkins
+      podSelector:
+        matchLabels:
+          jenkins: slave
+
+  # - kind: NetworkSecurityPolicy
+  #   apiVersion: security.devops.gov.bc.ca/v1alpha1
+  #   metadata:
+  #     name: jenkins
+  #     labels:
+  #       name: jenkins
+  #   spec:
+  #     description: |
+  #       Allow jenkins and it's nodes to communicate.
+  #     source:
+  #       - - name=jenkins
+  #         - $namespace=${NAMESPACE}
+  #       - - jenkins=slave
+  #         - $namespace=${NAMESPACE}
+  #     destination:
+  #       - - name=jenkins
+  #         - $namespace=${NAMESPACE}
+  #       - - jenkins=slave
+  #         - $namespace=${NAMESPACE}
 
   - kind: ImageStream
     apiVersion: v1
