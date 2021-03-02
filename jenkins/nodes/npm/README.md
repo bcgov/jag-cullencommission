@@ -18,7 +18,7 @@ For local running and experimentation run `docker run -i -t jenkins-node-npm /bi
 oc -n 534380-tools process -f ../jenkins-node-generic-template.yaml \
     -p NAME=jenkins-node-npm \
     -p SOURCE_CONTEXT_DIR=jenkins/nodes/npm \
-    | oc apply -f -
+    | oc -n 534380-tools apply -f -
 ```
 
 For all params see the list in the `../jenkins-node-generic-template.yaml` or run `oc process --parameters -f ../jenkins-node-generic-template.yaml`.
