@@ -7,24 +7,31 @@ metadata:
     description: Deployment template.
 objects:
 
-  - kind: NetworkSecurityPolicy
-    apiVersion: security.devops.gov.bc.ca/v1alpha1
+  - kind: NetworkPolicy
+    apiVersion: networking.k8s.io/v1
     metadata:
-      name: pods-to-api
+      name: ${NAME}${SUFFIX}-allow-ingress
       labels:
-        name: pods-to-api
-        app: ${APP_NAME}
+        name: ${NAME}${SUFFIX}-allow-ingress
+        app: ${APP_NAME}${SUFFIX}
         app-group: ${APP_GROUP}
         role: ${ROLE}
         env: ${TAG_NAME}
     spec:
       description: |
-        Allow pods to talk to the internal api so deployments work.
-        This only needs to be specified once per environment.
-      source:
-        - - $namespace=${NAMESPACE}-${TAG_NAME}
-      destination:
-        - - int:network=internal-cluster-api-endpoint
+        Allow traffic from routes into the ${ROLE} container(s).
+      ingress:
+        - from:
+            - namespaceSelector:
+                matchLabels:
+                  network.openshift.io/policy-group: ingress
+      podSelector:
+        matchLabels:
+          role: ${ROLE}
+          app: ${APP_NAME}${SUFFIX}
+          env: ${TAG_NAME}
+      policyTypes:
+        - Ingress
 
   - kind: Service
     apiVersion: v1
@@ -131,7 +138,7 @@ objects:
         spec:
           containers:
             - name: ${NAME}${SUFFIX}
-              image:  
+              image:
               ports:
                 - containerPort: ${{HTTP_PORT}}
                   protocol: TCP
@@ -139,13 +146,13 @@ objects:
                 initialDelaySeconds: 3
                 timeoutSeconds: 30
                 httpGet:
-                  path: 
+                  path:
                   port: ${{HTTP_PORT}}
               livenessProbe:
                 initialDelaySeconds: 120
                 timeoutSeconds: 30
                 httpGet:
-                  path: 
+                  path:
                   port: ${{HTTP_PORT}}
               resources:
                 requests:
@@ -182,7 +189,7 @@ parameters:
     displayName: Suffix
     description: A name suffix used for all objects
     required: false
-    value: 
+    value:
   - name: APP_NAME
     displayName: App Name
     description: App Name
@@ -201,13 +208,13 @@ parameters:
   - name: NAMESPACE
     displayName: The target namespace for the resources.
     required: true
-    value: '534380'
+    value: "534380"
 
   - name: HTTP_PORT
     displayName: Http Port
     description: The http port on which the service will listen.
     required: true
-    value: '8080'
+    value: "8080"
   - name: APPLICATION_DOMAIN
     displayName: Application Hostname
     description: The exposed hostname that will route to the service, if left blank a value will be defaulted.
@@ -234,12 +241,12 @@ parameters:
     displayName: Minimum Replicas
     description: The minimum number of pods to have running.
     required: true
-    value: '3'
+    value: "3"
   - name: MAX_REPLICAS
     displayName: Maximum Replicas
     description: The maximum number of pods to have running.
     required: true
-    value: '6'
+    value: "6"
 
   - name: CPU_REQUEST
     displayName: Resources CPU Request
