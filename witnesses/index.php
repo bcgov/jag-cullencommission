@@ -23,7 +23,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Donna Achimov</strong>, (Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 January, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 March, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Ken Ackles</strong>, (Gaming Policy and Enforcement Branch (GPEB) Manager of Investigations, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
