@@ -16,6 +16,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#667</p>
+    <p><a href="/data/exhibits/667 - Presentation - Application of Networks to detect and mitigate organized crime - March 2021.pdf" target="_blank">Presentation - Application of Networks to detect and mitigate organized crime - March 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#666</p>
+    <p><a href="/data/exhibits/666 - Biography of David Stewart.pdf" target="_blank">Biography of David Stewart</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#665</p>
+    <p><a href="/data/exhibits/665 - Biography of Beth Dewitt.pdf" target="_blank">Biography of Beth Dewitt</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#664</p>
+    <p><a href="/data/exhibits/664 - Biography of Alexon Bell.pdf" target="_blank">Biography of Alexon Bell</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#662</p>
     <p><a href="/data/exhibits/662 - Curriculum Vitae of Stephen Ellis.pdf" target="_blank">Curriculum Vitae of Stephen Ellis</a></p>
 </div>
