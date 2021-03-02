@@ -232,6 +232,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>Overview Report Literature on Money Laundering and Real Estate & Response from Real Estate Industry<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
+    <p>#600</p>
+    <p><a href="/data/exhibits/600 - GPEB Internal Memo from Lynn Li to Len Meilleur re Review of Transactions from Chinas Sky Net List of 100 Most Wanted Fugitives - April 29 2016_Redacted.pdf" target="_blank">GPEB Internal Memo from Lynn Li to Len Meilleur, re Review of Transactions from China's Sky Net List of 100 Most Wanted Fugitives - April 29, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#599</p>
     <p><a href="/data/exhibits/599 - Email from Murray Dugger to Ross Alderson re BCLC Casino proposals - March 9 2016_Redacted.pdf" target="_blank">Email from Murray Dugger to Ross Alderson, re BCLC Casino proposals - March 9, 2016_Redacted</a></p>
 </div>
