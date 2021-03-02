@@ -17,26 +17,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>March 2, 2021</p>
-  <div>
-    <p style="color: red"><strong>This hearing starts at 8:30am and ends at 12:30pm.</strong></p>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Deloitte/Quantexa Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Peter Dent</strong>, Managing Partner, Financial Advisory, BC Region, Deloitte LLP</li>
-        <li><strong>Beth Dewitt</strong>, National Leader, Data Protection and Privacy, Deloitte LLP</li>
-        <li><strong>David Stewart</strong>, Partner, Financial Crime Analytics, Deloitte LLP</li>
-        <li><strong>Alexon Bell</strong>, Chief Product Officer, Quantexa</li>
-      </ul>
-    </div>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Brad Rudnicki</strong>, Anti-Money Laundering Intelligence Specialist, British Columbia Lottery Corporation</li>
-    </ul>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>March 3, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Qi Li</strong>, Former Edgewater Casino Employee<br /><strong style="color: red">(Please note that Ms. Li will use a Mandarin interpreter.)</strong></li>
@@ -168,6 +148,26 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>March 2, 2021</p>
+  <div>
+    <p style="color: red"><strong>This hearing starts at 8:30am and ends at 12:30pm.</strong></p>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Deloitte/Quantexa Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Peter Dent</strong>, Managing Partner, Financial Advisory, BC Region, Deloitte LLP</li>
+        <li><strong>Beth Dewitt</strong>, National Leader, Data Protection and Privacy, Deloitte LLP</li>
+        <li><strong>David Stewart</strong>, Partner, Financial Crime Analytics, Deloitte LLP</li>
+        <li><strong>Alexon Bell</strong>, Chief Product Officer, Quantexa</li>
+      </ul>
+    </div>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Brad Rudnicki</strong>, Anti-Money Laundering Intelligence Specialist, British Columbia Lottery Corporation</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>March 1, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Cpl. Melvin Chizawsky</strong>, RCMP</li>
