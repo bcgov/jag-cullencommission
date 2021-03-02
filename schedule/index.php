@@ -150,7 +150,6 @@ NEW HEARING TEMPLATE
   <p><strong><u>Witness Name</u></strong></p>
   <p>March 2, 2021</p>
   <div>
-    <p style="color: red"><strong>This hearing starts at 8:30am and ends at 12:30pm.</strong></p>
     <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Deloitte/Quantexa Panel:</p>
       <ul class="ScheduleListWitnesses">
