@@ -16,6 +16,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#672</p>
+    <p><a href="/data/exhibits/672 - Analytical Concepts for Cullen Commission_Redacted.pdf" target="_blank">Analytical Concepts for Cullen Commission_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#671</p>
+    <p><a href="/data/exhibits/671 - Link Chart prepared by Brad Rudnicki - Nov 27 2018_Redacted.pdf" target="_blank">Link Chart prepared by Brad Rudnicki - Nov 27, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#670</p>
+    <p>Real Estate Observations BCLC AML Unit 2019_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#669</p>
+    <p><a href="/data/exhibits/669 - Curriculum Vitae of Brad Rudnicki.pdf" target="_blank">Curriculum Vitae of Brad Rudnicki</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#668</p>
+    <p><a href="/data/exhibits/668 - To Surveil and Predict - publication of University of Toronto - International Human Rights Program - 2020.pdf" target="_blank">To Surveil and Predict - publication of University of Toronto - International Human Rights Program - 2020</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#667</p>
     <p><a href="/data/exhibits/667 - Presentation - Application of Networks to detect and mitigate organized crime - March 2021.pdf" target="_blank">Presentation - Application of Networks to detect and mitigate organized crime - March 2021</a></p>
 </div>
@@ -30,6 +50,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#664</p>
     <p><a href="/data/exhibits/664 - Biography of Alexon Bell.pdf" target="_blank">Biography of Alexon Bell</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#663</p>
+    <p>Affidavit of Cpl. Melvin Chizawsky made on February 4, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#662</p>
@@ -300,6 +324,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/588 - Email from Len Meilleur to John Mazure re Draft - AML Direction for discussion Nov 6 2014 - Nov 12 2014 -with attachment-.pdf" target="_blank">Email from Len Meilleur to John Mazure, re Draft - AML Direction for discussion Nov 6, 2014 - Nov 12, 2014 (with attachment)</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#587</p>
+    <p>Affidavit no. 1 of Joseph Emile Leonard Meilleur made on February 9, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#586</p>
     <p><strong>This exhibit will not be posted by direction of the Commissioner.</strong></p>
 </div>
@@ -558,6 +586,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#523</p>
     <p><a href="/data/exhibits/523 - BCLC Patron Risk Decision Tree.pdf" target="_blank">BCLC Patron Risk Decision Tree</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#522</p>
+    <p>Affidavit no. 1 of Brad Desmarais affirmed on January 28, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#521</p>
