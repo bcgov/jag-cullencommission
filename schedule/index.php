@@ -142,11 +142,11 @@ NEW HEARING TEMPLATE
   <p><strong><u>Witness Name</u></strong></p>
   <p>March 3, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>Qi Li</strong>, Former Edgewater Casino Employee<br /><strong style="color: red">(Please note that Ms. Li will use a Mandarin interpreter.)</strong></li>
+    <li><strong>Qi Li</strong>, Former Edgewater Casino Employee</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('519315083'); return false">Watch Video of Session</button>
   </div>
   <p>March 2, 2021</p>
   <div>
@@ -172,7 +172,7 @@ NEW HEARING TEMPLATE
     <li><strong>Cpl. Melvin Chizawsky</strong>, RCMP</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript March 1, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('518379909'); return false">Watch Video of Session</button>
   </div>
   <p>February 26, 2021</p>
