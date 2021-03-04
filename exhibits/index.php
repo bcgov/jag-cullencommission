@@ -60,6 +60,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/662 - Curriculum Vitae of Stephen Ellis.pdf" target="_blank">Curriculum Vitae of Stephen Ellis</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#652</p>
+    <p><a href="/data/exhibits/652 - Affidavit No.1 of Karen Best Sworn Feb 12 2021_Redacted.pdf" target="_blank">Affidavit #1 of Karen Best Sworn Feb 12 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#648</p>
     <p><a href="/data/exhibits/648 - What the German Report Got Wrong by Samantha Gale - Summer 2019.pdf" target="_blank">What the German Report Got Wrong by Samantha Gale - Summer 2019</a></p>
 </div>
