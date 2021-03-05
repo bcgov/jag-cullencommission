@@ -32,6 +32,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><strong>This exhibit has been sealed by order of the Commissioner and will not be posted to the website.</strong></p>
 </div>
 <div class="ExhibitElement">
+    <p>#675</p>
+    <p><a href="/data/exhibits/675 - BCLC Banned patron Subject Detailed sheet printed July 30 2020_Redacted.pdf" target="_blank">BCLC Banned patron Subject Detailed sheet, printed July 30, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#674</p>
+    <p><a href="/data/exhibits/674 - Notice of Civil Claim - VLC-S-S-154010 - May 15 2015.pdf" target="_blank">Notice of Civil Claim - VLC-S-S-154010 - May 15, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#673</p>
+    <p><a href="/data/exhibits/673 - Incident Report No.IN20150017386 - April 2 2015_Redacted.pdf" target="_blank">Incident Report #IN20150017386 - April 2, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#672</p>
     <p><a href="/data/exhibits/672 - Analytical Concepts for Cullen Commission_Redacted.pdf" target="_blank">Analytical Concepts for Cullen Commission_Redacted</a></p>
 </div>
