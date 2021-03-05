@@ -16,6 +16,34 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#686</p>
+    <p><a href="/data/exhibits/686 - ABC Solutions Training Brochure -redacted-.pdf" target="_blank">ABC Solutions Training Brochure (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#685</p>
+    <p><a href="/data/exhibits/685 - Conveyancing Cash Flow Charts v3 Oct 2020.pdf" target="_blank">Conveyancing Cash Flow Charts v3, Oct 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#684</p>
+    <p><a href="/data/exhibits/684 - The Conveyancing Web of Communication Coordination and Context Version K -  Oct 2020.pdf" target="_blank">The Conveyancing Web of Communication, Coordination, and Context, Version K - Oct 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#683</p>
+    <p><a href="/data/exhibits/683 - SNPBC 2017-2020 Complaints Summary.pdf" target="_blank">SNPBC 2017-2020 Complaints Summary</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#682</p>
+    <p><a href="/data/exhibits/682 - SNPBC Organizational Chart 2021.pdf" target="_blank">SNPBC Organizational Chart 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#681</p>
+    <p><a href="/data/exhibits/681 - Resume of Marny Morin.pdf" target="_blank">Resume of Marny Morin</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#680</p>
+    <p><a href="/data/exhibits/680 - Resume of John Mayr_Redacted.pdf" target="_blank">Resume of John Mayr_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#679</p>
     <p><strong>This exhibit has been sealed by order of the Commissioner and will not be posted to the website.</strong></p>
 </div>
