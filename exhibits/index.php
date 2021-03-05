@@ -16,6 +16,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#679</p>
+    <p><strong>This exhibit has been sealed by order of the Commissioner and will not be posted to the website.</strong></p>
+</div>
+<div class="ExhibitElement">
+    <p>#678</p>
+    <p><strong>This exhibit has been sealed by order of the Commissioner and will not be posted to the website.</strong></p>
+</div>
+<div class="ExhibitElement">
+    <p>#677</p>
+    <p><strong>This exhibit has been sealed by order of the Commissioner and will not be posted to the website.</strong></p>
+</div>
+<div class="ExhibitElement">
+    <p>#676</p>
+    <p><strong>This exhibit has been sealed by order of the Commissioner and will not be posted to the website.</strong></p>
+</div>
+<div class="ExhibitElement">
     <p>#672</p>
     <p><a href="/data/exhibits/672 - Analytical Concepts for Cullen Commission_Redacted.pdf" target="_blank">Analytical Concepts for Cullen Commission_Redacted</a></p>
 </div>
