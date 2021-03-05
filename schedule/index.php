@@ -9,10 +9,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h1>Hearings Schedule</h1>
 <p>While the Commission has made efforts to organize the hearings thematically, the topic of money laundering does not lend itself to silos and witnesses may address a variety of different topics in their testimony, not limited to the sector in question. As well, witnesses called during later portions of the hearings, may have additional evidence to present on the topic of gaming, casinos, and horse racing.</p>
 <p>Please note: the hearings schedule/witness list is subject to change.</p>
+<p>For a brief overview of the main hearings, please <a href="/hearings-description/">click here</a>.</p>
+<p>Upcoming hearing blocks include luxury goods, enforcement, government response and other jurisdictions.</p>
 
 <!--  UPCOMING HEARINGS  -->
 
-<p>For a brief overview of the main hearings, please <a href="/hearings-description/">click here</a>.</p>
 <div class="ScheduleList">
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
@@ -111,6 +112,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       </ul>
     </div>
   </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p style="line-height: 20px;">March 15, 2021 -<br />March 26, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>March Break. No hearings scheduled.</strong></li>
+  </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
     <div></div>
