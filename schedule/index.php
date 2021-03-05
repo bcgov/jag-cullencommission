@@ -93,20 +93,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p>March 12, 2021</p>
   <div>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Land Title and Survey Authority of British Columbia Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Carlos MacDonald</strong>, Director of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
-        <li><strong>Larry Blaschuk</strong>, Registrar of Land Titles, LTSA</li>
-        <li><strong>Gregory Steves</strong>, Vice President, Policy and Legal Services, LTSA</li>
-        <li><strong>Reuben Danakody</strong>, Director, Land Owner Transparency Registry</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Financial Transactions and Reports Analysis Centre of Canada Panel:</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)</li>
         <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
         <li><strong>Annette Ryan</strong>, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Land Title and Survey Authority of British Columbia Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Larry Blaschuk</strong>, Registrar of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
+        <li><strong>Carlos MacDonald</strong>, Director of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
+        <li><strong>Gregory Steves</strong>, Vice President, Policy and Legal Services, Land Title and Survey Authority of British Columbia (LTSA)</li>
+        <li><strong>Reuben Danakody</strong>, Director, Land Owner Transparency Registry</li>
       </ul>
     </div>
   </div>
