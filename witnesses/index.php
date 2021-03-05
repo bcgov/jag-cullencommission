@@ -93,7 +93,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 February, 2021</strong></p>
     </div>
-    <p class="NamesOfWitnesses"><strong>Larry Blaschuk</strong>, (Registrar of Land Titles, LTSA)</p>
+    <p class="NamesOfWitnesses"><strong>Larry Blaschuk</strong>, (Registrar of Land Titles, Land Title and Survey Authority of British Columbia (LTSA))</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">March 12, 2021</strong></p>
     </div>
@@ -667,7 +667,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
     </div>
-    <p class="NamesOfWitnesses"><strong>Gregory Steves</strong>, (Vice President, Policy and Legal Services, LTSA)</p>
+    <p class="NamesOfWitnesses"><strong>Gregory Steves</strong>, (Vice President, Policy and Legal Services, Land Title and Survey Authority of British Columbia (LTSA))</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 March, 2021</strong></p>
     </div>
