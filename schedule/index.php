@@ -31,17 +31,21 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
   <p>March 8, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Finance Real Estate Data Analytics Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Christina Dawkins</strong>, Executive Lead, Finance Real Estate Data Analytics (FREDA), BC Ministry of Finance</li>
-      <li><strong>Joseph Primeau</strong>, Executive Director, Policy, FREDA</li>
-    </ul>
-    <p class="SchedulePanelName">Federal-Provincial Working Group on Real Estate Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Christina Dawkins</strong> (cont’d), Executive Lead, Finance Real Estate Data Analytics (FREDA), BC Ministry of Finance</li>
-      <li><strong>Justin Brown</strong>, Senior Director, Financial Crimes Policy, Department of Finance – Canada</li>
-    </ul>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Finance Real Estate Data Analytics Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Christina Dawkins</strong>, Executive Lead, Finance Real Estate Data Analytics (FREDA), BC Ministry of Finance</li>
+        <li><strong>Joseph Primeau</strong>, Executive Director, Policy, FREDA</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Federal-Provincial Working Group on Real Estate Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Christina Dawkins</strong> (cont’d), Executive Lead, Finance Real Estate Data Analytics (FREDA), BC Ministry of Finance</li>
+        <li><strong>Justin Brown</strong>, Senior Director, Financial Crimes Policy, Department of Finance – Canada</li>
+      </ul>
+    </div>
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
