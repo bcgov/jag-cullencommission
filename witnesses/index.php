@@ -57,6 +57,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Jon Baron</strong>, (Executive Director, Data, Finance Real Estate Data Analytics – BC Finance)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 March, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Michael Barron</strong>, (UK Consultant, Co-Author of <em>Towards a Global Norm of Beneficial Ownership Transparency</em>)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">27 November, 2020</strong></p>
@@ -103,7 +107,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Justin Brown</strong>, (Senior Director, Financial Crimes Policy, Department of Finance – Canada)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">8 March, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Oliver Bullough</strong>, (Journalist and Author)</p>
     <div class="WitnessHearingsList">
@@ -174,12 +178,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">D</h2>
   <div class="WitnessList">
-    <p class="NamesOfWitnesses"><strong>Christina Dawkins</strong>, (Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance)</p>
+  <p class="NamesOfWitnesses"><strong>Reuben Danakody</strong>, (Director, Land Owner Transparency Registry)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 March, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Christina Dawkins</strong>, (Executive Lead, Finance Real Estate Data Analytics (FREDA), BC Ministry of Finance)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">8 March, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 March, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Kevin deBruyckere</strong>, (Director, AML & Investigations, Legal Compliance, Security Division, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
@@ -364,10 +371,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Dr. Colin King</strong>, (Reader in Law and Director of Postgraduate Research Studies, Institute of Advanced Legal Studies, University of London)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">16 December, 2020</strong></p>
-    </div>
-    <p class="NamesOfWitnesses"><strong>Elisabeth Koulouris</strong>, (Specialist, Policy Analysis, CMHC)</p>
-    <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 March, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Sgt. Warren Krahenbil</strong>, (RCMP Federal Cybercrime Operations Group Team Leader)</p>
     <div class="WitnessHearingsList">
@@ -558,7 +561,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">1 December, 2020</strong></p>
     </div>
-    <p class="NamesOfWitnesses"><strong>Joey Primeau</strong>, (A/ED, Financial and Corporate Sector Policy Branch, BC Ministry of Finance)</p>
+    <p class="NamesOfWitnesses"><strong>Joseph Primeau</strong>, (A/ED, Financial and Corporate Sector Policy Branch, BC Ministry of Finance)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">1 December, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">8 March, 2021</strong></p>
