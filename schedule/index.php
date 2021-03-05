@@ -101,7 +101,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       </ul>
     </div>
     <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Land Title and Survey Authority of British Columbia Panel:</p>
+      <p class="SchedulePanelName">Land Title and Survey Authority of British Columbia Panel:</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Larry Blaschuk</strong>, Registrar of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
         <li><strong>Carlos MacDonald</strong>, Director of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
@@ -160,7 +160,7 @@ NEW HEARING TEMPLATE
     <li><strong>Qi Li</strong>, Former Edgewater Casino Employee</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript March 3, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('519315083'); return false">Watch Video of Session</button>
   </div>
   <p>March 2, 2021</p>
