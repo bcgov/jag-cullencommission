@@ -34,8 +34,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Finance Real Estate Data Analytics Panel:</p>
     <ul class="ScheduleListWitnesses">
-      <li><strong>Christina Dawkins</strong>, Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance</li>
+      <li><strong>Christina Dawkins</strong>, Executive Lead, Finance Real Estate Data Analytics (FREDA), BC Ministry of Finance</li>
       <li><strong>Joseph Primeau</strong>, Executive Director, Policy, FREDA</li>
+    </ul>
+    <p class="SchedulePanelName">Federal-Provincial Working Group on Real Estate Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Christina Dawkins</strong> (cont’d), Executive Lead, Finance Real Estate Data Analytics (FREDA), BC Ministry of Finance</li>
+      <li><strong>Justin Brown</strong>, Senior Director, Financial Crimes Policy, Department of Finance – Canada</li>
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
@@ -43,13 +48,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
   <p>March 9, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Federal-Provincial Working Group on Real Estate Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Christina Dawkins</strong> (cont’d), Executive Lead, Finance Real Estate Data Analytics, BC Ministry of Finance</li>
-      <li><strong>Justin Brown</strong>, Senior Director, Financial Crimes Policy, Department of Finance – Canada</li>
-    </ul>
-  </div>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>TBA</strong></li>
+  </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
     <div></div>
@@ -68,7 +69,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="SchedulePanelName">Canada Mortgage and Housing Corporation Panel:</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Bert Pereboom</strong>, Senior Manager, Housing Market Policy, Canada Mortgage and Housing Corporation (CMHC)</li>
-        <li><strong>Elisabeth Koulouris</strong>, Specialist, Policy Analysis, CMHC</li>
         <li><strong>Wahid Abdallah</strong>, Specialist, Policy Analysis, CMHC</li>
       </ul>
     </div>
@@ -78,6 +78,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <li><strong>Haig McCarrell</strong>, Director of Investment, Science and Technology, Statistics Canada</li>
         <li><strong>Ellen Bekkering</strong>, Chief, Statistics Canada</li>
         <li><strong>Jean-Philippe Deschamps-Laporte</strong>, Chief, Statistics Canada</li>
+        <li><strong>Jon Baron</strong>, Executive Director, Data, Finance Real Estate Data Analytics – BC Finance</li>
       </ul>
     </div>
   </div>
@@ -93,6 +94,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <li><strong>Carlos MacDonald</strong>, Director of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
         <li><strong>Larry Blaschuk</strong>, Registrar of Land Titles, LTSA</li>
         <li><strong>Gregory Steves</strong>, Vice President, Policy and Legal Services, LTSA</li>
+        <li><strong>Reuben Danakody</strong>, Director, Land Owner Transparency Registry</li>
       </ul>
     </div>
     <div class="ScheduleListPanel">
@@ -705,7 +707,7 @@ NEW HEARING TEMPLATE
   <p>December 1, 2020</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Carol Prest</strong>, Executive Director and Registrar, BC Registries and Online Services</li>
-    <li><strong>Joey Primeau</strong>, A/ED, Financial and Corporate Sector Policy Branch, BC Ministry of Finance</li>
+    <li><strong>Joseph Primeau</strong>, A/ED, Financial and Corporate Sector Policy Branch, BC Ministry of Finance</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <a href="/data/transcripts/Transcript December 1, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
