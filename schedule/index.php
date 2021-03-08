@@ -41,7 +41,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>March 9, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>TBA</strong></li>
+    <li><strong>No scheduled hearing</strong></li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -145,7 +145,7 @@ NEW HEARING TEMPLATE
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('520410608'); return false">Watch Video of Session</button>
   </div>
   <p>March 4, 2021</p>
   <ul class="ScheduleListWitnesses">
