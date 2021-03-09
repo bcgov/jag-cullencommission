@@ -18,27 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>March 8, 2021</p>
-  <div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Finance Real Estate Data Analytics Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Christina Dawkins</strong>, Executive Lead, Finance Real Estate Data Analytics (FREDA), BC Ministry of Finance</li>
-        <li><strong>Joseph Primeau</strong>, Executive Director, Policy, FREDA</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Federal-Provincial Working Group on Real Estate Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Christina Dawkins</strong> (cont’d), Executive Lead, Finance Real Estate Data Analytics (FREDA), BC Ministry of Finance</li>
-        <li><strong>Justin Brown</strong>, Senior Director, Financial Crimes Policy, Department of Finance – Canada</li>
-      </ul>
-    </div>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>March 9, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>No scheduled hearing</strong></li>
@@ -135,6 +114,27 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>March 8, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Finance Real Estate Data Analytics Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Christina Dawkins</strong>, Executive Lead, Finance Real Estate Data Analytics (FREDA), BC Ministry of Finance</li>
+        <li><strong>Joseph Primeau</strong>, Executive Director, Policy, FREDA</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Federal-Provincial Working Group on Real Estate Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Christina Dawkins</strong> (cont’d), Executive Lead, Finance Real Estate Data Analytics (FREDA), BC Ministry of Finance</li>
+        <li><strong>Justin Brown</strong>, Senior Director, Financial Crimes Policy, Department of Finance – Canada</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>March 5, 2021</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Society of Notaries Public Panel:</p>
