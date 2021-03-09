@@ -133,7 +133,7 @@ NEW HEARING TEMPLATE
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('521200764'); return false">Watch Video of Session</button>
   </div>
   <p>March 5, 2021</p>
   <div class="ScheduleListPanel">
@@ -144,12 +144,12 @@ NEW HEARING TEMPLATE
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript March 5, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('520410608'); return false">Watch Video of Session</button>
   </div>
   <p>March 4, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong style="color: red;">In camera (non-public) hearing, in accordance with <a href="/files/ApplicationForWitnessSafetyMeasuresRuling28.pdf">Ruling #28</a></strong></li>
+    <li><strong>In camera (non-public) hearing, in accordance with <a href="/files/ApplicationForWitnessSafetyMeasuresRuling28.pdf">Ruling #28</a>. No video archive or transcript will be posted for this panel as a result.</strong></li>
   </ul>
   <div class=" ScheduleTranscriptButton">
     <div></div>
