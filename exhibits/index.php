@@ -116,8 +116,32 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/662 - Curriculum Vitae of Stephen Ellis.pdf" target="_blank">Curriculum Vitae of Stephen Ellis</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#655</p>
+    <p>Cease and Desist Order in the matter of the Mortgage Brokers Act and Jay Kanth Chaudhary - May 23, 2019_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#654</p>
+    <p>Investigation report on client files of Jay Chaudhary_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#653</p>
+    <p><a href="/data/exhibits/653 - Suspension Order In the matter of the Mortgage Brokers Act and Jay Kanth Chaudhary - October16 2008_Redacted.pdf" target="_blank">Suspension Order In the matter of the Mortgage Brokers Act and Jay Kanth Chaudhary - October 16, 2008_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#652</p>
     <p><a href="/data/exhibits/652 - Affidavit No.1 of Karen Best Sworn Feb 12 2021_Redacted.pdf" target="_blank">Affidavit #1 of Karen Best Sworn Feb 12 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#651</p>
+    <p><a href="/data/exhibits/651 - Case note Meeting with RCMP - Case File INV18.313.53758 - Filing date 03 Apr 2019.pdf" target="_blank">Case note Meeting with RCMP - Case File INV18.313.53758 - Filing date 03 Apr 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#650</p>
+    <p><a href="/data/exhibits/650 - FICOM Investigative Services Review of Sample of Mortgage Transactions Case file INV11.343.48836_Redacted.pdf" target="_blank">FICOM Investigative Services, Review of Sample of Mortgage Transactions Case file INV11.343.48836_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#649</p>
+    <p><a href="/data/exhibits/649 - Curriculum Vitae of Michael McTavish.pdf" target="_blank">Curriculum Vitae of Michael McTavish</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#648</p>
@@ -818,6 +842,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#480</p>
     <p>Affidavit no. 1 of Bill Lang affirmed January 15, 2021<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#479</p>
+    <p><strong>This exhibit will not be posted by direction of the Commissioner. Members of the media may apply to the Commissioner for access to this exhibit in accordance with the direction issued by the Commissioner on February 11, 2021 regarding access to Exhibit 574.</strong></p>
 </div>
 <div class="ExhibitElement">
     <p>#478</p>
@@ -2376,6 +2404,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/90 - Exhibit 90 Applied (BCLC0016423).pdf" target="_blank">Incident Report from River Rock on Unusual Financial Transaction (IN20200006443) – January 29, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#89</p>
+    <p><strong>This exhibit will not be posted by direction of the Commissioner. Members of the media may apply to the Commissioner for access to this exhibit in accordance with the direction issued by the Commissioner on February 11, 2021 regarding access to Exhibit 574.</strong></p>
+</div>
+<div class="ExhibitElement">
     <p>#88</p>
     <p><a href="/data/exhibits/88 - Exhibit 88 Applied (BCLC0015449).pdf" target="_blank">Incident Report at Starlight Casino on Unusal Financial (IN20150010775) - Transaction (redacted)</a></p>
 </div>
@@ -2394,6 +2426,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#84</p>
     <p><a href="/data/exhibits/84 - Extracted Pages 27-29 GPEB4302.pdf" target="_blank">Email from Gordon Friesen to Steve Beeksma RE Under$50K buy ins in $20 bills - September 23, 2011</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#83</p>
+    <p><strong>This exhibit will not be posted by direction of the Commissioner. Members of the media may apply to the Commissioner for access to this exhibit in accordance with the direction issued by the Commissioner on February 11, 2021 regarding access to Exhibit 574.</strong></p>
+</div>
+<div class="ExhibitElement">
+    <p>#82</p>
+    <p><strong>This exhibit will not be posted by direction of the Commissioner. Members of the media may apply to the Commissioner for access to this exhibit in accordance with the direction issued by the Commissioner on February 11, 2021 regarding access to Exhibit 574.</strong></p>
+</div>
+<div class="ExhibitElement">
+    <p>#81</p>
+    <p><strong>This exhibit will not be posted by direction of the Commissioner. Members of the media may apply to the Commissioner for access to this exhibit in accordance with the direction issued by the Commissioner on February 11, 2021 regarding access to Exhibit 574.</strong></p>
 </div>
 <div class="ExhibitElement">
     <p>#80</p>
