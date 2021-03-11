@@ -2465,13 +2465,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#79</p>
-    <p>Affidavit #2 of Steve Beeksma, affirmed on October 22, 2020_redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.
-    </p>
+    <p>Affidavit #2 of Steve Beeksma, affirmed on October 22, 2020_redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#78</p>
-    <p>Affidavit #1 of Steve Beeksma, affirmed on October 22, 2020_redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.
-    </p>
+    <p>Affidavit #1 of Steve Beeksma, affirmed on October 22, 2020_redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#77</p>
@@ -2479,7 +2477,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#76</p>
-    <p><a href="/data/exhibits/76 - 2020 12 03 BCLC Standards OR FINAL - Redacted.pdf" target="_blank">Overview Report: BCLC Standards, Policies, Procedures and Operational Services Agreements</a></p>
+    <p>Overview Report: BCLC Standards, Policies, Procedures and Operational Services Agreements<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#75</p>
