@@ -16,6 +16,34 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#711</p>
+    <p><a href="/data/exhibits/711 - Table of Response to Recommendations in MNP Report.pdf" target="_blank">Table of Response to Recommendations in MNP Report</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#706</p>
+    <p><a href="/data/exhibits/706 - Final Report to Finance Ministers - January 2021.pdf" target="_blank">Final Report to Finance Ministers - January 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#705</p>
+    <p><a href="/data/exhibits/705 - Work Stream 3 - Improving Enforcement and Prosecution - Dec 18 2020_Redacted.pdf" target="_blank">Work Stream 3 - Improving Enforcement and Prosecution - Dec 18, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#704</p>
+    <p><a href="/data/exhibits/704 - Work Stream 2 - Regulatory Gaps Compliance Standards and Education.pdf" target="_blank">Work Stream 2 - Regulatory Gaps, Compliance, Standards and Education</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#703</p>
+    <p><a href="/data/exhibits/703 - Work Stream 1 Feasability Study - Dec 9 2020.pdf" target="_blank">Work Stream 1 Feasability Study - Dec 9, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#701</p>
+    <p><a href="/data/exhibits/701 - Letter from Minister Bill Morneau to Minister Carole James - Aug 3 2018.pdf" target="_blank">Letter from Minister Bill Morneau to Minister Carole James – Aug 3, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#699</p>
+    <p><a href="/data/exhibits/699 - Curriculum Vitae of Justin Brown.pdf" target="_blank">Curriculum Vitae of Justin Brown</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#686</p>
     <p><a href="/data/exhibits/686 - ABC Solutions Training Brochure -redacted-.pdf" target="_blank">ABC Solutions Training Brochure (redacted)</a></p>
 </div>
