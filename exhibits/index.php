@@ -2779,6 +2779,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>#1</p>
     <p><a href="/data/exhibits/1 - Overview Report - Basel AML Index.pdf" target="_blank">Overview Reports: Basel AML Index</a></p>
 </div>
+<p style="color: white;">TEST</p>.
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
