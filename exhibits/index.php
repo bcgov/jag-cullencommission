@@ -52,6 +52,34 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/720 - Resume of Jon Baron.pdf" target="_blank">Resume of Jon Baron</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#719</p>
+    <p><a href="/data/exhibits/719 - Defining a Housing Market Integrity Index A Methodology and Application to Quebecs Housing Market - Draft - 19 Feb 2021.pdf" target="_blank">Defining a Housing Market Integrity Index A Methodology and Application to Quebec's Housing Market - Draft - 19 Feb 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#718</p>
+    <p><a href="/data/exhibits/718 - Unger - Detecting Money Laundering in the Real Estate Sector - Joras Ferwerda and Brigitte Unger.pdf" target="_blank">Unger - Detecting Money Laundering in the Real Estate Sector - Joras Ferwerda and Brigitte Unger</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#717</p>
+    <p><a href="/data/exhibits/717 - Scoring and Flagging ML Risks in BC Real Estate - Bert Pereboom - Oct 2019.pdf" target="_blank">Scoring and Flagging ML Risks in BC Real Estate - Bert Pereboom - Oct 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#716</p>
+    <p><a href="/data/exhibits/716 - Money Laundering in the Canadian Real Estate Market Overview and key challenges for professionals and stakeholders - Bert Pereboom - Dec 2020_Redacted.pdf" target="_blank">Money Laundering in the Canadian Real Estate Market; Overview and key challenges for professionals and stakeholders - Bert Pereboom - Dec 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#715</p>
+    <p><a href="/data/exhibits/715 - Scoring and Flagging ML Risks in Real Estate - Bert Pereboom - May 9 2019_Redacted.pdf" target="_blank">Scoring and Flagging ML Risks in Real Estate - Bert Pereboom - May 9, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#714</p>
+    <p><a href="/data/exhibits/714 - Curriculum Vitae of Wahid Abdallah_Redacted.pdf" target="_blank">Curriculum Vitae of Wahid Abdallah_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#713</p>
+    <p><a href="/data/exhibits/713 - Curriculum Vitae of Bert Pereboom_Redacted.pdf" target="_blank">Curriculum Vitae of Bert Pereboom_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#711</p>
     <p><a href="/data/exhibits/711 - Table of Response to Recommendations in MNP Report.pdf" target="_blank">Table of Response to Recommendations in MNP Report</a></p>
 </div>
@@ -178,6 +206,30 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#662</p>
     <p><a href="/data/exhibits/662 - Curriculum Vitae of Stephen Ellis.pdf" target="_blank">Curriculum Vitae of Stephen Ellis</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#661</p>
+    <p><a href="/data/exhibits/661 - Letter from FICOM to RECBC re Real Estate Licensees working with Jay Kanth Chaudhary - Jun 7 2019 _Redacted.pdf" target="_blank">Letter from FICOM to RECBC, re Real Estate Licensees working with Jay Kanth Chaudhary - Jun 7, 2019 _Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#660</p>
+    <p><a href="/data/exhibits/660 - UBC RECBC AML in Real Estate Course Evaluation Report - Nov 17 2020_Redacted.pdf" target="_blank">UBC RECBC AML in Real Estate Course Evaluation Report - Nov 17, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#659</p>
+    <p><a href="/data/exhibits/659 - Curriculum Vitae of Michael Scott.pdf" target="_blank">Curriculum Vitae of Michael Scott</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#658</p>
+    <p><a href="/data/exhibits/658 - Letter to the Commission from Chantelle Rajotte in response to Commission counsels information request - Jun 9 2020_Redacted.pdf" target="_blank">Letter to the Commission from Chantelle Rajotte, in response to Commission counsel's information request - Jun 9, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#657</p>
+    <p><a href="/data/exhibits/657 - Organizational Chart - Office of the Superintendent of Real Estate - Feb 16 2021.pdf" target="_blank">Organizational Chart - Office of the Superintendent of Real Estate - Feb 16, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#656</p>
+    <p><a href="/data/exhibits/656 - Biography of Raheel  Humayun_Redacted.pdf" target="_blank">Biography of Raheel Humayun_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#655</p>
