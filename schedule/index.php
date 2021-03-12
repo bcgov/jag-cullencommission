@@ -18,29 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>March 11, 2021</p>
-  <div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Canada Mortgage and Housing Corporation Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Bert Pereboom</strong>, Senior Manager, Housing Market Policy, Canada Mortgage and Housing Corporation (CMHC)</li>
-        <li><strong>Wahid Abdallah</strong>, Specialist, Policy Analysis, CMHC</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Statistics Canada Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Haig McCarrell</strong>, Director of Investment, Science and Technology, Statistics Canada</li>
-        <li><strong>Ellen Bekkering</strong>, Chief, Statistics Canada</li>
-        <li><strong>Jean-Philippe Deschamps-Laporte</strong>, Chief, Statistics Canada</li>
-        <li><strong>Jon Baron</strong>, Executive Director, Data, Finance Real Estate Data Analytics – BC Finance</li>
-      </ul>
-    </div>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>March 12, 2021</p>
   <div>
     <div class="ScheduleListPanel">
@@ -98,6 +75,29 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>March 11, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Canada Mortgage and Housing Corporation Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Bert Pereboom</strong>, Senior Manager, Housing Market Policy, Canada Mortgage and Housing Corporation (CMHC)</li>
+        <li><strong>Wahid Abdallah</strong>, Specialist, Policy Analysis, CMHC</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Statistics Canada Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Haig McCarrell</strong>, Director of Investment, Science and Technology, Statistics Canada</li>
+        <li><strong>Ellen Bekkering</strong>, Chief, Statistics Canada</li>
+        <li><strong>Jean-Philippe Deschamps-Laporte</strong>, Chief, Statistics Canada</li>
+        <li><strong>Jon Baron</strong>, Executive Director, Data, Finance Real Estate Data Analytics – BC Finance</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>March 10, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Len Meilleur</strong> (cont’d), Former Executive Director of Compliance, Gaming Policy Enforcement Branch</li>
