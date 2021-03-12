@@ -16,6 +16,42 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#728</p>
+    <p><a href="/data/exhibits/728 - -Previously marked as Ex. H- Data Collection and Sharing Work Stream Status Update - August 26 2019.pdf" target="_blank">(Previously marked as Ex. H) Data Collection and Sharing Work Stream Status Update - August 26, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#727</p>
+    <p><a href="/data/exhibits/727 - -Previously marked as Ex. I- AML Work Stream Update - Work Stream 3 - Data Collection and Sharing - Feb 26 2020_Redacted.pdf" target="_blank">(Previously marked as Ex. I) AML Work Stream Update - Work Stream 3 - Data Collection and Sharing - Feb 26, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#726</p>
+    <p><a href="/data/exhibits/726 - -Previously marked as Ex. G- BC-Canada Working Group on Real Estate - Data Work Stream - Data Holdings Template.pdf" target="_blank">(Previously marked as Ex. G) BC-Canada Working Gropu on Real Estate - Data Work Stream - Data Holdings Template</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#725</p>
+    <p><a href="/data/exhibits/725 - Work Stream 1 - Data Collection and Sharing Work Stream Report Executive Summary - Sept 7 2020.pdf" target="_blank">Work Stream 1 - Data Collection and Sharing Work Stream Report Executive Summary - Sept 7, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#724</p>
+    <p><a href="/data/exhibits/724 - Presentation to Commission Counsel on Working Group Feasibility Study - March 11 2021_Redacted.pdf" target="_blank">Presentation to Commission Counsel on Working Group Feasibility Study - March 11, 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#723</p>
+    <p><a href="/data/exhibits/723 - Curriculum Vitae of Haig McCarrell.pdf" target="_blank">Curriculum Vitae of Haig McCarrell</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#722</p>
+    <p><a href="/data/exhibits/722 - Curriculum Vitae of Jean-Philippe Deschamps-Laporte.pdf" target="_blank">Curriculum Vitae of Jean-Philippe Deschamps-Laporte</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#721</p>
+    <p><a href="/data/exhibits/721 - Curriculum Vitae of Ellen Bekkering.pdf" target="_blank">Curriculum Vitae of Ellen Bekkering</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#720</p>
+    <p><a href="/data/exhibits/720 - Resume of Jon Baron.pdf" target="_blank">Resume of Jon Baron</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#711</p>
     <p><a href="/data/exhibits/711 - Table of Response to Recommendations in MNP Report.pdf" target="_blank">Table of Response to Recommendations in MNP Report</a></p>
 </div>
