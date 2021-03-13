@@ -100,12 +100,68 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/703 - Work Stream 1 Feasability Study - Dec 9 2020.pdf" target="_blank">Work Stream 1 Feasability Study - Dec 9, 2020</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#702</p>
+    <p><a href="/data/exhibits/702 - Terms of Reference on Real Estate Working Group_Redacted.pdf" target="_blank">Terms of Reference on Real Estate Working Group_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#701</p>
     <p><a href="/data/exhibits/701 - Letter from Minister Bill Morneau to Minister Carole James - Aug 3 2018.pdf" target="_blank">Letter from Minister Bill Morneau to Minister Carole James – Aug 3, 2018</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#700</p>
+    <p><a href="/data/exhibits/700 - Letter from Minister Carole James to Minister Morneau - Feb 1 2018_Redacted.pdf" target="_blank">Letter from Minister Carole James to Minister Morneau – Feb 1, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#699</p>
     <p><a href="/data/exhibits/699 - Curriculum Vitae of Justin Brown.pdf" target="_blank">Curriculum Vitae of Justin Brown</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#698</p>
+    <p><a href="/data/exhibits/698 - Privacy Impact Assessment for Data Analysis Branch_Redacted.pdf" target="_blank">Privacy Impact Assessment for Data Analysis Branch_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#697</p>
+    <p><a href="/data/exhibits/697 - MOF Briefing Document Title Authorize sharing Corporate Registry data with the Minstry of Finance - Jan 31 2020_Redacted.pdf" target="_blank">MOF Briefing Document, Title Authorize sharing Corporate Registry data with the Minstry of Finance - Jan 31, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#696</p>
+    <p><a href="/data/exhibits/696 - Email from Erin Seeley re MB Discussion Paper and AMPs - Sept 20 2019_Redacted.pdf" target="_blank">Email from Erin Seeley, re MB Discussion Paper and AMPs - Sept 20, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#695</p>
+    <p><a href="/data/exhibits/695 - Email from Suzanne Anderson re BCNA Mortgage Broker Act Review and Comment - Sept 30 2020 -with attachment-_Redacted.pdf" target="_blank">Email from Suzanne Anderson, re BCNA Mortgage Broker Act Review and Comment - Sept 30, 2020 (with attachment)_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#694</p>
+    <p><a href="/data/exhibits/694 - MOF Briefing Document Title Mortgage Brokers Act Review Consultation - Summary - Aug 18 2020_Redacted.pdf" target="_blank">MOF Briefing Document, Title Mortgage Brokers Act Review Consultation - Summary - Aug 18, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#693</p>
+    <p><a href="/data/exhibits/693 - Chart of policy projects.pdf" target="_blank">Chart of policy projects</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#692</p>
+    <p><a href="/data/exhibits/692 - Agenda - Project Update on Finance Maloney Report Response.pdf" target="_blank">Agenda - Project Update on Finance Maloney Report Response</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#691</p>
+    <p><a href="/data/exhibits/691 - Recommendations from Maloney Report.xlsx" target="_blank">Recommendations from Maloney Report</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#690</p>
+    <p><a href="/data/exhibits/690 - Memo from Connie Fair to Shauna Brouwer - Nov 26 2018_Redacted.pdf" target="_blank">Memo from Connie Fair to Shauna Brouwer - Nov 26, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#689</p>
+    <p><a href="/data/exhibits/689 - MOF Briefing Document Title Single Regulator for Real Estate - Rule-making procedures - Oct 16 2019_Redacted.pdf" target="_blank">MOF Briefing Document, Title Single Regulator for Real Estate - Rule-making procedures - Oct 16, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#688</p>
+    <p><a href="/data/exhibits/688 - Presentation - OneFSR Legislative Summary - Feb 19 2021.pdf" target="_blank">Presentation - OneFSR Legislative Summary - Feb 19, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#687</p>
+    <p><a href="/data/exhibits/687 - FREDA Data Branch Strategy 2020.pdf" target="_blank">FREDA Data Branch Strategy 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#686</p>
