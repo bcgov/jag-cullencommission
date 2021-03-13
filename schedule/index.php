@@ -18,30 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>March 12, 2021</p>
-  <div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Financial Transactions and Reports Analysis Centre of Canada Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)</li>
-        <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
-        <li><strong>Annette Ryan</strong>, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Land Title and Survey Authority of British Columbia Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Larry Blaschuk</strong>, Registrar of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
-        <li><strong>Carlos MacDonald</strong>, Director of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
-        <li><strong>Gregory Steves</strong>, Vice President, Policy and Legal Services, Land Title and Survey Authority of British Columbia (LTSA)</li>
-        <li><strong>Reuben Danakody</strong>, Director, Land Owner Transparency Registry</li>
-      </ul>
-    </div>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p style="line-height: 20px;">March 15, 2021 -<br />March 26, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>March Break. No hearings scheduled.</strong></li>
@@ -75,6 +51,30 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>March 12, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Financial Transactions and Reports Analysis Centre of Canada Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)</li>
+        <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
+        <li><strong>Annette Ryan</strong>, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Land Title and Survey Authority of British Columbia Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Larry Blaschuk</strong>, Registrar of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
+        <li><strong>Carlos MacDonald</strong>, Director of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
+        <li><strong>Gregory Steves</strong>, Vice President, Policy and Legal Services, Land Title and Survey Authority of British Columbia (LTSA)</li>
+        <li><strong>Reuben Danakody</strong>, Director, Land Owner Transparency Registry</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>March 11, 2021</p>
   <div>
     <div class="ScheduleListPanel">
