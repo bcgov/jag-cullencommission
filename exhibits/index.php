@@ -1084,6 +1084,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/449 - List of Compliance Engagement Activities 2017-18 to 2019-20.pdf" target="_blank">List of Compliance Engagement Activities 2017-18 to 2019-20</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#448</p>
+    <p><a href="/data/exhibits/448 - 2018 FINTRACs Report to the Minister of Finance on Compliance and Related Activities - September 2018 Redacted.pdf" target="_blank">2018 FinTRAC's Report to the Minister of Finance on Compliance and Related Activities - September 2018 Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#447</p>
+    <p><a href="/data/exhibits/447 - FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 30 2017 Redacted.pdf" target="_blank">FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 30, 2017 Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#446</p>
     <p><a href="/data/exhibits/446 - FINTRAC Statistics Letter - January 15th 2021.pdf" target="_blank">FINTRAC Statistics Letter – January 15th, 2021</a></p>
 </div>
