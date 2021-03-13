@@ -103,7 +103,7 @@ NEW HEARING TEMPLATE
     <li><strong>Len Meilleur</strong> (cont’d), Former Executive Director of Compliance, Gaming Policy Enforcement Branch</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript March 10, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('522137957'); return false">Watch Video of Session</button>
   </div>
   <p>March 8, 2021</p>
