@@ -16,6 +16,110 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#756</p>
+    <p><a href="/data/exhibits/756 - Land Owner Transparency Registry Presentation - 2020.pdf" target="_blank">Land Owner Transparency Registry Presentation - 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#755</p>
+    <p><a href="/data/exhibits/755 - Mock up - Form 5 - Claim of Lien.pdf" target="_blank">Mock up - Form 5 - Claim of Lien</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#754</p>
+    <p><a href="/data/exhibits/754 - Mock up - Form 17 - Charge Notation or Filing.pdf" target="_blank">Mock up - Form 17 - Charge, Notation or Filing</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#753</p>
+    <p><a href="/data/exhibits/753 - Mock up - Title Search.pdf" target="_blank">Mock up - Title Search</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#752</p>
+    <p><a href="/data/exhibits/752 - Mock up - Form B - Mortgage.pdf" target="_blank">Mock up - Form B - Mortgage</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#751</p>
+    <p><a href="/data/exhibits/751 - Form A -Freehold Transfer-.pdf" target="_blank">Form A (Freehold Transfer)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#750</p>
+    <p><a href="/data/exhibits/750 - Mock up - State of Title Certificate.pdf" target="_blank">Mock up - State of Title Certificate</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#749</p>
+    <p><a href="/data/exhibits/749 - Presententation -The Land Title and Survey Authority of BC - Feb 26 2020.pdf" target="_blank">Presententation - The Land Title and Survey Authority of BC - Feb 26, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#748</p>
+    <p><a href="/data/exhibits/748 - Curriculum Vitae of Greg Steves.pdf" target="_blank">Curriculum Vitae of Greg Steves</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#747</p>
+    <p><a href="/data/exhibits/747 - Resume of Carlos MacDonald.pdf" target="_blank">Resume of Carlos MacDonald</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#746</p>
+    <p><a href="/data/exhibits/746 - Curriculum Vitae of Reuben Danakody.pdf" target="_blank">Curriculum Vitae of Reuben Danakody</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#745</p>
+    <p><a href="/data/exhibits/745 - Curriculum Vitae of Larry Blaschuk.pdf" target="_blank">Curriculum Vitae of Larry Blaschuk</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#742</p>
+    <p><a href="/data/exhibits/742 - Dataset - Financial transaction report counts by postal code and activity sector - dated March 3 2021.xlsx" target="_blank">Dataset - Financial transaction report counts by postal code and activity sector – dated March 3, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#741</p>
+    <p><a href="/data/exhibits/741 - Fulfilling request from Cullen Commission - RSU input.pdf" target="_blank">Fulfilling request from Cullen Commission - RSU input</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#740</p>
+    <p><a href="/data/exhibits/740 - Sample FINTRAC Letter Re Compliance Examination Findings -redacted-.pdf" target="_blank">Sample FINTRAC Letter, Re Compliance Examination Findings (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#739</p>
+    <p><a href="/data/exhibits/739 - FINTRACs Compliance Sector BC Real Estate Brokerages Welcome Letter Template_Redacted.pdf" target="_blank">FINTRAC's Compliance Sector BC Real Estate Brokerages Welcome Letter Template_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#738</p>
+    <p><a href="/data/exhibits/738 - Details of Deficiencies Report Deficiency No.5 Act 6 Record Keeping Prescribed Records - May 2020 -redacted-.pdf" target="_blank">Details of Deficiencies Report Deficiency #5 Act 6 Record Keeping Prescribed Records - May 2020 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#737</p>
+    <p><a href="/data/exhibits/737 - FINTRACs meeting with the representatives of the Canadian Real Estate Association - Aug 23 2017.pdf" target="_blank">FINTRAC's meeting with the representatives of the Canadian Real Estate Association - Aug 23, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#736</p>
+    <p><a href="/data/exhibits/736 - FINTRACs Engagement and Compliance Activities in the Real Estate Sector.pdf" target="_blank">FINTRAC's Engagement and Compliance Activities in the Real Estate Sector</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#735</p>
+    <p>Reporting Entity Sector Profiles Money laundering and terrorist financing vulnerability assessments - Mar 31, 2014<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#734</p>
+    <p><a href="/data/exhibits/734 - Unredacted Release Package ATIP 2015-00129.pdf" target="_blank">Unredacted Release Package ATIP 2015-00129</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#733</p>
+    <p><a href="/data/exhibits/733 - FINTRAC Annual Report - November 17 2020.pdf" target="_blank">FINTRAC Annual Report – November 17, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#732</p>
+    <p><a href="/data/exhibits/732 - Curriculum Vitae of Annette Ryan.pdf" target="_blank">Curriculum Vitae of Annette Ryan</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#731</p>
+    <p><a href="/data/exhibits/731 - Curriculum Vitae of Barry MacKillop.pdf" target="_blank">Curriculum Vitae of Barry MacKillop</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#730</p>
+    <p><a href="/data/exhibits/730 - Curriculum Vitae of Donna Achimov_Redacted.pdf" target="_blank">Curriculum Vitae of Donna Achimov_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#729</p>
+    <p>Affidavit of Adam Ross made on March 9, 2021<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
     <p>#728</p>
     <p><a href="/data/exhibits/728 - -Previously marked as Ex. H- Data Collection and Sharing Work Stream Status Update - August 26 2019.pdf" target="_blank">(Previously marked as Ex. H) Data Collection and Sharing Work Stream Status Update - August 26, 2019</a></p>
 </div>
@@ -2605,7 +2709,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#87</p>
-    <p><a href="/data/exhibits/87 - Applied_(Lee No.1).pdf" target="_blank">Affidavit #1 of Stone Lee, sworn 23rd day of October, 2020_Redacted</a></p>
+    <p><a href="/data/exhibits/87 - Affidavit No.1 of Stone Lee sworn 23rd day of October 2020_Redacted.pdf" target="_blank">Affidavit #1 of Stone Lee, sworn 23rd day of October, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#86</p>
