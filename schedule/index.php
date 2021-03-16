@@ -95,7 +95,7 @@ NEW HEARING TEMPLATE
     </div>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript March 11, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('522697900'); return false">Watch Video of Session</button>
   </div>
   <p>March 10, 2021</p>
