@@ -80,8 +80,28 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/713 - Curriculum Vitae of Bert Pereboom_Redacted.pdf" target="_blank">Curriculum Vitae of Bert Pereboom_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#712</p>
+    <p><a href="/data/exhibits/712 - -Only pages 5 through 8- Email from Len Meilleur to Bill McCrea re Peronal Notes of Len Meilleur - June 4 2013 -with attachment-.pdf" target="_blank">(Only pages 5 through 8) Email from Len Meilleur to Bill McCrea, re Peronal Notes of Len Meilleur - June 4, 2013 (with attachment)</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#711</p>
     <p><a href="/data/exhibits/711 - Table of Response to Recommendations in MNP Report.pdf" target="_blank">Table of Response to Recommendations in MNP Report</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#710</p>
+    <p><a href="/data/exhibits/710 - GPEB Organization Chart - Jan 26 2015.pdf" target="_blank">GPEB Organization Chart - Jan 26, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#709</p>
+    <p><a href="/data/exhibits/709 - Email from Robert Stewart Re GM Delegation Letters - Nov 9 2018 -with attachment-_Redacted.pdf" target="_blank">Email from Robert Stewart, Re GM Delegation Letters - Nov 9, 2018 (with attachment)_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#708</p>
+    <p><a href="/data/exhibits/708 - Slide deck with notes - Ministry of Attorney General GPEB Update October 26 2017.pdf" target="_blank">Slide deck with notes - Ministry of Attorney General GPEB Update October 26, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#707</p>
+    <p><a href="/data/exhibits/707 - AML Strategy - Has it worked - Talking points - Len Meilleur.pdf" target="_blank">AML Strategy - Has it worked - Talking points - Len Meilleur</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#706</p>
