@@ -7,6 +7,33 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+    <div class="ExpandableSectionTitleContainer" id="ExpandableSection25">
+        <p class="ExpandableSectionTitle">Commission Granted Extension by Provincial Government</p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
+        <p class="ExpandableSectionUnderTitleRight">March 19, 2021</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent25">
+        <h2>Commission Granted Extension by Provincial Government</h2>
+        <p><strong>Vancouver, B.C.</strong> – The Province has agreed to extend the reporting deadline of the Commission of Inquiry into Money Laundering in British Columbia (the Cullen Commission) to December 15, 2021, as requested by Commissioner Austin Cullen. This will provide Commissioner Cullen with sufficient time to fully hear and consider all of the evidence and to prepare a report with recommendations. It is expected that Commissioner Cullen will deliver the report within the initial budget outlined at the start of the Commission.</p>
+        <p>The need to modify the Commission’s schedule arose primarily from challenges caused by the COVID-19 pandemic. The global pandemic required the Commission to shift to an entirely online environment for its hearings and other work, resulting in some of the hearings set for spring 2020 being moved to the fall. There were significant obstacles and delays in the production of documents from participants, in particular from the federal government, as noted in the Commission’s Interim Report. This led to a corresponding delay in allowing Commission counsel to review and analyze those documents, pursue investigations, and identify and interview witnesses necessary to properly prepare for the hearings. Each of these challenges resulted in scheduling delays for the hearings. </p>
+        <p>On September 25, 2020, Commissioner Cullen made the decision to delay the recommencement of the evidentiary portions of the hearings until after the provincial election had been held. The postponement from October 13 to October 26, 2020 (a delay of two weeks) was undertaken to preserve the independence of the Commission and to protect the integrity of the electoral process.</p>
+        <p>Commission counsel have been carrying on with evidence hearings since October 26, 2020 on many topics including casinos and gaming, real estate, professionals, the corporate sector, financial institutions and virtual assets. The hearings are scheduled to continue until the close of evidence in mid-May. Commission counsel are working with participants to determine the timing and process for final submissions.</p>
+        <p>“The Commission, the hearing team and the participants have exhibited a spirit of cooperation and flexibility for which I am grateful. They have collectively worked hard and pushed forward during unprecedented and difficult times caused by the COVID-19 pandemic,” said Commissioner Cullen. “By the end of the hearings, the Commission will have before it a very substantial body of evidence dealing with a host of issues—some of which are very complex. This evidence will put the Commission in a position to assess, analyze and decide on a suite of recommendations involving a broad range of social, economic, political and constitutional considerations to fulfil its mandate properly. This extension for submission of my final report will provide a reasonable timeframe to do this.”</p>
+        <p>Upcoming hearing blocks are scheduled as follows (subject to change):</p>
+        <ul>
+            <li>March 29 – April 2: Enforcement / luxury goods</li>
+            <li>April 5 – 9: Enforcement</li>
+            <li>April 12 – 16: Enforcement</li>
+            <li>April 19 – 23: Government response</li>
+            <li>April 26 – 30: Government response</li>
+            <li>May 3 – 7: Other jurisdictions</li>
+            <li>May 10 – 14: Other jurisdictions</li>
+        </ul>
+        <p>In addition, the Commission was granted an amendment to the Order in Council under which the Commission was established. Commissioner Cullen requested that Section 4(3) be deleted because of concerns that the Commission’s power to compel information from individuals or entities and the mandatory obligation to forward information “to the appropriate authorities” if there are reasonable grounds to believe that information “may be useful in the investigation or legal prosecution of an offence under the Criminal Code” would create a regime vulnerable to a constitutional challenge, which could be a time-consuming diversion from the work of the Commission.</p>
+        <p><strong>About the Commission</strong></p>
+        <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission is looking at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission is also examining regulatory authorities and barriers to effective law enforcement of money laundering activities. The Commission has the ability to compel witnesses and order the production of documents and records.</p>
+        <p>The Commissioner’s final report will be delivered to the Provincial Government by December 15, 2021.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection24">
         <p class="ExpandableSectionTitle">Commission to Hold Anti-Money Laundering Officers Panel <em>In Camera</em></p>
         <p class="ExpandableSectionUnderTitleLeft">For Immediate Release</p>
@@ -825,6 +852,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection24').click(function() {
             $('#ExpandableSectionContent24').slideToggle(time);
+        });
+        $('#ExpandableSection25').click(function() {
+            $('#ExpandableSectionContent25').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
