@@ -26,6 +26,156 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
     <div></div>
   </div>
+  <p>March 29, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Calvin Chrustie</strong>, Former RCMP</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>March 30, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Municipal Policing Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>TBD</strong></li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>March 31, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>TBD</strong></li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 1, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>TBD</strong></li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 2, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li style="color: red;"><strong>No Hearing Scheduled (Good Friday)</strong></li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 5, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li style="color: red;"><strong>No Hearing Scheduled (Easter Monday)</strong></li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 6, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Provincial Policing Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Tom Steenvoorden</strong>, Executive Director, Office of the Police Complaint Commissioner; Former Acting Executive Director, Public Safety & Policing Operations Support, Policing and Security Branch</li>
+      <li><strong>Clayton Pecknold</strong>, Police Complaint Commissioner; Former Assistant Deputy Minister and Director of Police Services, Policing and Security Branch</li>
+      <li><strong>Wayne Rideout</strong>, Assistant Deputy Minister and Director of Police Services, Policing and Security Branch</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 7, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Joint Illegal Gaming Investigation Team Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Doug LePard</strong>, Consultant; Former Vancouver Police Department</li>
+      <li><strong>S/Sgt. Joel Hussey</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
+      <li><strong>Insp. Stephen Cocks</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 8, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Barry Baxter</strong>, Former RCMP</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 9, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Enforcement Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Dr. Christian Leuprecht</strong>, Professor, Queen’s University and Royal Military College of Canada</li>
+      <li><strong>Garry Clement</strong>, Consultant; Former National Director, Proceeds of Crime, RCMP</li>
+      <li><strong>Jeffrey Simser</strong>, Legal Director, Ministry of the Attorney General (Ontario)</li>
+      <li><strong>Prof. David Skillicorn</strong>, Professor, Queen’s University, Adversarial Knowledge Discovery</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 12, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Dr. Peter German</strong>, Consultant; Former Deputy Commissioner, RCMP</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 13, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Dr. Peter German</strong> (cont’d), Consultant; Former Deputy Commissioner, RCMP</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 14, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Combined Forces Special Enforcement Unit – BC / Joint Illegal Gaming Investigation Team / Counter Illicit Finance Alliance of British Columbia Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Sgt. Ben Robinson</strong>, Combined Forces Special Enforcement Unit – BC</li>
+      <li><strong>Melanie Paddon</strong>, Investigator, Joint Illegal Gaming Investigation Team, Combined Forces Special Enforcement Unit – BC</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 15, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Federal Serious and Organized Crime Money Laundering Team / Integrated Market Enforcement Team Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Insp. Tony Farahbakhchian</strong>, Federal Serious and Organized Crime, Financial Integrity Unit, Money Laundering Team, RCMP “E” Division</li>
+      <li><strong>S/Sgt. Kurt Bedford</strong>, Integrated Market Enforcement Team, RCMP “E” Division</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>April 16, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Supt. Brent Taylor</strong>, Federal Serious and Organized Crime, Officer in Charge, Operations and Financial Integrity, RCMP “E” Division</li>
+    <li><strong>Supt. Peter Payne</strong>, Director of Financial Crime, RCMP National Headquarters</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
 </div>
 
 <!--
