@@ -69,6 +69,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 December, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Barry Baxter</strong>, (Former RCMP)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">8 April, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>S/Sgt. Kurt Bedford</strong>, (Integrated Market Enforcement Team, RCMP “E” Division)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">15 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Steve Beeksma</strong>, (British Columbia Lottery Corporation (BCLC) Anti-Money Laundering (AML) Project Specialist, Former Great Canadian Gaming Corporation (GCGC) Surveillance Shift Manager)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">26 October, 2020</strong></p>
@@ -151,6 +159,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">1 March, 2021</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Calvin Chrustie</strong>, (Former RCMP)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Charlene Cieslik</strong>, (Chief Compliance Officer, Localcoin, Principal, Complifact AML Inc., former Chief Compliance Officer, Chief Anti-Money Laundering Officer, and Privacy Officer, Coinsquare Ltd and subsidiaries)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
@@ -160,6 +172,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">27 October, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">28 October, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Garry Clement</strong>, (Consultant; Former National Director, Proceeds of Crime, RCMP)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Insp. Stephen Cocks</strong>, (Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">7 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>James Cohen</strong>, (Executive Director, Transparency International Canada)</p>
     <div class="WitnessHearingsList">
@@ -255,6 +275,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">F</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Insp. Tony Farahbakhchian</strong>, (Federal Serious and Organized Crime, Financial Integrity Unit, Money Laundering Team, RCMP “E” Division)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">15 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Craig Ferris</strong>, (QC, President, Law Society of British Columbia)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
@@ -282,6 +306,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 December, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 December, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Dr. Peter German</strong>, (Consultant; Former Deputy Commissioner, RCMP)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 April, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">13 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Joel Gibbons</strong>, (Senior Program Advisor, Intelligence and Targeting Directorate, Canada Border Services Agency (CBSA))</p>
     <div class="WitnessHearingsList">
@@ -335,6 +364,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Raheel Humayun</strong>, (Managing Director, Investigations, Office of the Superintendent of Real Estate)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 February, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>S/Sgt. Joel Hussey</strong>, (Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">7 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Darlene Hyde</strong>, (Chief Executive Officer, British Columbia Real Estate Association (BCREA))</p>
     <div class="WitnessHearingsList">
@@ -402,11 +435,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">27 October, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Doug LePard</strong>, (Consultant; Former Vancouver Police Department)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">7 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Michael Levi</strong>, (Professor, Cardiff University)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">8 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">November 20, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Dr. Christian Leuprecht</strong>, (Professor, Queen’s University and Royal Military College of Canada)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Professor David Ley</strong>, (University of British Columbia)</p>
     <div class="WitnessHearingsList">
@@ -539,9 +580,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">P</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Supt. Peter Payne</strong>, (Director of Financial Crime, RCMP National Headquarters)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Melanie Paddon</strong>, (Investigator, Joint Illegal Gaming Investigation Team, Combined Forces Special Enforcement Unit – BC)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">15 January, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 April, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Clayton Pecknold</strong>, (Police Complaint Commissioner; Former Assistant Deputy Minister and Director of Police Services, Policing and Security Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">6 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Bert Pereboom</strong>, (Senior Manager, Housing Market Policy, Canada Mortgage and Housing Corporation (CMHC))</p>
     <div class="WitnessHearingsList">
@@ -583,9 +633,17 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">8 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">8 December, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Wayne Rideout</strong>, (Assistant Deputy Minister and Director of Police Services, Policing and Security Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">6 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Tom Robertson</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team, Former Gaming Policy and Enforcement Branch (GPEB) Investigator)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">6 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Sgt. Ben Robinson</strong>, (Combined Forces Special Enforcement Unit – BC)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Brad Rudnicki</strong>, (Anti-Money Laundering Intelligence Specialist, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
@@ -629,6 +687,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 December, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 December, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Jeffrey Simser</strong>, (Legal Director, Ministry of the Attorney General (Ontario))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Jeffrey Simser</strong>, (Co-Author of <em>Civil Asset Forfeiture in Canada</em>)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">14 December, 2020</strong></p>
@@ -641,6 +703,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Dr. Natalie Skead</strong>, (Professor in Law and Dean and Head of School, University of Western Australia Law School)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">17 December, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Prof. David Skillicorn</strong>, (Professor, Queen’s University, Adversarial Knowledge Discovery)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Cary Skrine</strong>, (Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch)</p>
     <div class="WitnessHearingsList">
@@ -661,6 +727,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Jesse Spiro</strong>, (Global Head of Policy & Regulatory Affairs Chainalysis)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">24 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Tom Steenvoorden</strong>, (Executive Director, Office of the Police Complaint Commissioner; Former Acting Executive Director, Public Safety & Policing Operations Support, Policing and Security Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">6 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Leslie Stevens</strong>, (Inspector, Criminal Intelligence Service British Columbia/Yukon Territory Bureau)</p>
     <div class="WitnessHearingsList">
@@ -699,6 +769,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Phil Tawtel</strong>, (Executive Director, British Columbia Civil Forfeiture Office)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 December, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Supt. Brent Taylor</strong>, (Federal Serious and Organized Crime, Officer in Charge, Operations and Financial Integrity, RCMP “E” Division)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">16 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Daryl Tottenham</strong>, (British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer)</p>
     <div class="WitnessHearingsList">
