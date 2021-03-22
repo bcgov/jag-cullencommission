@@ -66,7 +66,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             </li>
         </ol>
     </li>
-    <li>If the commissioner has reasonable grounds to believe that any information obtained during the inquiry may be useful in the investigation or prosecution of an offence under the <em>Criminal Code</em>, the commissioner must forward that information to the appropriate authorities.</li>
     <li>The commission is to carry out the inquiry in such a way as to ensure the inquiry does not jeopardize any ongoing criminal investigation or proceeding.</li>
     <li>The commission may not inquire into any matter respecting the exercise of prosecutorial discretion.</li>
 </ol>
