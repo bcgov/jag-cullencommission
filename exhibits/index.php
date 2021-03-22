@@ -3055,6 +3055,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>#1</p>
     <p><a href="/data/exhibits/1 - Overview Report - Basel AML Index.pdf" target="_blank">Overview Reports: Basel AML Index</a></p>
 </div>
+<p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-poc-bkt-ex/TestExhibit.pdf" target="_blank" style="color: white;">TEST</a></p>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
