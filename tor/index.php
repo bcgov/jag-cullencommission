@@ -61,7 +61,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
             <li>to submit to the Attorney General and the Minister of Finance
                 <ol>
                     <li>an interim report on or before the date that is 18 months after the date this order is made, and</li>
-                    <li>a final report on or before the date that is 2 years after the date this order is made.</li>
+                    <li>a final report on or before December 15, 2021.</li>
                 </ol>
             </li>
         </ol>
