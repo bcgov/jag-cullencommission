@@ -74,6 +74,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
 </div>
 <br class="ClearFloats">
+<p style="color: white">TEST</p>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
 ?>
