@@ -39,7 +39,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Municipal Policing Panel:</p>
       <ul class="ScheduleListWitnesses">
-        <li><strong>TBD</strong></li>
+        <li><strong>Deputy Chief Constable Laurence Rankin</strong>, Vancouver Police Department</li>
+        <li><strong>Inspector Mike Heard</strong>, Vancouver Police Department</li>
+        <li><strong>Deputy Chief Constable Brett Crosby-Jones</strong>, Abbotsford Police Department</li>
+        <li><strong>Inspector Chris Mullin</strong>, New Westminster Police Department</li>
       </ul>
     </div>
   </div>
@@ -48,9 +51,27 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
   <p>March 31, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>TBD</strong></li>
-  </ul>
+  <div>
+    <p style="color: red;"><strong>The evidence from these witnesses will be led by affidavits.</strong></p>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Luxury Goods:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Beatrice Sturtevant</strong>, Managing Director, Canadian Jewellers Association</li>
+        <li><strong>Michelle Lee</strong>, Executive Director, Consumer Taxation Programs Branch, Revenue Division, Ministry of Finance of British Columbia</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Gaming:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Daryl Tottenham</strong>, British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer</li>
+        <li><strong>Robert Kroeker</strong>, Former Officer, RCMP; Former Director of Civil Forfeiture and Former Vice President, Compliance and Legal, Great Canadian Gaming Corporation; Former Vice President, Legal, Compliance and Security/Chief Compliance Officer, British Columbia Lottery Corporation</li>
+        <li><strong>Cathy Cuglietta</strong>, AML Business Intelligence Analyst, British Columbia Lottery Corporation</li>
+        <li><strong>Richard Block</strong>, Senior Specialist, Regulatory Reporting and Fixed Assets, BCLC</li>
+        <li><strong>Anna Fitzgerald</strong>, Executive Director, Compliance Division, Gaming Policy and Enforcement Branch (GPEB)</li>
+        <li><strong>Robin Jomha</strong>, Director Corporate Registration Unit, Licensing, Registration and Certification Division, GPEB</li>
+      </ul>
+    </div>
+  </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
     <div></div>
