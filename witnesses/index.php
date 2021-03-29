@@ -344,6 +344,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">4 June, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Marko Goluza</strong>, (Director, Professional Conduct, Insurance Council of British Columbia)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Professor Joshua Gordon</strong>, (Simon Fraser University)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 February, 2021</strong></p>
@@ -720,6 +724,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 December, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 December, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Norman Shields</strong>, (Vice President, Finance and Administration, BMW Canada)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Jeffrey Simser</strong>, (Legal Director, Ministry of the Attorney General (Ontario))</p>
     <div class="WitnessHearingsList">

@@ -50,6 +50,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <ul class="ScheduleListWitnesses">
         <li><strong>Beatrice Sturtevant</strong>, Managing Director, Canadian Jewellers Association</li>
         <li><strong>Michelle Lee</strong>, Executive Director, Consumer Taxation Programs Branch, Revenue Division, Ministry of Finance of British Columbia</li>
+        <li><strong>Marko Goluza</strong>, Director, Professional Conduct, Insurance Council of British Columbia</li>
+        <li><strong>Norman Shields</strong>, Vice President, Finance and Administration, BMW Canada</li>
       </ul>
     </div>
     <div class="ScheduleListPanel">
