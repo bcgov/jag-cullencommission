@@ -1528,10 +1528,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/383 - Curriculum Vitae of Colin King.pdf" target="_blank">Curriculum Vitae of Colin King</a></p>
 </div>
 <div class="ExhibitElement">
-    <p>#382</p>
-    <p><a href="/data/exhibits/382 - Unexplained Wealth Orders - UK Experience and Lessons for BC – October 2020.pdf" target="_blank">Unexplained Wealth Orders: UK Experience and Lessons for BC – October 2020</a></p>
-</div>
-<div class="ExhibitElement">
     <p>#381</p>
     <p><a href="/data/exhibits/381 - Curriculum Vitae of Anton Moiseienko_Redacted.pdf" target="_blank">Curriculum Vitae of Anton Moiseienko</a></p>
 </div>
