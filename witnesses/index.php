@@ -181,6 +181,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Prof. Arthur Cockfield</strong>, (Professor, Faculty of Law, Queen’s University)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Insp. Stephen Cocks</strong>, (Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">7 April, 2021</strong></p>
@@ -729,10 +733,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
     </div>
-    <p class="NamesOfWitnesses"><strong>Jeffrey Simser</strong>, (Legal Director, Ministry of the Attorney General (Ontario))</p>
-    <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
-    </div>
     <p class="NamesOfWitnesses"><strong>Jeffrey Simser</strong>, (Co-Author of <em>Civil Asset Forfeiture in Canada</em>)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">14 December, 2020</strong></p>
@@ -745,10 +745,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Dr. Natalie Skead</strong>, (Professor in Law and Dean and Head of School, University of Western Australia Law School)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">17 December, 2020</strong></p>
-    </div>
-    <p class="NamesOfWitnesses"><strong>Prof. David Skillicorn</strong>, (Professor, Queen’s University, Adversarial Knowledge Discovery)</p>
-    <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Cary Skrine</strong>, (Executive Director, Enforcement Division, Gaming Policy and Enforcement Branch)</p>
     <div class="WitnessHearingsList">

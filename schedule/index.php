@@ -126,8 +126,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <ul class="ScheduleListWitnesses">
       <li><strong>Dr. Christian Leuprecht</strong>, Professor, Queen’s University and Royal Military College of Canada</li>
       <li><strong>Garry Clement</strong>, Consultant; Former National Director, Proceeds of Crime, RCMP</li>
-      <li><strong>Jeffrey Simser</strong>, Legal Director, Ministry of the Attorney General (Ontario)</li>
-      <li><strong>Prof. David Skillicorn</strong>, Professor, Queen’s University, Adversarial Knowledge Discovery</li>
+      <li><strong>Prof. Arthur Cockfield</strong>, Professor, Faculty of Law, Queen’s University</li>
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
