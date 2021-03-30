@@ -72,7 +72,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>April 1, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>TBD</strong></li>
+    <li style="color: red;"><strong>No Hearing Scheduled</strong></li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
