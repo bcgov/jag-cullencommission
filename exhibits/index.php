@@ -16,8 +16,40 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#772</p>
+    <p><a href="/data/exhibits/772 - Biography of Deputy Chief Laurence Rankin.pdf" target="_blank">Biography of Deputy Chief Laurence Rankin</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#771</p>
+    <p><a href="/data/exhibits/771 - Curriculum Vitae of Deputy Chief Laurence Rankin.pdf" target="_blank">Curriculum Vitae of Deputy Chief Laurence Rankin</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#770</p>
+    <p><a href="/data/exhibits/770 - Bio update of Inspector Christopher Mullin.pdf" target="_blank">Bio update of Inspector Christopher Mullin</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#769</p>
+    <p><a href="/data/exhibits/769 - Curriculum Vitae of Inspector Christopher Mullin.pdf" target="_blank">Curriculum Vitae of Inspector Christopher Mullin</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#768</p>
+    <p><a href="/data/exhibits/768 - Biography of Inspector Michael Heard.pdf" target="_blank">Biography of Inspector Michael Heard</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#767</p>
+    <p><a href="/data/exhibits/767 - Biography of Deputy Chief Brett Crosby-Jones.pdf" target="_blank">Biography of Deputy Chief Brett Crosby-Jones</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#766</p>
+    <p><a href="/data/exhibits/766 - Affidavit of Jian Wei Liang made on March 8 2021.pdf" target="_blank">Affidavit of Jian Wei Liang made on March 8, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#765</p>
+    <p><a href="/data/exhibits/765 - Affidavit No.2 of Karen Best made on February 26 2021.pdf" target="_blank">Affidavit #2 of Karen Best made on February 26, 2021</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#764</p>
-    <p><a href="/data/exhibits/" target="_blank"></a></p>
+    <p>Email chain re Illegal Gaming Houses - July 23, 2015 (redacted)<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#763</p>
