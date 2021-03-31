@@ -16,6 +16,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#764</p>
+    <p><a href="/data/exhibits/" target="_blank"></a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#763</p>
+    <p><a href="/data/exhibits/763 - Emails between Cal Chrustie and Ross Alderson Re Meeting - July 21-22 2015 -redacted-.pdf" target="_blank">Emails between Cal Chrustie and Ross Alderson Re Meeting - July 21-22, 2015 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#756</p>
     <p><a href="/data/exhibits/756 - Land Owner Transparency Registry Presentation - 2020.pdf" target="_blank">Land Owner Transparency Registry Presentation - 2020</a></p>
 </div>
