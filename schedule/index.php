@@ -165,7 +165,6 @@ NEW HEARING TEMPLATE
   <p><strong><u>Witness Name</u></strong></p>
   <p>March 31, 2021</p>
   <div>
-    <p style="color: red;"><strong>The evidence from these witnesses will be led by affidavits.</strong></p>
     <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Luxury Goods:</p>
       <ul class="ScheduleListWitnesses">
@@ -189,7 +188,7 @@ NEW HEARING TEMPLATE
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('531364238'); return false">Watch Video of Session</button>
   </div>
   <p>March 30, 2021</p>
   <div>
@@ -205,7 +204,7 @@ NEW HEARING TEMPLATE
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('531016920'); return false">Watch Video of Session</button>
   </div>
   <p>March 29, 2021</p>
   <ul class="ScheduleListWitnesses">
@@ -213,7 +212,7 @@ NEW HEARING TEMPLATE
   </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('530593612'); return false">Watch Video of Session</button>
   </div>
   <p>March 12, 2021</p>
   <div>
