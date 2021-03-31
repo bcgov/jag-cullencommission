@@ -211,7 +211,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">D</h2>
   <div class="WitnessList">
-  <p class="NamesOfWitnesses"><strong>Reuben Danakody</strong>, (Director, Land Owner Transparency Registry)</p>
+    <p class="NamesOfWitnesses"><strong>Reuben Danakody</strong>, (Director, Land Owner Transparency Registry)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 March, 2021</strong></p>
     </div>
@@ -736,6 +736,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Jeffrey Simser</strong>, (Co-Author of <em>Civil Asset Forfeiture in Canada</em>)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">14 December, 2020</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Mark Sieben</strong>, (Deputy Solicitor General, BC Ministry of Public Safety and Solicitor General)</p>
     <div class="WitnessHearingsList">

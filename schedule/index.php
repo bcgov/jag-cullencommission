@@ -83,6 +83,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <li><strong>Dr. Christian Leuprecht</strong>, Professor, Queen’s University and Royal Military College of Canada</li>
       <li><strong>Garry Clement</strong>, Consultant; Former National Director, Proceeds of Crime, RCMP</li>
       <li><strong>Prof. Arthur Cockfield</strong>, Professor, Faculty of Law, Queen’s University</li>
+      <li><strong>Jeffrey Simser</strong>, Co-Author of <em>Civil Asset Forfeiture in Canada</em></li>
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
