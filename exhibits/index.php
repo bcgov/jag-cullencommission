@@ -16,6 +16,54 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#785</p>
+    <p><a href="/data/exhibits/785 - Affidavit no. 1 of Richard Block affirmed on March 9 2021.pdf" target="_blank">Affidavit no. 1 of Richard Block, affirmed on March 9, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#784</p>
+    <p><a href="/data/exhibits/784 - Affidavit no. 2 of Cathy Cuglietta sworn on March 8 2021.pdf" target="_blank">Affidavit no. 2 of Cathy Cuglietta, sworn on March 8, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#783</p>
+    <p><a href="/data/exhibits/783 - Affidavit no. 2 of Robert Kroeker made on March 1 2021.pdf" target="_blank">Affidavit no. 2 of Robert Kroeker, made on March 1, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#782</p>
+    <p><a href="/data/exhibits/782 - Affidavit no. 1 of Robin Jomha made on March 24 2021.pdf" target="_blank">Affidavit no. 1 of Robin Jomha, made on March 24, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#781</p>
+    <p>Affidavit no. 1 of Anna Fitzgerald, made on March 3, 2021<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#780</p>
+    <p><a href="/data/exhibits/780 - Affidavit no. 3 of Daryl Tottenham sworn on February 11 2021.pdf" target="_blank">Affidavit #3 of Daryl Tottenham, sworn on February 11, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#779</p>
+    <p><a href="/data/exhibits/779 - Affidavit no. 1 of Michelle Lee made on March 22 2021.pdf" target="_blank">Affidavit no. 1 of Michelle Lee, made on March 22, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#778</p>
+    <p>Affidavit no. 1 of Norman Shields made on March 26, 2021<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#777</p>
+    <p><a href="/data/exhibits/777 - Affidavit no. 1 of Marko Goluza made on March 25 2021.pdf" target="_blank">Affidavit no. 1 of Marko Goluza made on March 25, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#776</p>
+    <p><a href="/data/exhibits/776 - Affidavit no. 1 of Beatrice Sturtevant made on March 22 2021.pdf" target="_blank">Affidavit no. 1 of Beatrice Sturtevant made on March 22, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#775</p>
+    <p><a href="/data/exhibits/775 - Overview Report Motor Vehicle Sales Authority of British Columbia.pdf" target="_blank">Overview Report Motor Vehicle Sales Authority of British Columbia</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#774</p>
+    <p><a href="/data/exhibits/774 - Overview Report Luxury Goods.pdf" target="_blank">Overview Report Luxury Goods</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#772</p>
     <p><a href="/data/exhibits/772 - Biography of Deputy Chief Laurence Rankin.pdf" target="_blank">Biography of Deputy Chief Laurence Rankin</a></p>
 </div>
