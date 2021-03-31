@@ -64,6 +64,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/774 - Overview Report Luxury Goods.pdf" target="_blank">Overview Report Luxury Goods</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#773</p>
+    <p><a href="/data/exhibits/773 - Federal-Provincial-Territorial Meeting Ministers Responsible for Justice and Public Safety - Nov 14-16 2018_Redacted.pdf" target="_blank">Federal-Provincial-Territorial Meeting, Ministers Responsible for Justice and Public Safety - Nov 14-16, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#772</p>
     <p><a href="/data/exhibits/772 - Biography of Deputy Chief Laurence Rankin.pdf" target="_blank">Biography of Deputy Chief Laurence Rankin</a></p>
 </div>
@@ -102,6 +106,30 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#763</p>
     <p><a href="/data/exhibits/763 - Emails between Cal Chrustie and Ross Alderson Re Meeting - July 21-22 2015 -redacted-.pdf" target="_blank">Emails between Cal Chrustie and Ross Alderson Re Meeting - July 21-22, 2015 (redacted)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#762</p>
+    <p><a href="/data/exhibits/762 - Email from Cal Chrustie to Len Meilleur et al. re June 4 2015 Anti Money Laundering Workshop - June 6 2015_Redacted.pdf" target="_blank">Email from Cal Chrustie to Len Meilleur et al. re June 4, 2015 Anti Money Laundering Workshop - June 6, 2015_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#761</p>
+    <p><a href="/data/exhibits/761 - GPEB Meeting Highlights - Anti-Money Laundering Workshop Exploring Common Ground - June 25 2015.pdf" target="_blank">GPEB Meeting Highlights – Anti-Money Laundering Workshop Exploring Common Ground - June 25, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#760</p>
+    <p><a href="/data/exhibits/760 - Casino - Investigational Planning and Report - IPOC - Jan 30 2012_Redacted.pdf" target="_blank">Casino - Investigational Planning & Report - IPOC - Jan 30, 2012_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#759</p>
+    <p><a href="/data/exhibits/759 - Casino Summary and Proposal - IPOC - December 2011_Redacted.pdf" target="_blank">Casino Summary & Proposal - IPOC - December 2011_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#758</p>
+    <p><a href="/data/exhibits/758 - Overview of FSOC Bulk Cash Money Pick up Contracts - FISOC - January 18 2018.pdf" target="_blank">Overview of FSOC Bulk Cash Money Pick up Contracts - FISOC - January 18, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#757</p>
+    <p><a href="/data/exhibits/757 - Transnational Organized Crime - FSOC Major Projects -redacted-.pdf" target="_blank">Transnational Organized Crime - FSOC Major Projects (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#756</p>
