@@ -64,6 +64,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/745 - Curriculum Vitae of Larry Blaschuk.pdf" target="_blank">Curriculum Vitae of Larry Blaschuk</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#744</p>
+    <p>This exhibit was previously marked as <a href="/data/exhibits/346 - 011 CAN-000172.pdf" target="_blank">Exhibit 346</a>; therefore Exhibit 744 is vacated.</p>
+</div>
+<div class="ExhibitElement">
     <p>#742</p>
     <p><a href="/data/exhibits/742 - Dataset - Financial transaction report counts by postal code and activity sector - dated March 3 2021.xlsx" target="_blank">Dataset - Financial transaction report counts by postal code and activity sector – dated March 3, 2021</a></p>
 </div>
@@ -1042,6 +1046,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#504</p>
     <p>Affidavit no. 1 of Cary Skrine made on January 15, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#503</p>
+    <p>Overview Report 1998-2001 BCLC Security Incident Reports Related to Loan Sharking, Money Laundering and Suspicious Transactions in British Columbia Casinos_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
 </div>
 <div class="ExhibitElement">
     <p>#502</p>
