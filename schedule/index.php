@@ -18,22 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>March 30, 2021</p>
-  <div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Municipal Policing Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Deputy Chief Constable Laurence Rankin</strong>, Vancouver Police Department</li>
-        <li><strong>Inspector Mike Heard</strong>, Vancouver Police Department</li>
-        <li><strong>Deputy Chief Constable Brett Crosby-Jones</strong>, Abbotsford Police Department</li>
-        <li><strong>Inspector Chris Mullin</strong>, New Westminster Police Department</li>
-      </ul>
-    </div>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>March 31, 2021</p>
   <div>
     <p style="color: red;"><strong>The evidence from these witnesses will be led by affidavits.</strong></p>
@@ -207,6 +191,22 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>March 30, 2021</p>
+  <div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Municipal Policing Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Deputy Chief Constable Laurence Rankin</strong>, Vancouver Police Department</li>
+        <li><strong>Inspector Mike Heard</strong>, Vancouver Police Department</li>
+        <li><strong>Deputy Chief Constable Brett Crosby-Jones</strong>, Abbotsford Police Department</li>
+        <li><strong>Inspector Chris Mullin</strong>, New Westminster Police Department</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>March 29, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Calvin Chrustie</strong>, Former RCMP</li>
