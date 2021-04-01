@@ -188,7 +188,7 @@ NEW HEARING TEMPLATE
     </div>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript March 31, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('531364238'); return false">Watch Video of Session</button>
   </div>
   <p>March 30, 2021</p>
@@ -204,7 +204,7 @@ NEW HEARING TEMPLATE
     </div>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript March 30, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('531016920'); return false">Watch Video of Session</button>
   </div>
   <p>March 29, 2021</p>
@@ -212,7 +212,7 @@ NEW HEARING TEMPLATE
     <li><strong>Calvin Chrustie</strong>, Former RCMP</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript March 29, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('530593612'); return false">Watch Video of Session</button>
   </div>
   <p>March 12, 2021</p>
