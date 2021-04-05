@@ -32,13 +32,17 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
   <p>April 7, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Joint Illegal Gaming Investigation Team Panel:</p>
+  <div>
     <ul class="ScheduleListWitnesses">
       <li><strong>Doug LePard</strong>, Consultant; Former Vancouver Police Department</li>
-      <li><strong>S/Sgt. Joel Hussey</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
-      <li><strong>Insp. Stephen Cocks</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
     </ul>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Joint Illegal Gaming Investigation Team Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>S/Sgt. Joel Hussey</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
+        <li><strong>Insp. Stephen Cocks</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
+      </ul>
+    </div>
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
