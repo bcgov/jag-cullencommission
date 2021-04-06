@@ -80,7 +80,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <div class="Aside">
         <p class="AsideTitle">Charlotte Chamberlain</p>
-        <p>Charlotte Chamberlain has been appointed as Junior Research Counsel for the Commission of Inquiry into Money Laundering in British Columbia. Charlotte is a civil litigator and research lawyer who comes to the Commission from a large international firm in Vancouver. She obtained her law degree from the University of Bristol School of Law (UK), graduating with First Class Honours in 2016, and later obtained a Master of Laws degree from the University of British Columbia.</p>
+        <p>Charlotte Chamberlain has been appointed Junior Research Counsel for the Commission of Inquiry into Money Laundering in British Columbia. Ms. Chamberlain is a civil litigator and research lawyer who comes to the Commission from a large international firm that is based in Vancouver. She obtained her law degree from the University of Bristol School of Law (UK), graduating with First Class Honours in 2016, and later obtained a Master of Laws degree from the University of British Columbia.</p>
     </div>
 </div>
 <br class="ClearFloats">
