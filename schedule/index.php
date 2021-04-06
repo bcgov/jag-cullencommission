@@ -120,6 +120,21 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
 </div>
+<p style="font-size: 1.5rem; text-align: center;"><strong>Government Response Hearing Block</strong></p>
+  <p style="color: red;"><strong>Dates for these witnesses are currently being identified. The following individuals will testify in the Government Response hearing block between April 19 – 30, 2021. We will post their specific hearing dates shortly.</strong></p>
+  <ul>
+    <li><strong>Kevin Begg</strong>, Former Assistant Deputy Minister, Policing and Community Safety Branch; Former Director of Police Services</li>
+    <li><strong>Shirley Bond</strong>, Leader of the Opposition; Former Minister of Public Safety and Solicitor General; Former Attorney General and Minister of Justice</li>
+    <li><strong>Christy Clark</strong>, Former Premier</li>
+    <li><strong>Rich Coleman</strong>, Former Minister of Public Safety and Solicitor General; Former Minister of Housing and Social Development; Former Minister of Energy and Mines and Minister Responsible for Housing</li>
+    <li><strong>Michael de Jong</strong>, Opposition Attorney General Critic; Former Minister of Finance</li>
+    <li><strong>David Eby</strong>, Attorney General; Former Opposition Spokesperson for Gaming</li>
+    <li><strong>Richard Fyfe</strong>, Deputy Attorney General</li>
+    <li><strong>Kash Heed</strong>, Former Minister of Public Safety and Solicitor General; Former Chief Constable, West Vancouver Police Department</li>
+    <li><strong>Sam MacLeod</strong>, Assistant Deputy Minister and General Manager, Gaming Policy and Enforcement Branch</li>
+    <li><strong>Lori Wanamaker</strong>, Deputy Minister to the Premier, Cabinet Secretary and Head of the British Columbia Public Service; Former Deputy Minister of Finance; Former Deputy Minister of Public Safety and Solicitor General</li>
+    <li><strong>Cheryl Wenezenki-Yolland</strong>, Former Associate Deputy Minister of Finance</li>
+  </ul>
 
 <!--
 NEW HEARING TEMPLATE
