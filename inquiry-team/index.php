@@ -78,6 +78,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         <p>Dahlia Shuhaibar has been appointed Junior Policy Counsel for the Commission of Inquiry into Money Laundering in British Columbia. She obtained her BA in French-Spanish-English translation from the University of Ottawa, where she also earned her Juris Doctor (JD).</p>
         <p>Ms. Shuhaibar has clerked at the Supreme Court of Canada and the Federal Court. She practices public law and civil litigation at Gib van Ert Law in Ottawa.</p>
     </div>
+    <div class="Aside">
+        <p class="AsideTitle">Charlotte Chamberlain</p>
+        <p>Charlotte Chamberlain has been appointed as Junior Research Counsel for the Commission of Inquiry into Money Laundering in British Columbia. Charlotte is a civil litigator and research lawyer who comes to the Commission from a large international firm in Vancouver. She obtained her law degree from the University of Bristol School of Law (UK), graduating with First Class Honours in 2016, and later obtained a Master of Laws degree from the University of British Columbia.</p>
+    </div>
 </div>
 <br class="ClearFloats">
 <?php
