@@ -119,8 +119,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
     <div></div>
   </div>
-  <p style="color: red; grid-column: 1 / span 2;"><strong>Dates for these witnesses are currently being identified. The following individuals will testify in the Government Response hearing block between April 19 – 30, 2021. We will post their specific hearing dates shortly.</strong></p>
-  <ul style="grid-column: 1 / span 2;">
+</div>
+<p style="font-size: 1.5rem; text-align: center;"><strong>Government Response Hearing Block</strong></p>
+  <p style="color: red;"><strong>Dates for these witnesses are currently being identified. The following individuals will testify in the Government Response hearing block between April 19 – 30, 2021. We will post their specific hearing dates shortly.</strong></p>
+  <ul>
     <li><strong>Kevin Begg</strong>, Former Assistant Deputy Minister, Policing and Community Safety Branch; Former Director of Police Services</li>
     <li><strong>Shirley Bond</strong>, Leader of the Opposition; Former Minister of Public Safety and Solicitor General; Former Attorney General and Minister of Justice</li>
     <li><strong>Christy Clark</strong>, Former Premier</li>
@@ -133,7 +135,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <li><strong>Lori Wanamaker</strong>, Deputy Minister to the Premier, Cabinet Secretary and Head of the British Columbia Public Service; Former Deputy Minister of Finance; Former Deputy Minister of Public Safety and Solicitor General</li>
     <li><strong>Cheryl Wenezenki-Yolland</strong>, Former Associate Deputy Minister of Finance</li>
   </ul>
-</div>
 
 <!--
 NEW HEARING TEMPLATE
