@@ -18,19 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>April 6, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Provincial Policing Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Tom Steenvoorden</strong>, Executive Director, Office of the Police Complaint Commissioner; Former Acting Executive Director, Public Safety & Policing Operations Support, Policing and Security Branch</li>
-      <li><strong>Clayton Pecknold</strong>, Police Complaint Commissioner; Former Assistant Deputy Minister and Director of Police Services, Policing and Security Branch</li>
-      <li><strong>Wayne Rideout</strong>, Assistant Deputy Minister and Director of Police Services, Policing and Security Branch</li>
-    </ul>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>April 7, 2021</p>
   <div>
     <ul class="ScheduleListWitnesses">
@@ -159,6 +146,19 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>April 6, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Provincial Policing Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Tom Steenvoorden</strong>, Executive Director, Office of the Police Complaint Commissioner; Former Acting Executive Director, Public Safety & Policing Operations Support, Policing and Security Branch</li>
+      <li><strong>Clayton Pecknold</strong>, Police Complaint Commissioner; Former Assistant Deputy Minister and Director of Police Services, Policing and Security Branch</li>
+      <li><strong>Wayne Rideout</strong>, Assistant Deputy Minister and Director of Police Services, Policing and Security Branch</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>March 31, 2021</p>
   <div>
     <div class="ScheduleListPanel">
