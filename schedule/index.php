@@ -144,7 +144,10 @@ NEW HEARING TEMPLATE
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
-    <div></div>
+    <div>
+      <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('534283827'); return false">Watch Video of Session 1</button></p>
+      <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('534293302'); return false">Watch Video of Session 2</button></p>
+    </div>
   </div>
   <p>April 6, 2021</p>
   <div class="ScheduleListPanel">
