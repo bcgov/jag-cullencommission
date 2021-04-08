@@ -18,14 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>April 8, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Barry Baxter</strong>, Former RCMP</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>April 9, 2021</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Enforcement Panel:</p>
@@ -129,6 +121,14 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>April 8, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Barry Baxter</strong>, Former RCMP</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>April 7, 2021</p>
   <div>
     <ul class="ScheduleListWitnesses">
