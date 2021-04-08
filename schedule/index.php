@@ -18,23 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>April 7, 2021</p>
-  <div>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Doug LePard</strong>, Consultant; Former Vancouver Police Department</li>
-    </ul>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Joint Illegal Gaming Investigation Team Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>S/Sgt. Joel Hussey</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
-        <li><strong>Insp. Stephen Cocks</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
-      </ul>
-    </div>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>April 8, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Barry Baxter</strong>, Former RCMP</li>
@@ -146,6 +129,23 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>April 7, 2021</p>
+  <div>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Doug LePard</strong>, Consultant; Former Vancouver Police Department</li>
+    </ul>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Joint Illegal Gaming Investigation Team Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>S/Sgt. Joel Hussey</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
+        <li><strong>Insp. Stephen Cocks</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>April 6, 2021</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Provincial Policing Panel:</p>
