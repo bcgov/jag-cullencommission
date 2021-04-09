@@ -18,20 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>April 9, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Enforcement Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Dr. Christian Leuprecht</strong>, Professor, Queen’s University and Royal Military College of Canada</li>
-      <li><strong>Garry Clement</strong>, Consultant; Former National Director, Proceeds of Crime, RCMP</li>
-      <li><strong>Prof. Arthur Cockfield</strong>, Professor, Faculty of Law, Queen’s University</li>
-      <li><strong>Jeffrey Simser</strong>, Co-Author of <em>Civil Asset Forfeiture in Canada</em></li>
-    </ul>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>April 12, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Dr. Peter German</strong>, Consultant; Former Deputy Commissioner, RCMP</li>
@@ -121,6 +107,20 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>April 9, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Enforcement Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Dr. Christian Leuprecht</strong>, Professor, Queen’s University and Royal Military College of Canada</li>
+      <li><strong>Garry Clement</strong>, Consultant; Former National Director, Proceeds of Crime, RCMP</li>
+      <li><strong>Prof. Arthur Cockfield</strong>, Professor, Faculty of Law, Queen’s University</li>
+      <li><strong>Jeffrey Simser</strong>, Co-Author of <em>Civil Asset Forfeiture in Canada</em></li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>April 8, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Barry Baxter</strong>, Former RCMP</li>
