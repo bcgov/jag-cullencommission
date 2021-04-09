@@ -16,6 +16,62 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#817</p>
+    <p><a href="/data/exhibits/817 - Emails from Ross Alderson to Ken Ackles re Intel - Sept 22 2016_Redacted.pdf" target="_blank">Emails from Ross Alderson to Ken Ackles, re Intel - Sept 22, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#816</p>
+    <p><a href="/data/exhibits/816 - Emails from Ross Alderson to Paul Dadwal re Interview summary  - Nov 2 2016_Redacted.pdf" target="_blank">Emails from Ross Alderson to Paul Dadwal, re Interview summary - Nov 2, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#815</p>
+    <p><a href="/data/exhibits/815 - Emails exchange between Ross Alderson and Joel Hussey and others re -patron- Jul 6 2017_Redacted.pdf" target="_blank">Emails exchange between Ross Alderson and Joel Hussey and others, re [patron] - Jul 6, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#810</p>
+    <p><a href="/data/exhibits/810 - Email chain re money exchange receipts_Redacted.pdf" target="_blank">Email chain re money exchange receipts_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#797</p>
+    <p><a href="/data/exhibits/797 - Business Case for Financial Crime Unit Appendix D - Examples of Cases Affected by Federal Re-engineering November 2016.pdf" target="_blank">Business Case for Financial Crime Unit, Appendix D – Examples of Cases Affected by Federal Re-engineering, November, 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#796</p>
+    <p><a href="/data/exhibits/796 - RCMP Proposal for Financial Crime Unit November 9 2016.pdf" target="_blank">RCMP Proposal for Financial Crime Unit, November 9, 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#795</p>
+    <p><a href="/data/exhibits/795 - RCMP Narrative Document - Business Cases and Proposals for Provincially Funded ML Unit.pdf" target="_blank">RCMP Narrative Document - Business Cases and Proposals for Provincially Funded ML Unit</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#794</p>
+    <p><a href="/data/exhibits/794 - Appendix B - Response to Request 11 of Cullen Commissions May 4 2020 Request.pdf" target="_blank">Appendix B – Response to Request 11 of Cullen Commission's May 4, 2020 Request</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#793</p>
+    <p><a href="/data/exhibits/793 - RCMP Financial Crime Resources in -E- Division August 31 2020.pdf" target="_blank">RCMP, Financial Crime Resources in “E” Division, August 31, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#792</p>
+    <p><a href="/data/exhibits/792 - Letter from Brenda Butterworth-Carr to Eric Stubbs Re Federal RCMP Reporting Requirements May 23 2019_Redacted.pdf" target="_blank">Letter from Brenda Butterworth-Carr to Eric Stubbs, Re Federal RCMP Reporting Requirements, May 23, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#789</p>
+    <p><a href="/data/exhibits/789 - Police Resources in BC 2019.pdf" target="_blank">Police Resources in BC 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#788</p>
+    <p><a href="/data/exhibits/788 - Provincial Police Service Agreement April 2012.pdf" target="_blank">Provincial Police Service Agreement, April 2012</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#787</p>
+    <p><a href="/data/exhibits/787 - Biography of Tom Steenvoorden.pdf" target="_blank">Biography of Tom Steenvoorden</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#786</p>
+    <p><a href="/data/exhibits/786 - Curriculum Vitae of Wayne Rideout_Redacted.pdf" target="_blank">Curriculum Vitae of Wayne Rideout_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#785</p>
     <p><a href="/data/exhibits/785 - Affidavit no. 1 of Richard Block affirmed on March 9 2021.pdf" target="_blank">Affidavit no. 1 of Richard Block, affirmed on March 9, 2021</a></p>
 </div>
