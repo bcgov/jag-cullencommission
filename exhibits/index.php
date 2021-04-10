@@ -16,6 +16,54 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#830</p>
+    <p><a href="/data/exhibits/830 - The high price of Chinese money laundering in Canada - The Globe and Mail.pdf" target="_blank">The high price of Chinese money laundering in Canada - The Globe and Mail</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#829</p>
+    <p><a href="/data/exhibits/829 - A Matter of Trust  Integrating Privacy and Public Safety in the 21st Century November 2010.pdf" target="_blank">A Matter of Trust: Integrating Privacy and Public Safety in the 21st Century, November 2010</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#828</p>
+    <p><a href="/data/exhibits/828 - Collaborative Report Detect Disrupt and Deter Domestic and Global Financial Crime - A Roadmap for British Columbia - March 2021.pdf" target="_blank">Collaborative Report, Detect, Disrupt and Deter Domestic and Global Financial Crime – A Roadmap for British Columbia – March 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#827</p>
+    <p><a href="/data/exhibits/827 - Curriculum Vitae of Dr. Christian Leuprecht_Redacted.pdf" target="_blank">Curriculum Vitae of Dr. Christian Leuprecht_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#826</p>
+    <p><a href="/data/exhibits/826 - Curriculum Vitae of Dr. Arthur John Cockfield_Redacted.pdf" target="_blank">Curriculum Vitae of Dr. Arthur John Cockfield_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#825</p>
+    <p><a href="/data/exhibits/825 - Curriculum Vitae of Garry W.G. Clement.pdf" target="_blank">Curriculum Vitae of Garry W.G. Clement</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#824</p>
+    <p><a href="/data/exhibits/824 - Presentation - Reducing Reliance on Cash in BC Casinos and More - April 18 2013.pdf" target="_blank">Presentation - Reducing Reliance on Cash in BC Casinos & More - April 18, 2013</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#823</p>
+    <p><a href="/data/exhibits/823 - Media Excerpts Money Laundering in Casinos - various 2011.pdf" target="_blank">Media Excerpts Money Laundering in Casinos - various, 2011</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#822</p>
+    <p><a href="/data/exhibits/822 - Public Safety Canada Report 2010-2011 Evaluation of the Integrated Proceeds of Crime Initiative - Final Report - March 30 2011.pdf" target="_blank">Public Safety Canada Report 2010-2011 Evaluation of the Integrated Proceeds of Crime Initiative – Final Report - March 30, 2011</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#821</p>
+    <p><a href="/data/exhibits/821 - A Resourcing Overview of Major Money Laundering Investigations in BC prepraed by RCMP E-Division in partnership with CFSEU-BCs Strategic Research Office.pdf" target="_blank">A Resourcing Overview of Major Money Laundering Investigations in BC, prepraed by RCMP E-Division in partnership with CFSEU-BC's Strategic Research Office</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#819</p>
+    <p><a href="/data/exhibits/819 - Responses from CFSEU for Cullen Commission Requests 4-2--A--B- and -C-.pdf" target="_blank">Responses from CFSEU for Cullen Commission Requests 4(2)(A),(B) and (C)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#818</p>
+    <p><a href="/data/exhibits/818 - Presentation - Money Laundering Enforcement CFSEU-BC JIGIT - April 7 2021.pdf" target="_blank">Presentation - Money Laundering Enforcement CFSEU-BC JIGIT - April 7, 2021</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#817</p>
     <p><a href="/data/exhibits/817 - Emails from Ross Alderson to Ken Ackles re Intel - Sept 22 2016_Redacted.pdf" target="_blank">Emails from Ross Alderson to Ken Ackles, re Intel - Sept 22, 2016_Redacted</a></p>
 </div>
@@ -28,8 +76,40 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/815 - Emails exchange between Ross Alderson and Joel Hussey and others re -patron- Jul 6 2017_Redacted.pdf" target="_blank">Emails exchange between Ross Alderson and Joel Hussey and others, re [patron] - Jul 6, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#811</p>
+    <p><a href="/data/exhibits/811 - Organizational Charts E Division Criminal Operations Combined Forces Special Enforcement in BC 2010-2017_Redacted.pdf" target="_blank">Organizational Charts, E Division Criminal Operations Combined Forces Special Enforcement in BC, 2010-2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#810</p>
     <p><a href="/data/exhibits/810 - Email chain re money exchange receipts_Redacted.pdf" target="_blank">Email chain re money exchange receipts_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#809</p>
+    <p><a href="/data/exhibits/809 - Slide deck - The Combined Forces Special Enforcement Unit BC JIGIT - April 7 2021.pdf" target="_blank">Slide deck - The Combined Forces Special Enforcement Unit BC JIGIT - April 7, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#808</p>
+    <p><a href="/data/exhibits/808 - Curriculum Vitae of Stephen Cocks.pdf" target="_blank">Curriculum Vitae of Stephen Cocks</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#807</p>
+    <p><a href="/data/exhibits/807 - Curriculum Vitae of Joel Hussey.pdf" target="_blank">Curriculum Vitae of Joel Hussey</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#806</p>
+    <p><a href="/data/exhibits/806 - CFSEU-BC Proposal for Proceeds of Crime Asset Forfeiture Team - Dec 2018_Redacted.pdf" target="_blank">CFSEU-BC Proposal for Proceeds of Crime Asset Forfeiture Team - Dec 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#805</p>
+    <p><a href="/data/exhibits/805 - Final Draft - Concept Paper Designated Provincial Financial Crimes Unit - Feb 15 2019_Redacted.pdf" target="_blank">Final Draft – Concept Paper Designated Provincial Financial Crimes Unit - Feb 15, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#804</p>
+    <p><a href="/data/exhibits/804 - Draft Proposal for a Provincial Financial IntegrityCrime Unit - Jan 22 2018_Redacted.pdf" target="_blank">Draft Proposal for a Provincial Financial IntegrityCrime Unit - Jan 22, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#802</p>
+    <p><a href="/data/exhibits/802 - Curriculum Vitae of Doug LePard.pdf" target="_blank">Curriculum Vitae of Doug LePard</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#797</p>
