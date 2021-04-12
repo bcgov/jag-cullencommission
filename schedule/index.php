@@ -306,7 +306,7 @@ NEW HEARING TEMPLATE
     <li><strong>In camera (non-public) hearing, in accordance with <a href="/files/ApplicationForWitnessSafetyMeasuresRuling28.pdf">Ruling #28</a>. No video archive or transcript will be posted for this panel as a result.</strong></li>
   </ul>
   <div class=" ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Synopsis March 4, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Synopsis</button></a>
     <div></div>
   </div>
   <p>March 3, 2021</p>
