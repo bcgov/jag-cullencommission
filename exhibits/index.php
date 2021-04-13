@@ -253,7 +253,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#764</p>
-    <p>Email chain re Illegal Gaming Houses - July 23, 2015 (redacted)<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/764%20-%20Email%20chain%20re%20Illegal%20Gaming%20Houses%20-%20July%2023%202015%20-redacted-.pdf" target="_blank">Email chain re Illegal Gaming Houses - July 23, 2015 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#763</p>
@@ -365,7 +365,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#735</p>
-    <p>Reporting Entity Sector Profiles Money laundering and terrorist financing vulnerability assessments - Mar 31, 2014<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/735%20-%20Reporting%20Entity%20Sector%20Profiles%20Money%20laundering%20and%20terrorist%20financing%20vulnerability%20assessments%20-%20Mar%2031%202014.pdf" target="_blank">Reporting Entity Sector Profiles Money laundering and terrorist financing vulnerability assessments - Mar 31, 2014</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#734</p>
@@ -389,7 +389,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#729</p>
-    <p>Affidavit of Adam Ross made on March 9, 2021<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/729%20-%20Affidavit%20of%20Adam%20Ross%20made%20on%20March%209%202021.pdf" target="_blank">Affidavit of Adam Ross made on March 9, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#728</p>
@@ -625,7 +625,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#670</p>
-    <p>Real Estate Observations BCLC AML Unit 2019_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/670%20-%20Real%20Estate%20Observations%20BCLC%20AML%20Unit%202019_Redacted.pdf" target="_blank">Real Estate Observations BCLC AML Unit 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#669</p>
@@ -653,7 +653,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#663</p>
-    <p>Affidavit of Cpl. Melvin Chizawsky made on February 4, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/663%20-%20Affidavit%20of%20Cpl.%20Melvin%20Chizawsky%20made%20on%20February%204%202021_Redacted.pdf" target="_blank">Affidavit of Cpl. Melvin Chizawsky made on February 4, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#662</p>
@@ -685,11 +685,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#655</p>
-    <p>Cease and Desist Order in the matter of the Mortgage Brokers Act and Jay Kanth Chaudhary - May 23, 2019_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/655%20-%20Cease%20and%20Desist%20Order%20in%20the%20matter%20of%20the%20Mortgage%20Brokers%20Act%20and%20Jay%20Kanth%20Chaudhary%20-%20May%2023%202019_Redacted.pdf" target="_blank">Cease and Desist Order in the matter of the Mortgage Brokers Act and Jay Kanth Chaudhary - May 23, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#654</p>
-    <p>Investigation report on client files of Jay Chaudhary_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/654%20-%20Investigation%20report%20on%20client%20files%20of%20Jay%20Chaudhary_Redacted.pdf" target="_blank">Investigation report on client files of Jay Chaudhary_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#653</p>
@@ -825,7 +825,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#623C</p>
-    <p>Mastering Compliance AMLTraining for Brokers - Module 3 Compliance Reporting and Record Keeping<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/623C%20-%20Mastering%20Compliance%20AMLTraining%20for%20Brokers%20-%20Module%203%20Compliance%20Reporting%20and%20Record%20Keeping.pdf" target="_blank">Mastering Compliance AMLTraining for Brokers - Module 3 Compliance Reporting and Record Keeping</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#623B</p>
@@ -857,7 +857,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#617</p>
-    <p>Report of the Independent Advisory Group - June 2016<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/617%20-%20RECBC%20Anti-Money%20Laundering%20in%20Real%20Estate%20online%20course%20materials.pdf" target="_blank">Report of the Independent Advisory Group - June 2016</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#616</p>
@@ -909,19 +909,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#604</p>
-    <p>Registrar of Mortgage Brokers Discipline Orders Overview Report<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/604%20-%20Registrar%20of%20Mortgage%20Brokers%20Discipline%20Orders%20Overview%20Report.pdf" target="_blank">Registrar of Mortgage Brokers Discipline Orders Overview Report</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#603</p>
-    <p>Overview Report Legislative and Regulatory Structure of Real Estate in British Columbia<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/603%20-%20Overview%20Report%20Legislative%20and%20Regulatory%20Structure%20of%20Real%20Estate%20in%20British%20Columbia.pdf" target="_blank">Overview Report Legislative and Regulatory Structure of Real Estate in British Columbia</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#602</p>
-    <p>Overview Report Lower Mainland Housing Prices<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/602%20-%20Overview%20Report%20Lower%20Mainland%20Housing%20Prices.pdf" target="_blank">Overview Report Lower Mainland Housing Prices</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#601</p>
-    <p>Overview Report Literature on Money Laundering and Real Estate & Response from Real Estate Industry<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/601%20-%20Overview%20Report%20Literature%20on%20Money%20Laundering%20and%20Real%20Estate%20and%20Response%20from%20Real%20Estate%20Industry.pdf" target="_blank">Overview Report Literature on Money Laundering and Real Estate & Response from Real Estate Industry</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#600</p>
@@ -977,7 +977,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#587</p>
-    <p>Affidavit no. 1 of Joseph Emile Leonard Meilleur made on February 9, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/587%20-%20Affidavit%20no.1%20of%20Joseph%20Emile%20Leonard%20Meilleur%20made%20on%20February%209%202021_Redacted.pdf" target="_blank">Affidavit no. 1 of Joseph Emile Leonard Meilleur made on February 9, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#586</p>
@@ -1021,11 +1021,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#576</p>
-    <p>Affidavit no. 1 of Michael Graydon made on February 8, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/576%20-%20Affidavit%20no.1%20of%20Michael%20Graydon%20made%20on%20February%208%202021_Redacted.pdf" target="_blank">Affidavit no. 1 of Michael Graydon made on February 8, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#574</p>
-    <p>Overview report Casino Surveillance Footage_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/574%20-%20Overview%20report%20Casino%20Surveillance%20Footage_Redacted.pdf" target="_blank">Overview report Casino Surveillance Footage_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#573</p>
@@ -1033,7 +1033,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#572</p>
-    <p>Amended and Restated Casino Operational Services Agreement between BCLC and Great Canadian Casions Inc. effective as at November 17, 2005<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/572%20-%20Amended%20and%20Restated%20Casino%20Operational%20Services%20Agreement%20between%20BCLC%20and%20Great%20Canadian%20Casions%20Inc.%20effective%20as%20at%20%20November%2017%202005.pdf" target="_blank">Amended and Restated Casino Operational Services Agreement between BCLC and Great Canadian Casions Inc. effective as at November 17, 2005</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#571</p>
@@ -1041,7 +1041,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#570</p>
-    <p>GPEB Internal Memo from Parminder Basi to Len Meilleur, re Cash Flow Review of River Rock Casino High Limit Rooms - Dec 15, 2015_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/570%20-%20GPEB%20Internal%20Memo%20from%20Parminder%20Basi%20to%20Len%20Meilleur%20re%20Cash%20Flow%20Review%20of%20River%20Rock%20Casino%20High%20Limit%20Rooms%20-%20Dec%2015%202015_Redacted.pdf" target="_blank">GPEB Internal Memo from Parminder Basi to Len Meilleur, re Cash Flow Review of River Rock Casino High Limit Rooms - Dec 15, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#569</p>
@@ -1081,11 +1081,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#560</p>
-    <p>Affidavit #1 of Terrance Doyle made on February 2, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/560%20-%20Affidavit%20No.1%20of%20Terrance%20Doyle%20made%20on%20February%202%202021_Redacted.pdf" target="_blank">Affidavit #1 of Terrance Doyle made on February 2, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#559</p>
-    <p>Affidavit no. 1 of Walter Soo made on February 1, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/559%20-%20Affidavit%20no.1%20of%20Walter%20Soo%20made%20on%20February%201%202021_Redacted.pdf" target="_blank">Affidavit no. 1 of Walter Soo made on February 1, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#558</p>
@@ -1093,7 +1093,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#557</p>
-    <p>Affidavit no. 1 of Douglas Scott made on February 3, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/557%20-%20Affidavit%20no.1%20of%20Douglas%20Scott%20made%20on%20February%203%202021_Redacted.pdf" target="_blank">Affidavit no. 1 of Douglas Scott made on February 3, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#556</p>
@@ -1137,7 +1137,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#546</p>
-    <p>MOF Gaming Policy and Enforcement Branch Review - Sept 18, 2014<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/546%20-%20MOF%20Gaming%20Policy%20and%20Enforcement%20Branch%20Review%20-%20Sept%2018%202014.pdf" target="_blank">MOF Gaming Policy and Enforcement Branch Review - Sept 18, 2014</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#545</p>
@@ -1173,7 +1173,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#537</p>
-    <p>Affidavit no. 1 of Stuart Douglas Boland Smith sworn January 22, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/537%20-%20Affidavit%20no.1%20of%20Stuart%20Douglas%20Boland%20Smith%20sworn%20January%2022%202021_Redacted.pdf" target="_blank">Affidavit no. 1 of Stuart Douglas Boland Smith sworn January 22, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#536</p>
@@ -1201,7 +1201,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#530</p>
-    <p>Affidavit no. 1 of Patrick Ennis made on January 22, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/530%20-%20Affidavit%20no.1%20of%20Patrick%20Ennis%20made%20on%20January%2022%202021_Redacted.pdf" target="_blank">Affidavit no. 1 of Patrick Ennis made on January 22, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#529</p>
@@ -1241,7 +1241,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#522</p>
-    <p>Affidavit no. 1 of Brad Desmarais affirmed on January 28, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/522%20-%20Affidavit%20no.1%20of%20Brad%20Desmarais%20affirmed%20on%20January%2028%202021_Redacted.pdf" target="_blank">Affidavit no. 1 of Brad Desmarais affirmed on January 28, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#521</p>
@@ -1249,7 +1249,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#520</p>
-    <p>Affidavit #1 of Kevin Sweeney sworn October 26, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/520%20-%20Affidavit%20No.1%20of%20Kevin%20Sweeney%20sworn%20October%2026%202020.pdf" target="_blank">Affidavit #1 of Kevin Sweeney sworn October 26, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#519</p>
@@ -1261,7 +1261,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#517</p>
-    <p>Affidavit of Terry Towns made January 22, 2021_redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/517%20-%20Affidavit%20of%20Terry%20Towns%20made%20January%2022%202021_redacted.pdf" target="_blank">Affidavit of Terry Towns made January 22, 2021_redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#516</p>
@@ -1309,19 +1309,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#505</p>
-    <p>Affidavit no. 1 of Jim Lightbody sworn January 25, 2021 (redacted)<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/505%20-%20Affidavit%20no.1%20of%20Jim%20Lightbody%20sworn%20January%2025%202021%20-redacted-.pdf" target="_blank">Affidavit no. 1 of Jim Lightbody sworn January 25, 2021 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#504</p>
-    <p>Affidavit no. 1 of Cary Skrine made on January 15, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/504%20-%20Affidavit%20no.1%20of%20Cary%20Skrine%20made%20on%20January%2015%202021_Redacted.pdf" target="_blank">Affidavit no. 1 of Cary Skrine made on January 15, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#503</p>
-    <p>Overview Report 1998-2001 BCLC Security Incident Reports Related to Loan Sharking, Money Laundering and Suspicious Transactions in British Columbia Casinos_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/503%20-%20Overview%20Report%201998-2001%20BCLC%20Security%20Incident%20Reports%20Related%20to%20Loan%20Sharking%20Money%20Laundering%20and%20Suspicious%20Transactions%20in%20British%20Columbia%20Casinos_Redacted.pdf" target="_blank">Overview Report 1998-2001 BCLC Security Incident Reports Related to Loan Sharking, Money Laundering and Suspicious Transactions in British Columbia Casinos_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#502</p>
-    <p>Overview report - British Columbia Lottery Corporation Service Plans<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/502%20-%20Overview%20report%20-%20British%20Columbia%20Lottery%20Corporation%20Service%20Plans.pdf" target="_blank">Overview report - British Columbia Lottery Corporation Service Plans</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#501</p>
@@ -1329,7 +1329,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#500</p>
-    <p>Overview report - Ministry Service Plans - Ministries Responsible for Gaming<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/500%20-%20Overview%20report%20-%20Ministry%20Service%20Plans%20-%20Ministries%20Responsible%20for%20Gaming.pdf" target="_blank">Overview report - Ministry Service Plans - Ministries Responsible for Gaming</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#499</p>
@@ -1373,7 +1373,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#490</p>
-    <p>Affidavit No. 1 of Robert Kroeker made on January 15, 2021_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/490%20-%20Affidavit%20No.1%20of%20Robert%20Kroeker%20made%20on%20January%2015%202021_Redacted.pdf" target="_blank">Affidavit No. 1 of Robert Kroeker made on January 15, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#489</p>
@@ -1397,7 +1397,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#484</p>
-    <p>Affidavit no. 2 of Kevin deBruyckere sworn October 23, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/484%20-%20Affidavit%20no.2%20of%20Kevin%20deBruyckere%20sworn%20October%2023%202020_Redacted.pdf" target="_blank">Affidavit no. 2 of Kevin deBruyckere sworn October 23, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#483</p>
@@ -1405,15 +1405,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#482</p>
-    <p>Affidavit no. 1 of Caterina Cuglietta sworn October 22, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/482%20-%20Affidavit%20no.1%20of%20Caterina%20Cuglietta%20sworn%20October%2022%202020.pdf" target="_blank">Affidavit no. 1 of Caterina Cuglietta sworn October 22, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#481</p>
-    <p>Affidavit no. 1 of Gurmit Aujla, sworn October 29, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/481%20-%20Affidavit%20no.1%20of%20Gurmit%20Aujla%20sworn%20October%2029%202020.pdf" target="_blank">Affidavit no. 1 of Gurmit Aujla, sworn October 29, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#480</p>
-    <p>Affidavit no. 1 of Bill Lang affirmed January 15, 2021<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/480%20-%20Affidavit%20no.1%20of%20Bill%20Lang%20affirmed%20January%2015%202021.pdf" target="_blank">Affidavit no. 1 of Bill Lang affirmed January 15, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#479</p>
@@ -1697,7 +1697,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#409</p>
-    <p>CPA Canada Alert - Proceeds of Crime (Money Laundering) and Terrorist Financing – Know your Obligations, July 2015<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/409%20-%20CPA%20Canada%20Alert%20-%20Proceeds%20of%20Crime%20-Money%20Laundering-%20and%20Terrorist%20Financing%20-%20Know%20your%20Obligations%20July%202015.pdf" target="_blank">CPA Canada Alert - Proceeds of Crime (Money Laundering) and Terrorist Financing – Know your Obligations, July 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#408</p>
@@ -1777,7 +1777,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#389</p>
-    <p>Affidavit #1 of P. Tawtel, made December 14, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/389%20-%20Affidavit%20No.1%20of%20P.%20Tawtel%20made%20December%2014%202020_Redacted.pdf" target="_blank">Affidavit #1 of P. Tawtel, made December 14, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#388</p>
@@ -2097,7 +2097,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#309</p>
-    <p>A collection of emails – Beneficial Ownership Transparency consultation submissions_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/309%20-%20MOF2403.0001%20to%20MOF2448.001_Redacted.pdf" target="_blank">A collection of emails – Beneficial Ownership Transparency consultation submissions_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#308</p>
@@ -2453,7 +2453,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#220</p>
-    <p>The Law of Financial Crime – Lawyers and the Proceeds of Crime – The Facilitation of Money Laundering and Its Control<br />- Katie Benson</p>
+    <p><em>The Law of Financial Crime – Lawyers and the Proceeds of Crime – The Facilitation of Money Laundering and Its Control</em><br />- Katie Benson</p>
 </div>
 <div class="ExhibitElement">
     <p>#219</p>
@@ -2609,7 +2609,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#181</p>
-    <p>Affidavit No. 1 of Larry Vander Graaf made on November 8, 2020<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/181%20-%20Affidavit%20No.%201%20of%20Larry%20Vander%20Graaf%20made%20on%20November%208%202020.pdf" target="_blank">Affidavit No. 1 of Larry Vander Graaf made on November 8, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#180</p>
@@ -2657,7 +2657,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#169</p>
-    <p>Email from Heather Samson to Laurin Stenerson, Re Subject Detailed Report - October 2, 2017_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/169%20-%20Email%20from%20Heather%20Samson%20to%20Laurin%20Stenerson%20Re%20Subject%20Detailed%20Report%20-%20October%202%202017_Redacted.pdf" target="_blank">Email from Heather Samson to Laurin Stenerson, Re Subject Detailed Report - October 2, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#168</p>
@@ -2737,15 +2737,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#149</p>
-    <p>Affidavit #2 of Daryl Tottenham, sworn October 30, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/149%20-%20Affidavit%20No.2%20of%20Daryl%20Tottenham%20sworn%20October%2030%202020_Redacted.pdf" target="_blank">Affidavit #2 of Daryl Tottenham, sworn October 30, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#148</p>
-    <p>Affidavit #1 of Daryl Tottenham, sworn October 30, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/148%20-%20Affidavit%20No.1%20of%20Daryl%20Tottenham%20sworn%20October%2030%202020_Redacted.pdf" target="_blank">Affidavit #1 of Daryl Tottenham, sworn October 30, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#147</p>
-    <p>Affidavit #1 of Muriel Labine, affirmed on 23 day of October, 2020_Redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/147%20-%20Affidavit%20No.1%20of%20Muriel%20Labine%20affirmed%20on%2023%20day%20of%20October%202020_Redacted.pdf" target="_blank">Affidavit #1 of Muriel Labine, affirmed on 23 day of October, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#146</p>
@@ -2985,7 +2985,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#87</p>
-    <p><a href="/data/exhibits/87 - Affidavit No.1 of Stone Lee sworn 23rd day of October 2020_Redacted.pdf" target="_blank">Affidavit #1 of Stone Lee, sworn 23rd day of October, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/87%20-%20Affidavit%20No.1%20of%20Stone%20Lee%20sworn%2023rd%20day%20of%20October%202020_Redacted.pdf" target="_blank">Affidavit #1 of Stone Lee, sworn 23rd day of October, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#86</p>
@@ -3017,11 +3017,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#79</p>
-    <p>Affidavit #2 of Steve Beeksma, affirmed on October 22, 2020_redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/79%20-%20Affidavit%20No.2%20of%20Steve%20Beeksma%20affirmed%20on%20October%2022%202020_redacted.pdf" target="_blank">Affidavit #2 of Steve Beeksma, affirmed on October 22, 2020_redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#78</p>
-    <p>Affidavit #1 of Steve Beeksma, affirmed on October 22, 2020_redacted<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/78%20-%20Affidavit%20No.1%20of%20Steve%20Beeksma%20affirmed%20on%20October%2022%202020_redacted.pdf" target="_blank">Affidavit #1 of Steve Beeksma, affirmed on October 22, 2020_redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#77</p>
@@ -3029,7 +3029,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#76</p>
-    <p>Overview Report: BCLC Standards, Policies, Procedures and Operational Services Agreements<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/76%20-%202020%2012%2003%20BCLC%20Standards%20OR%20FINAL%20-%20Redacted.pdf" target="_blank">Overview Report: BCLC Standards, Policies, Procedures and Operational Services Agreements</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#75</p>
