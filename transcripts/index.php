@@ -67,6 +67,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p class="ArchiveVideoTitle">December 18 - <a href="/data/transcripts/Transcript December 18, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">December 17 - <a href="/data/transcripts/Transcript December 17, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">December 16 - <a href="/data/transcripts/Transcript December 16, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
+<p class="ArchiveVideoTitle">December 15 - <a href="/data/transcripts/Transcript December 15, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">December 14 - <a href="/data/transcripts/Transcript December 14, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">December 11 - <a href="/data/transcripts/Transcript December 11, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
 <p class="ArchiveVideoTitle">December 10 - <a href="/data/transcripts/Transcript December 10, 2020.pdf" target="_blank" class="ArchiveVideoLink">Transcript</a></p>
