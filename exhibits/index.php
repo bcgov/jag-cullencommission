@@ -77,7 +77,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#814</p>
-    <p><a href="/data/exhibits/814 - Baccarat Business Plan for Richmond Private Clubhouse_Redacted.pdf" target="_blank"></a></p>
+    <p><a href="/data/exhibits/814 - Baccarat Business Plan for Richmond Private Clubhouse_Redacted.pdf" target="_blank">Baccarat, Business Plan for Richmond Private Clubhouse_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#811</p>
