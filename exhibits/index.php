@@ -1457,7 +1457,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#469</p>
-    <p>Project Athena Meeting Minutes – July 24, 2019<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/469%20-%20Project%20Athena%20Meeting%20Minutes%20-%20July%2024%202019.pdf" target="_blank">Project Athena Meeting Minutes – July 24, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#468</p>
