@@ -76,6 +76,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/815 - Emails exchange between Ross Alderson and Joel Hussey and others re -patron- Jul 6 2017_Redacted.pdf" target="_blank">Emails exchange between Ross Alderson and Joel Hussey and others, re [patron] - Jul 6, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#814</p>
+    <p><a href="/data/exhibits/814 - Baccarat Business Plan for Richmond Private Clubhouse_Redacted.pdf" target="_blank"></a></p>
+</div>
+<div class="ExhibitElement">
     <p>#811</p>
     <p><a href="/data/exhibits/811 - Organizational Charts E Division Criminal Operations Combined Forces Special Enforcement in BC 2010-2017_Redacted.pdf" target="_blank">Organizational Charts, E Division Criminal Operations Combined Forces Special Enforcement in BC, 2010-2017_Redacted</a></p>
 </div>
