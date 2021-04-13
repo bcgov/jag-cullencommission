@@ -118,7 +118,7 @@ NEW HEARING TEMPLATE
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 9, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('535097735'); return false">Watch Video of Session</button>
   </div>
   <p>April 8, 2021</p>
@@ -126,7 +126,7 @@ NEW HEARING TEMPLATE
     <li><strong>Barry Baxter</strong>, Former RCMP</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 8, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('534695987'); return false">Watch Video of Session</button>
   </div>
   <p>April 7, 2021</p>
@@ -143,7 +143,10 @@ NEW HEARING TEMPLATE
     </div>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <div>
+      <p><a href="/data/transcripts/Transcript April 7, 2021 - Session 1.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Session 1 Transcript</button></a></p>
+      <p><a href="/data/transcripts/Transcript April 7, 2021 - Session 2.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Session 2 Transcript</button></a></p>
+    </div>
     <div>
       <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('534283827'); return false">Watch Video of Session 1</button></p>
       <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('534293302'); return false">Watch Video of Session 2</button></p>
