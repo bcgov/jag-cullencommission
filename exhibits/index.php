@@ -16,6 +16,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#833</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/833%20-%20Dirty%20Money%20-%20Part%202%20Turning%20the%20Tide%20-%20An%20Independent%20Review%20of%20Money%20Laundering%20in%20B.C.%20by%20Peter%20German%20QC%20March%2031%202019.pdf" target="_blank">“Dirty Money – Part 2 Turning the Tide – An Independent Review of Money Laundering in B.C. Real Estate, Luxury Vehicle Sales & Horse Racing”, by Peter German, QC, March 31, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#832</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/832%20-%20Dirty%20Money%20Report%20by%20Peter%20German%20March%2031%202018.pdf" target="_blank">Dirty Money Report by Peter German March 31, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#831</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/831%20-%20Bio%20Peter%20German%20-long-.pdf" target="_blank">Biography of Peter German</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#830</p>
     <p><a href="/data/exhibits/830 - The high price of Chinese money laundering in Canada - The Globe and Mail.pdf" target="_blank">The high price of Chinese money laundering in Canada - The Globe and Mail</a></p>
 </div>
@@ -173,7 +185,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#781</p>
-    <p>Affidavit no. 1 of Anna Fitzgerald, made on March 3, 2021<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/781%20-%20Affidavit%20no.1%20of%20Anna%20Fitzgerald%20made%20on%20March%203%202021.pdf" target="_blank">Affidavit no. 1 of Anna Fitzgerald, made on March 3, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#780</p>
@@ -185,7 +197,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#778</p>
-    <p>Affidavit no. 1 of Norman Shields made on March 26, 2021<br /><strong>This is a very large file - it will be posted in due course. If you would like access to this exhibit, please email</strong> <a href="mailto:contact@cullencommission.ca">contact@cullencommission.ca</a>.</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/778%20-%20Affidavit%20no.1%20of%20Norman%20Shields%20made%20on%20March%2026%202021.pdf" target="_blank"> Affidavit no. 1 of Norman Shields made on March 26, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#777</p>
