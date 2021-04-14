@@ -7,7 +7,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Witnesses</h1>
-<noscript>You need to enable JavaScript to run this app.</noscript>
 <p style="font-size: 0.85rem; text-align: center">If you would like to see the schedule of witnesses by date please <a href="/schedule/">click here</a>.</p>
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">A</h2>
@@ -81,6 +80,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">26 October, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Kevin Begg</strong>, (Former Assistant Deputy Minister, Policing and Community Safety Branch; Former Director of Police Services)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">21 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Ellen Bekkering</strong>, (Chief, Statistics Canada)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 March, 2021</strong></p>
@@ -108,6 +111,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Richard Block</strong>, (Senior Specialist, Regulatory Reporting and Fixed Assets, BCLC)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Shirley Bond</strong>, (Leader of the Opposition; Former Minister of Public Safety and Solicitor General; Former Attorney General and Minister of Justice)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">22 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Dr. Martin Bouchard</strong>, (Ph.D., Professor, School of Criminology, Simon Fraser University)</p>
     <div class="WitnessHearingsList">
@@ -177,6 +184,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">27 October, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">28 October, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Christy Clark</strong>, (Former Premier)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">20 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Garry Clement</strong>, (Consultant; Former National Director, Proceeds of Crime, RCMP)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
@@ -192,6 +203,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>James Cohen</strong>, (Executive Director, Transparency International Canada)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">30 November, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Rich Coleman</strong>, (Former Minister of Public Safety and Solicitor General; Former Minister of Housing and Social Development; Former Minister of Energy and Mines and Minister Responsible for Housing)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">28 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Michael Cox</strong>, (Chief Compliance Officer & Finance Director, Vancouver Bullion & Currency Exchange)</p>
     <div class="WitnessHearingsList">
@@ -220,6 +235,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">8 March, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Michael de Jong</strong>, (Opposition Attorney General Critic; Former Minister of Finance)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">23 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Kevin deBruyckere</strong>, (Director, AML & Investigations, Legal Compliance, Security Division, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
@@ -266,6 +285,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">E</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>David Eby</strong>, (Attorney General; Former Opposition Spokesperson for Gaming)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">26 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Chris Elgar</strong>, (Vice President and Deputy Superintendent of Financial Institutions, Prudential Supervision, BC Financial Services Authority)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">15 January, 2021</strong></p>
@@ -305,6 +328,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">28 October, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">29 October, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Richard Fyfe</strong>, (Deputy Attorney General)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">29 April, 2021</strong></p>
     </div>
   </div>
 </div>
@@ -373,6 +400,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Inspector Mike Heard</strong>, (Vancouver Police Department)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">30 March, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Kash Heed</strong>, (Former Minister of Public Safety and Solicitor General; Former Chief Constable, West Vancouver Police Department)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Dr. José Hernandez</strong>, (Ph.D., CEO, Ortus Strategies)</p>
     <div class="WitnessHearingsList">
@@ -514,6 +545,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 January, 2021</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 March, 2021</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Sam MacLeod</strong>, (Assistant Deputy Minister and General Manager, Gaming Policy and Enforcement Branch)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">19 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Nicholas Maxwell</strong>, (Head of the Future of Financial Intelligence Sharing (FFIS) Programme, RUSI Centre for Financial Crime and Securities Studies)</p>
     <div class="WitnessHearingsList">
@@ -866,6 +901,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">16 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Lori Wanamaker</strong>, (Deputy Minister to the Premier, Cabinet Secretary and Head of the British Columbia Public Service; Former Deputy Minister of Finance; Former Deputy Minister of Public Safety and Solicitor General)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">22 April, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Peter Warrack</strong>, (Chief Compliance Officer, Bitfinex)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
@@ -875,6 +914,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 June, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 June, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Cheryl Wenezenki-Yolland</strong>, (Former Associate Deputy Minister of Finance)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">27 April, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Gerard West</strong>, (Manager of Examinations, BC Financial Services Authority)</p>
     <div class="WitnessHearingsList">
