@@ -9,7 +9,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <!--
 <div class="ExhibitElement">
     <p>#</p>
-    <p><a href="/data/exhibits/" target="_blank"></a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/" target="_blank"></a></p>
 </div>
 -->
 <h1>Exhibits</h1>
@@ -68,6 +68,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/821 - A Resourcing Overview of Major Money Laundering Investigations in BC prepraed by RCMP E-Division in partnership with CFSEU-BCs Strategic Research Office.pdf" target="_blank">A Resourcing Overview of Major Money Laundering Investigations in BC, prepraed by RCMP E-Division in partnership with CFSEU-BC's Strategic Research Office</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#820</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/820 - Media Protocol for JIGIT subsequent to Section 8 of the Operation and Funding Agreement between the Minster of PSSG and MOF February 7 2017.pdf" target="_blank">Media Protocol for JIGIT subsequent to Section 8, of the Operation and Funding Agreement between the Minster of PSSG and MOF, February 7, 2017</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#819</p>
     <p><a href="/data/exhibits/819 - Responses from CFSEU for Cullen Commission Requests 4-2--A--B- and -C-.pdf" target="_blank">Responses from CFSEU for Cullen Commission Requests 4(2)(A),(B) and (C)</a></p>
 </div>
@@ -90,6 +94,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#814</p>
     <p><a href="/data/exhibits/814 - Baccarat Business Plan for Richmond Private Clubhouse_Redacted.pdf" target="_blank">Baccarat, Business Plan for Richmond Private Clubhouse_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#813</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/813 - MOF Briefing Document title Police Presence in BC Casinos - Start Date January 28 2017 Jan 24 2017_Redacted.pdf" target="_blank">MOF Briefing Document, title: Police Presence in BC Casinos - Start Date January 28, 2017, Jan 24, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#812</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/812 - Draft RCMP Investigational Planning and Report Jan 19 2017 -redacted-.pdf" target="_blank">Draft RCMP Investigational Planning and Report, Jan 19, 2017 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#811</p>
@@ -122,6 +134,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#804</p>
     <p><a href="/data/exhibits/804 - Draft Proposal for a Provincial Financial IntegrityCrime Unit - Jan 22 2018_Redacted.pdf" target="_blank">Draft Proposal for a Provincial Financial IntegrityCrime Unit - Jan 22, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#803</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/803 - Review of the Joint Illegal gaming Investigation Team -JIGIT- - D. LePard C. Tait - Nov 2020.pdf" target="_blank">Review of the Joint Illegal gaming Investigation Team (JIGIT) - D. LePard, C. Tait - Nov 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#802</p>
