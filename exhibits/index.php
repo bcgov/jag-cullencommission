@@ -1381,7 +1381,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#488</p>
-    <p><a href="/data/exhibits/488 - Letter from Joe Schalk re Suspicious Currency Transactions - Money Laundering Review Report - December 27 2012.pdf" target="_blank">(Previously marked as Exhibit A) Letter from Joe Schalk re Suspicious Currency Transactions - Money Laundering Review Report – December 27, 2012</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/488%20-%20-Previously%20marked%20as%20Ex.%20A-%20Letter%20from%20Joe%20Schalk%20re%20Suspicious%20Currency%20Transactions%20Money%20Laundering%20Review%20Report%20-%20Dec%2027%202012_Redacted.pdf" target="_blank">(Previously marked as Exhibit A) Letter from Joe Schalk re Suspicious Currency Transactions - Money Laundering Review Report – December 27, 2012</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#487</p>
@@ -2585,11 +2585,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#187</p>
-    <p><a href="/data/exhibits/187 - GPEB0673.0001.pdf" target="_blank">Email from John Mazure to Larry Vander Graaf, Re: Comments to GPEB Investigations Report on Money Laundering in BC Casions - December 2, 2013</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/187%20-%20Email%20from%20John%20Mazure%20to%20Larry%20Vander%20Graaf%20Re%20Comments%20to%20GPEB%20Investigations%20Report%20on%20Money%20Laundering%20in%20BC%20Casions%20-%20Dec%202%202013_Redacted.pdf" target="_blank">Email from John Mazure to Larry Vander Graaf, Re: Comments to GPEB Investigations Report on Money Laundering in BC Casions - December 2, 2013</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#186</p>
-    <p><a href="/data/exhibits/186 - GPEB0264.0001.pdf" target="_blank">Las Vegas Review Journal – Casinos shudder over possible federal requirement to divulge source of rollers’ gambling funds - April 8, 2014</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/186%20-%20Las%20Vegas%20Review%20Journal%20-%20Casinos%20shudder%20over%20possible%20federal%20requirement%20to%20divulge%20source%20of%20rollers%20gambling%20funds%20-%20April%208%202014_Redacted.pdf" target="_blank">Las Vegas Review Journal – Casinos shudder over possible federal requirement to divulge source of rollers’ gambling funds - April 8, 2014</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#185</p>
@@ -2597,7 +2597,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#184</p>
-    <p><a href="/data/exhibits/184 - GPEB0073.0001.pdf" target="_blank">Email from Larry Vander Graaf, Re: Patron Gaming Fund Account Discussion - September 14, 2009</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/184%20-%20Email%20from%20Larry%20Vander%20Graaf%20Re%20Patron%20Gaming%20Fund%20Account%20Discussion%20-%20September%2014%202009_Redacted.pdf" target="_blank">Email from Larry Vander Graaf, Re: Patron Gaming Fund Account Discussion - September 14, 2009</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#183</p>
@@ -2685,7 +2685,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#162</p>
-    <p><a href="/data/exhibits/162 - GPEB0549.0001.pdf" target="_blank">Overview of the Report on the Integrated Illegal Gaming Enforcement Team (IIGET) Effectiveness Review by Catherine Tait – March 31, 2009</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/162%20-%20Overview%20of%20the%20Report%20on%20the%20Integrated%20Illegal%20Gaming%20Enforcement%20Team%20-IIGET-%20Effectiveness%20Review%20by%20Catherine%20Tait%20-%20March%2031%202009_Redacted.pdf" target="_blank">Overview of the Report on the Integrated Illegal Gaming Enforcement Team (IIGET) Effectiveness Review by Catherine Tait – March 31, 2009</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#161</p>
@@ -2749,15 +2749,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#146</p>
-    <p><a href="/data/exhibits/146 - GPEB3325 - Email from Scott McGregor February 23, 2017.pdf" target="_blank">Email Robert Stewart, subject Fw CIR_17-003_AML Month of December - February 23, 2017</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/146%20-%20Email%20Robert%20Stewart%20subject%20Fw%20CIR_17-003_AML%20Month%20of%20December.docx%20-%20February%2023%202017_Redacted.pdf" target="_blank">Email Robert Stewart, subject Fw CIR_17-003_AML Month of December - February 23, 2017</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#145</p>
-    <p><a href="/data/exhibits/145 - 2020 10 29 - Affidavit No. 1 of R. Barber_Redacted.pdf" target="_blank">Affidavit #1 of Robert Barber, made on October 29, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/145%20-%20Affidavit%20No.1%20of%20%20Robert%20Barber%20made%20on%20October%2029%202020_Redacted.pdf" target="_blank">Affidavit #1 of Robert Barber, made on October 29, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#144</p>
-    <p><a href="/data/exhibits/144 - 2020 10 28 - Affidavit No. 3 of K. Ackles [REDACTED].pdf" target="_blank">Affidavit #3 of Ken Ackles made on October 28, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/144%20-%20Affidavit%20No.3%20of%20Ken%20Ackles%20made%20on%20October%2028%202020_Redacted.pdf" target="_blank">Affidavit #3 of Ken Ackles made on October 28, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#143</p>
@@ -2781,7 +2781,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#138</p>
-    <p><a href="/data/exhibits/138 - GPEB1456.0001 - Letter from John Karlovcec to Skrine re Questions with Feedback – October 19, 2018.pdf" target="_blank">Letter from John Karlovcec to Cary Skrine re Questions with Feedback – October 19, 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/138%20-%20Letter%20from%20John%20Karlovcec%20to%20Cary%20Skrine%20re%20Questions%20with%20Feedback%20-%20October%2019%202018_Redacted.pdf" target="_blank">Letter from John Karlovcec to Cary Skrine re Questions with Feedback – October 19, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#137</p>
@@ -2877,7 +2877,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#114</p>
-    <p><a href="/data/exhibits/114 - GPEB3953.0001 - Email from John Karlovcec re Derek Dickson - Jan 27, 2011.pdf" target="_blank">Email from John Karlovcec re Derek Dickson – Jan 27, 2011</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/114%20-%20Email%20from%20John%20Karlovcec%20re%20Derek%20Dickson%20-%20Jan%2027%202011_Redacted.pdf" target="_blank">Email from John Karlovcec re Derek Dickson – Jan 27, 2011</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#113</p>
@@ -2885,23 +2885,23 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#112</p>
-    <p><a href="/data/exhibits/112 - GPEB0171_Redacted.pdf" target="_blank">Letter from Joe Schalk re Money Laundering in BC Casinos – February 28, 2011_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/112%20-%20Letter%20from%20Joe%20Schalk%20re%20Money%20Laundering%20in%20BC%20Casinos%20-%20February%2028%202011_Redacted.pdf" target="_blank">Letter from Joe Schalk re Money Laundering in BC Casinos – February 28, 2011_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#111</p>
-    <p><a href="/data/exhibits/111 - GPEB0581_Redacted.pdf" target="_blank">Letter from John Karlovcec re: Money Laundering in BC Casinos - December 24, 2010_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/111%20-%20Letter%20from%20John%20Karlovcec%20re%20Money%20Laundering%20in%20BC%20Casinos%20-%20December%2024%202010_Redacted.pdf" target="_blank">Letter from John Karlovcec re: Money Laundering in BC Casinos - December 24, 2010_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#110</p>
-    <p><a href="/data/exhibits/110 - GPEB0169_Redacted.pdf" target="_blank">Letter from Derek Dickson re Money Laundering in Casinos – November 24, 2010_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/110%20-%20Letter%20from%20Derek%20Dickson%20re%20Money%20Laundering%20in%20Casinos%20-%20November%2024%202010.pdf" target="_blank">Letter from Derek Dickson re Money Laundering in Casinos – November 24, 2010_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#109</p>
-    <p><a href="/data/exhibits/109 - GPEB1929_Redacted.pdf" target="_blank">Letter from Gordon Friesen re Loan Sharking/Suspicious Currency and Chip Passing – May 4, 2010_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/109%20-%20Letter%20from%20Gordon%20Friesen%20re%20Loan%20Sharking%20Suspicious%20Currency%20and%20Chip%20Passing%20-%20May%204%202010%20_Redacted.pdf" target="_blank">Letter from Gordon Friesen re Loan Sharking/Suspicious Currency and Chip Passing – May 4, 2010_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#108</p>
-    <p><a href="/data/exhibits/108 - GPEB0166 _Redacted.pdf" target="_blank">Letter from Derek Dickson re Loan Sharking/Suspicious Currency & Chip Passing – April 14, 2010_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/108%20-%20Letter%20from%20Derek%20Dickson%20re%20Loan%20Sharking%20Suspicious%20Currency%20and%20Chip%20Passing%20-%20April%2014%202010_Redacted.pdf" target="_blank">Letter from Derek Dickson re Loan Sharking/Suspicious Currency & Chip Passing – April 14, 2010_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#107</p>
@@ -2909,7 +2909,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#106</p>
-    <p><a href="/data/exhibits/106 - GPEB0564.0001.pdf" target="_blank">Letter from Gordon Friesen re Review of BCLC Player Gaming Fund Accounts Pilot Project – February 17, 2010</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/106%20-%20Letter%20from%20Gordon%20Friesen%20re%20Review%20of%20BCLC%20Player%20Gaming%20Fund%20Accounts%20Pilot%20Project%20-%20February%2017%202010_Redacted.pdf" target="_blank">Letter from Gordon Friesen re Review of BCLC Player Gaming Fund Accounts Pilot Project – February 17, 2010</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#105</p>
@@ -2997,7 +2997,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#84</p>
-    <p><a href="/data/exhibits/84 - Extracted Pages 27-29 GPEB4302.pdf" target="_blank">Email from Gordon Friesen to Steve Beeksma RE Under$50K buy ins in $20 bills - September 23, 2011</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/84%20-%20Email%20from%20Gordon%20Friesen%20to%20Steve%20Beeksma%20RE%20Under%2050K%20buy%20ins%20in%2020%20bills%20-%20September%2023%202011_Redacted.pdf" target="_blank">Email from Gordon Friesen to Steve Beeksma RE Under$50K buy ins in $20 bills - September 23, 2011</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#83</p>
