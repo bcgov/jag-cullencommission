@@ -128,6 +128,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="/data/exhibits/802 - Curriculum Vitae of Doug LePard.pdf" target="_blank">Curriculum Vitae of Doug LePard</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#801</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/801%20-%20Briefing%20Note%20-%20Current%20state%20of%20police%20response%20to%20money%20laundering%20in%20BC%20Feb.%2010%202020_Redacted.pdf" target="_blank">Briefing Note - Current state of police response to money laundering in BC, Feb. 10, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#800</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/800%20-%20Ministry%20of%20Public%20Safety%20and%20Solicitor%20General%20Policing%20and%20Security%20Branch%20-%20Decision%20Note%20June%207%202019_Redacted.pdf" target="_blank">Ministry of Public Safety and Solicitor General Policing and Security Branch – Decision Note, June 7, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#799</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/799%20-%20Joint%20Briefing%20Note%20-%20Issue%20Govt%20has%20directed%20the%20PPSG%20Min%20of%20Fin%20and%20Min%20of%20AG%20to%20examine%20options%20to%20combat%20ML%20in%20BC%20Feb%207%202018_Redacted.pdf" target="_blank">Joint Briefing Note - Issue: Government has directed the PPSG, Ministry of Finance, and the Ministry of AG to examine options to combat money laundering in British Columbia, February 7, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#798</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/798%20-%20Letter%20from%20ADM%20Pecknold%20to%20Deputy%20Commissioner%20Butterworth-Carr%20Nov.%2022%202017_Redacted.pdf" target="_blank">Letter from ADM Pecknold to Deputy Commissioner Butterworth-Carr, Nov. 22 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#797</p>
     <p><a href="/data/exhibits/797 - Business Case for Financial Crime Unit Appendix D - Examples of Cases Affected by Federal Re-engineering November 2016.pdf" target="_blank">Business Case for Financial Crime Unit, Appendix D – Examples of Cases Affected by Federal Re-engineering, November, 2016</a></p>
 </div>
@@ -150,6 +166,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#792</p>
     <p><a href="/data/exhibits/792 - Letter from Brenda Butterworth-Carr to Eric Stubbs Re Federal RCMP Reporting Requirements May 23 2019_Redacted.pdf" target="_blank">Letter from Brenda Butterworth-Carr to Eric Stubbs, Re Federal RCMP Reporting Requirements, May 23, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#791</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/791%20-%20Briefing%20Note%20to%20Minister%20Farnworth%20Organized%20Crime%20Priorities%20April%2030%202018_Redacted.pdf" target="_blank">Briefing Note to Minister Farnworth, Organized Crime Priorities, April 30, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#790</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/790%20-%20Email%20from%20L.%20Wanamaker%20to%20C.%20Pecknold%20re%20fwd%20German%20Money%20Laundering%2C%20Dec.%2015%202018_Redacted.pdf" target="_blank">Email from L. Wanamaker to C. Pecknold re fwd: German Money Laundering, Dec. 15, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#789</p>
