@@ -16,6 +16,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#837</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/837 - Letter from Douglas Scott  to Peter German - Feb 22 2021_Redacted.pdf" target="_blank">Letter from Douglas Scott to Peter German - Feb 22, 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#836</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/836 - British Columbia Centre on Substance Use - August 21 2020 submission_Redacted.pdf" target="_blank">British Columbia Centre on Substance Use - August 21, 2020 submission_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#835</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/835 - Response to Report - Dirty Money in Our Casinos by P. German - March 31 2018 submitted by Ross Alderson.pdf" target="_blank">Response to Report – Dirty Money in Our Casinos by P. German – March 31, 2018 submitted by Ross Alderson</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#834</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/834 - A pdf of the website of Peter German and Associates.pdf" target="_blank">A pdf of the website of Peter German & Associates</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#833</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/833%20-%20Dirty%20Money%20-%20Part%202%20Turning%20the%20Tide%20-%20An%20Independent%20Review%20of%20Money%20Laundering%20in%20B.C.%20by%20Peter%20German%20QC%20March%2031%202019.pdf" target="_blank">“Dirty Money – Part 2 Turning the Tide – An Independent Review of Money Laundering in B.C. Real Estate, Luxury Vehicle Sales & Horse Racing”, by Peter German, QC, March 31, 2019</a></p>
 </div>
@@ -374,6 +390,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#744</p>
     <p>This exhibit was previously marked as <a href="/data/exhibits/346 - 011 CAN-000172.pdf" target="_blank">Exhibit 346</a>; therefore Exhibit 744 is vacated.</p>
+</div>
+<div class="ExhibitElement">
+    <p>#743</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/743 - Excel spreadsheet re BCREA request for information.xlsx" target="_blank">Excel spreadsheet re BCREA request for information</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#742</p>
