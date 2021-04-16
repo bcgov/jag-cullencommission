@@ -18,18 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>April 15, 2021</p>
-  <div class="ScheduleListPanel">
-    <p class="SchedulePanelName">Federal Serious and Organized Crime Money Laundering Team / Integrated Market Enforcement Team Panel:</p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Insp. Tony Farahbakhchian</strong>, Federal Serious and Organized Crime, Financial Integrity Unit, Money Laundering Team, RCMP “E” Division</li>
-      <li><strong>S/Sgt. Kurt Bedford</strong>, Integrated Market Enforcement Team, RCMP “E” Division</li>
-    </ul>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>April 16, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Supt. Brent Taylor</strong>, Federal Serious and Organized Crime, Officer in Charge, Operations and Financial Integrity, RCMP “E” Division</li>
@@ -145,6 +133,18 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>April 15, 2021</p>
+  <div class="ScheduleListPanel">
+    <p class="SchedulePanelName">Federal Serious and Organized Crime Money Laundering Team / Integrated Market Enforcement Team Panel:</p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Insp. Tony Farahbakhchian</strong>, Federal Serious and Organized Crime, Financial Integrity Unit, Money Laundering Team, RCMP “E” Division</li>
+      <li><strong>S/Sgt. Kurt Bedford</strong>, Integrated Market Enforcement Team, RCMP “E” Division</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>April 14, 2021</p>
   <div class="ScheduleListPanel">
     <p class="SchedulePanelName">Combined Forces Special Enforcement Unit – BC / Joint Illegal Gaming Investigation Team / Counter Illicit Finance Alliance of British Columbia Panel:</p>
