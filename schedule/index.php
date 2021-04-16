@@ -162,7 +162,7 @@ NEW HEARING TEMPLATE
     <li><strong>Dr. Peter German</strong> (cont’d), Consultant; Former Deputy Commissioner, RCMP</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 13, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('536585763'); return false">Watch Video of Session</button>
   </div>
   <p>April 12, 2021</p>
@@ -170,7 +170,7 @@ NEW HEARING TEMPLATE
     <li><strong>Dr. Peter German</strong>, Consultant; Former Deputy Commissioner, RCMP</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 12, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('536130190'); return false">Watch Video of Session</button>
   </div>
   <p>April 9, 2021</p>
