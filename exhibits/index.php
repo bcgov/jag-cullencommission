@@ -16,6 +16,74 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#861</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/861 - Letter from Michael Duheme re Directive on Proceeds of Crime and Money Laundering in All Future Federal policing Serious and Organized Crime Investigations_Redacted.pdf" target="_blank">Letter from Michael Duheme re Directive on Proceeds of Crime and Money Laundering in All Future Federal policing Serious and Organized Crime Investigations_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#860</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/860 - RCMP Definition revision of the Federal Policing Priorities - October 12 2018.pdf" target="_blank">RCMP Definition revision of the Federal Policing Priorities – October 12, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#859</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/859 - E Division Criminal Operations Chart - March 15 2021.pdf" target="_blank">“E” Division Criminal Operations Chart - March 15, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#858</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/858 - IMET Performance Improvement Action Plan - 2019 IMET HR Modernization phase 1 - Undated.pdf" target="_blank">IMET Performance Improvement Action Plan – 2019 IMET HR Modernization phase 1 - Undated</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#856</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/856 - Presentation - FSOC Financial Integrity Program Group 1 - Undated.pdf" target="_blank">Presentation - FSOC Financial Integrity Program Group 1 - Undated</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#855</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/855 - Curriculum Vitae of Kurt Bedford.pdf" target="_blank">Curriculum Vitae of Kurt Bedford</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#854</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/854 - Curriculum Vitae of Tony Farahbackhchian.pdf" target="_blank">Curriculum Vitae of Tony Farahbackhchian</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#853</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/853 - Email from Paul Dadwal re JIGIT New Systems - May 19 2016_Redacted.pdf" target="_blank">Email from Paul Dadwal re JIGIT New Systems – May 19, 2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#852</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/852 - Email from Ben Robinson re Intel and Interview_Redacted.pdf" target="_blank">Email from Ben Robinson re Intel and Interview_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#851</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/851 - Email from Ben Robinson re Toyota Corolla February 16 2017_Redacted.pdf" target="_blank">Email from Ben Robinson re Toyota Corolla February 16, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#850</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/850 - Email exchanges Ross Alderson re Persons of Interests February 18 and 19 2021_Redacted.pdf" target="_blank">Email exchanges Ross Alderson re Persons of Interests February 18 and 19, 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#847</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/847 - CIFA-BC Framework revised April 9 2021.pdf" target="_blank">CIFA-BC Framework revised April 9, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#846</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/846 - Investigational Planning and Report Project ATHENA Feb 13 2020.pdf" target="_blank">Investigational Planning and Report, Project ATHENA, Feb 13, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#845</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/845 - Ben Robinson - Response June 11 2020.pdf" target="_blank">Ben Robinson – Response, June 11, 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#842</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/842 - Luxury Vehicle Sub Group -undated-.pdf" target="_blank">Luxury Vehicle Sub Group (undated)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#839</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/839 - Project Athena and CIFA-BC Presentation.pdf" target="_blank">Project Athena and CIFA-BC, Presentation</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#838</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/838 - Curriculum Vitae of Ben Robinson.pdf" target="_blank">Curriculum Vitae of Ben Robinson</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#837</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/837 - Letter from Douglas Scott  to Peter German - Feb 22 2021_Redacted.pdf" target="_blank">Letter from Douglas Scott to Peter German - Feb 22, 2021_Redacted</a></p>
 </div>
@@ -1037,7 +1105,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#587</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/587%20-%20Affidavit%20no.1%20of%20Joseph%20Emile%20Leonard%20Meilleur%20made%20on%20February%209%202021_Redacted.pdf" target="_blank">Affidavit no. 1 of Joseph Emile Leonard Meilleur made on February 9, 2021_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/587 - Affidavit no.1 of Joseph Emile Leonard Meilleur made on February 9 2021_Redacted.pdf" target="_blank">Affidavit no. 1 of Joseph Emile Leonard Meilleur made on February 9, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#586</p>
@@ -1561,7 +1629,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#458</p>
-    <p><a href="/data/exhibits/458 - Meeting minutes - Project Athena - April 24 2019.pdf" target="_blank">Meeting minutes - Project Athena - April 24, 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/458 - Meeting minutes - Project Athena - April 24 2019.pdf" target="_blank">Meeting minutes - Project Athena - April 24, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#457</p>
@@ -3193,203 +3261,203 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#50</p>
-    <p><a href="/data/exhibits/50 - Briefing Note - Feb 25 2018_Redacted.pdf" target="_blank">Briefing Document - February 25, 2018 - Threshold for reporting beneficial ownership through companies under the proposed Land Ownership Transparency Act</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/50 - Briefing Note - Feb 25 2018_Redacted.pdf" target="_blank">Briefing Document - February 25, 2018 - Threshold for reporting beneficial ownership through companies under the proposed Land Ownership Transparency Act</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#49</p>
-    <p><a href="/data/exhibits/49 - Deloitte AML Jurisdictional Scan.pdf" target="_blank">Deloitte, Government of BC Anti-Money Laundering Jurisdictional Scan</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/49 - Deloitte AML Jurisdictional Scan.pdf" target="_blank">Deloitte, Government of BC Anti-Money Laundering Jurisdictional Scan</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#48</p>
-    <p><a href="/data/exhibits/48 - Minutes.pdf" target="_blank">Minutes of Meetings of Deputy Minister's Committee on Anti-Money Laundering</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/48 - Minutes.pdf" target="_blank">Minutes of Meetings of Deputy Minister's Committee on Anti-Money Laundering</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#47</p>
-    <p><a href="/data/exhibits/47 - Agendas.pdf" target="_blank">Agendas for the Meetings of Deputy Minister’s Committee on Anti-Money Laundering</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/47 - Agendas.pdf" target="_blank">Agendas for the Meetings of Deputy Minister’s Committee on Anti-Money Laundering</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#46</p>
-    <p><a href="/data/exhibits/46 - Provincial AML Strategy.pdf" target="_blank">Provincial Anti-Money Laundering Strategy (last updated Jan 30, 2020)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/46 - Provincial AML Strategy.pdf" target="_blank">Provincial Anti-Money Laundering Strategy (last updated Jan 30, 2020)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#45</p>
-    <p><a href="/data/exhibits/45 - Anti Money Laundering Strategic Timeline.pdf" target="_blank">Anti-Money Laundering Strategic Timeline: Three Year Plan</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/45 - Anti Money Laundering Strategic Timeline.pdf" target="_blank">Anti-Money Laundering Strategic Timeline: Three Year Plan</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#44</p>
-    <p><a href="/data/exhibits/44 - The Provincial AML Strategy (Slide Deck).pdf" target="_blank">The Provincial Anti-Money Laundering Strategy (Slide deck)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/44 - The Provincial AML Strategy (Slide Deck).pdf" target="_blank">The Provincial Anti-Money Laundering Strategy (Slide deck)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#43</p>
-    <p><a href="/data/exhibits/43 - Current Human Resources Slides.pdf" target="_blank">AML Current Human Resources (Slides)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/43 - Current Human Resources Slides.pdf" target="_blank">AML Current Human Resources (Slides)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#42</p>
-    <p><a href="/data/exhibits/42 - TOR_AML- Fully Executed Final - July 8, 2019.pdf" target="_blank">Final - Government of BC - Money Laundering Deputy Ministers Terms of Reference</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/42 - TOR_AML- Fully Executed Final - July 8, 2019.pdf" target="_blank">Final - Government of BC - Money Laundering Deputy Ministers Terms of Reference</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#41</p>
-    <p><a href="/data/exhibits/41 - Draft TOR AML - Deputy Ministers Committee - DRAFT.pdf" target="_blank">Draft - Ministry of Attorney General - Anti-Money Laundering Deputy Ministers Terms of Reference</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/41 - Draft TOR AML - Deputy Ministers Committee - DRAFT.pdf" target="_blank">Draft - Ministry of Attorney General - Anti-Money Laundering Deputy Ministers Terms of Reference</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#40</p>
-    <p><a href="/data/exhibits/40 - Megan Harris - CV.pdf" target="_blank">Megan Harris - Curriculum Vitae</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/40 - Megan Harris - CV.pdf" target="_blank">Megan Harris - Curriculum Vitae</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#39</p>
-    <p><a href="/data/exhibits/39 - Chris Dawkins - CV.pdf" target="_blank">Chris Dawkins - Curriculum Vitae</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/39 - Chris Dawkins - CV.pdf" target="_blank">Chris Dawkins - Curriculum Vitae</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#38</p>
-    <p><a href="/data/exhibits/38 - Mark Sieben - Bio (Updated Feb 2020) (003).pdf" target="_blank">Mark Sieban - Biography</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/38 - Mark Sieben - Bio (Updated Feb 2020) (003).pdf" target="_blank">Mark Sieban - Biography</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#37</p>
-    <p><a href="/data/exhibits/37 - CISC Request from Cullen Commission Member Agencies.pdf" target="_blank">CISC Request from Cullen Commission Member Agencies</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/37 - CISC Request from Cullen Commission Member Agencies.pdf" target="_blank">CISC Request from Cullen Commission Member Agencies</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#36</p>
-    <p><a href="/data/exhibits/36 - UK National_risk_assessment_of_money_laundering_and_terrorist_financing_2017_pdf_web.pdf" target="_blank">UK national risk assessment of money laundering and terrorist financing 2017</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/36 - UK National_risk_assessment_of_money_laundering_and_terrorist_financing_2017_pdf_web.pdf" target="_blank">UK national risk assessment of money laundering and terrorist financing 2017</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#35</p>
-    <p><a href="/data/exhibits/35 - US NRA 2018.pdf" target="_blank">US National Money Laundering Risk Assessment 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/35 - US NRA 2018.pdf" target="_blank">US National Money Laundering Risk Assessment 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#34</p>
-    <p><a href="/data/exhibits/34 - US NRA 2015.pdf" target="_blank">US National Money Laundering Risk Assessment 2015</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/34 - US NRA 2015.pdf" target="_blank">US National Money Laundering Risk Assessment 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#33</p>
-    <p><a href="/data/exhibits/33 - UK 2015.pdf" target="_blank">UK national risk assessment of money laundering and terrorist financing (2015)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/33 - UK 2015.pdf" target="_blank">UK national risk assessment of money laundering and terrorist financing (2015)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#32</p>
-    <p><a href="/data/exhibits/32 - Switzerland NRA  2015.pdf" target="_blank">Switzerland - Report on the national evaluation of risks of money laundering and terrorist financing in Switzerland (2015)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/32 - Switzerland NRA  2015.pdf" target="_blank">Switzerland - Report on the national evaluation of risks of money laundering and terrorist financing in Switzerland (2015)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#31</p>
-    <p><a href="/data/exhibits/31 - Singapore NRA Report.pdf" target="_blank">Singapore National Money Laundering and Terrorist Financing Risk Assessment Report 2013</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/31 - Singapore NRA Report.pdf" target="_blank">Singapore National Money Laundering and Terrorist Financing Risk Assessment Report 2013</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#30</p>
-    <p><a href="/data/exhibits/30 - Netherlands - National Risk Assessment of ML for the Netherlands 2017.pdf" target="_blank">Netherlands National Risk Assessment of Money Laundering for the Netherlands (2017)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/30 - Netherlands - National Risk Assessment of ML for the Netherlands 2017.pdf" target="_blank">Netherlands National Risk Assessment of Money Laundering for the Netherlands (2017)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#29</p>
-    <p><a href="/data/exhibits/29 - Japan - National Risk Assessment of ML and TF November 2017.pdf" target="_blank">Japan - National Risk Assessment of Money Laundering and Terrorist Financing (2017)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/29 - Japan - National Risk Assessment of ML and TF November 2017.pdf" target="_blank">Japan - National Risk Assessment of Money Laundering and Terrorist Financing (2017)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#28</p>
-    <p><a href="/data/exhibits/28 - Japan - National Risk Assessment of ML and TF Dec 2014.pdf" target="_blank">Japan - National Risk Assessment of Money Laundering and Terrorist Financing (2014)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/28 - Japan - National Risk Assessment of ML and TF Dec 2014.pdf" target="_blank">Japan - National Risk Assessment of Money Laundering and Terrorist Financing (2014)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#27</p>
-    <p><a href="/data/exhibits/27 - Italy 2014 Full report in English (Google translated).pdf" target="_blank">Italy - Financial Security Committee - National Analysis of the risks of money laundering and terrorist financing (2014)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/27 - Italy 2014 Full report in English (Google translated).pdf" target="_blank">Italy - Financial Security Committee - National Analysis of the risks of money laundering and terrorist financing (2014)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#26</p>
-    <p><a href="/data/exhibits/26 - Can the AML system be evaluated without better data.pdf" target="_blank">Can the AML system be evaluated without better data?</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/26 - Can the AML system be evaluated without better data.pdf" target="_blank">Can the AML system be evaluated without better data?</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#25</p>
-    <p><a href="/data/exhibits/25 - Understanding the laundering of organized crime money.pdf" target="_blank">Understanding the laundering of organized crime money</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/25 - Understanding the laundering of organized crime money.pdf" target="_blank">Understanding the laundering of organized crime money</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#24</p>
-    <p><a href="/data/exhibits/24 - Cash, Crime and Anti-Money Laundering.pdf" target="_blank">Cash, Crime and Anti-Money Laundering</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/24 - Cash, Crime and Anti-Money Laundering.pdf" target="_blank">Cash, Crime and Anti-Money Laundering</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#23</p>
-    <p><a href="/data/exhibits/23 - ML Typologies - A Review of Their Fitness for Purpose.pdf" target="_blank">Money-Laundering Typologies: A review of their fitness for purpose</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/23 - ML Typologies - A Review of Their Fitness for Purpose.pdf" target="_blank">Money-Laundering Typologies: A review of their fitness for purpose</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#22</p>
-    <p><a href="/data/exhibits/22 - Dr Peter Reuter - Curriculum Vitae_Redacted.pdf" target="_blank">Peter Reuter Curriculum Vitae</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/22 - Dr Peter Reuter - Curriculum Vitae_Redacted.pdf" target="_blank">Peter Reuter Curriculum Vitae</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#21</p>
-    <p><a href="/data/exhibits/21 - Michael Levi - curriculum vitae.pdf" target="_blank">Michael Levi Curriculum Vitae</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/21 - Michael Levi - curriculum vitae.pdf" target="_blank">Michael Levi Curriculum Vitae</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#20</p>
-    <p><a href="/data/exhibits/20 - Summaries of Canada Follow Up Reports to FATF (2017-2019).pdf" target="_blank">Summaries of Canada Follow Up Reports to FATF (2017-2019)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/20 - Summaries of Canada Follow Up Reports to FATF (2017-2019).pdf" target="_blank">Summaries of Canada Follow Up Reports to FATF (2017-2019)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#19</p>
-    <p><a href="/data/exhibits/19 - Report of Professor William Gilmore May 2020.pdf" target="_blank">Report of Professor William Gilmore</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/19 - Report of Professor William Gilmore May 2020.pdf" target="_blank">Report of Professor William Gilmore</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#18</p>
-    <p><a href="/data/exhibits/18 - William Gilmore - Curriculum Vitae.pdf" target="_blank">William Gilmore Curriculum Vitae</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/18 - William Gilmore - Curriculum Vitae.pdf" target="_blank">William Gilmore Curriculum Vitae</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#17</p>
-    <p><a href="/data/exhibits/17 - How Britain let Russia hide it dirty money.pdf" target="_blank">How Britain let Russia hide its dirty money</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/17 - How Britain let Russia hide it dirty money.pdf" target="_blank">How Britain let Russia hide its dirty money</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#16</p>
-    <p><a href="/data/exhibits/16 - Offshore secrecy inside the movement to crack it open.pdf" target="_blank">Offshore secrecy: inside the movement to crack it open</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/16 - Offshore secrecy inside the movement to crack it open.pdf" target="_blank">Offshore secrecy: inside the movement to crack it open</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#15</p>
-    <p><a href="/data/exhibits/15 - The great American tax haven why the super-rich love South Dakota.pdf" target="_blank">The great American tax haven: why the super-rich love South Dakota trust laws</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/15 - The great American tax haven why the super-rich love South Dakota.pdf" target="_blank">The great American tax haven: why the super-rich love South Dakota trust laws</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#14</p>
-    <p><a href="/data/exhibits/14 - How Britain can help you get away with stealing millions a five-step guide.pdf" target="_blank">How Britain can help you get away with stealing millions: a five-step guide</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/14 - How Britain can help you get away with stealing millions a five-step guide.pdf" target="_blank">How Britain can help you get away with stealing millions: a five-step guide</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#13</p>
-    <p><a href="/data/exhibits/13 - NAC Chinese Underground Banking Daigou October 2013.pdf" target="_blank">National Crime Agency - Chinese Underground Banking and "Daigou" (NAC/NECC v.1.0)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/13 - NAC Chinese Underground Banking Daigou October 2013.pdf" target="_blank">National Crime Agency - Chinese Underground Banking and "Daigou" (NAC/NECC v.1.0)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#12</p>
-    <p><a href="/data/exhibits/12 - NAC(19)122 - Ethnic Chinese Money Laundering in the UK OFFICIAL June 2019.pdf" target="_blank">National Crime Agency NAC(19)122 - Ethnic Chinese Money Laundering in the UK v.1.0</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/12 - NAC(19)122 - Ethnic Chinese Money Laundering in the UK OFFICIAL June 2019.pdf" target="_blank">National Crime Agency NAC(19)122 - Ethnic Chinese Money Laundering in the UK v.1.0</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#11</p>
-    <p><a href="/data/exhibits/11 - IVTS Network Map.pdf" target="_blank">IVTS.Network.Map</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/11 - IVTS Network Map.pdf" target="_blank">IVTS.Network.Map</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#10</p>
-    <p><a href="/data/exhibits/10 - Simon Lord - Curriculum Vitae.pdf" target="_blank">Simon Lord Curriculum Vitae</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/10 - Simon Lord - Curriculum Vitae.pdf" target="_blank">Simon Lord Curriculum Vitae</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#9</p>
-    <p><a href="/data/exhibits/9 - Hunting for El Chapo.pdf" target="_blank">Hunting for El Chapo</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/9 - Hunting for El Chapo.pdf" target="_blank">Hunting for El Chapo</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#8</p>
-    <p><a href="/data/exhibits/8 - Stephen Schneider Annotated Bibliography.pdf" target="_blank">Stephen Schneider Annotated Bibliography</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/8 - Stephen Schneider Annotated Bibliography.pdf" target="_blank">Stephen Schneider Annotated Bibliography</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#7</p>
-    <p><a href="/data/exhibits/7 - Money Laundering in Canada An Analysis of RCMP Cases March 2014.pdf" target="_blank">Money Laundering in Canada: An Analysis of RCMP Cases</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/7 - Money Laundering in Canada An Analysis of RCMP Cases March 2014.pdf" target="_blank">Money Laundering in Canada: An Analysis of RCMP Cases</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#6</p>
-    <p><a href="/data/exhibits/6 - Money Laundering in BC - A Review of the Literature.pdf" target="_blank">Money Laundering in British Columbia: A Review of the Literature submitted by Stephen Schneider</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/6 - Money Laundering in BC - A Review of the Literature.pdf" target="_blank">Money Laundering in British Columbia: A Review of the Literature submitted by Stephen Schneider</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#5</p>
-    <p><a href="/data/exhibits/5 - Overview Report - Hansard.pdf" target="_blank">Overview Reports: Hansard</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/5 - Overview Report - Hansard.pdf" target="_blank">Overview Reports: Hansard</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#4</p>
-    <p><a href="/data/exhibits/4 - Overview Report - FATF.pdf" target="_blank">Overview Reports: FATF Records</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/4 - Overview Report - FATF.pdf" target="_blank">Overview Reports: FATF Records</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#3</p>
-    <p><a href="/data/exhibits/3 - Overview Reports - Canada Document.pdf" target="_blank">Overview Reports: Canada Reports</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/3 - Overview Reports - Canada Document.pdf" target="_blank">Overview Reports: Canada Reports</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#2</p>
-    <p><a href="/data/exhibits/2 - Overview Reports International Legal Initiatives.pdf" target="_blank">Overview Reports: International Legal Initiatives</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/2 - Overview Reports International Legal Initiatives.pdf" target="_blank">Overview Reports: International Legal Initiatives</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#1</p>
-    <p><a href="/data/exhibits/1 - Overview Report - Basel AML Index.pdf" target="_blank">Overview Reports: Basel AML Index</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1 - Overview Report - Basel AML Index.pdf" target="_blank">Overview Reports: Basel AML Index</a></p>
 </div>
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php');
