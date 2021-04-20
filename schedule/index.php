@@ -130,7 +130,7 @@ NEW HEARING TEMPLATE
     <li><strong>Supt. Peter Payne</strong>, Director of Financial Crime, RCMP National Headquarters</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 16, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('537940342'); return false">Watch Video of Session</button>
   </div>
   <p>April 15, 2021</p>
@@ -142,7 +142,7 @@ NEW HEARING TEMPLATE
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 15, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('537477758'); return false">Watch Video of Session</button>
   </div>
   <p>April 14, 2021</p>
