@@ -16,6 +16,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#886</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/886 - Email from Al MacIntyre to Dick Bent re River Rock Casino - A Policing Response - September 18 2006_Redacted.pdf" target="_blank">Email from Al MacIntyre to Dick Bent, re River Rock Casino - A Policing Response - September 18, 2006_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#885</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/885  - Email exchange between Kevin Begg and Al MacIntyre re IIGET File 05-661 Loansharking Investigation - February 25 2005_Redacted.pdf" target="_blank">Email exchange between Kevin Begg and Al MacIntyre, re IIGET File 05-661 Loansharking Investigation - February 25, 2005_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#882</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/882 - Letter from Sam MacLeod re Source of Funds Declaration policy - Nov 27 2018_Redacted.pdf" target="_blank">Letter from Sam MacLeod re Source of Funds Declaration policy – Nov 27, 2018_Redacted</a></p>
 </div>

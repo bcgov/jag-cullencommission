@@ -121,7 +121,7 @@ NEW HEARING TEMPLATE
     <li><strong>Sam MacLeod</strong>, Assistant Deputy Minister and General Manager, Gaming Policy and Enforcement Branch</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 19, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('538905505'); return false">Watch Video of Session</button>
   </div>
   <p>April 16, 2021</p>
