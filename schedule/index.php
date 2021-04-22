@@ -18,14 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>April 21, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Kevin Begg</strong>, Former Assistant Deputy Minister, Policing and Community Safety Branch; Former Director of Police Services</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>April 22, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Lori Wanamaker</strong>, Deputy Minister to the Premier, Cabinet Secretary and Head of the British Columbia Public Service; Former Deputy Minister of Finance; Former Deputy Minister of Public Safety and Solicitor General</li>
@@ -108,6 +100,14 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>April 21, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Kevin Begg</strong>, Former Assistant Deputy Minister, Policing and Community Safety Branch; Former Director of Police Services</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>April 20, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Christy Clark</strong>, Former Premier</li>
