@@ -75,6 +75,102 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
     <div></div>
   </div>
+  <p>May 3, 2021</p>
+  <div>
+    <p style="color: red;"><strong>To accommodate the witness in Auckland, New Zealand, the hearing is scheduled to begin at 12 p.m. Pacific Time.</strong></p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Gary Hughes</strong>, Lawyer, Regulatory Investigations & Commercial/Competition/Financial Disputes, Akarana Chambers (Mr. Hughes has worked on specialist anti-money laundering/financial crime matters since 2007.)</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>May 4, 2021</p>
+  <div>
+    <p style="color: red;"><strong>To accommodate the witness in Uppsala, Sweden, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Maria Bergstrom</strong>, Associate Professor of European Law, Uppsala University</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>May 5, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Melinda Murray</strong>, Executive Director, Criminal Property Forfeiture, Community Safety Division, Manitoba Justice; Former Crown Counsel, Province of Manitoba</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>May 6, 2021</p>
+  <div>
+    <p style="color: red;"><strong>To accommodate the witness in Cambridge, England, the hearing is scheduled to begin at 8 a.m. Pacific Time.</strong></p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Jason Sharman</strong>, Sir Patrick Sheehy Professor of International Relations, Politics and International Studies, University of Cambridge</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>May 7, 2021</p>
+  <p><strong>TBD</strong></p>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>May 10, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Stefan Cassella</strong>, Author (money laundering and asset forfeiture); Former Assistant U.S. Attorney, Office of the U.S. Attorney; Former Chief, Asset Forfeiture and Money Laundering, Office of the U.S. Attorney – Baltimore; Former Deputy Chief, Asset Forfeiture and Money Laundering, U.S. Department of Justice (expert on U.S. federal criminal law and asset forfeiture)</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>May 11, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Stephanie Brooker</strong>, Partner, Gibson, Dunn & Crutcher – Washington, D.C.; Former Director, Enforcement Division, Financial Crimes Enforcement Network (FinCEN), U.S. Department of Treasury; Former Chief, Asset Forfeiture and Money Laundering, U.S. Attorney’s Office, District of Columbia; Former Federal Prosecutor</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>May 12, 2021</p>
+  <div>
+    <p style="color: red;"><strong>To accommodate the witness in Auckland, New Zealand, the hearing is scheduled to begin at 12 p.m. Pacific Time.</strong></p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Craig Hamilton</strong>, Detective Inspector; Acting Director, Financial Crime Group, New Zealand Police</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>May 13, 2021</p>
+  <div>
+    <p style="color: red;"><strong>To accommodate the witness in Rotterdam, the Netherlands, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Francien Rense</strong>, Partner, NautaDutilh (Ms. Rense concentrates on enforcement and sanctioning related issues companies, institutions, organizations, officers and professionals face, including as relates to anti-money laundering measures.)</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
+  <p>May 14, 2021</p>
+  <div>
+    <p style="color: red;"><strong>To accommodate the witness in Delft, the Netherlands, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Rolf van Wegberg</strong>, Assistant Professor, Faculty of Technology, Policy and Management, Organization & Governance Section, Delft University of Technology </li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
 </div>
 
 <!--
