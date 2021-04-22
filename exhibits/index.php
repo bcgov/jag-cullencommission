@@ -2945,203 +2945,203 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#150</p>
-    <p><a href="/data/exhibits/150 - CAN-000087_Redacted.pdf" target="_blank">Memo from S/Sgt T Robertson Re Introduction and Mandate of the RCMP’s Integrated Illegal Gaming Enforcement Team – 10-Nov-2004_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/150 - CAN-000087_Redacted.pdf" target="_blank">Memo from S/Sgt T Robertson Re Introduction and Mandate of the RCMP’s Integrated Illegal Gaming Enforcement Team – 10-Nov-2004_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#149</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/149%20-%20Affidavit%20No.2%20of%20Daryl%20Tottenham%20sworn%20October%2030%202020_Redacted.pdf" target="_blank">Affidavit #2 of Daryl Tottenham, sworn October 30, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/149 - Affidavit No.2 of Daryl Tottenham sworn October 30 2020_Redacted.pdf" target="_blank">Affidavit #2 of Daryl Tottenham, sworn October 30, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#148</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/148%20-%20Affidavit%20No.1%20of%20Daryl%20Tottenham%20sworn%20October%2030%202020_Redacted.pdf" target="_blank">Affidavit #1 of Daryl Tottenham, sworn October 30, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/148 - Affidavit No.1 of Daryl Tottenham sworn October 30 2020_Redacted.pdf" target="_blank">Affidavit #1 of Daryl Tottenham, sworn October 30, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#147</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/147%20-%20Affidavit%20No.1%20of%20Muriel%20Labine%20affirmed%20on%2023%20day%20of%20October%202020_Redacted.pdf" target="_blank">Affidavit #1 of Muriel Labine, affirmed on 23 day of October, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/147 - Affidavit No.1 of Muriel Labine affirmed on 23 day of October 2020_Redacted.pdf" target="_blank">Affidavit #1 of Muriel Labine, affirmed on 23 day of October, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#146</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/146%20-%20Email%20Robert%20Stewart%20subject%20Fw%20CIR_17-003_AML%20Month%20of%20December.docx%20-%20February%2023%202017_Redacted.pdf" target="_blank">Email Robert Stewart, subject Fw CIR_17-003_AML Month of December - February 23, 2017</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/146 - Email Robert Stewart subject Fw CIR_17-003_AML Month of December.docx - February 23 2017_Redacted.pdf" target="_blank">Email Robert Stewart, subject Fw CIR_17-003_AML Month of December - February 23, 2017</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#145</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/145%20-%20Affidavit%20No.1%20of%20%20Robert%20Barber%20made%20on%20October%2029%202020_Redacted.pdf" target="_blank">Affidavit #1 of Robert Barber, made on October 29, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/145 - Affidavit No.1 of  Robert Barber made on October 29 2020_Redacted.pdf" target="_blank">Affidavit #1 of Robert Barber, made on October 29, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#144</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/144%20-%20Affidavit%20No.3%20of%20Ken%20Ackles%20made%20on%20October%2028%202020_Redacted.pdf" target="_blank">Affidavit #3 of Ken Ackles made on October 28, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/144 - Affidavit No.3 of Ken Ackles made on October 28 2020_Redacted.pdf" target="_blank">Affidavit #3 of Ken Ackles made on October 28, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#143</p>
-    <p><a href="/data/exhibits/143 - Exhibit 143_Applied_Affidavit No. 1 of Bal Bamra.pdf" target="_blank">Affidavit #1 of Bal Bamra, affirmed October 14, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/143 - Exhibit 143_Applied_Affidavit No. 1 of Bal Bamra.pdf" target="_blank">Affidavit #1 of Bal Bamra, affirmed October 14, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#142</p>
-    <p><a href="/data/exhibits/142 - Applied_BCLC6982.pdf" target="_blank">Email from John Karlovcec to Daryl Tottenham, Subject FW Post Media Inquiry - December 14, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/142 - Applied_BCLC6982.pdf" target="_blank">Email from John Karlovcec to Daryl Tottenham, Subject FW Post Media Inquiry - December 14, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#141</p>
-    <p><a href="/data/exhibits/141 - BCLC0007108 - Summary Review Anti-Money Laundering Measures at BC Gaming Facilities, February 2011.pdf" target="_blank">(Previously marked as Exhibit B) Summary Review Anti-Money Laundering Measures at BC Gaming Facilities, February 2011</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/141 - BCLC0007108 - Summary Review Anti-Money Laundering Measures at BC Gaming Facilities, February 2011.pdf" target="_blank">(Previously marked as Exhibit B) Summary Review Anti-Money Laundering Measures at BC Gaming Facilities, February 2011</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#140</p>
-    <p><a href="/data/exhibits/140 - Applied_BCLC49.pdf" target="_blank">AML Compliance & Analytics Enhancement Project Business Case Fiscal 2014/15_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/140 - Applied_BCLC49.pdf" target="_blank">AML Compliance & Analytics Enhancement Project Business Case Fiscal 2014/15_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#139</p>
-    <p><a href="/data/exhibits/139 - BCLC0013119 - Notes FINTRAC Audit for SFT’s Exit Meeting – December 14, 2012.pdf" target="_blank">Meeting Notes - Fintrac Audit Jan 1-Jun 30, 2012 for SFT's Exit Meeting - Meeting date December 14, 2012 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/139 - BCLC0013119 - Notes FINTRAC Audit for SFT’s Exit Meeting – December 14, 2012.pdf" target="_blank">Meeting Notes - Fintrac Audit Jan 1-Jun 30, 2012 for SFT's Exit Meeting - Meeting date December 14, 2012 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#138</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/138%20-%20Letter%20from%20John%20Karlovcec%20to%20Cary%20Skrine%20re%20Questions%20with%20Feedback%20-%20October%2019%202018_Redacted.pdf" target="_blank">Letter from John Karlovcec to Cary Skrine re Questions with Feedback – October 19, 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/138 - Letter from John Karlovcec to Cary Skrine re Questions with Feedback - October 19 2018_Redacted.pdf" target="_blank">Letter from John Karlovcec to Cary Skrine re Questions with Feedback – October 19, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#137</p>
-    <p><a href="/data/exhibits/137 - BCLC0004628 - BCLC Memo from Bal Bamra re MSB Due Diligence – January 11, 2018.pdf" target="_blank">BCLC memo from Bal Bamra to John Karlovcec and Rob Kroeker, subject MSB Due Diligence - January</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/137 - BCLC0004628 - BCLC Memo from Bal Bamra re MSB Due Diligence – January 11, 2018.pdf" target="_blank">BCLC memo from Bal Bamra to John Karlovcec and Rob Kroeker, subject MSB Due Diligence - January</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#136</p>
-    <p><a href="/data/exhibits/136 - Applied_BCLC15438.pdf" target="_blank">Combined Forces Special Enforcement Unit British Columbia letter to John Karlovcec re Request for Information (date redacted) - February 7, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/136 - Applied_BCLC15438.pdf" target="_blank">Combined Forces Special Enforcement Unit British Columbia letter to John Karlovcec re Request for Information (date redacted) - February 7, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#135</p>
-    <p><a href="/data/exhibits/135 - Applied_BCLC15434.pdf" target="_blank">Email from Ben Robinson to John Karlovcec re CFSEU-BC File 2016-54 – Request for Information (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/135 - Applied_BCLC15434.pdf" target="_blank">Email from Ben Robinson to John Karlovcec re CFSEU-BC File 2016-54 – Request for Information (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#134</p>
-    <p><a href="/data/exhibits/134 - Applied_BCLC7026.pdf" target="_blank">Letter from Bob Stewart to John Karlovcec, re Ms. Gao 200k Buy In – December 8, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/134 - Applied_BCLC7026.pdf" target="_blank">Letter from Bob Stewart to John Karlovcec, re Ms. Gao 200k Buy In – December 8, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#133</p>
-    <p><a href="/data/exhibits/133 - Applied_BCLC7039.pdf" target="_blank">Email from Tottenham to John Karlovcec, re Lisa Gao Summary – December 5, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/133 - Applied_BCLC7039.pdf" target="_blank">Email from Tottenham to John Karlovcec, re Lisa Gao Summary – December 5, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#132</p>
-    <p><a href="/data/exhibits/132 - BCLC0001716 - FINTRAC Examination Nov. 2014 Findings Explanatory Document – March 4, 2015.pdf" target="_blank">FINTRAC Examination November 2014 Findings Explanatory Document – March 4, 2015</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/132 - BCLC0001716 - FINTRAC Examination Nov. 2014 Findings Explanatory Document – March 4, 2015.pdf" target="_blank">FINTRAC Examination November 2014 Findings Explanatory Document – March 4, 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#131</p>
-    <p><a href="/data/exhibits/131 - Applied_BCLC1713.pdf" target="_blank">Letter from Robby Judge to Brad Desmarais, re Compliance Examination Findings – January 23, 2015_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/131 - Applied_BCLC1713.pdf" target="_blank">Letter from Robby Judge to Brad Desmarais, re Compliance Examination Findings – January 23, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#130</p>
-    <p><a href="/data/exhibits/130 - Applied_BCLC6501.pdf" target="_blank">Email from Ross Alderson re VVIP Players and Sanctions – May 14, 2015_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/130 - Applied_BCLC6501.pdf" target="_blank">Email from Ross Alderson re VVIP Players and Sanctions – May 14, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#129</p>
-    <p><a href="/data/exhibits/129 - GCGC_PROD_0024481 - Email re large cash buy-in - Jan 7, 2015 and Jan 8, 2015_Redacted.pdf" target="_blank">Email from John Karlovcec to Robert Kroeker, Re Large Cash Buy-Ins - January 8, 2015_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/129 - GCGC_PROD_0024481 - Email re large cash buy-in - Jan 7, 2015 and Jan 8, 2015_Redacted.pdf" target="_blank">Email from John Karlovcec to Robert Kroeker, Re Large Cash Buy-Ins - January 8, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#128</p>
-    <p><a href="/data/exhibits/128 - GCGC_PROD_0023900 - January 1, 2015 BCLC email re patron Binshun CAO No.11435_Redacted.pdf" target="_blank">Email from John Karlovcec to Brad Desmarais - January 2, 2015 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/128 - GCGC_PROD_0023900 - January 1, 2015 BCLC email re patron Binshun CAO No.11435_Redacted.pdf" target="_blank">Email from John Karlovcec to Brad Desmarais - January 2, 2015 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#127</p>
-    <p><a href="/data/exhibits/127 - GCGC_PROD_0045011 - October 18, 2014 BCLC email re Unusual Financial Transactions_Redacted.pdf" target="_blank">Email from John Karlovcec to Brad Desmarais, Re FW Unusual Financial Transaction (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/127 - GCGC_PROD_0045011 - October 18, 2014 BCLC email re Unusual Financial Transactions_Redacted.pdf" target="_blank">Email from John Karlovcec to Brad Desmarais, Re FW Unusual Financial Transaction (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#126</p>
-    <p><a href="/data/exhibits/126 - GCGC_PROD_0045140 October 17, 2014 emails btween BCLC and GCGC re Meeting to Discuss Protocol for Approaching VIP players_Redacted.pdf" target="_blank">Email from John Karlovcec to Patrick Ennis, re Meeting to Discuss Protocol for Approaching VIP Players – October 17, 2014_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/126 - GCGC_PROD_0045140 October 17, 2014 emails btween BCLC and GCGC re Meeting to Discuss Protocol for Approaching VIP players_Redacted.pdf" target="_blank">Email from John Karlovcec to Patrick Ennis, re Meeting to Discuss Protocol for Approaching VIP Players – October 17, 2014_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#125</p>
-    <p><a href="/data/exhibits/125 - GCGC_PROD_0045155 Oct 16, 2014 emails between BCLC (Karlovcec) and GCGC (Ennis) re River Rock surveillance reports - ALERT ISSUE again_Redacted.pdf" target="_blank">Email from John Karlovcec to Patrick Ennis, re River Rock Surveillance Reports- “ALERT ISSUE again….” – October 16, 2014_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/125 - GCGC_PROD_0045155 Oct 16, 2014 emails between BCLC (Karlovcec) and GCGC (Ennis) re River Rock surveillance reports - ALERT ISSUE again_Redacted.pdf" target="_blank">Email from John Karlovcec to Patrick Ennis, re River Rock Surveillance Reports- “ALERT ISSUE again….” – October 16, 2014_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#124</p>
-    <p><a href="/data/exhibits/124 - Applied_BCLC5642.pdf" target="_blank">Email from Brad Desmarais re Heads up on another large cash Buy-in River Rock 2014-52289 – November 23, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/124 - Applied_BCLC5642.pdf" target="_blank">Email from Brad Desmarais re Heads up on another large cash Buy-in River Rock 2014-52289 – November 23, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#123</p>
-    <p><a href="/data/exhibits/123 - Applied_BCLC7905-BCLC7914.pdf" target="_blank">A collection of 10 target sheets (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/123 - Applied_BCLC7905-BCLC7914.pdf" target="_blank">A collection of 10 target sheets (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#122</p>
-    <p><a href="/data/exhibits/122 - Applied_BCLC45.pdf" target="_blank">Email from John Karlovcec to Trevor Emmerson, re Casino Cash Facilitators_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/122 - Applied_BCLC45.pdf" target="_blank">Email from John Karlovcec to Trevor Emmerson, re Casino Cash Facilitators_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#121</p>
-    <p><a href="/data/exhibits/121 - Email from John Karlovcec re CFSEU River Rock Casino Orientation - Jun 20, 2014_Redacted.pdf" target="_blank">Email from John Karlovcec re CFSEU River Rock Casino Orientation – Jun 20, 2014_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/121 - Email from John Karlovcec re CFSEU River Rock Casino Orientation - Jun 20, 2014_Redacted.pdf" target="_blank">Email from John Karlovcec re CFSEU River Rock Casino Orientation – Jun 20, 2014_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#120</p>
-    <p><a href="/data/exhibits/120 - BCLC0000040 - Email from Kurt Bulow June 17, 2014.pdf" target="_blank">Email from Kurt Bulow to John Karlovcec, Subject: CFSEU Uniform Team BCLC - June 17, 2014</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/120 - BCLC0000040 - Email from Kurt Bulow June 17, 2014.pdf" target="_blank">Email from Kurt Bulow to John Karlovcec, Subject: CFSEU Uniform Team BCLC - June 17, 2014</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#119</p>
-    <p><a href="/data/exhibits/119 - Applied_BCLC38.pdf" target="_blank">Email from John Karlovcec to Brad Desmarais, Subject: FW: CFSEU list - outline of procedures - June 10, 2014</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/119 - Applied_BCLC38.pdf" target="_blank">Email from John Karlovcec to Brad Desmarais, Subject: FW: CFSEU list - outline of procedures - June 10, 2014</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#118</p>
-    <p><a href="/data/exhibits/118 - Applied_BCLC5645.pdf" target="_blank">Email from Desmarais re Info For Presentation, Prohibited BCLC Patrons Numbers – November 23, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/118 - Applied_BCLC5645.pdf" target="_blank">Email from Desmarais re Info For Presentation, Prohibited BCLC Patrons Numbers – November 23, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#117</p>
-    <p><a href="/data/exhibits/117 - Applied_BCLC33.pdf" target="_blank">Email from John Karlovcec to Daryl Tottenham - June 6, 2014 Subject: RE: CFSEU/High Risk list review - for discussion (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/117 - Applied_BCLC33.pdf" target="_blank">Email from John Karlovcec to Daryl Tottenham - June 6, 2014 Subject: RE: CFSEU/High Risk list review - for discussion (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#116</p>
-    <p><a href="/data/exhibits/116 - BCLC0000033 - Email from Daryl Tottenham June 4, 2014.pdf" target="_blank">Email from Daryl Tottenham to AML, RE CFSEU/High Risk list review - for discussion - June 4, 2014 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/116 - BCLC0000033 - Email from Daryl Tottenham June 4, 2014.pdf" target="_blank">Email from Daryl Tottenham to AML, RE CFSEU/High Risk list review - for discussion - June 4, 2014 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#115</p>
-    <p><a href="/data/exhibits/115 - Exhibit 115_Applied_BCLC6636.pdf" target="_blank">Email from Rob Kroeker re Vancouver Sun – AML story today – Nov 28, 2017 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/115 - Exhibit 115_Applied_BCLC6636.pdf" target="_blank">Email from Rob Kroeker re Vancouver Sun – AML story today – Nov 28, 2017 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#114</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/114%20-%20Email%20from%20John%20Karlovcec%20re%20Derek%20Dickson%20-%20Jan%2027%202011_Redacted.pdf" target="_blank">Email from John Karlovcec re Derek Dickson – Jan 27, 2011</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/114 - Email from John Karlovcec re Derek Dickson - Jan 27 2011_Redacted.pdf" target="_blank">Email from John Karlovcec re Derek Dickson – Jan 27, 2011</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#113</p>
-    <p><a href="/data/exhibits/113 - Applied_BCLC0015839.pdf" target="_blank">Email exchange between Karlovcec, Alderson and Beeksma re $100 Bills at RRCR – February 3, 2012_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/113 - Applied_BCLC0015839.pdf" target="_blank">Email exchange between Karlovcec, Alderson and Beeksma re $100 Bills at RRCR – February 3, 2012_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#112</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/112%20-%20Letter%20from%20Joe%20Schalk%20re%20Money%20Laundering%20in%20BC%20Casinos%20-%20February%2028%202011_Redacted.pdf" target="_blank">Letter from Joe Schalk re Money Laundering in BC Casinos – February 28, 2011_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/112 - Letter from Joe Schalk re Money Laundering in BC Casinos - February 28 2011_Redacted.pdf" target="_blank">Letter from Joe Schalk re Money Laundering in BC Casinos – February 28, 2011_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#111</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/111%20-%20Letter%20from%20John%20Karlovcec%20re%20Money%20Laundering%20in%20BC%20Casinos%20-%20December%2024%202010_Redacted.pdf" target="_blank">Letter from John Karlovcec re: Money Laundering in BC Casinos - December 24, 2010_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/111 - Letter from John Karlovcec re Money Laundering in BC Casinos - December 24 2010_Redacted.pdf" target="_blank">Letter from John Karlovcec re: Money Laundering in BC Casinos - December 24, 2010_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#110</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/110%20-%20Letter%20from%20Derek%20Dickson%20re%20Money%20Laundering%20in%20Casinos%20-%20November%2024%202010.pdf" target="_blank">Letter from Derek Dickson re Money Laundering in Casinos – November 24, 2010_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/110 - Letter from Derek Dickson re Money Laundering in Casinos - November 24 2010.pdf" target="_blank">Letter from Derek Dickson re Money Laundering in Casinos – November 24, 2010_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#109</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/109%20-%20Letter%20from%20Gordon%20Friesen%20re%20Loan%20Sharking%20Suspicious%20Currency%20and%20Chip%20Passing%20-%20May%204%202010%20_Redacted.pdf" target="_blank">Letter from Gordon Friesen re Loan Sharking/Suspicious Currency and Chip Passing – May 4, 2010_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/109 - Letter from Gordon Friesen re Loan Sharking Suspicious Currency and Chip Passing - May 4 2010 _Redacted.pdf" target="_blank">Letter from Gordon Friesen re Loan Sharking/Suspicious Currency and Chip Passing – May 4, 2010_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#108</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/108%20-%20Letter%20from%20Derek%20Dickson%20re%20Loan%20Sharking%20Suspicious%20Currency%20and%20Chip%20Passing%20-%20April%2014%202010_Redacted.pdf" target="_blank">Letter from Derek Dickson re Loan Sharking/Suspicious Currency & Chip Passing – April 14, 2010_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/108 - Letter from Derek Dickson re Loan Sharking Suspicious Currency and Chip Passing - April 14 2010_Redacted.pdf" target="_blank">Letter from Derek Dickson re Loan Sharking/Suspicious Currency & Chip Passing – April 14, 2010_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#107</p>
-    <p><a href="/data/exhibits/107 - Applied_BCLC0012599.pdf" target="_blank">Email from Gordon Friesen re Under $50K Buy Ins in $20 Bills – September 23, 2011_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/107 - Applied_BCLC0012599.pdf" target="_blank">Email from Gordon Friesen re Under $50K Buy Ins in $20 Bills – September 23, 2011_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#106</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/106%20-%20Letter%20from%20Gordon%20Friesen%20re%20Review%20of%20BCLC%20Player%20Gaming%20Fund%20Accounts%20Pilot%20Project%20-%20February%2017%202010_Redacted.pdf" target="_blank">Letter from Gordon Friesen re Review of BCLC Player Gaming Fund Accounts Pilot Project – February 17, 2010</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/106 - Letter from Gordon Friesen re Review of BCLC Player Gaming Fund Accounts Pilot Project - February 17 2010_Redacted.pdf" target="_blank">Letter from Gordon Friesen re Review of BCLC Player Gaming Fund Accounts Pilot Project – February 17, 2010</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#105</p>
-    <p><a href="/data/exhibits/105 - GPEB0562.0001.pdf" target="_blank">GPEB Audit Report Review of BCLC Player Gaming Fund Accounts Pilot Project 2009/2010</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/105 - GPEB0562.0001.pdf" target="_blank">GPEB Audit Report Review of BCLC Player Gaming Fund Accounts Pilot Project 2009/2010</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#104</p>
-    <p><a href="/data/exhibits/104 - Ex L - 2007 CoR Annual Report.pdf" target="_blank">2007 Annual Report, City of Richmond</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/104 - Ex L - 2007 CoR Annual Report.pdf" target="_blank">2007 Annual Report, City of Richmond</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#103</p>
-    <p><a href="/data/exhibits/103 - Ex K - Comm Safety Report.pdf" target="_blank">City of Richmond - Law &amp; Community Safety 2007 Achievements / 2008 Priorities</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/103 - Ex K - Comm Safety Report.pdf" target="_blank">City of Richmond - Law &amp; Community Safety 2007 Achievements / 2008 Priorities</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#102</p>
-    <p><a href="/data/exhibits/102 - Ex I - CoR Council Minutes - 2006.02.07.pdf" target="_blank">City of Richmond Regular Council Meeting, February 26th, 2007</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/102 - Ex I - CoR Council Minutes - 2006.02.07.pdf" target="_blank">City of Richmond Regular Council Meeting, February 26th, 2007</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#101</p>
-    <p><a href="/data/exhibits/101 - Ex H - Memo and Presentation.pdf" target="_blank">RCMP Memorandum to City of Richmond - 06-12-11</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/101 - Ex H - Memo and Presentation.pdf" target="_blank">RCMP Memorandum to City of Richmond - 06-12-11</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#100</p>
