@@ -96,6 +96,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">17 November, 2020</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Maria Bergstrom</strong>, (Associate Professor of European Law, Uppsala University)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">4 May, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Cpl. Karen Best</strong>, (RCMP)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">23 February, 2021</strong></p>
@@ -124,6 +128,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">20 January, 2021</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Stephanie Brooker</strong>, (Partner, Gibson, Dunn & Crutcher – Washington, D.C.; Former Director, Enforcement Division, Financial Crimes Enforcement Network (FinCEN), U.S. Department of Treasury; Former Chief, Asset Forfeiture and Money Laundering, U.S. Attorney’s Office, District of Columbia; Former Federal Prosecutor)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">11 May, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Justin Brown</strong>, (Senior Director, Financial Crimes Policy, Department of Finance – Canada)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">8 March, 2021</strong></p>
@@ -149,6 +157,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>John Cassara</strong>, (Former US Intelligence Officer and Treasury Special Agent in the Treasury’s Financial Crimes Enforcement Network (FinCEN), the US Secret Service and the US Customs Service)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 December, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Stefan Cassella</strong>, (Author (money laundering and asset forfeiture); Former Assistant U.S. Attorney, Office of the U.S. Attorney; Former Chief, Asset Forfeiture and Money Laundering, Office of the U.S. Attorney – Baltimore; Former Deputy Chief, Asset Forfeiture and Money Laundering, U.S. Department of Justice (expert on U.S. federal criminal law and asset forfeiture))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">10 May, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Jonathan Caulkins</strong>, (Professor of Operations Research and Public Policy, Carnegie Mellon University’s Heinz College)</p>
     <div class="WitnessHearingsList">
@@ -392,6 +404,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">H</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Craig Hamilton</strong>, (Detective Inspector; Acting Director, Financial Crime Group, New Zealand Police)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 May, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Megan Harris</strong>, (Executive Director and Anti-Money Laundering Secretariat Lead, BC Ministry of Attorney General)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 June, 2020</strong></p>
@@ -416,6 +432,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Wayne Holland</strong>, (Former RCMP Officer and Officer-in-Charge, Integrated Illegal Gaming Enforcement Team; Former Chief Constable, Nelson Police Department)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 December, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Gary Hughes</strong>, (Lawyer, Regulatory Investigations & Commercial/Competition/Financial Disputes, Akarana Chambers (Mr. Hughes has worked on specialist anti-money laundering/financial crime matters since 2007.))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">3 May, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Raheel Humayun</strong>, (Managing Director, Investigations, Office of the Superintendent of Real Estate)</p>
     <div class="WitnessHearingsList">
@@ -622,6 +642,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">30 March, 2021</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Melinda Murray</strong>, (Executive Director, Criminal Property Forfeiture, Community Safety Division, Manitoba Justice; Former Crown Counsel, Province of Manitoba)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">5 May, 2021</strong></p>
+    </div>
   </div>
 </div>
 <div class="WitnessListContainer">
@@ -704,6 +728,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">30 March, 2021</strong></p>
     </div>
+    <p class="NamesOfWitnesses"><strong>Francien Rense</strong>, (Partner, NautaDutilh (Ms. Rense concentrates on enforcement and sanctioning related issues companies, institutions, organizations, officers and professionals face, including as relates to anti-money laundering measures.))</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">13 May, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Peter Reuter</strong>, (Professor, University of Maryland School of Public Policy and Department of Criminology)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 June, 2020</strong></p>
@@ -763,6 +791,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 December, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 December, 2020</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Jason Sharman</strong>, (Sir Patrick Sheehy Professor of International Relations, Politics and International Studies, University of Cambridge)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">6 May, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Norman Shields</strong>, (Vice President, Finance and Administration, BMW Canada)</p>
     <div class="WitnessHearingsList">
@@ -878,6 +910,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">V</h2>
   <div class="WitnessList">
+    <p class="NamesOfWitnesses"><strong>Rolf van Wegberg</strong>, (Assistant Professor, Faculty of Technology, Policy and Management, Organization & Governance Section, Delft University of Technology)</p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+    </div>
     <p class="NamesOfWitnesses"><strong>Larry Vander Graaf</strong>, (Former Gaming Policy and Enforcement Branch (GPEB), Executive Director of Investigations, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 November, 2020</strong></p>
