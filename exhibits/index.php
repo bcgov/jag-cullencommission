@@ -2745,203 +2745,203 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#200</p>
-    <p><a href="/data/exhibits/200 - RESTRICTED-No.101887-v1-SANITIZED_WF_CASE_SUMMARY.pdf" target="_blank">Sanitized Case Executive Summary</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/200 - RESTRICTED-No.101887-v1-SANITIZED_WF_CASE_SUMMARY.pdf" target="_blank">Sanitized Case Executive Summary</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#199</p>
-    <p><a href="/data/exhibits/199 - CAN-001123.pdf" target="_blank">Presentation to the Federation of Law Societies of Canada and the Government of Canada Working Group on Money Laundering and Terrorist Financing – June 26, 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/199 - CAN-001123.pdf" target="_blank">Presentation to the Federation of Law Societies of Canada and the Government of Canada Working Group on Money Laundering and Terrorist Financing – June 26, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#198</p>
-    <p><a href="/data/exhibits/198 - CAN-001254.pdf" target="_blank">Overview of the FLSC and the Govt. of Canada Working Group on Money Laundering and Terrorist Financing presented by Dept. of Finance Canada presentation - October 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/198 - CAN-001254.pdf" target="_blank">Overview of the FLSC and the Govt. of Canada Working Group on Money Laundering and Terrorist Financing presented by Dept. of Finance Canada presentation - October 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#197</p>
-    <p><a href="/data/exhibits/197 - FLSC000119.pdf" target="_blank">Audit Program Presentation</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/197 - FLSC000119.pdf" target="_blank">Audit Program Presentation</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#196</p>
-    <p><a href="/data/exhibits/196 - CAN-001124.pdf" target="_blank">Recent Amendments to Canada’s AML-ATF Regulations – June 25, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/196 - CAN-001124.pdf" target="_blank">Recent Amendments to Canada’s AML-ATF Regulations – June 25, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#195</p>
-    <p><a href="/data/exhibits/195 - CAN-001122_Redacted.pdf" target="_blank">Terms of Reference - FLSC and the Government of Canada Working Group on Money Laundering and Terrorist Financing (Draft for policy discussion)_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/195 - CAN-001122_Redacted.pdf" target="_blank">Terms of Reference - FLSC and the Government of Canada Working Group on Money Laundering and Terrorist Financing (Draft for policy discussion)_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#194</p>
-    <p><a href="/data/exhibits/194 - FLSC000083.pdf" target="_blank">FINTRAC Research Report – Review of Money Laundering Court Cases in Canada – November 2015</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/194 - FLSC000083.pdf" target="_blank">FINTRAC Research Report – Review of Money Laundering Court Cases in Canada – November 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#193</p>
-    <p><a href="/data/exhibits/193 - V2 FINAL OR (updated App D) Legal Professionals and Accountants Publications -Nov 16, 2020.pdf" target="_blank">Overview Report: Legal Professionals and Accountants Publications</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/193 - V2 FINAL OR (updated App D) Legal Professionals and Accountants Publications -Nov 16, 2020.pdf" target="_blank">Overview Report: Legal Professionals and Accountants Publications</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#192</p>
-    <p><a href="/data/exhibits/192 - V2 Overview Report on the Regulation of Legal Professionals in BC - Nov 15, 2020.pdf" target="_blank">Overview Report on the Regulation of Legal Professionals in BC</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/192 - V2 Overview Report on the Regulation of Legal Professionals in BC - Nov 15, 2020.pdf" target="_blank">Overview Report on the Regulation of Legal Professionals in BC</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#191</p>
-    <p><a href="/data/exhibits/191 - Final V2 Overview Report - Anti-Money Laundering Initiatives of the LSBC and FLSC - Nov 15, 2020.pdf" target="_blank">Overview Report - Anti-Money Laundering Initiatives of the LSBC and FLSC</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/191 - Final V2 Overview Report - Anti-Money Laundering Initiatives of the LSBC and FLSC - Nov 15, 2020.pdf" target="_blank">Overview Report - Anti-Money Laundering Initiatives of the LSBC and FLSC</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#190</p>
-    <p><a href="/data/exhibits/190 - GPEB0188.0001.pdf" target="_blank">Gaming Policy and Enforcement Branch, Investigations and Regional Operations Division - Report of Findings</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/190 - GPEB0188.0001.pdf" target="_blank">Gaming Policy and Enforcement Branch, Investigations and Regional Operations Division - Report of Findings</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#189</p>
-    <p><a href="/data/exhibits/189 - BCLC0013089.pdf" target="_blank">GPEB-BCLC Joint Executive Meeting - November 5, 2012</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/189 - BCLC0013089.pdf" target="_blank">GPEB-BCLC Joint Executive Meeting - November 5, 2012</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#188</p>
-    <p><a href="/data/exhibits/188 - GPEB0101.0001.pdf" target="_blank">Email from Larry Vander Graaf to Bill McCrea, Re: Strategic Priority Measurements - July 23, 2013</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/188 - GPEB0101.0001.pdf" target="_blank">Email from Larry Vander Graaf to Bill McCrea, Re: Strategic Priority Measurements - July 23, 2013</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#187</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/187%20-%20Email%20from%20John%20Mazure%20to%20Larry%20Vander%20Graaf%20Re%20Comments%20to%20GPEB%20Investigations%20Report%20on%20Money%20Laundering%20in%20BC%20Casions%20-%20Dec%202%202013_Redacted.pdf" target="_blank">Email from John Mazure to Larry Vander Graaf, Re: Comments to GPEB Investigations Report on Money Laundering in BC Casions - December 2, 2013</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/187 - Email from John Mazure to Larry Vander Graaf Re Comments to GPEB Investigations Report on Money Laundering in BC Casions - Dec 2 2013_Redacted.pdf" target="_blank">Email from John Mazure to Larry Vander Graaf, Re: Comments to GPEB Investigations Report on Money Laundering in BC Casions - December 2, 2013</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#186</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/186%20-%20Las%20Vegas%20Review%20Journal%20-%20Casinos%20shudder%20over%20possible%20federal%20requirement%20to%20divulge%20source%20of%20rollers%20gambling%20funds%20-%20April%208%202014_Redacted.pdf" target="_blank">Las Vegas Review Journal – Casinos shudder over possible federal requirement to divulge source of rollers’ gambling funds - April 8, 2014</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/186 - Las Vegas Review Journal - Casinos shudder over possible federal requirement to divulge source of rollers gambling funds - April 8 2014_Redacted.pdf" target="_blank">Las Vegas Review Journal – Casinos shudder over possible federal requirement to divulge source of rollers’ gambling funds - April 8, 2014</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#185</p>
-    <p><a href="/data/exhibits/185 - GPEB0688.0001.pdf" target="_blank">Gaming Policy and Enforcement Branch, Investigations and Regional Operations Division - Compliance Note to the Minister - February 19, 2014</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/185 - GPEB0688.0001.pdf" target="_blank">Gaming Policy and Enforcement Branch, Investigations and Regional Operations Division - Compliance Note to the Minister - February 19, 2014</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#184</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/184%20-%20Email%20from%20Larry%20Vander%20Graaf%20Re%20Patron%20Gaming%20Fund%20Account%20Discussion%20-%20September%2014%202009_Redacted.pdf" target="_blank">Email from Larry Vander Graaf, Re: Patron Gaming Fund Account Discussion - September 14, 2009</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/184 - Email from Larry Vander Graaf Re Patron Gaming Fund Account Discussion - September 14 2009_Redacted.pdf" target="_blank">Email from Larry Vander Graaf, Re: Patron Gaming Fund Account Discussion - September 14, 2009</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#183</p>
-    <p><a href="/data/exhibits/183 - GPEB0068.0001.pdf" target="_blank">Letter from Derek Struko To Vic Poleschuk - March 28, 2003</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/183 - GPEB0068.0001.pdf" target="_blank">Letter from Derek Struko To Vic Poleschuk - March 28, 2003</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#182</p>
-    <p><a href="/data/exhibits/182 - DOC-00001549.pdf" target="_blank">Curriculum Vitae of Larry Peter Vander Graaf</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/182 - DOC-00001549.pdf" target="_blank">Curriculum Vitae of Larry Peter Vander Graaf</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#181</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/181%20-%20Affidavit%20No.%201%20of%20Larry%20Vander%20Graaf%20made%20on%20November%208%202020.pdf" target="_blank">Affidavit No. 1 of Larry Vander Graaf made on November 8, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/181 - Affidavit No. 1 of Larry Vander Graaf made on November 8 2020.pdf" target="_blank">Affidavit No. 1 of Larry Vander Graaf made on November 8, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#180</p>
-    <p><a href="/data/exhibits/180 - Email from Ross Alderson Subject Resignation - December 21 2017_Redacted.pdf" target="_blank">Email from Ross Alderson, Subject Resignation - December 21, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/180 - Email from Ross Alderson Subject Resignation - December 21 2017_Redacted.pdf" target="_blank">Email from Ross Alderson, Subject Resignation - December 21, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#179</p>
-    <p><a href="/data/exhibits/179 - Email from Ross Alderson Re AML - January 24 2017_Redacted.pdf" target="_blank">Email from Ross Alderson, Re AML - January 24, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/179 - Email from Ross Alderson Re AML - January 24 2017_Redacted.pdf" target="_blank">Email from Ross Alderson, Re AML - January 24, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#178</p>
-    <p><a href="/data/exhibits/178 - Email from Daryl Tottenham Re Jia Gao - October 5 2015_Redacted.pdf" target="_blank">Email from Daryl Tottenham, Re Jia Gao - October 5, 2015_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/178 - Email from Daryl Tottenham Re Jia Gao - October 5 2015_Redacted.pdf" target="_blank">Email from Daryl Tottenham, Re Jia Gao - October 5, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#177</p>
-    <p><a href="/data/exhibits/177 - Email from Ross Alderson Re Jia Gao - April 27 2015_Redacted.pdf" target="_blank">Email from Ross Alderson, Re Jia Gao - April 27, 2015_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/177 - Email from Ross Alderson Re Jia Gao - April 27 2015_Redacted.pdf" target="_blank">Email from Ross Alderson, Re Jia Gao - April 27, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#176</p>
-    <p><a href="/data/exhibits/176 - Email from Ross Alderson to Daryl Tottenham Re COMM-8669 Final Report - Provincially Banned Cash Facilitators - May 6 2017_Redacted.pdf" target="_blank">Email from Ross Alderson to Daryl Tottenham, Re COMM-8669 Final Report - Provincially Banned Cash Facilitators - May 6, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/176 - Email from Ross Alderson to Daryl Tottenham Re COMM-8669 Final Report - Provincially Banned Cash Facilitators - May 6 2017_Redacted.pdf" target="_blank">Email from Ross Alderson to Daryl Tottenham, Re COMM-8669 Final Report - Provincially Banned Cash Facilitators - May 6, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#175</p>
-    <p><a href="/data/exhibits/175 - A chain of email re German Recommendation No.1 - Source of Funds Declaration - December 28 2017_Redacted.pdf" target="_blank">A chain of email re German Recommendation #1 - Source of Funds Declaration - December 28, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/175 - A chain of email re German Recommendation No.1 - Source of Funds Declaration - December 28 2017_Redacted.pdf" target="_blank">A chain of email re German Recommendation #1 - Source of Funds Declaration - December 28, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#174</p>
-    <p><a href="/data/exhibits/174 - Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted.pdf" target="_blank">Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/174 - Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted.pdf" target="_blank">Email exchange between Daryl Tottenham and David Zhou - June 5, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#173</p>
-    <p><a href="/data/exhibits/173 - Email from Patrick Ennis to Daryl Tottenham, Re 200K Cash - August 17, 2016_Redacted.pdf" target="_blank">Email from Patrick Ennis to Daryl Tottenham, Re $200K Cash - August 17, 2016_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/173 - Email from Patrick Ennis to Daryl Tottenham, Re 200K Cash - August 17, 2016_Redacted.pdf" target="_blank">Email from Patrick Ennis to Daryl Tottenham, Re $200K Cash - August 17, 2016_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#172</p>
-    <p><a href="/data/exhibits/172 - Email from Daryl Tottenham to Patrick Ennis, re cash buy-in - August 3, 2016_Redacted.pdf" target="_blank">Email from Daryl Tottenham to Patrick Ennis, re cash buy-in - August 3, 2016_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/172 - Email from Daryl Tottenham to Patrick Ennis, re cash buy-in - August 3, 2016_Redacted.pdf" target="_blank">Email from Daryl Tottenham to Patrick Ennis, re cash buy-in - August 3, 2016_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#171</p>
-    <p><a href="/data/exhibits/171 - Email from Daryl Tottenham to Rob Kroeker Re Exhibit listing - October 10 2017_Redacted.pdf" target="_blank">Email from Daryl Tottenham to Rob Kroeker, Re Exhibit listing - October 10, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/171 - Email from Daryl Tottenham to Rob Kroeker Re Exhibit listing - October 10 2017_Redacted.pdf" target="_blank">Email from Daryl Tottenham to Rob Kroeker, Re Exhibit listing - October 10, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#170</p>
-    <p><a href="/data/exhibits/170 - Email from Ross Alderson subject List for VP - September 9 2015_Redacted.pdf" target="_blank">Email from Ross Alderson, subject List for VP - September 9, 2015_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/170 - Email from Ross Alderson subject List for VP - September 9 2015_Redacted.pdf" target="_blank">Email from Ross Alderson, subject List for VP - September 9, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#169</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/169%20-%20Email%20from%20Heather%20Samson%20to%20Laurin%20Stenerson%20Re%20Subject%20Detailed%20Report%20-%20October%202%202017_Redacted.pdf" target="_blank">Email from Heather Samson to Laurin Stenerson, Re Subject Detailed Report - October 2, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/169 - Email from Heather Samson to Laurin Stenerson Re Subject Detailed Report - October 2 2017_Redacted.pdf" target="_blank">Email from Heather Samson to Laurin Stenerson, Re Subject Detailed Report - October 2, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#168</p>
-    <p><a href="/data/exhibits/168 - Email exchange between Mike Hiller and Jim Wall re Buy-ins with No Play - August 18, 2014. (Only pages 106-108).pdf" target="_blank">Email exchange between Mike Hiller and Jim Wall re Buy-ins with No Play - August 18, 2014. (Only pages 106-108)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/168 - Email exchange between Mike Hiller and Jim Wall re Buy-ins with No Play - August 18, 2014. (Only pages 106-108).pdf" target="_blank">Email exchange between Mike Hiller and Jim Wall re Buy-ins with No Play - August 18, 2014. (Only pages 106-108)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#167</p>
-    <p><a href="/data/exhibits/167 - Applied_BCLC0011939.pdf" target="_blank">Mike Hiller notebook #2 – June 1, 2009 to June 16, 2010_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/167 - Applied_BCLC0011939.pdf" target="_blank">Mike Hiller notebook #2 – June 1, 2009 to June 16, 2010_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#166</p>
-    <p><a href="/data/exhibits/166 - Applied_Affidavit No.1 of Michael Hiller.pdf" target="_blank">Affidavit no. 1 of Michael Hiller, sworn November 8, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/166 - Applied_Affidavit No.1 of Michael Hiller.pdf" target="_blank">Affidavit no. 1 of Michael Hiller, sworn November 8, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#165</p>
-    <p><a href="/data/exhibits/165 - CAN-000094_Redacted.pdf" target="_blank">Email from Donald Smith, Re IIGET File 05-661 Loansharking Investigation - February 25, 2005_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/165 - CAN-000094_Redacted.pdf" target="_blank">Email from Donald Smith, Re IIGET File 05-661 Loansharking Investigation - February 25, 2005_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#164</p>
-    <p><a href="/data/exhibits/164 - Transcript of a lunch meeting between Heed and Pinnock on September 7, 2018_Redacted.pdf" target="_blank">Transcript of a lunch meeting between Heed and Pinnock on September 7, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/164 - Transcript of a lunch meeting between Heed and Pinnock on September 7, 2018_Redacted.pdf" target="_blank">Transcript of a lunch meeting between Heed and Pinnock on September 7, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#163</p>
-    <p><a href="/data/exhibits/163 - Transcript of a phone call between Heed and Pinnock on July 10, 2018_Redacted.pdf" target="_blank">Transcript of a phone call between Heed and Pinnock on July 10, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/163 - Transcript of a phone call between Heed and Pinnock on July 10, 2018_Redacted.pdf" target="_blank">Transcript of a phone call between Heed and Pinnock on July 10, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#162</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/162%20-%20Overview%20of%20the%20Report%20on%20the%20Integrated%20Illegal%20Gaming%20Enforcement%20Team%20-IIGET-%20Effectiveness%20Review%20by%20Catherine%20Tait%20-%20March%2031%202009_Redacted.pdf" target="_blank">Overview of the Report on the Integrated Illegal Gaming Enforcement Team (IIGET) Effectiveness Review by Catherine Tait – March 31, 2009</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/162 - Overview of the Report on the Integrated Illegal Gaming Enforcement Team -IIGET- Effectiveness Review by Catherine Tait - March 31 2009_Redacted.pdf" target="_blank">Overview of the Report on the Integrated Illegal Gaming Enforcement Team (IIGET) Effectiveness Review by Catherine Tait – March 31, 2009</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#161</p>
-    <p><a href="/data/exhibits/161 - CAN-000052.pdf" target="_blank">S/Sgt F Pinnock - Business Case for the Expansion of Integrated Illegal Gaming Enforcement Team (IIGET) – 20-July-2007 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/161 - CAN-000052.pdf" target="_blank">S/Sgt F Pinnock - Business Case for the Expansion of Integrated Illegal Gaming Enforcement Team (IIGET) – 20-July-2007 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#160</p>
-    <p><a href="/data/exhibits/160 - CAN-000054_Redacted.pdf" target="_blank">Email from Fred Pinnock Re IIGET Business Cases – DD 07JUN27 – 19-June-2007 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/160 - CAN-000054_Redacted.pdf" target="_blank">Email from Fred Pinnock Re IIGET Business Cases – DD 07JUN27 – 19-June-2007 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#159</p>
-    <p><a href="/data/exhibits/159 - CAN-000077.pdf" target="_blank">Integrated Illegal Gaming Enforecement Team (IIGET) - A Provincial Casino Enforcement - Intelligence Unit, June 27, 2007</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/159 - CAN-000077.pdf" target="_blank">Integrated Illegal Gaming Enforecement Team (IIGET) - A Provincial Casino Enforcement - Intelligence Unit, June 27, 2007</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#158</p>
-    <p><a href="/data/exhibits/158 - CAN-000107.pdf" target="_blank">Undated memo detailing IIGET and BCLC working group to target loan sharks and other organized criminal activity</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/158 - CAN-000107.pdf" target="_blank">Undated memo detailing IIGET and BCLC working group to target loan sharks and other organized criminal activity</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#157</p>
-    <p><a href="/data/exhibits/157 - CAN-000061_Redacted.pdf" target="_blank">S/Sgt F Pinnock – Integrated Illegal Gaming Enforcement Team Performance Report for IIGET Consultative Board – 23-July-2007 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/157 - CAN-000061_Redacted.pdf" target="_blank">S/Sgt F Pinnock – Integrated Illegal Gaming Enforcement Team Performance Report for IIGET Consultative Board – 23-July-2007 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#156</p>
-    <p><a href="/data/exhibits/156 - CAN-000055.pdf" target="_blank">Memo from NCO IIGET "E" Division Re Status Report – Integrated Illegal Gaming Enforcement Team– 14-March-2007 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/156 - CAN-000055.pdf" target="_blank">Memo from NCO IIGET "E" Division Re Status Report – Integrated Illegal Gaming Enforcement Team– 14-March-2007 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#155</p>
-    <p><a href="/data/exhibits/155 - CAN-000103.pdf" target="_blank">RCMP Backgrounder (2003-05)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/155 - CAN-000103.pdf" target="_blank">RCMP Backgrounder (2003-05)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#154</p>
-    <p><a href="/data/exhibits/154 - CAN-000074.pdf" target="_blank">Integrated Illegal Gaming Enforcement Team RCMP and GPEB Consultative Board Meeting – 29-Nov-2004 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/154 - CAN-000074.pdf" target="_blank">Integrated Illegal Gaming Enforcement Team RCMP and GPEB Consultative Board Meeting – 29-Nov-2004 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#153</p>
-    <p><a href="/data/exhibits/153 - CAN-000064.pdf" target="_blank">S/Sgt F Pinnock – IIGET Consultative Board Meeting minutes – 26-Nov-2007</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/153 - CAN-000064.pdf" target="_blank">S/Sgt F Pinnock – IIGET Consultative Board Meeting minutes – 26-Nov-2007</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#152</p>
-    <p><a href="/data/exhibits/152 - CAN-000046.pdf" target="_blank">RCMP - Five Year Strategic Projection Provincial Policing – 2004-2009 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/152 - CAN-000046.pdf" target="_blank">RCMP - Five Year Strategic Projection Provincial Policing – 2004-2009 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#151</p>
-    <p><a href="/data/exhibits/151 - CAN-000101_Redacted.pdf" target="_blank">Integrated Illegal Gaming Enforcement Team – Implementation Plan of Operations – 24-June-2004_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/151 - CAN-000101_Redacted.pdf" target="_blank">Integrated Illegal Gaming Enforcement Team – Implementation Plan of Operations – 24-June-2004_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#150</p>
