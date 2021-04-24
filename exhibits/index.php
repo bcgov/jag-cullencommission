@@ -16,12 +16,24 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#888</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/888 - Advice to Minister Confidential Issues Note Anti-Money Laundering Review August 24 2011.pdf" target="_blank">Advice to Minister, Confidential Issues Note, Anti-Money Laundering Review, August 24, 2011</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#887</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/887 - Email from Michael Graydon to Lori Wanamaker - May 15 2012_redacted.pdf" target="_blank">Email from Michael Graydon to Lori Wanamaker- May 15, 2012_redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#886</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/886 - Email from Al MacIntyre to Dick Bent re River Rock Casino - A Policing Response - September 18 2006_Redacted.pdf" target="_blank">Email from Al MacIntyre to Dick Bent, re River Rock Casino - A Policing Response - September 18, 2006_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#885</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/885  - Email exchange between Kevin Begg and Al MacIntyre re IIGET File 05-661 Loansharking Investigation - February 25 2005_Redacted.pdf" target="_blank">Email exchange between Kevin Begg and Al MacIntyre, re IIGET File 05-661 Loansharking Investigation - February 25, 2005_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#884</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/884 - Establishment of the Organized Crime Agency of BC - Attorney General - Briefing No.3 - Feb 23 1999.pdf" target="_blank">Email from Michael Graydon to Lori Wanamaker- May 15, 2012_redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#882</p>
@@ -389,7 +401,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#782</p>
-    <p><a href="/data/exhibits/782 - Affidavit no. 1 of Robin Jomha made on March 24 2021.pdf" target="_blank">Affidavit no. 1 of Robin Jomha, made on March 24, 2021</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/782 - Affidavit no. 1 of Robin Jomha made on March 24 2021_Redacted.pdf" target="_blank">Affidavit no. 1 of Robin Jomha, made on March 24, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#781</p>
@@ -2345,323 +2357,323 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#300</p>
-    <p><a href="/data/exhibits/300 - BCR0006.0001.pdf" target="_blank">Directors / Officers - Quenstions and Answers</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/300 - BCR0006.0001.pdf" target="_blank">Directors / Officers - Quenstions and Answers</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#299</p>
-    <p><a href="/data/exhibits/299 - BCR0007.0001.pdf" target="_blank">Directors / Officers Showing How Many Corporations (Including XPro) They Were Appointed to Since 2010 (Excel spreadsheet)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/299 - BCR0007.0001.pdf" target="_blank">Directors / Officers Showing How Many Corporations (Including XPro) They Were Appointed to Since 2010 (Excel spreadsheet)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#298</p>
-    <p><a href="/data/exhibits/298 - BCR0005.0001.pdf" target="_blank">Incorporators Showing How Many Corporations (No Xpro) They Incorporated Since 2020 (Excel spreadsheet)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/298 - BCR0005.0001.pdf" target="_blank">Incorporators Showing How Many Corporations (No Xpro) They Incorporated Since 2020 (Excel spreadsheet)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#297</p>
-    <p><a href="/data/exhibits/297 - BCR0013.0001.pdf" target="_blank">"Nature of Business" Occurring More than 200 Times – May 25, 2020 (Excel spreadsheet)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/297 - BCR0013.0001.pdf" target="_blank">"Nature of Business" Occurring More than 200 Times – May 25, 2020 (Excel spreadsheet)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#296</p>
-    <p><a href="/data/exhibits/296 - BCR0002.0001.pdf" target="_blank">Types of Registered Entities - Questions and Answers</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/296 - BCR0002.0001.pdf" target="_blank">Types of Registered Entities - Questions and Answers</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#295</p>
-    <p><a href="/data/exhibits/295 - BCR0014.0001.pdf" target="_blank">Active Entities (Excel spreadsheet)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/295 - BCR0014.0001.pdf" target="_blank">Active Entities (Excel spreadsheet)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#294</p>
-    <p><a href="/data/exhibits/294 - BCR0010.0001.pdf" target="_blank">Structure of BC Registries</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/294 - BCR0010.0001.pdf" target="_blank">Structure of BC Registries</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#293</p>
-    <p><a href="/data/exhibits/293 - BCR0011.0001.pdf" target="_blank">BC Registries Budget (Excel spreadsheet)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/293 - BCR0011.0001.pdf" target="_blank">BC Registries Budget (Excel spreadsheet)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#292</p>
-    <p><a href="/data/exhibits/292 - 008 TI Technical Briefing Note_Necessary Components and Considerations 2020.pdf" target="_blank">Transparency International Canada, <em>Technical Briefing Note – Necessary Components and Considerations for a Publicly Accessible, Pan-Canadian Company Registry of Beneficial Owners</em> (2020)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/292 - 008 TI Technical Briefing Note_Necessary Components and Considerations 2020.pdf" target="_blank">Transparency International Canada, <em>Technical Briefing Note – Necessary Components and Considerations for a Publicly Accessible, Pan-Canadian Company Registry of Beneficial Owners</em> (2020)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#291</p>
-    <p><a href="/data/exhibits/291 - 007 TI Technical Briefing Note_Comparison of Information Fields 2020.pdf" target="_blank">Transparency International Canada, Technical Briefing Note - Comparison of Information Fields Amongst Beneficial Registries in International Jurisdictions (2020)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/291 - 007 TI Technical Briefing Note_Comparison of Information Fields 2020.pdf" target="_blank">Transparency International Canada, Technical Briefing Note - Comparison of Information Fields Amongst Beneficial Registries in International Jurisdictions (2020)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#290</p>
-    <p><a href="/data/exhibits/290 - 009 M. Johnson_Public Beneficial Ownership_A Legal Analysis 2019.pdf" target="_blank">Mora Johnson, <em>A Public Beneficial Ownership Registry and the Canadian Privacy Regime: A Legal Analysis</em>, October 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/290 - 009 M. Johnson_Public Beneficial Ownership_A Legal Analysis 2019.pdf" target="_blank">Mora Johnson, <em>A Public Beneficial Ownership Registry and the Canadian Privacy Regime: A Legal Analysis</em>, October 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#289</p>
-    <p><a href="/data/exhibits/289 - Review of the implementation of the PSC Register.pdf" target="_blank">UK Department for Business, Energy and Industry Strategy <em>Review of the Implementation of the PSC Register</em>, March 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/289 - Review of the implementation of the PSC Register.pdf" target="_blank">UK Department for Business, Energy and Industry Strategy <em>Review of the Implementation of the PSC Register</em>, March 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#288</p>
-    <p><a href="/data/exhibits/288 - 012 OpenCorporates US Company Data_State of the Union 2020.pdf" target="_blank">Opencorporates, <em>US Company Data: State of the Union 2020 – How Accessible is official company register data in the US</em>, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/288 - 012 OpenCorporates US Company Data_State of the Union 2020.pdf" target="_blank">Opencorporates, <em>US Company Data: State of the Union 2020 – How Accessible is official company register data in the US</em>, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#287</p>
-    <p><a href="/data/exhibits/287 - 011 OpenCorporates EU Company Data_State of the Union 2020.pdf" target="_blank">Opencorporates, <em>EU Company Data: State of the Union 2020 – How Poor Access to Company Data is Undermining the EU</em>, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/287 - 011 OpenCorporates EU Company Data_State of the Union 2020.pdf" target="_blank">Opencorporates, <em>EU Company Data: State of the Union 2020 – How Poor Access to Company Data is Undermining the EU</em>, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#286</p>
-    <p><a href="/data/exhibits/286 - 016 MOF2426.0001_BC Consultation TI Coalition 2020_Redacted.pdf" target="_blank">BC Beneficial Ownership Consultation Submission, TI Coalition, 2020 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/286 - 016 MOF2426.0001_BC Consultation TI Coalition 2020_Redacted.pdf" target="_blank">BC Beneficial Ownership Consultation Submission, TI Coalition, 2020 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#285</p>
-    <p><a href="/data/exhibits/285 - 015 MOF2438.0001_BC Consultation, Deloitte Peter Dent_Redacted.pdf" target="_blank">BC Beneficial Ownership Consultation Submission, Deloitte (Peter Dent), 2020 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/285 - 015 MOF2438.0001_BC Consultation, Deloitte Peter Dent_Redacted.pdf" target="_blank">BC Beneficial Ownership Consultation Submission, Deloitte (Peter Dent), 2020 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#284</p>
-    <p><a href="/data/exhibits/284 - 006 TI Implementing a Publicly Accessible Pan-Canadian Registry_LegOptions 2019.pdf" target="_blank">Transparency International Canada, <em>Implementing a Publicly Accessible Pan-Canadian Registry of Beneficial Ownership – Legislative and Technical Options</em>, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/284 - 006 TI Implementing a Publicly Accessible Pan-Canadian Registry_LegOptions 2019.pdf" target="_blank">Transparency International Canada, <em>Implementing a Publicly Accessible Pan-Canadian Registry of Beneficial Ownership – Legislative and Technical Options</em>, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#283</p>
-    <p><a href="/data/exhibits/283 - 010 Mora Johnson Cullen Commission Submission - Nov 2020.pdf" target="_blank">Mora Johnson: Submission to the Cullen Commission - November 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/283 - 010 Mora Johnson Cullen Commission Submission - Nov 2020.pdf" target="_blank">Mora Johnson: Submission to the Cullen Commission - November 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#282</p>
-    <p><a href="/data/exhibits/282 - 005 TI Ending Canadas Snow-Washing Problem_Advocacy Handbook 2020.pdf" target="_blank">Transparency International Canada, <em>Ending Canada’s Snow-Washing Problem with a Publicly Accessible Beneficial Ownership Registry – An Advocacy Handbook</em>, April 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/282 - 005 TI Ending Canadas Snow-Washing Problem_Advocacy Handbook 2020.pdf" target="_blank">Transparency International Canada, <em>Ending Canada’s Snow-Washing Problem with a Publicly Accessible Beneficial Ownership Registry – An Advocacy Handbook</em>, April 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#281</p>
-    <p><a href="/data/exhibits/281 - 002 Chris Taggart CV.pdf" target="_blank">Curriculum Vitae of Chris Taggart</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/281 - 002 Chris Taggart CV.pdf" target="_blank">Curriculum Vitae of Chris Taggart</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#280</p>
-    <p><a href="/data/exhibits/280 - 003 Mora Johnson CV September 2020.pdf" target="_blank">Curriculum Vitae of Mora Johnson</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/280 - 003 Mora Johnson CV September 2020.pdf" target="_blank">Curriculum Vitae of Mora Johnson</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#279</p>
-    <p><a href="/data/exhibits/279 - 004 Peter Dent Bio - Nov 2020.pdf" target="_blank">Biography of Peter Dent</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/279 - 004 Peter Dent Bio - Nov 2020.pdf" target="_blank">Biography of Peter Dent</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#278</p>
-    <p><a href="/data/exhibits/278 - 001 James Cohen Resume 201120 Cullen Commission.pdf" target="_blank">Resume of James Cohen</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/278 - 001 James Cohen Resume 201120 Cullen Commission.pdf" target="_blank">Resume of James Cohen</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#277</p>
-    <p><a href="/data/exhibits/277 - 005 Global Witness - Learning the Lessons from UK BOR.pdf" target="_blank">Global Witness - Learning the lessons from the UK’s public beneficial ownership register - October 2017</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/277 - 005 Global Witness - Learning the Lessons from UK BOR.pdf" target="_blank">Global Witness - Learning the lessons from the UK’s public beneficial ownership register - October 2017</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#276</p>
-    <p><a href="/data/exhibits/276 - 008 MOF2432.0001.pdf" target="_blank">Response to BC Government's Consultation on a Public Benefical Ownership Registry - from Michael Barron - April 29, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/276 - 008 MOF2432.0001.pdf" target="_blank">Response to BC Government's Consultation on a Public Benefical Ownership Registry - from Michael Barron - April 29, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#275</p>
-    <p><a href="/data/exhibits/275 - 007 - MOF2400.0001_Redacted.pdf" target="_blank">Ministry of Finance Briefing Document – Company Beneficial Ownership Consultation - Summary - May 26, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/275 - 007 - MOF2400.0001_Redacted.pdf" target="_blank">Ministry of Finance Briefing Document – Company Beneficial Ownership Consultation - Summary - May 26, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#274</p>
-    <p><a href="/data/exhibits/274 - 009 FATF_Best-Practices-Beneficial-Ownership-Legal-Persons, Oct. 2019.pdf" target="_blank">FATF Best Practices on Beneficial Ownership for Legal Persons - October 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/274 - 009 FATF_Best-Practices-Beneficial-Ownership-Legal-Persons, Oct. 2019.pdf" target="_blank">FATF Best Practices on Beneficial Ownership for Legal Persons - October 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#273</p>
-    <p><a href="/data/exhibits/273 - Canadas 2018-2020 National Action Plan on Open Government.pdf" target="_blank">Canada’s 2018-2020 National Action Plan on Open Government</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/273 - Canadas 2018-2020 National Action Plan on Open Government.pdf" target="_blank">Canada’s 2018-2020 National Action Plan on Open Government</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#272</p>
-    <p><a href="/data/exhibits/272 - 003 Towards-a-Global-Norm-of-Beneficial-Ownership-Transparency-Phase-2-Paper-March-2019.pdf" target="_blank">Towards a Global Norm of Beneficial Ownership - A scoping study on a strategic approach to achieving a global norm - March 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/272 - 003 Towards-a-Global-Norm-of-Beneficial-Ownership-Transparency-Phase-2-Paper-March-2019.pdf" target="_blank">Towards a Global Norm of Beneficial Ownership - A scoping study on a strategic approach to achieving a global norm - March 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#271</p>
-    <p><a href="/data/exhibits/271 - 002 CV - Timothy Law.pdf" target="_blank">Curriculum Vitae of Timothy Law</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/271 - 002 CV - Timothy Law.pdf" target="_blank">Curriculum Vitae of Timothy Law</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#270</p>
-    <p><a href="/data/exhibits/270 - 001 CV - Michael Barron.pdf" target="_blank">Curriculum Vitae of Michael Barron</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/270 - 001 CV - Michael Barron.pdf" target="_blank">Curriculum Vitae of Michael Barron</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#269</p>
-    <p><a href="/data/exhibits/269 - Transcript of phone call between Heed and Pinnock on December 31, 2018_Redacted.pdf" target="_blank">Transcript of phone call between Heed and Pinnock on December 31, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/269 - Transcript of phone call between Heed and Pinnock on December 31, 2018_Redacted.pdf" target="_blank">Transcript of phone call between Heed and Pinnock on December 31, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#268</p>
-    <p><a href="/data/exhibits/268 - 009 Central 1 Credit Union Anti-Money Laundering and Counter-Terrorist Financing Requirements.pdf" target="_blank">Central 1 Credit Union Anti-Money Laundering and Counter-Terrorist Financing Requirements</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/268 - 009 Central 1 Credit Union Anti-Money Laundering and Counter-Terrorist Financing Requirements.pdf" target="_blank">Central 1 Credit Union Anti-Money Laundering and Counter-Terrorist Financing Requirements</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#267</p>
-    <p><a href="/data/exhibits/267 - 008 COV - Memo to mayor and council re money laundering Oct 29 2020.pdf" target="_blank">City of Vancouver Memo to mayor re: Bitcoin ATMS – October 30, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/267 - 008 COV - Memo to mayor and council re money laundering Oct 29 2020.pdf" target="_blank">City of Vancouver Memo to mayor re: Bitcoin ATMS – October 30, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#266</p>
-    <p><a href="/data/exhibits/266 - EY - Fifth Monitor Report.pdf" target="_blank">Fifth Report of the Monitor - June 19, 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/266 - EY - Fifth Monitor Report.pdf" target="_blank">Fifth Report of the Monitor - June 19, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#265</p>
-    <p><a href="/data/exhibits/265 - OSC Report.pdf" target="_blank">Ontario Securities Commission Report - April 14, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/265 - OSC Report.pdf" target="_blank">Ontario Securities Commission Report - April 14, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#264</p>
-    <p><a href="/data/exhibits/264 - 004 Appendix A - Giles Dixon CV - Redacted.pdf" target="_blank">Curriculum Vitae of Giles Dixon_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/264 - 004 Appendix A - Giles Dixon CV - Redacted.pdf" target="_blank">Curriculum Vitae of Giles Dixon_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#263</p>
-    <p><a href="/data/exhibits/263 - 003 Appendix A - Ryan Mueller CV - November 2020.pdf" target="_blank">Curriculum Vitae of Ryan Mueller</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/263 - 003 Appendix A - Ryan Mueller CV - November 2020.pdf" target="_blank">Curriculum Vitae of Ryan Mueller</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#262</p>
-    <p><a href="/data/exhibits/262 - 001 CIESLIK_CV_Oct 2020_REDACTED.pdf" target="_blank">Curriculum Vitae of Charlene Cieslik_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/262 - 001 CIESLIK_CV_Oct 2020_REDACTED.pdf" target="_blank">Curriculum Vitae of Charlene Cieslik_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#261</p>
-    <p><a href="/data/exhibits/261 - 002 Appendix A CV.pdf" target="_blank">Curriculum Vitae of Peter Warrack</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/261 - 002 Appendix A CV.pdf" target="_blank">Curriculum Vitae of Peter Warrack</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#260</p>
-    <p><a href="/data/exhibits/260 - 009 Chainalysis Reactor Webpage.pdf" target="_blank">Chainalysis Reactor webpage</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/260 - 009 Chainalysis Reactor Webpage.pdf" target="_blank">Chainalysis Reactor webpage</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#259</p>
-    <p><a href="/data/exhibits/259 - 003 Appendix C - Virtual-Assets-Red-Flag-Indicators.pdf" target="_blank">FATF Report - Virtual Assets Red Flag Indicators – September 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/259 - 003 Appendix C - Virtual-Assets-Red-Flag-Indicators.pdf" target="_blank">FATF Report - Virtual Assets Red Flag Indicators – September 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#258</p>
-    <p><a href="/data/exhibits/258 - 002 Appendix B - 2020-Geography-of-Crypto 1.pdf" target="_blank">Chainalysis - The 2020 Geography of Cryptocurrency Report - September 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/258 - 002 Appendix B - 2020-Geography-of-Crypto 1.pdf" target="_blank">Chainalysis - The 2020 Geography of Cryptocurrency Report - September 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#257</p>
-    <p><a href="/data/exhibits/257 - 001 Appendix A - 2020-Crypto-Crime-Report Chainanalysis.pdf" target="_blank">Chainalysis - The 2020 State of Crypto Crime report - January 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/257 - 001 Appendix A - 2020-Crypto-Crime-Report Chainanalysis.pdf" target="_blank">Chainalysis - The 2020 State of Crypto Crime report - January 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#256</p>
-    <p><a href="/data/exhibits/256 - 008 CV of Ian Place.pdf" target="_blank">Curriculum Vitae of Ian Place</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/256 - 008 CV of Ian Place.pdf" target="_blank">Curriculum Vitae of Ian Place</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#255</p>
-    <p><a href="/data/exhibits/255 - 007 CV of Jesse Spiro.pdf" target="_blank">Curriculum Vitae of Jesse Spiro</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/255 - 007 CV of Jesse Spiro.pdf" target="_blank">Curriculum Vitae of Jesse Spiro</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#254</p>
-    <p><a href="/data/exhibits/254 - Digital Currency - You Cant Flip this Coin.pdf" target="_blank">Senate Report - Digital Currency You Can't Flip this Coin! - June 2015</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/254 - Digital Currency - You Cant Flip this Coin.pdf" target="_blank">Senate Report - Digital Currency You Can't Flip this Coin! - June 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#253</p>
-    <p><a href="/data/exhibits/253 - 004 RCMP VA Slideshow.pdf" target="_blank">RCMP Virtual Assets Slideshow</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/253 - 004 RCMP VA Slideshow.pdf" target="_blank">RCMP Virtual Assets Slideshow</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#252</p>
-    <p><a href="/data/exhibits/252 - 001 CV of Sgt. Warren Krahenbil.pdf" target="_blank">CV of Sgt. Warren Krahenbil</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/252 - 001 CV of Sgt. Warren Krahenbil.pdf" target="_blank">CV of Sgt. Warren Krahenbil</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#251</p>
-    <p><a href="/data/exhibits/251 - 003 CV of Aaron Gilkes.pdf" target="_blank">CV of Cpl. Aaron Gilkes</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/251 - 003 CV of Aaron Gilkes.pdf" target="_blank">CV of Cpl. Aaron Gilkes</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#250</p>
-    <p><a href="/data/exhibits/250 - 002 CV of Sgt. Adrienne Vickery.pdf" target="_blank">CV of Sgt. Adrienne Vickery</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/250 - 002 CV of Sgt. Adrienne Vickery.pdf" target="_blank">CV of Sgt. Adrienne Vickery</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#249</p>
-    <p><a href="/data/exhibits/249 - VA Regulation Overview Report_Final.pdf" target="_blank">Overview Report - Federal Regulation of Virtual Currencies</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/249 - VA Regulation Overview Report_Final.pdf" target="_blank">Overview Report - Federal Regulation of Virtual Currencies</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#248</p>
-    <p><a href="/data/exhibits/248 - OR Virtual Assets re FATF documents w Appendices- Final Nov 17, 2020.pdf" target="_blank">Overview Report - FATF Publications on Virtual Assets</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/248 - OR Virtual Assets re FATF documents w Appendices- Final Nov 17, 2020.pdf" target="_blank">Overview Report - FATF Publications on Virtual Assets</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#247</p>
-    <p><a href="/data/exhibits/247 - Overview Report Virtual Assets re CSA guidance - FINAL.pdf" target="_blank">Overview Report - Canadian Securities Administrators Publications on Virtual Assets</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/247 - Overview Report Virtual Assets re CSA guidance - FINAL.pdf" target="_blank">Overview Report - Canadian Securities Administrators Publications on Virtual Assets</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#246</p>
-    <p><a href="/data/exhibits/246 - Overview Report - Quadriga CX Final.pdf" target="_blank">Overview Report - Quadriga CX</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/246 - Overview Report - Quadriga CX Final.pdf" target="_blank">Overview Report - Quadriga CX</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#245</p>
-    <p><a href="/data/exhibits/245 - Levi Cullen Report I.pdf" target="_blank">The Legal and Institutional Infrastructure of Anti-Money Laundering in the UK: A Report for the Cullen Commission</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/245 - Levi Cullen Report I.pdf" target="_blank">The Legal and Institutional Infrastructure of Anti-Money Laundering in the UK: A Report for the Cullen Commission</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#244</p>
-    <p><a href="/data/exhibits/244 - Levi Cullen Report II - Amended.pdf" target="_blank">Lawyers, their AML regulation and Suspicious Transaction Reporting – Report for the Cullen Commission - 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/244 - Levi Cullen Report II - Amended.pdf" target="_blank">Lawyers, their AML regulation and Suspicious Transaction Reporting – Report for the Cullen Commission - 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#243</p>
-    <p><a href="/data/exhibits/243 - LSB027514 REDACTED.pdf" target="_blank">Letter from Catherine George - October 26, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/243 - LSB027514 REDACTED.pdf" target="_blank">Letter from Catherine George - October 26, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#242</p>
-    <p><a href="/data/exhibits/242 - LSB027511.pdf" target="_blank">LSBC Guidelines for Disclosing Information to Law Enforcement</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/242 - LSB027511.pdf" target="_blank">LSBC Guidelines for Disclosing Information to Law Enforcement</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#241</p>
-    <p><a href="/data/exhibits/241 - LSB027512 REDACTED.pdf" target="_blank">Letter from Catherine George re Question to the LSBC re Information-sharing with law enforcement entities – September 24, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/241 - LSB027512 REDACTED.pdf" target="_blank">Letter from Catherine George re Question to the LSBC re Information-sharing with law enforcement entities – September 24, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#240</p>
-    <p><a href="/data/exhibits/240 - LSB009224-1.pdf" target="_blank">LSBC Memo to Jeanette McPhee from Eva Milz re Resources – April 24, 2017</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/240 - LSB009224-1.pdf" target="_blank">LSBC Memo to Jeanette McPhee from Eva Milz re Resources – April 24, 2017</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#239</p>
-    <p><a href="/data/exhibits/239 - LSB002682-1 REDACTED.pdf" target="_blank">Email from Jeanette McPhee to Varro & Wilson re Further Issues for Phase 2, Update from BC – May 29, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/239 - LSB002682-1 REDACTED.pdf" target="_blank">Email from Jeanette McPhee to Varro & Wilson re Further Issues for Phase 2, Update from BC – May 29, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#238</p>
-    <p><a href="/data/exhibits/238 - LSB005611-1 REDACTED.pdf" target="_blank">Email from Karen Mok re Law Firm Regulation AML Issues – January 29, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/238 - LSB005611-1 REDACTED.pdf" target="_blank">Email from Karen Mok re Law Firm Regulation AML Issues – January 29, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#237</p>
-    <p><a href="/data/exhibits/237 - LSB027515.pdf" target="_blank">LSBC Briefing Note for Cullen Commission – October 7, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/237 - LSB027515.pdf" target="_blank">LSBC Briefing Note for Cullen Commission – October 7, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#236</p>
-    <p><a href="/data/exhibits/236 - LSB005522-1 REDACTED.pdf" target="_blank">Email from Jeanette McPhee re CIV Rules – March 26, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/236 - LSB005522-1 REDACTED.pdf" target="_blank">Email from Jeanette McPhee re CIV Rules – March 26, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#235</p>
-    <p><a href="/data/exhibits/235 - LSB005250-1.pdf" target="_blank">Memo to FLSC AMLTF Working Group, CIV Working Group from Jeanette McPhee re Source of Funds and Wealth – October 25, 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/235 - LSB005250-1.pdf" target="_blank">Memo to FLSC AMLTF Working Group, CIV Working Group from Jeanette McPhee re Source of Funds and Wealth – October 25, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#234</p>
-    <p><a href="/data/exhibits/234 - LSB004401-1 - REDACTED.pdf" target="_blank">Email from Jeanette McPhee to Michael Lucas re Model Trust Accounting Rule, Lawyers Acting in a Representative Capacity – October 11, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/234 - LSB004401-1 - REDACTED.pdf" target="_blank">Email from Jeanette McPhee to Michael Lucas re Model Trust Accounting Rule, Lawyers Acting in a Representative Capacity – October 11, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#233</p>
-    <p><a href="/data/exhibits/233 - LSB000196-1.pdf" target="_blank">LSBC Agenda for Act and Rules Committee – October 24, 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/233 - LSB000196-1.pdf" target="_blank">LSBC Agenda for Act and Rules Committee – October 24, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#232</p>
-    <p><a href="/data/exhibits/232 - LSB004607 - REDACTED.pdf" target="_blank">Email from Gurprit Bains re Fiduciary Property Examples – January 14, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/232 - LSB004607 - REDACTED.pdf" target="_blank">Email from Gurprit Bains re Fiduciary Property Examples – January 14, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#231</p>
-    <p><a href="/data/exhibits/231 - LSB004402-1 - REDACTED.pdf" target="_blank">Email from Jeanette McPhee to Michael Lucas re re Model Trust Accounting Rule, comments from Eva Milz – October 11, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/231 - LSB004402-1 - REDACTED.pdf" target="_blank">Email from Jeanette McPhee to Michael Lucas re re Model Trust Accounting Rule, comments from Eva Milz – October 11, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#230</p>
-    <p><a href="/data/exhibits/230 - LSB004449 - REDACTED.pdf" target="_blank">Amendments to Rules Relating to Fiduciary Property Under Consideration – Undated_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/230 - LSB004449 - REDACTED.pdf" target="_blank">Amendments to Rules Relating to Fiduciary Property Under Consideration – Undated_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#229</p>
-    <p><a href="/data/exhibits/229 - LSB006725-1 - REDACTED.pdf" target="_blank">Email from Deborah Armour to Craig Ferris re Code of Conduct Rule 3.2-7 Commentary – May 11, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/229 - LSB006725-1 - REDACTED.pdf" target="_blank">Email from Deborah Armour to Craig Ferris re Code of Conduct Rule 3.2-7 Commentary – May 11, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#228</p>
-    <p><a href="/data/exhibits/228 - LSB000762.pdf" target="_blank">LSBC Memo to Executive Committee from Michael Lucas re Summary of Relevant Points in German Report (real estate, luxury vehicle sales & horse racing) – May 13, 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/228 - LSB000762.pdf" target="_blank">LSBC Memo to Executive Committee from Michael Lucas re Summary of Relevant Points in German Report (real estate, luxury vehicle sales & horse racing) – May 13, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#227</p>
-    <p><a href="/data/exhibits/227 - LSB000390.pdf" target="_blank">LSBC 2020 Fees and Budgets Report</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/227 - LSB000390.pdf" target="_blank">LSBC 2020 Fees and Budgets Report</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#226</p>
-    <p><a href="/data/exhibits/226 - Law Society of BC - Education Summary.pdf" target="_blank">LSBC – Education of the Profession</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/226 - Law Society of BC - Education Summary.pdf" target="_blank">LSBC – Education of the Profession</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#225</p>
-    <p><a href="/data/exhibits/225 - LSBC – Trust Assurance Program Summary.pdf" target="_blank">LSBC – Trust Assurance Program Summary</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/225 - LSBC – Trust Assurance Program Summary.pdf" target="_blank">LSBC – Trust Assurance Program Summary</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#224</p>
-    <p><a href="/data/exhibits/224 - Law Society of BC - Regulation Summary.pdf" target="_blank">LSBC – Regulation of the Practice of Law</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/224 - Law Society of BC - Regulation Summary.pdf" target="_blank">LSBC – Regulation of the Practice of Law</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#223</p>
-    <p><a href="/data/exhibits/223 - Law Society of BC - Investigations and Discipline Summary.pdf" target="_blank">LSBC – Investigations and Discipline Programs Summary</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/223 - Law Society of BC - Investigations and Discipline Summary.pdf" target="_blank">LSBC – Investigations and Discipline Programs Summary</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#222</p>
-    <p><a href="/data/exhibits/222 - Law Society of BC - Introduction to the Law Society Summary.pdf" target="_blank">LSBC – Introduction to the Law Society Summary</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/222 - Law Society of BC - Introduction to the Law Society Summary.pdf" target="_blank">LSBC – Introduction to the Law Society Summary</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#221</p>
-    <p><a href="/data/exhibits/221 - 11178.2013.Tidd.pdf" target="_blank">Solicitors Disciplinary Tribunal - Case no. 11178-2013 - Hearing date 17 December 2013</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/221 - 11178.2013.Tidd.pdf" target="_blank">Solicitors Disciplinary Tribunal - Case no. 11178-2013 - Hearing date 17 December 2013</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#220</p>
@@ -2669,79 +2681,79 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#219</p>
-    <p><a href="/data/exhibits/219 - Money Laundering, Anti-Money Laundering.pdf" target="_blank">Money Laundering, Anti-Money Laundering and the Legal Profession by Katie Benson, 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/219 - Money Laundering, Anti-Money Laundering.pdf" target="_blank">Money Laundering, Anti-Money Laundering and the Legal Profession by Katie Benson, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#218</p>
-    <p><a href="/data/exhibits/218 - LSB027510 (Katie Benson PhD Thesis).pdf" target="_blank">The Facilitation of Money Laundering by Legal and Financial Professionals; Roles, Relationships and Response - A thesis submitted by Katie Benson, 2016</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/218 - LSB027510 (Katie Benson PhD Thesis).pdf" target="_blank">The Facilitation of Money Laundering by Legal and Financial Professionals; Roles, Relationships and Response - A thesis submitted by Katie Benson, 2016</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#217</p>
-    <p><a href="/data/exhibits/217 - CV - Katie Benson (redacted).pdf" target="_blank">Curriculum Vitae of Katie Benson_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/217 - CV - Katie Benson (redacted).pdf" target="_blank">Curriculum Vitae of Katie Benson_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#216</p>
-    <p><a href="/data/exhibits/216 - FLSC000020.pdf" target="_blank">Thematic summary of Feedback from Consultation on 2018 AMLTF Model Rules amendments</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/216 - FLSC000020.pdf" target="_blank">Thematic summary of Feedback from Consultation on 2018 AMLTF Model Rules amendments</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#215</p>
-    <p><a href="/data/exhibits/215 - FLSC000037.pdf" target="_blank">Federation of Law Societies of Canada - Risk Assessment Case Studies for the Legal Profession - February 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/215 - FLSC000037.pdf" target="_blank">Federation of Law Societies of Canada - Risk Assessment Case Studies for the Legal Profession - February 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#214</p>
-    <p><a href="/data/exhibits/214 - FLSC000036.pdf" target="_blank">Federation of Law Societies of Canada - Risk advisories to the legal profession - December 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/214 - FLSC000036.pdf" target="_blank">Federation of Law Societies of Canada - Risk advisories to the legal profession - December 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#213</p>
-    <p><a href="/data/exhibits/213 - FLSC000035.pdf" target="_blank">Federation of Law Societies of Canada - Guidance to the Legal Profession - December 14, 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/213 - FLSC000035.pdf" target="_blank">Federation of Law Societies of Canada - Guidance to the Legal Profession - December 14, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#212</p>
-    <p><a href="/data/exhibits/212 - FLSC000034.pdf" target="_blank">Federation of Law Societies of Canada - Model Trust Accounting Rule</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/212 - FLSC000034.pdf" target="_blank">Federation of Law Societies of Canada - Model Trust Accounting Rule</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#211</p>
-    <p><a href="/data/exhibits/211 - FLSC000038.pdf" target="_blank">Changes to the Model Rules on Money Laundering and Terrorist Financing, 2018, one-page summary</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/211 - FLSC000038.pdf" target="_blank">Changes to the Model Rules on Money Laundering and Terrorist Financing, 2018, one-page summary</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#210</p>
-    <p><a href="/data/exhibits/210 - FLSC000014.pdf" target="_blank">Federation of Law Societies of Canada - Memorandum from CIV Subgroup AML Working Group to to AMLWorking Group, Re Report on CIV Issues Review - April 24, 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/210 - FLSC000014.pdf" target="_blank">Federation of Law Societies of Canada - Memorandum from CIV Subgroup AML Working Group to to AMLWorking Group, Re Report on CIV Issues Review - April 24, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#209</p>
-    <p><a href="/data/exhibits/209 - FLSC000030.pdf" target="_blank">Federation of Law Societies of Canada - Amended Model Rule on Client Identification and Verification</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/209 - FLSC000030.pdf" target="_blank">Federation of Law Societies of Canada - Amended Model Rule on Client Identification and Verification</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#208</p>
-    <p><a href="/data/exhibits/208 - FLSC000019.pdf" target="_blank">Federation of Law Societies of Canada - Consultation Report Anti-Money Laundering and Terrorist Financing Working Group - October 2, 2017</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/208 - FLSC000019.pdf" target="_blank">Federation of Law Societies of Canada - Consultation Report Anti-Money Laundering and Terrorist Financing Working Group - October 2, 2017</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#207</p>
-    <p><a href="/data/exhibits/207 - FLSC000018.pdf" target="_blank">Memorandum from No Cash Model Rule Sub-group, Re Review of No Cash Rule - April 8, 2017</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/207 - FLSC000018.pdf" target="_blank">Memorandum from No Cash Model Rule Sub-group, Re Review of No Cash Rule - April 8, 2017</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#206</p>
-    <p><a href="/data/exhibits/206 - FLSC000032.pdf" target="_blank">Federation of Law Societies of Canada - Amended Model Rule on Cash Transactions</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/206 - FLSC000032.pdf" target="_blank">Federation of Law Societies of Canada - Amended Model Rule on Cash Transactions</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#205</p>
-    <p><a href="/data/exhibits/205 - LSB002262.pdf" target="_blank">FLSC - Memorandum from Richard Scott to Federation Council Law Society Presidents and CEOs, Re Anti-Money Laundering and Terrorist Financing Engagement - July 30, 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/205 - LSB002262.pdf" target="_blank">FLSC - Memorandum from Richard Scott to Federation Council Law Society Presidents and CEOs, Re Anti-Money Laundering and Terrorist Financing Engagement - July 30, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#204</p>
-    <p><a href="/data/exhibits/204 - FLSC000002.pdf" target="_blank">Federation of Law Societies of Canada - Memorandum from Frederica Wilson to CEO, Re FATF Mutual Evaluation Report - September 21, 2016</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/204 - FLSC000002.pdf" target="_blank">Federation of Law Societies of Canada - Memorandum from Frederica Wilson to CEO, Re FATF Mutual Evaluation Report - September 21, 2016</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#203</p>
-    <p><a href="/data/exhibits/203 - LSB004161.pdf" target="_blank">Memorandum from Federation Executive to Council of the Federation & Law Society Presidents & CEOs Re Anti-Money Laundering & Terrorist Financing Issues - December 3, 2015</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/203 - LSB004161.pdf" target="_blank">Memorandum from Federation Executive to Council of the Federation & Law Society Presidents & CEOs Re Anti-Money Laundering & Terrorist Financing Issues - December 3, 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#202</p>
-    <p><a href="/data/exhibits/202 - LSB009258-1 (Redacted)_Redacted.pdf" target="_blank">Email from Deborah Armour, Re FATF - November 09, 2015_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/202 - LSB009258-1 (Redacted)_Redacted.pdf" target="_blank">Email from Deborah Armour, Re FATF - November 09, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#201</p>
-    <p><a href="/data/exhibits/201 - FLSC000001.pdf" target="_blank">Federation of Law Societies of Canada - Executive memo to Council re Anti-Money Laundering and Terrorist Financing Issues - September 14, 2015</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/201 - FLSC000001.pdf" target="_blank">Federation of Law Societies of Canada - Executive memo to Council re Anti-Money Laundering and Terrorist Financing Issues - September 14, 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#200</p>
