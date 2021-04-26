@@ -184,7 +184,7 @@ NEW HEARING TEMPLATE
     <li><strong>Michael de Jong</strong>, Opposition Attorney General Critic; Former Minister of Finance</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 23, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('540891995'); return false">Watch Video of Session</button>
   </div>
   <p>April 22, 2021</p>
@@ -193,7 +193,7 @@ NEW HEARING TEMPLATE
     <li><strong>Shirley Bond</strong>, Leader of the Opposition; Former Minister of Public Safety and Solicitor General; Former Attorney General and Minister of Justice</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 22, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('540340868'); return false">Watch Video of Session</button>
   </div>
   <p>April 21, 2021</p>
