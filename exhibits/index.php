@@ -16,6 +16,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#893</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/893 - Mandate Letter to BCLC for the 2017-2018 fiscal year December 2016.pdf" target="_blank">Mandate Letter to BCLC, for the 2017-2018 fiscal year, December 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#892</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/892 - Mandate Letter to BCLC for the 2016-2017 fiscal year Jan 29 2016.pdf" target="_blank">Mandate Letter to BCLC for the 2016-2017 fiscal year, Jan 29, 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#891</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/891 - Letter from Michael de Jong to Bud Smith re 201516 Mandate Letter Feb 05 2015.pdf" target="_blank">Letter from Michael de Jong to Bud Smith, re 201516 Mandate Letter, Feb 05, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#890</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/890 - Letter of Expectations between MOF and The Chair of the BCLC for 2014-15.pdf" target="_blank">Letter of Expectations between MOF and The Chair of the BCLC for 2014-15</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#888</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/888 - Advice to Minister Confidential Issues Note Anti-Money Laundering Review August 24 2011.pdf" target="_blank">Advice to Minister, Confidential Issues Note, Anti-Money Laundering Review, August 24, 2011</a></p>
 </div>
@@ -2157,167 +2173,167 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#350</p>
-    <p><a href="/data/exhibits/350 - CBSA Trade Fraud and Trade-Based Money Laundering Centre of Expertise 101 Overview - April 2020.pdf" target="_blank">CBSA, <em>Trade Fraud & Trade-Based Money Laundering Centre of Expertise</em>, 101 Overview, April 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/350 - CBSA Trade Fraud and Trade-Based Money Laundering Centre of Expertise 101 Overview - April 2020.pdf" target="_blank">CBSA, <em>Trade Fraud & Trade-Based Money Laundering Centre of Expertise</em>, 101 Overview, April 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#349</p>
-    <p><a href="/data/exhibits/349 - CBSA Backgrounder Trade-Based Money Laundering in Canada - September 10 2019_Redacted.pdf" target="_blank">CBSA, <em>Backgrounder: Trade-Based Money Laundering in Canada</em>, September 10, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/349 - CBSA Backgrounder Trade-Based Money Laundering in Canada - September 10 2019_Redacted.pdf" target="_blank">CBSA, <em>Backgrounder: Trade-Based Money Laundering in Canada</em>, September 10, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#348</p>
-    <p><a href="/data/exhibits/348 - RCMP Trade-Based Money Laundering A Law Enforcement Perspective_Redacted.pdf" target="_blank">RCMP <em>Trade-Based Money Laundering: A Law Enforcement Perspective</em>_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/348 - RCMP Trade-Based Money Laundering A Law Enforcement Perspective_Redacted.pdf" target="_blank">RCMP <em>Trade-Based Money Laundering: A Law Enforcement Perspective</em>_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#347</p>
-    <p><a href="/data/exhibits/347 - CBSA Trade-Based Money Laundering 101 - June 5 2019_Redacted.pdf" target="_blank">CBSA, <em>Trade-Based Money Laundering 101</em>, June 5, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/347 - CBSA Trade-Based Money Laundering 101 - June 5 2019_Redacted.pdf" target="_blank">CBSA, <em>Trade-Based Money Laundering 101</em>, June 5, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#346</p>
-    <p><a href="/data/exhibits/346 - 011 CAN-000172.pdf" target="_blank">FINTRAC, <em>Professional money laundering through trade and money services businesses</em>, July 18, 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/346 - 011 CAN-000172.pdf" target="_blank">FINTRAC, <em>Professional money laundering through trade and money services businesses</em>, July 18, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#345</p>
-    <p><a href="/data/exhibits/345 - 004 TBML Overview - Approved for Commission Circulation.pdf" target="_blank">Government of Canada, <em>Trade-Based Money Laundering Overview</em>, presented April 1, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/345 - 004 TBML Overview - Approved for Commission Circulation.pdf" target="_blank">Government of Canada, <em>Trade-Based Money Laundering Overview</em>, presented April 1, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#344</p>
-    <p><a href="/data/exhibits/344 - 003 CV Bryanna Gateley_Redacted.pdf" target="_blank">Curriculum Vitae of Bryanna Gateley_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/344 - 003 CV Bryanna Gateley_Redacted.pdf" target="_blank">Curriculum Vitae of Bryanna Gateley_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#343</p>
-    <p><a href="/data/exhibits/343 - 002 CV Sushile Sharma redacted.pdf" target="_blank">Curriculum Vitae of Sushile Sharma_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/343 - 002 CV Sushile Sharma redacted.pdf" target="_blank">Curriculum Vitae of Sushile Sharma_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#342</p>
-    <p><a href="/data/exhibits/342 - 001 CV Joel GIbbons_Redacted.pdf" target="_blank">Curriculum Vitae of Joel Gibbons_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/342 - 001 CV Joel GIbbons_Redacted.pdf" target="_blank">Curriculum Vitae of Joel Gibbons_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#341</p>
-    <p><a href="/data/exhibits/341 - 002 J. Cassara - Final Statement to the Cullen Commission.pdf" target="_blank">Final Statement by John A. Cassara</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/341 - 002 J. Cassara - Final Statement to the Cullen Commission.pdf" target="_blank">Final Statement by John A. Cassara</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#340</p>
-    <p><a href="/data/exhibits/340 - 001 J. Cassara - Biography.pdf" target="_blank">Biography of J. Cassara</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/340 - 001 J. Cassara - Biography.pdf" target="_blank">Biography of J. Cassara</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#339</p>
-    <p><a href="/data/exhibits/339 - Overview TBML with appendices final - Nov 23 2020.pdf" target="_blank">Overview Report: Trade-Based Money Laundering Publications and Records</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/339 - Overview TBML with appendices final - Nov 23 2020.pdf" target="_blank">Overview Report: Trade-Based Money Laundering Publications and Records</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#338</p>
-    <p><a href="/data/exhibits/338 - Overivew Report CMAA with appendices final - Nov 23 2020.pdf" target="_blank">Overview Report: Canada's Customs Mutual Assistance Agreements</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/338 - Overivew Report CMAA with appendices final - Nov 23 2020.pdf" target="_blank">Overview Report: Canada's Customs Mutual Assistance Agreements</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#337</p>
-    <p><a href="/data/exhibits/337 - 003 Reuter and Caulkins - White Paper.pdf" target="_blank">White Paper on Relating the Size of Illegal Markets to Associated Amounts of Money Laundered - November 19, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/337 - 003 Reuter and Caulkins - White Paper.pdf" target="_blank">White Paper on Relating the Size of Illegal Markets to Associated Amounts of Money Laundered - November 19, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#336</p>
-    <p><a href="/data/exhibits/336 - 001 Caulkins CV 2020_Redacted.pdf" target="_blank">Curriculum Vitae of Jonathan Caulkins_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/336 - 001 Caulkins CV 2020_Redacted.pdf" target="_blank">Curriculum Vitae of Jonathan Caulkins_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#335</p>
-    <p><a href="/data/exhibits/335 - 003 Bouchard Expert Report Fentanyl Market_Redacted.pdf" target="_blank">Research Report Estimating the size of the fentanyl market in British Columbia, October 26, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/335 - 003 Bouchard Expert Report Fentanyl Market_Redacted.pdf" target="_blank">Research Report Estimating the size of the fentanyl market in British Columbia, October 26, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#334</p>
-    <p><a href="/data/exhibits/334 - 002 Biosketch_Milloy-20201120.pdf" target="_blank">Curriculum Vitae of Dr. Michael-John Milloy</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/334 - 002 Biosketch_Milloy-20201120.pdf" target="_blank">Curriculum Vitae of Dr. Michael-John Milloy</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#333</p>
-    <p><a href="/data/exhibits/333 - Curriculum Vitae.pdf" target="_blank">Curriculum Vitae of Dr. Martin Bouchard</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/333 - Curriculum Vitae.pdf" target="_blank">Curriculum Vitae of Dr. Martin Bouchard</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#332</p>
-    <p><a href="/data/exhibits/332 - 004 Gravity models of trade based money laundering - Applied Economics 45 - Ferwerda and Unger-2013.pdf" target="_blank">Gravity models of trade based money laundering - Applied Economics 45 (Ferwerda & Unger) (2013)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/332 - 004 Gravity models of trade based money laundering - Applied Economics 45 - Ferwerda and Unger-2013.pdf" target="_blank">Gravity models of trade based money laundering - Applied Economics 45 (Ferwerda & Unger) (2013)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#331</p>
-    <p><a href="/data/exhibits/331 - 002 Estimating Illicit Financial Flows UNODC - Unger and Walker-2011.pdf" target="_blank">Estimating Illicit Financial Flows, UNODC (Unger and Walker) (October 2011)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/331 - 002 Estimating Illicit Financial Flows UNODC - Unger and Walker-2011.pdf" target="_blank">Estimating Illicit Financial Flows, UNODC (Unger and Walker) (October 2011)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#330</p>
-    <p><a href="/data/exhibits/330 - Combatting Money Laundering in BC Real Estate.pdf" target="_blank">Combatting Money Laundering in BC Real Estate (“The Maloney Report”)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/330 - Combatting Money Laundering in BC Real Estate.pdf" target="_blank">Combatting Money Laundering in BC Real Estate (“The Maloney Report”)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#329</p>
-    <p><a href="/data/exhibits/329 - 010 cullen commission presentation.pdf" target="_blank">Slides - Scientific Reports 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/329 - 010 cullen commission presentation.pdf" target="_blank">Slides - Scientific Reports 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#328</p>
-    <p><a href="/data/exhibits/328 - 003 Estimating Money Laundering Flows with a Gravity model Based Simulation_Unger et al 2020.pdf" target="_blank">Estimating Money Laundering Flows with a Gravity model Based Simulation (Unger et al 2020)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/328 - 003 Estimating Money Laundering Flows with a Gravity model Based Simulation_Unger et al 2020.pdf" target="_blank">Estimating Money Laundering Flows with a Gravity model Based Simulation (Unger et al 2020)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#327</p>
-    <p><a href="/data/exhibits/327 - How Big is Global Money Laundering - Journal of Money Laundering Control-Walker-1999.pdf" target="_blank">How Big is Global Money Laundering (Journal of Money Laundering Control) (Walker) (1999)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/327 - How Big is Global Money Laundering - Journal of Money Laundering Control-Walker-1999.pdf" target="_blank">How Big is Global Money Laundering (Journal of Money Laundering Control) (Walker) (1999)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#326</p>
-    <p><a href="/data/exhibits/326 - 006 Measuring Global Money Laundering - The Walker Gravity Model - Review of Law and Economics-Unger and Walker-2009.pdf" target="_blank">Measuring Global Money Laundering - The Walker Gravity Model (Review of Law and Economics) (Unger & Walker) (2009)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/326 - 006 Measuring Global Money Laundering - The Walker Gravity Model - Review of Law and Economics-Unger and Walker-2009.pdf" target="_blank">Measuring Global Money Laundering - The Walker Gravity Model (Review of Law and Economics) (Unger & Walker) (2009)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#325</p>
-    <p><a href="/data/exhibits/325 - 007 Slides - Prof. Unger.pdf" target="_blank">Slides - Regarding controversy between criminologists and economists on measuring money laundering and on politics based on real numbers - Prof. Unger</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/325 - 007 Slides - Prof. Unger.pdf" target="_blank">Slides - Regarding controversy between criminologists and economists on measuring money laundering and on politics based on real numbers - Prof. Unger</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#324</p>
-    <p><a href="/data/exhibits/324 - 001 CV Unger - redacted.pdf" target="_blank">Curriculum Vitae of Dr. Brigitte Unger (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/324 - 001 CV Unger - redacted.pdf" target="_blank">Curriculum Vitae of Dr. Brigitte Unger (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#323</p>
-    <p><a href="/data/exhibits/323 - Quantification of ML OR Revised FINAL.pdf" target="_blank">Overview Report: Quantification of Money Laundering</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/323 - Quantification of ML OR Revised FINAL.pdf" target="_blank">Overview Report: Quantification of Money Laundering</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#322</p>
-    <p><a href="/data/exhibits/322 - Overview Report Simplified Text on Quantification Revised FINAL.pdf" target="_blank">Overview Report: Simplified Text on Quantification of Money Laundering</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/322 - Overview Report Simplified Text on Quantification Revised FINAL.pdf" target="_blank">Overview Report: Simplified Text on Quantification of Money Laundering</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#321</p>
-    <p><a href="/data/exhibits/321 - 09 Privacy Commissioner of Canada - FINTRAC 2017.pdf" target="_blank">OPCC – Financial Transactions and Reports Analysis Centre of Canada Audit Report of the Privacy Commissioner of Canada (2017)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/321 - 09 Privacy Commissioner of Canada - FINTRAC 2017.pdf" target="_blank">OPCC – Financial Transactions and Reports Analysis Centre of Canada Audit Report of the Privacy Commissioner of Canada (2017)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#320</p>
-    <p><a href="/data/exhibits/320 - 09 Privacy Commissioner of Canada - FINTRAC 2013.pdf" target="_blank">OPCC – Financial Transactions and Reports Analysis Centre of Canada Audit Report of the Privacy Commissioner of Canada (2013)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/320 - 09 Privacy Commissioner of Canada - FINTRAC 2013.pdf" target="_blank">OPCC – Financial Transactions and Reports Analysis Centre of Canada Audit Report of the Privacy Commissioner of Canada (2013)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#319</p>
-    <p><a href="/data/exhibits/319 - 02 Report for the Cullen Commission on Privacy Laws and Information Sharing - Nov 17 2020.pdf" target="_blank">Report for the Cullen Commission on Privacy Laws and Information Sharing - November 17, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/319 - 02 Report for the Cullen Commission on Privacy Laws and Information Sharing - Nov 17 2020.pdf" target="_blank">Report for the Cullen Commission on Privacy Laws and Information Sharing - November 17, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#318</p>
-    <p><a href="/data/exhibits/318 - Curriculum Vitae of Barbara McIsaac QC_Redacted.pdf" target="_blank">Curriculum Vitae of Barbara McIsaac, QC_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/318 - Curriculum Vitae of Barbara McIsaac QC_Redacted.pdf" target="_blank">Curriculum Vitae of Barbara McIsaac, QC_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#317</p>
-    <p><a href="/data/exhibits/317 - CAN-000122_Redacted.pdf" target="_blank">Email from Kevin Begg, Re: Media A-TIP-IIGET - December 17, 2009_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/317 - CAN-000122_Redacted.pdf" target="_blank">Email from Kevin Begg, Re: Media A-TIP-IIGET - December 17, 2009_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#316</p>
-    <p><a href="/data/exhibits/316 - CAN-000048 IIGET Consultative Board Meeting - Meeting Agenda Dec 16 2008.pdf" target="_blank">IIGET Consultative Board Meeting Agenda - December 16, 2008</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/316 - CAN-000048 IIGET Consultative Board Meeting - Meeting Agenda Dec 16 2008.pdf" target="_blank">IIGET Consultative Board Meeting Agenda - December 16, 2008</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#315</p>
-    <p><a href="/data/exhibits/315 - CAN-000059 IIGET Status Report - Consultative Board Meeting.pdf" target="_blank">IIGET Status Report - IIGET Consultative Board Meeting -- July 25, 2007</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/315 - CAN-000059 IIGET Status Report - Consultative Board Meeting.pdf" target="_blank">IIGET Status Report - IIGET Consultative Board Meeting -- July 25, 2007</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#314</p>
-    <p><a href="/data/exhibits/314 - Barrow Canadian Entities Involved in Global Laundromat Formations 2020.pdf" target="_blank">Canadian Entities Involved in Global Laundromat Style Company Formations</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/314 - Barrow Canadian Entities Involved in Global Laundromat Formations 2020.pdf" target="_blank">Canadian Entities Involved in Global Laundromat Style Company Formations</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#313</p>
-    <p><a href="/data/exhibits/313 - 003 DBEIS Corporate Transparency and Register Reform 2020.pdf" target="_blank">UK Department for Business, Energy and Industry Strategy, Corporate Transparency and Register Reform - 18 September 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/313 - 003 DBEIS Corporate Transparency and Register Reform 2020.pdf" target="_blank">UK Department for Business, Energy and Industry Strategy, Corporate Transparency and Register Reform - 18 September 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#312</p>
-    <p><a href="/data/exhibits/312 - 001 Graham Barrow CV.pdf" target="_blank">Curriculum Vitae of Graham Barrow</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/312 - 001 Graham Barrow CV.pdf" target="_blank">Curriculum Vitae of Graham Barrow</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#311</p>
-    <p><a href="/data/exhibits/311 - MOF2401.0001_Redacted.pdf" target="_blank">BC MOF Briefing Document re Money Services Businesses Consultation – Summary – June 8, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/311 - MOF2401.0001_Redacted.pdf" target="_blank">BC MOF Briefing Document re Money Services Businesses Consultation – Summary – June 8, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#310</p>
-    <p><a href="/data/exhibits/310 - MOF2398.0001.pdf" target="_blank">BC MOF - Money Service Businesses Public Consultation Paper - March 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/310 - MOF2398.0001.pdf" target="_blank">BC MOF - Money Service Businesses Public Consultation Paper - March 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#309</p>
@@ -2325,35 +2341,35 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#308</p>
-    <p><a href="/data/exhibits/308 - MOF2400.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Company Beneficial Ownership Consultation – Summary – May 26, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/308 - MOF2400.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Company Beneficial Ownership Consultation – Summary – May 26, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#307</p>
-    <p><a href="/data/exhibits/307 - MOF2352.0001 - Redacted.pdf" target="_blank">BC MOF Briefing document re Consultation for a publicly accessible, government-maintained transparency registry of the significant individuals of BC private companies – September 18, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/307 - MOF2352.0001 - Redacted.pdf" target="_blank">BC MOF Briefing document re Consultation for a publicly accessible, government-maintained transparency registry of the significant individuals of BC private companies – September 18, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#306</p>
-    <p><a href="/data/exhibits/306 - MOF2348.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Effective Date of Beneficial Ownership Transparency Register – May 31, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/306 - MOF2348.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Effective Date of Beneficial Ownership Transparency Register – May 31, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#305</p>
-    <p><a href="/data/exhibits/305 - MOF2355.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Exemptions to the Corporate Transparency Register Requirement in the Business Corporations Act – November 28, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/305 - MOF2355.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Exemptions to the Corporate Transparency Register Requirement in the Business Corporations Act – November 28, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#304</p>
-    <p><a href="/data/exhibits/304 - MOF2327.0001.pdf" target="_blank">DOF Canada, Agreement to Strengthen Beneficial Ownership Transparency – July 11, 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/304 - MOF2327.0001.pdf" target="_blank">DOF Canada, Agreement to Strengthen Beneficial Ownership Transparency – July 11, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#303</p>
-    <p><a href="/data/exhibits/303 - MOF2341.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Federal Proposal for Improving Beneficial Ownership Transparency in Canada – November 30, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/303 - MOF2341.0001 - Redacted.pdf" target="_blank">BC MOF Briefing Document re Federal Proposal for Improving Beneficial Ownership Transparency in Canada – November 30, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#302</p>
-    <p><a href="/data/exhibits/302 - BCR0009.0001.pdf" target="_blank">Enforcement - Question and Answers</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/302 - BCR0009.0001.pdf" target="_blank">Enforcement - Question and Answers</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#301</p>
-    <p><a href="/data/exhibits/301 - BCR0003.0001.pdf" target="_blank">Searches - BC Onlines and Corporate searches</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/301 - BCR0003.0001.pdf" target="_blank">Searches - BC Onlines and Corporate searches</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#300</p>
