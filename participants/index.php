@@ -62,7 +62,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>Canada</strong></p>
             </div>
             <div class="rTableCell">
-                <p>Jan Brongers<br />BJ Wray</p>
+                <p>BJ Wray<br />Abigail Bergen</p>
             </div>
             <div class="rTableCell">
                 <p>Department of Justice<br />BC Regional Office</p>
