@@ -433,7 +433,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 December, 2020</strong></p>
     </div>
-    <p class="NamesOfWitnesses"><strong>Gary Hughes</strong>, (Lawyer, Regulatory Investigations & Commercial/Competition/Financial Disputes, Akarana Chambers (Mr. Hughes has worked on specialist anti-money laundering/financial crime matters since 2007.))</p>
+    <p class="NamesOfWitnesses"><strong>Gary Hughes</strong>, (Barrister, Akarana Chambers, New Zealand (Mr. Hughes has worked on specialist anti-money laundering/financial crime matters since 2007))</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 May, 2021</strong></p>
     </div>
