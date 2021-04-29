@@ -16,6 +16,54 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#921</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/921 - GPEB Briefing Note re Short term funding mechanism for the remaining two years of JIGITs initial five-year mandate - Oct 5 2018_Redacted.pdf" target="_blank">GPEB Briefing Note, re Short term funding mechanism for the remaining two years of JIGIT's initial five-year mandate - Oct 5, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#920</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/920 - AML Secretariat Briefing Note for decision of David Eby re Analysis of Dr. P. Germans recommendations related to casino reporting obligations to FinTRAC - Jan 24 2020_Redacted.pdf" target="_blank">AML Secretariat Briefing Note for decision of David Eby, re Analysis of Dr. Peter German's recommendations related to casino reporting obligations to FinTRAC - Jan 24, 2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#919</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/919 - GPEB Briefing Note for Decision of David Eby re Mandate and governance model for a new independent provincial gambling regulator - Aug 27 2019_Redacted.pdf" target="_blank">GPEB Briefing Note for Decision of David Eby, re Mandate and governance model for a new independent provincial gambling regulator - Aug 27, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#918</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/918 - Letter from David Eby to Richard Fyfe and Douglas Scott directing recommendations of Dr. German be implemented June 27 2018_Redacted.pdf" target="_blank">Letter from David Eby to Richard Fyfe and Douglas Scott directing recommendations of Dr. German be implemented, June 27, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#915</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/915 - Vancouver Real Estate a Buyers Market - For Mainland China Study by Sam Cooper - Nov 2 2015.pdf" target="_blank">Vancouver Real Estate a Buyers’ Market – For Mainland China Study, by Sam Cooper - Nov 2, 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#914</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/914 - Internal Memo to Len Meilleur from Parminder Basi re COMM-8939 BCLC Directive Impact on Cash Buy-Ins and New Money PGF Deposits - Aug 9 2017.pdf" target="_blank">Internal Memo to Len Meilleur from Parminder Basi, re COMM-8939 BCLC Directive Impact on Cash Buy-Ins and New Money PGF Deposits - Aug 9, 2017</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#913</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/913 - Internal Memo to Len Meilleur from Parminder Basi re COMM-8611 Follow up - Cash Buy-Ins Conducted at River Rock Casino Cages - Feb 15 2016.pdf" target="_blank">Internal Memo to Len Meilleur from Parminder Basi, re COMM-8611 Follow up - Cash Buy-Ins Conducted at River Rock Casino Cages - Feb 15, 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#912</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/912 - Letter from David Eby to Bill Blair - Jan 29 2019_Redacted.pdf" target="_blank">Letter from David Eby to Bill Blair - Jan 29, 2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#910</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/910 - GPEB Briefing note for Decision for Honourable David Eby - Sept 11 2017_Redacted.pdf" target="_blank">GPEB Briefing note for Decision for Honourable David Eby - Sept 11, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#908</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/908 - PowerPoint deck related to AG Minster Briefing - Oct 26 2017_Redacted.pdf" target="_blank">PowerPoint deck related to AG Minster Briefing - Oct 26, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#907</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/907 - Provincial AML Strategy -Part II- by John Mazure and Len Meilleur.pdf" target="_blank">Provincial AML Strategy (Part II) by John Mazure and Len Meilleur</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#906</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/906 - Provincial AML Strategy by John Mazure and Len Meilleur - Aug 2017.pdf" target="_blank">Provincial AML Strategy by John Mazure and Len Meilleur - Aug 2017</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#903</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/903 - Email exchange between Brittney Speed and Len Meilleur re AML Strategy language - draft BCLC mandate letter - Nov 19 2015_Redacted.pdf" target="_blank">Email exchange between Brittney Speed and Len Meilleur, re AML Strategy language - draft BCLC mandate letter - Nov 19, 2015_Redacted</a></p>
 </div>
@@ -1653,91 +1701,91 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#500</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/500%20-%20Overview%20report%20-%20Ministry%20Service%20Plans%20-%20Ministries%20Responsible%20for%20Gaming.pdf" target="_blank">Overview report - Ministry Service Plans - Ministries Responsible for Gaming</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/500 - Overview report - Ministry Service Plans - Ministries Responsible for Gaming.pdf" target="_blank">Overview report - Ministry Service Plans - Ministries Responsible for Gaming</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#499</p>
-    <p><a href="/data/exhibits/499 - Resignation letter of Ross Alderson - 3 October 2017.pdf" target="_blank">Resignation letter of Ross Alderson - 3 October 2017</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/499 - Resignation letter of Ross Alderson - 3 October 2017.pdf" target="_blank">Resignation letter of Ross Alderson - 3 October 2017</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#498</p>
-    <p><a href="/data/exhibits/498 - Consent Order of Federal Court between BCLC and AG of Canada - July 2017_Redacted.pdf" target="_blank">Consent Order of Federal Court, between BCLC and AG of Canada - July 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/498 - Consent Order of Federal Court between BCLC and AG of Canada - July 2017_Redacted.pdf" target="_blank">Consent Order of Federal Court, between BCLC and AG of Canada - July 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#497</p>
-    <p><a href="/data/exhibits/497 - GPEB Section 86 Report re Alleged Service Provider non-compliance to PCMLTFA Jan 18 2016_Redacted.pdf" target="_blank">GPEB Section 86 Report re Alleged Service Provider non-compliance to PCMLTFA, Jan 18 2016_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/497 - GPEB Section 86 Report re Alleged Service Provider non-compliance to PCMLTFA Jan 18 2016_Redacted.pdf" target="_blank">GPEB Section 86 Report re Alleged Service Provider non-compliance to PCMLTFA, Jan 18 2016_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#496</p>
-    <p><a href="/data/exhibits/496 - Email from Rob Kroeker re MNP Audit Investigations and AML Response Jul 19 2016_Redacted.pdf" target="_blank">Email from Rob Kroeker re MNP Audit Investigations and AML Response, Jul 19 2016_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/496 - Email from Rob Kroeker re MNP Audit Investigations and AML Response Jul 19 2016_Redacted.pdf" target="_blank">Email from Rob Kroeker re MNP Audit Investigations and AML Response, Jul 19 2016_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#495</p>
-    <p><a href="/data/exhibits/495 - Information Note COMM-8669 Final Report - Draft_Redacted.pdf" target="_blank">BCLC Information note COMM-8669 Final Report – May 11, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/495 - Information Note COMM-8669 Final Report - Draft_Redacted.pdf" target="_blank">BCLC Information note COMM-8669 Final Report – May 11, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#494</p>
-    <p><a href="/data/exhibits/494 - A spreadsheet with five incident reports from different casinos dated between Feb 14 2015 and May 13 2015_Redacted.pdf" target="_blank">A spreadsheet with five incident reports from different casinos, dated between Feb 14, 2015 and May 13, 2015_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/494 - A spreadsheet with five incident reports from different casinos dated between Feb 14 2015 and May 13 2015_Redacted.pdf" target="_blank">A spreadsheet with five incident reports from different casinos, dated between Feb 14, 2015 and May 13, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#493</p>
-    <p><a href="/data/exhibits/493 - Corporate Security and Compliance AML Document - September 8 2015_Redacted.pdf" target="_blank">Corporate Security & Compliance AML Document - September 8, 2015_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/493 - Corporate Security and Compliance AML Document - September 8 2015_Redacted.pdf" target="_blank">Corporate Security & Compliance AML Document - September 8, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#492B</p>
-    <p><a href="/data/exhibits/492B - Chart of Suspicious Transactions by Patrons and BCLCs Enforcement Actions_Redacted.pdf" target="_blank">Chart of Suspicious Transactions by Patrons and BCLCs Enforcement Actions_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/492B - Chart of Suspicious Transactions by Patrons and BCLCs Enforcement Actions_Redacted.pdf" target="_blank">Chart of Suspicious Transactions by Patrons and BCLCs Enforcement Actions_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#492A</p>
-    <p><a href="/data/exhibits/492A - Email from Brad Desmarais Re RR File 2014-52094 - April 16 2018_Redacted.pdf" target="_blank">Email from Brad Desmarais Re RR File 2014-52094 - April 16, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/492A - Email from Brad Desmarais Re RR File 2014-52094 - April 16 2018_Redacted.pdf" target="_blank">Email from Brad Desmarais Re RR File 2014-52094 - April 16, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#491</p>
-    <p><a href="/data/exhibits/491 - Emails Re Story showing how vigilant Great Canadian Gaming is at preventing money launderings - Aug 26 2015_Redacted.pdf" target="_blank">Emails Re Story showing how vigilant Great Canadian Gaming is at preventing money launderings - Aug 26, 2015_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/491 - Emails Re Story showing how vigilant Great Canadian Gaming is at preventing money launderings - Aug 26 2015_Redacted.pdf" target="_blank">Emails Re Story showing how vigilant Great Canadian Gaming is at preventing money launderings - Aug 26, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#490</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/490%20-%20Affidavit%20No.1%20of%20Robert%20Kroeker%20made%20on%20January%2015%202021_Redacted.pdf" target="_blank">Affidavit No. 1 of Robert Kroeker made on January 15, 2021_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/490 - Affidavit No.1 of Robert Kroeker made on January 15 2021_Redacted.pdf" target="_blank">Affidavit No. 1 of Robert Kroeker made on January 15, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#489</p>
-    <p><a href="/data/exhibits/489 - Email exchange between Douglas Scott and Michael Graydon re GPEB letter - Privileged and Confidential - Jan 18 2013_Redacted.pdf" target="_blank">(Previously marked as Exhibit B) Email exchange between Douglas Scott and Michael Graydon, re GPEB letter - Privileged and Confidential - Jan 18, 2013_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/489 - Email exchange between Douglas Scott and Michael Graydon re GPEB letter - Privileged and Confidential - Jan 18 2013_Redacted.pdf" target="_blank">(Previously marked as Exhibit B) Email exchange between Douglas Scott and Michael Graydon, re GPEB letter - Privileged and Confidential - Jan 18, 2013_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#488</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/488%20-%20-Previously%20marked%20as%20Ex.%20A-%20Letter%20from%20Joe%20Schalk%20re%20Suspicious%20Currency%20Transactions%20Money%20Laundering%20Review%20Report%20-%20Dec%2027%202012_Redacted.pdf" target="_blank">(Previously marked as Exhibit A) Letter from Joe Schalk re Suspicious Currency Transactions - Money Laundering Review Report – December 27, 2012</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/488 - -Previously marked as Ex. A- Letter from Joe Schalk re Suspicious Currency Transactions Money Laundering Review Report - Dec 27 2012_Redacted.pdf" target="_blank">(Previously marked as Exhibit A) Letter from Joe Schalk re Suspicious Currency Transactions - Money Laundering Review Report – December 27, 2012</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#487</p>
-    <p><a href="/data/exhibits/487 - Memo Organized Crime Groups_Redacted - Nov 20 2013.pdf" target="_blank">Memo Organized Crime Groups (redacted) - Nov 20, 2013</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/487 - Memo Organized Crime Groups_Redacted - Nov 20 2013.pdf" target="_blank">Memo Organized Crime Groups (redacted) - Nov 20, 2013</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#486</p>
-    <p><a href="/data/exhibits/486 - Email exchange between Kris Gade and Derek Dickson re Confirmation Requested - March 13 2015_Redacted.pdf" target="_blank">Email exchange between Kris Gade and Derek Dickson, re Confirmation Requested - March 13, 2015_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/486 - Email exchange between Kris Gade and Derek Dickson re Confirmation Requested - March 13 2015_Redacted.pdf" target="_blank">Email exchange between Kris Gade and Derek Dickson, re Confirmation Requested - March 13, 2015_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#485</p>
-    <p><a href="/data/exhibits/485 - Affidavit No.3 of Kevin deBruyckere sworn January 19 2021.pdf" target="_blank">Affidavit #3 of Kevin deBruyckere sworn January 19, 2021</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/485 - Affidavit No.3 of Kevin deBruyckere sworn January 19 2021.pdf" target="_blank">Affidavit #3 of Kevin deBruyckere sworn January 19, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#484</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/484%20-%20Affidavit%20no.2%20of%20Kevin%20deBruyckere%20sworn%20October%2023%202020_Redacted.pdf" target="_blank">Affidavit no. 2 of Kevin deBruyckere sworn October 23, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/484 - Affidavit no.2 of Kevin deBruyckere sworn October 23 2020_Redacted.pdf" target="_blank">Affidavit no. 2 of Kevin deBruyckere sworn October 23, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#483</p>
-    <p><a href="/data/exhibits/483 - A report to John Karlovcec re STR Trend Analysis prepared by Cathy Cuglietta - July 18 2018.pdf" target="_blank">A report to John Karlovcec, re STR Trend Analysis, prepared by Cathy Cuglietta - July 18, 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/483 - A report to John Karlovcec re STR Trend Analysis prepared by Cathy Cuglietta - July 18 2018.pdf" target="_blank">A report to John Karlovcec, re STR Trend Analysis, prepared by Cathy Cuglietta - July 18, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#482</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/482%20-%20Affidavit%20no.1%20of%20Caterina%20Cuglietta%20sworn%20October%2022%202020.pdf" target="_blank">Affidavit no. 1 of Caterina Cuglietta sworn October 22, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/482 - Affidavit no.1 of Caterina Cuglietta sworn October 22 2020.pdf" target="_blank">Affidavit no. 1 of Caterina Cuglietta sworn October 22, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#481</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/481%20-%20Affidavit%20no.1%20of%20Gurmit%20Aujla%20sworn%20October%2029%202020.pdf" target="_blank">Affidavit no. 1 of Gurmit Aujla, sworn October 29, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/481 - Affidavit no.1 of Gurmit Aujla sworn October 29 2020.pdf" target="_blank">Affidavit no. 1 of Gurmit Aujla, sworn October 29, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#480</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/480%20-%20Affidavit%20no.1%20of%20Bill%20Lang%20affirmed%20January%2015%202021.pdf" target="_blank">Affidavit no. 1 of Bill Lang affirmed January 15, 2021</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/480 - Affidavit no.1 of Bill Lang affirmed January 15 2021.pdf" target="_blank">Affidavit no. 1 of Bill Lang affirmed January 15, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#479</p>
@@ -1745,83 +1793,83 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#478</p>
-    <p><a href="/data/exhibits/478 - Michael Bowman Interview - October 22 2020.pdf" target="_blank">Michael Bowman Interview - October 22, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/478 - Michael Bowman Interview - October 22 2020.pdf" target="_blank">Michael Bowman Interview - October 22, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#477</p>
-    <p><a href="/data/exhibits/477 - Email from Kevin Doherty re Project Athena - May 13 2019_Redacted.pdf" target="_blank">Email from Kevin Doherty re Project Athena – May 13, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/477 - Email from Kevin Doherty re Project Athena - May 13 2019_Redacted.pdf" target="_blank">Email from Kevin Doherty re Project Athena – May 13, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#476</p>
-    <p><a href="/data/exhibits/476 - Project Athena Stakeholders Meeting minutes - October 24th 2018.pdf" target="_blank">Project Athena Stakeholders Meeting minutes – October 24th, 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/476 - Project Athena Stakeholders Meeting minutes - October 24th 2018.pdf" target="_blank">Project Athena Stakeholders Meeting minutes – October 24th, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#475</p>
-    <p><a href="/data/exhibits/475 - Letter from Michael Bowman re Misuse of Bank Drafts TDs Response - June 15 2020_Redacted.pdf" target="_blank">Letter from Michael Bowman re Misuse of Bank Drafts, TDs Response – June 15, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/475 - Letter from Michael Bowman re Misuse of Bank Drafts TDs Response - June 15 2020_Redacted.pdf" target="_blank">Letter from Michael Bowman re Misuse of Bank Drafts, TDs Response – June 15, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#474</p>
-    <p><a href="/data/exhibits/474 - Letter to Michael Bowman re Misuse of Bank Drafts TDs Response - March 20 2020_Redacted.pdf" target="_blank">Letter to Michael Bowman re Misuse of Bank Drafts, TDs Response – March 20, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/474 - Letter to Michael Bowman re Misuse of Bank Drafts TDs Response - March 20 2020_Redacted.pdf" target="_blank">Letter to Michael Bowman re Misuse of Bank Drafts, TDs Response – March 20, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#473</p>
-    <p><a href="/data/exhibits/473 - Caitlin RIddolls Interview - October 21 2020.pdf" target="_blank">Caitlin RIddolls Interview - October 21, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/473 - Caitlin RIddolls Interview - October 21 2020.pdf" target="_blank">Caitlin RIddolls Interview - October 21, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#472</p>
-    <p><a href="/data/exhibits/472 - Email from Melanie Paddon re Project Athena bank drafts for July 2018 - September 27 2018_Redacted.pdf" target="_blank">Email from Melanie Paddon re Project Athena bank drafts for July 2018 – September 27, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/472 - Email from Melanie Paddon re Project Athena bank drafts for July 2018 - September 27 2018_Redacted.pdf" target="_blank">Email from Melanie Paddon re Project Athena bank drafts for July 2018 – September 27, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#471</p>
-    <p><a href="/data/exhibits/471 - Email from Anna Gabriele re Project Athena meeting date with Amy H. - January 7 2020_Redacted.pdf" target="_blank">Email from Anna Gabriele re Project Athena meeting date with Amy H. – January 7, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/471 - Email from Anna Gabriele re Project Athena meeting date with Amy H. - January 7 2020_Redacted.pdf" target="_blank">Email from Anna Gabriele re Project Athena meeting date with Amy H. – January 7, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#470</p>
-    <p><a href="/data/exhibits/470 - Email from Dermot Hickey re Project Athena customer review - November 28 2019_Redacted.pdf" target="_blank">Email from Dermot Hickey re Project Athena, customer review – November 28, 2019 (redacted)_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/470 - Email from Dermot Hickey re Project Athena customer review - November 28 2019_Redacted.pdf" target="_blank">Email from Dermot Hickey re Project Athena, customer review – November 28, 2019 (redacted)_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#469</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/469%20-%20Project%20Athena%20Meeting%20Minutes%20-%20July%2024%202019.pdf" target="_blank">Project Athena Meeting Minutes – July 24, 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/469 - Project Athena Meeting Minutes - July 24 2019.pdf" target="_blank">Project Athena Meeting Minutes – July 24, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#468</p>
-    <p><a href="/data/exhibits/468 - Message from Anna Gabriele and Kevin Doherty re TDs involvement with Project Athena - July 11 2019_Redacted.pdf" target="_blank">Message from Anna Gabriele and Kevin Doherty re TDs involvement with Project Athena – July 11, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/468 - Message from Anna Gabriele and Kevin Doherty re TDs involvement with Project Athena - July 11 2019_Redacted.pdf" target="_blank">Message from Anna Gabriele and Kevin Doherty re TDs involvement with Project Athena – July 11, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#467</p>
-    <p><a href="/data/exhibits/467 - Email from Amy Hellen re Project Athena advisory role - November 7 2019_Redacted.pdf" target="_blank">Email from Amy Hellen re Project Athena advisory role, - November 7, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/467 - Email from Amy Hellen re Project Athena advisory role - November 7 2019_Redacted.pdf" target="_blank">Email from Amy Hellen re Project Athena advisory role, - November 7, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#466</p>
-    <p><a href="/data/exhibits/466 - Email from Kevin Doherty re Project Athena - June 21 2019_Redacted.pdf" target="_blank">Email from Kevin Doherty re Project Athena – June 21, 2019 (Redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/466 - Email from Kevin Doherty re Project Athena - June 21 2019_Redacted.pdf" target="_blank">Email from Kevin Doherty re Project Athena – June 21, 2019 (Redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#465</p>
-    <p><a href="/data/exhibits/465 - Email from Anna Gabriele re Project Athena - May 17 2019_Redacted.pdf" target="_blank">Email from Anna Gabriele re Project Athena – May 17, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/465 - Email from Anna Gabriele re Project Athena - May 17 2019_Redacted.pdf" target="_blank">Email from Anna Gabriele re Project Athena – May 17, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#464</p>
-    <p><a href="/data/exhibits/464 - TD - Project Athena - A Public-Private Partnership presentation - Undated_Redacted.pdf" target="_blank">TD – Project Athena - A Public-Private Partnership presentation - Undated (Redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/464 - TD - Project Athena - A Public-Private Partnership presentation - Undated_Redacted.pdf" target="_blank">TD – Project Athena - A Public-Private Partnership presentation - Undated (Redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#463</p>
-    <p><a href="/data/exhibits/463 - Email from Melanie Paddon re Project Athena Jan 2019 - March 21 2019_Redacted.pdf" target="_blank">Email from Melanie Paddon re Project Athena, Jan 2019 – March 21, 2019 (Redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/463 - Email from Melanie Paddon re Project Athena Jan 2019 - March 21 2019_Redacted.pdf" target="_blank">Email from Melanie Paddon re Project Athena, Jan 2019 – March 21, 2019 (Redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#462</p>
-    <p><a href="/data/exhibits/462 -  Email from Ben Robinson re Project Athena Update - January 24th 2019_Redacted.pdf" target="_blank">Email from Ben Robinson re Project Athena Update – January 24th, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/462 -  Email from Ben Robinson re Project Athena Update - January 24th 2019_Redacted.pdf" target="_blank">Email from Ben Robinson re Project Athena Update – January 24th, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#461</p>
-    <p><a href="/data/exhibits/461 - Combined Forces Special Enforcement Unit British Columbia - Project Athena Stakeholders Meeting Agenda - January 23 2019_Redacted.pdf" target="_blank">Combined Forces Special Enforcement Unit British Columbia – Project Athena Stakeholders Meeting Agenda – January 23, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/461 - Combined Forces Special Enforcement Unit British Columbia - Project Athena Stakeholders Meeting Agenda - January 23 2019_Redacted.pdf" target="_blank">Combined Forces Special Enforcement Unit British Columbia – Project Athena Stakeholders Meeting Agenda – January 23, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#460</p>
-    <p><a href="/data/exhibits/460 - Email from Melanie Paddon re Project Athena June 2018 - August 14 2018_Redacted.pdf" target="_blank">Email from Melanie Paddon re Project Athena June 2018 – August 14, 2018 (Redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/460 - Email from Melanie Paddon re Project Athena June 2018 - August 14 2018_Redacted.pdf" target="_blank">Email from Melanie Paddon re Project Athena June 2018 – August 14, 2018 (Redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#459</p>
-    <p><a href="/data/exhibits/459 - Email from Alezandra Andreu re Project Athena casino patrons list Oct 2018 - January 9 2019_Redacted.pdf" target="_blank">Email from Alezandra Andreu re Project Athena casino patrons list Oct 2018 – January 9, 2019 (Redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/459 - Email from Alezandra Andreu re Project Athena casino patrons list Oct 2018 - January 9 2019_Redacted.pdf" target="_blank">Email from Alezandra Andreu re Project Athena casino patrons list Oct 2018 – January 9, 2019 (Redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#458</p>
@@ -1833,87 +1881,87 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#456</p>
-    <p><a href="/data/exhibits/456 - Biography of Georgia Stavridis.pdf" target="_blank">Biography of Georgia Stavridis</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/456 - Biography of Georgia Stavridis.pdf" target="_blank">Biography of Georgia Stavridis</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#455</p>
-    <p><a href="/data/exhibits/455 - Biography of Jay Stark.pdf" target="_blank">Biography of Jay Stark</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/455 - Biography of Jay Stark.pdf" target="_blank">Biography of Jay Stark</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#454</p>
-    <p><a href="/data/exhibits/454 - Curriculum Vitae of Stuart Davis.pdf" target="_blank">Curriculum Vitae of Stuart Davis</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/454 - Curriculum Vitae of Stuart Davis.pdf" target="_blank">Curriculum Vitae of Stuart Davis</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#453</p>
-    <p><a href="/data/exhibits/453 - Brief of Kevin Comeau to FINA Committee respecting proposed changes to PCMLTFA June 12 2018.pdf" target="_blank">Brief of Kevin Comeau to FINA Committee respecting proposed changes to PCMLTFA, June 12, 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/453 - Brief of Kevin Comeau to FINA Committee respecting proposed changes to PCMLTFA June 12 2018.pdf" target="_blank">Brief of Kevin Comeau to FINA Committee respecting proposed changes to PCMLTFA, June 12, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#452</p>
-    <p><a href="/data/exhibits/452 - Biography of Erin Tolfo.pdf" target="_blank">Biography of Erin Tolfo</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/452 - Biography of Erin Tolfo.pdf" target="_blank">Biography of Erin Tolfo</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#451</p>
-    <p><a href="/data/exhibits/451 - Biography of Lindzee Herring.pdf" target="_blank">Biography of Lindzee Herring</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/451 - Biography of Lindzee Herring.pdf" target="_blank">Biography of Lindzee Herring</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#450</p>
-    <p><a href="/data/exhibits/450 - Biography of Ezekiel Chhoa.pdf" target="_blank">Biography of Ezekiel Chhoa</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/450 - Biography of Ezekiel Chhoa.pdf" target="_blank">Biography of Ezekiel Chhoa</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#449</p>
-    <p><a href="/data/exhibits/449 - List of Compliance Engagement Activities 2017-18 to 2019-20.pdf" target="_blank">List of Compliance Engagement Activities 2017-18 to 2019-20</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/449 - List of Compliance Engagement Activities 2017-18 to 2019-20.pdf" target="_blank">List of Compliance Engagement Activities 2017-18 to 2019-20</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#448</p>
-    <p><a href="/data/exhibits/448 - 2018 FINTRACs Report to the Minister of Finance on Compliance and Related Activities - September 2018 Redacted.pdf" target="_blank">2018 FinTRAC's Report to the Minister of Finance on Compliance and Related Activities - September 2018 Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/448 - 2018 FINTRACs Report to the Minister of Finance on Compliance and Related Activities - September 2018 Redacted.pdf" target="_blank">2018 FinTRAC's Report to the Minister of Finance on Compliance and Related Activities - September 2018 Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#447</p>
-    <p><a href="/data/exhibits/447 - FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 30 2017 Redacted.pdf" target="_blank">FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 30, 2017 Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/447 - FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 30 2017 Redacted.pdf" target="_blank">FINTRAC Report to the Minister of Finance on Compliance and Related Activities - Sept 30, 2017 Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#446</p>
-    <p><a href="/data/exhibits/446 - FINTRAC Statistics Letter - January 15th 2021.pdf" target="_blank">FINTRAC Statistics Letter – January 15th, 2021</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/446 - FINTRAC Statistics Letter - January 15th 2021.pdf" target="_blank">FINTRAC Statistics Letter – January 15th, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#445</p>
-    <p><a href="/data/exhibits/445 - Financial Intelligence Report Criminal Informal Value Transfer Systems IVTS - February 2016.pdf" target="_blank">Financial Intelligence Report Criminal Informal Value Transfer Systems (IVTS) – February 2016</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/445 - Financial Intelligence Report Criminal Informal Value Transfer Systems IVTS - February 2016.pdf" target="_blank">Financial Intelligence Report Criminal Informal Value Transfer Systems (IVTS) – February 2016</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#444</p>
-    <p><a href="/data/exhibits/444 - Trends in Canadian Suspicious Transaction Reporting STR - Part II - Oct 1 2011.pdf" target="_blank">Trends in Canadian Suspicious Transaction Reporting (STR) - Part II – Oct 1, 2011</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/444 - Trends in Canadian Suspicious Transaction Reporting STR - Part II - Oct 1 2011.pdf" target="_blank">Trends in Canadian Suspicious Transaction Reporting (STR) - Part II – Oct 1, 2011</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#443</p>
-    <p><a href="/data/exhibits/443 - Trends in Canadian Suspicious Transaction Reporting STR  FINTRAC Typologies and Trends Reports - April 1 2011.pdf" target="_blank">Trends in Canadian Suspicious Transaction Reporting (STR) FINTRAC Typologies and Trends Reports - April 2011 – April 1, 2011</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/443 - Trends in Canadian Suspicious Transaction Reporting STR  FINTRAC Typologies and Trends Reports - April 1 2011.pdf" target="_blank">Trends in Canadian Suspicious Transaction Reporting (STR) FINTRAC Typologies and Trends Reports - April 2011 – April 1, 2011</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#442</p>
-    <p><a href="/data/exhibits/442 - Professional Money Laundering in Canada - March 2019.pdf" target="_blank">Professional Money Laundering in Canada - March 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/442 - Professional Money Laundering in Canada - March 2019.pdf" target="_blank">Professional Money Laundering in Canada - March 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#441</p>
-    <p><a href="/data/exhibits/441 - Money Laundering and Terrorist Financing ML-TF Typologies and Trends for Canadian Money Services Businesses MSBs FINTRAC Typologies and Trends Reports - July 2010.pdf" target="_blank">Money Laundering and Terrorist Financing (ML-TF) Typologies and Trends for Canadian Money Services Businesses (MSBs) FINTRAC Typologies and Trends Reports - July 2010</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/441 - Money Laundering and Terrorist Financing ML-TF Typologies and Trends for Canadian Money Services Businesses MSBs FINTRAC Typologies and Trends Reports - July 2010.pdf" target="_blank">Money Laundering and Terrorist Financing (ML-TF) Typologies and Trends for Canadian Money Services Businesses (MSBs) FINTRAC Typologies and Trends Reports - July 2010</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#440</p>
-    <p><a href="/data/exhibits/440 - Money Services Businesses Public Consultation Paper - March 2020.pdf" target="_blank">Money Services Businesses Public Consultation Paper – March 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/440 - Money Services Businesses Public Consultation Paper - March 2020.pdf" target="_blank">Money Services Businesses Public Consultation Paper – March 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#439</p>
-    <p><a href="/data/exhibits/439 - Email exchange between Christian Nordin and Joseph Iuso March and April 2020_Redacted.pdf" target="_blank">Email exchange between Christian Nordin and Joseph Iuso March and April 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/439 - Email exchange between Christian Nordin and Joseph Iuso March and April 2020_Redacted.pdf" target="_blank">Email exchange between Christian Nordin and Joseph Iuso March and April 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#438</p>
-    <p><a href="/data/exhibits/438 - CISBC-YT - Report - Money Service Businesses - Nov 1 2018.pdf" target="_blank">CISBC-YT - Report - Money Service Businesses – Nov 1, 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/438 - CISBC-YT - Report - Money Service Businesses - Nov 1 2018.pdf" target="_blank">CISBC-YT - Report - Money Service Businesses – Nov 1, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#437</p>
-    <p><a href="/data/exhibits/437 - CISBC-YT - Provincial Threat Assessment 2018.pdf" target="_blank">CISBC-YT – Provincial Threat Assessment 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/437 - CISBC-YT - Provincial Threat Assessment 2018.pdf" target="_blank">CISBC-YT – Provincial Threat Assessment 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#436</p>
-    <p><a href="/data/exhibits/436 - Confronting Money Laundering and Terrorist Financing -  Moving Canada Forward.pdf" target="_blank">Confronting Money Laundering and Terrorist Financing - Moving Canada Forward</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/436 - Confronting Money Laundering and Terrorist Financing -  Moving Canada Forward.pdf" target="_blank">Confronting Money Laundering and Terrorist Financing - Moving Canada Forward</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#435</p>
@@ -1921,7 +1969,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#434</p>
-    <p><a href="/data/exhibits/434 - Interac - Overview WLCO Regs 2020_Redacted.pdf" target="_blank">Interac – Overview WLCO Regs, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/434 - Interac - Overview WLCO Regs 2020_Redacted.pdf" target="_blank">Interac – Overview WLCO Regs, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#433</p>
@@ -1929,131 +1977,131 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#432</p>
-    <p><a href="/data/exhibits/432 - Actual versus Perceived Risks of Money Laundering at White-Label ATMs in Canada - 2017.pdf" target="_blank">Actual versus Perceived Risks of Money Laundering at White-Label ATMs in Canada – 2017</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/432 - Actual versus Perceived Risks of Money Laundering at White-Label ATMs in Canada - 2017.pdf" target="_blank">Actual versus Perceived Risks of Money Laundering at White-Label ATMs in Canada – 2017</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#431</p>
-    <p><a href="/data/exhibits/431 - ATMs in Context Debunking the myth that ATMs present a material risk for organized crime money laundering.pdf" target="_blank">ATMs in Context Debunking the myth that ATMs present a material risk for organized crime money laundering</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/431 - ATMs in Context Debunking the myth that ATMs present a material risk for organized crime money laundering.pdf" target="_blank">ATMs in Context Debunking the myth that ATMs present a material risk for organized crime money laundering</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#430</p>
-    <p><a href="/data/exhibits/430 - WLTM Brief - Department of Finance March 5 2020.pdf" target="_blank">WLTM Brief – Department of Finance, March 5, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/430 - WLTM Brief - Department of Finance March 5 2020.pdf" target="_blank">WLTM Brief – Department of Finance, March 5, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#429</p>
-    <p><a href="/data/exhibits/429 - RCMP Criminal Intelligence - Project Scot November 10 2008.pdf" target="_blank">RCMP Criminal Intelligence – Project Scot, November 10, 2008</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/429 - RCMP Criminal Intelligence - Project Scot November 10 2008.pdf" target="_blank">RCMP Criminal Intelligence – Project Scot, November 10, 2008</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#428</p>
-    <p><a href="/data/exhibits/428 - Interac - Number of WLATMs in BC since 2010.pdf" target="_blank">Interac - Number of WLATMs in BC since 2010</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/428 - Interac - Number of WLATMs in BC since 2010.pdf" target="_blank">Interac - Number of WLATMs in BC since 2010</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#427</p>
-    <p><a href="/data/exhibits/427 - Biography of Kirkland Morris.pdf" target="_blank">Biography of Kirkland Morris</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/427 - Biography of Kirkland Morris.pdf" target="_blank">Biography of Kirkland Morris</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#426</p>
-    <p><a href="/data/exhibits/426 - Curriculum Vitae of C. Chandler_Redacted.pdf" target="_blank">Curriculum Vitae of C. Chandler_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/426 - Curriculum Vitae of C. Chandler_Redacted.pdf" target="_blank">Curriculum Vitae of C. Chandler_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#425</p>
-    <p><a href="/data/exhibits/425 - Curriculum Vitae of Melanie D. Paddon.pdf" target="_blank">Curriculum Vitae of Melanie D. Paddon</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/425 - Curriculum Vitae of Melanie D. Paddon.pdf" target="_blank">Curriculum Vitae of Melanie D. Paddon</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#424</p>
-    <p><a href="/data/exhibits/424 - BCFSA Letter from Frank Chong re New Regulatory Guidance Terminology August 11 2020.pdf" target="_blank">BCFSA Letter from Frank Chong re New Regulatory Guidance Terminology August 11, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/424 - BCFSA Letter from Frank Chong re New Regulatory Guidance Terminology August 11 2020.pdf" target="_blank">BCFSA Letter from Frank Chong re New Regulatory Guidance Terminology August 11, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#423</p>
-    <p><a href="/data/exhibits/423 - BCFSA 2020-21 - 2022-23 Service Plan February 2020.pdf" target="_blank">BCFSA 2020-21 – 2022-23 Service Plan February 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/423 - BCFSA 2020-21 - 2022-23 Service Plan February 2020.pdf" target="_blank">BCFSA 2020-21 – 2022-23 Service Plan February 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#422</p>
-    <p><a href="/data/exhibits/422 - BCSFA Advisory Number re 20-002 2020-2021 Regulatory Roadmap dated November 5 2020.pdf" target="_blank">BCSFA Advisory Number re 20-002 2020-2021 Regulatory Roadmap dated November 5, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/422 - BCSFA Advisory Number re 20-002 2020-2021 Regulatory Roadmap dated November 5 2020.pdf" target="_blank">BCSFA Advisory Number re 20-002 2020-2021 Regulatory Roadmap dated November 5, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#421</p>
-    <p><a href="/data/exhibits/421 - FINTRAC ComPack_Redacted.pdf" target="_blank">FINTRAC ComPack_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/421 - FINTRAC ComPack_Redacted.pdf" target="_blank">FINTRAC ComPack_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#420</p>
-    <p><a href="/data/exhibits/420 - FICOM - Reporting Statistics Update Fiscal Year 2017-2018.pdf" target="_blank">FICOM – Reporting Statistics Update Fiscal Year 2017-2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/420 - FICOM - Reporting Statistics Update Fiscal Year 2017-2018.pdf" target="_blank">FICOM – Reporting Statistics Update Fiscal Year 2017-2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#419</p>
-    <p><a href="/data/exhibits/419 - Memorandum of Understanding January 9 2005.pdf" target="_blank">Memorandum of Understanding January 9, 2005</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/419 - Memorandum of Understanding January 9 2005.pdf" target="_blank">Memorandum of Understanding January 9, 2005</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#418</p>
-    <p><a href="/data/exhibits/418 - BCFSA Risk Matrix.pdf" target="_blank">BCFSA Risk Matrix</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/418 - BCFSA Risk Matrix.pdf" target="_blank">BCFSA Risk Matrix</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#417</p>
-    <p><a href="/data/exhibits/417 - FICOM Letter from Frank Chong to All Provincially Regulated Financial Institution May 5 2016.pdf" target="_blank">FICOM Letter from Frank Chong to All Provincially Regulated Financial Institution May 5, 2016</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/417 - FICOM Letter from Frank Chong to All Provincially Regulated Financial Institution May 5 2016.pdf" target="_blank">FICOM Letter from Frank Chong to All Provincially Regulated Financial Institution May 5, 2016</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#416</p>
-    <p><a href="/data/exhibits/416 - Office of the Superintendent of Financial Institutions Canada guideline Deterring and Detecting Money Laundering and Terrorist Finance no. B-8 dated December 2008.pdf" target="_blank">Office of the Superintendent of Financial Institutions Canada guideline, Deterring and Detecting Money Laundering and Terrorist Finance no. B-8 dated December 2008</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/416 - Office of the Superintendent of Financial Institutions Canada guideline Deterring and Detecting Money Laundering and Terrorist Finance no. B-8 dated December 2008.pdf" target="_blank">Office of the Superintendent of Financial Institutions Canada guideline, Deterring and Detecting Money Laundering and Terrorist Finance no. B-8 dated December 2008</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#415</p>
-    <p><a href="/data/exhibits/415 - BCFSA Organizational Chart November 30 2019.pdf" target="_blank">BCFSA Organizational Chart November 30, 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/415 - BCFSA Organizational Chart November 30 2019.pdf" target="_blank">BCFSA Organizational Chart November 30, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#414</p>
-    <p><a href="/data/exhibits/414 - Government Response to the 24th report of the House of Commons Standing Committee on Finance.pdf" target="_blank">Government Response to the 24th report of the House of Commons Standing Committee on Finance</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/414 - Government Response to the 24th report of the House of Commons Standing Committee on Finance.pdf" target="_blank">Government Response to the 24th report of the House of Commons Standing Committee on Finance</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#413</p>
-    <p><a href="/data/exhibits/413 - FFIS Case Studies of the Use of Privacy Preserving Analysis - January 8 2021.pdf" target="_blank">FFIS, Case Studies of the Use of Privacy Preserving Analysis – January 8, 2021</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/413 - FFIS Case Studies of the Use of Privacy Preserving Analysis - January 8 2021.pdf" target="_blank">FFIS, Case Studies of the Use of Privacy Preserving Analysis – January 8, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#412</p>
-    <p><a href="/data/exhibits/412 - FFIS Case Studies of the Use of Privacy Preserving Analysis - June 2020 Version.pdf" target="_blank">FFIS, Case Studies of the Use of Privacy Preserving Analysis – June 2020 Version</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/412 - FFIS Case Studies of the Use of Privacy Preserving Analysis - June 2020 Version.pdf" target="_blank">FFIS, Case Studies of the Use of Privacy Preserving Analysis – June 2020 Version</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#411</p>
-    <p><a href="/data/exhibits/411 - Canada in Context FFIS Briefing Paper to the Cullen Commission - January 4 2021.pdf" target="_blank">Canada in Context FFIS Briefing Paper to the Cullen Commission – January 4, 2021</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/411 - Canada in Context FFIS Briefing Paper to the Cullen Commission - January 4 2021.pdf" target="_blank">Canada in Context FFIS Briefing Paper to the Cullen Commission – January 4, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#410</p>
-    <p><a href="/data/exhibits/410 - Curriculum Vitae of Nick Maxwell.pdf" target="_blank">Curriculum Vitae of Nick Maxwell</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/410 - Curriculum Vitae of Nick Maxwell.pdf" target="_blank">Curriculum Vitae of Nick Maxwell</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#409</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/409%20-%20CPA%20Canada%20Alert%20-%20Proceeds%20of%20Crime%20-Money%20Laundering-%20and%20Terrorist%20Financing%20-%20Know%20your%20Obligations%20July%202015.pdf" target="_blank">CPA Canada Alert - Proceeds of Crime (Money Laundering) and Terrorist Financing – Know your Obligations, July 2015</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/409 - CPA Canada Alert - Proceeds of Crime -Money Laundering- and Terrorist Financing - Know your Obligations July 2015.pdf" target="_blank">CPA Canada Alert - Proceeds of Crime (Money Laundering) and Terrorist Financing – Know your Obligations, July 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#408</p>
-    <p><a href="/data/exhibits/408 - FINTRAC presentation - Anti-Money Laundering and Anti-Terrorism Financing in Canada -CPA Canada- March 4 2015.pdf" target="_blank">FINTRAC presentation – Anti-Money Laundering and Anti-Terrorism Financing in Canada (CPA Canada) – March 4, 2015</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/408 - FINTRAC presentation - Anti-Money Laundering and Anti-Terrorism Financing in Canada -CPA Canada- March 4 2015.pdf" target="_blank">FINTRAC presentation – Anti-Money Laundering and Anti-Terrorism Financing in Canada (CPA Canada) – March 4, 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#407</p>
-    <p><a href="/data/exhibits/407 - Anti-Money Laundering and Anti-Terrorist Financing Committee of the Chartered Professional Accountants of Canada - Terms of Reference - February 2015.pdf" target="_blank">Anti-Money Laundering & Anti-Terrorist Financing Committee of the Chartered Professional Accountants of Canada – Terms of Reference – February 2015</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/407 - Anti-Money Laundering and Anti-Terrorist Financing Committee of the Chartered Professional Accountants of Canada - Terms of Reference - February 2015.pdf" target="_blank">Anti-Money Laundering & Anti-Terrorist Financing Committee of the Chartered Professional Accountants of Canada – Terms of Reference – February 2015</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#406</p>
-    <p><a href="/data/exhibits/406 - CPAC Background Report on CPA Canadas AML Activities -with appendices-.pdf" target="_blank">CPAC Background Report on CPA Canada’s AML Activities (with appendices)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/406 - CPAC Background Report on CPA Canadas AML Activities -with appendices-.pdf" target="_blank">CPAC Background Report on CPA Canada’s AML Activities (with appendices)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#405</p>
-    <p><a href="/data/exhibits/405 - Curriculum Vitae of Jose Hernandez.pdf" target="_blank">Curriculum Vitae of José Hernandez</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/405 - Curriculum Vitae of Jose Hernandez.pdf" target="_blank">Curriculum Vitae of José Hernandez</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#404</p>
-    <p><a href="/data/exhibits/404 - Curriculum Vitae of Michele Wood-Tweel.pdf" target="_blank">Curriculum Vitae of Michele Wood-Tweel</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/404 - Curriculum Vitae of Michele Wood-Tweel.pdf" target="_blank">Curriculum Vitae of Michele Wood-Tweel</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#403</p>
-    <p><a href="/data/exhibits/403 - CPABC Review of McGuire Report on Accountants - Jan 7 2021.pdf" target="_blank">CPABC Review of McGuire Report on Accountants – Jan 7, 2021</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/403 - CPABC Review of McGuire Report on Accountants - Jan 7 2021.pdf" target="_blank">CPABC Review of McGuire Report on Accountants – Jan 7, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#402</p>
-    <p><a href="/data/exhibits/402 - Public Practice Committee Data Sheet Pre-Reading No.6 dated September 4 2020.pdf" target="_blank">Public Practice Committee Data Sheet, Pre-Reading #6 dated September 4, 2020</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/402 - Public Practice Committee Data Sheet Pre-Reading No.6 dated September 4 2020.pdf" target="_blank">Public Practice Committee Data Sheet, Pre-Reading #6 dated September 4, 2020</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#401</p>
-    <p><a href="/data/exhibits/401 - Public Practice Committee Meeting Minutes - September 11 2020 (redacted).pdf" target="_blank">Public Practice Committee Meeting Minutes – September 11, 2020 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/401 - Public Practice Committee Meeting Minutes - September 11 2020 (redacted).pdf" target="_blank">Public Practice Committee Meeting Minutes – September 11, 2020 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#400</p>
