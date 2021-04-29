@@ -8,12 +8,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection26">
-        <p class="ExpandableSectionTitle">News Brief: End of Witness Testimony and Closing Statements</p>
+        <p class="ExpandableSectionTitle">End of Witness Testimony and Closing Statements</p>
         <p class="ExpandableSectionUnderTitleLeft"></p>
         <p class="ExpandableSectionUnderTitleRight">April 28, 2021</p>
     </div>
     <div class="ExpandableSection" id="ExpandableSectionContent26">
-        <h2>News Brief: End of Witness Testimony and Closing Statements</h2>
+        <h2>End of Witness Testimony and Closing Statements</h2>
         <p>Witness testimony at the Commission of Inquiry into Money Laundering in British Columbia is scheduled to conclude on Friday, May 14, 2021.</p>
         <p>Closing statements will be made by counsel for participants on July 6, 7 and 8, 2021. The anticipated order for these lawyers' oral presentations will be posted to the website in due course.</p>
         <p>Once closing statements conclude, Commissioner Austin Cullen will turn his attention to drafting the final report, which will be submitted to the Provincial Government by December 15, 2021.</p>
