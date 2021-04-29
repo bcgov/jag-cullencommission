@@ -144,7 +144,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p class="ArchiveVideoTitle"><strong>May 25</strong>: <a onclick="openVideo('422832605'); return false" class="ArchiveVideoLink">Watch Session</a></p>
 </div>
 <div class="WebArchiveMonthDiv">
-  <h3>February</h3>
+  <h3>February - 2020</h3>
   <p class="ArchiveVideoTitle"><strong>February 26</strong>: <a onclick="openVideo('394221461'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>February 25</strong>: <a onclick="openVideo('393832346'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>February 24</strong>: <a onclick="openVideo('397033542'); return false" class="ArchiveVideoLink">Watch Session 1</a> - <a onclick="openVideo('396980448'); return false" class="ArchiveVideoLink">Watch&nbsp;Session&nbsp;2</a></p>

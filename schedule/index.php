@@ -168,7 +168,7 @@ NEW HEARING TEMPLATE
     <li><strong>Cheryl Wenezenki-Yolland</strong>, Former Associate Deputy Minister of Finance</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 27, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('542404108'); return false">Watch Video of Session</button>
   </div>
   <p>April 26, 2021</p>
@@ -176,7 +176,7 @@ NEW HEARING TEMPLATE
     <li><strong>David Eby</strong>, Attorney General; Former Opposition Spokesperson for Gaming</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 26, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('541915855'); return false">Watch Video of Session</button>
   </div>
   <p>April 23, 2021</p>
