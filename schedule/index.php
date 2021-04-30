@@ -18,14 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>April 30, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Kash Heed</strong>, Former Minister of Public Safety and Solicitor General; Former Chief Constable, West Vancouver Police Department</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>May 3, 2021</p>
   <div>
     <p style="color: red;"><strong>To accommodate the witness in Auckland, New Zealand, the hearing is scheduled to begin at 12 p.m. Pacific Time.</strong></p>
@@ -147,6 +139,14 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>April 30, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Kash Heed</strong>, Former Minister of Public Safety and Solicitor General; Former Chief Constable, West Vancouver Police Department</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>April 29, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Richard Fyfe</strong>, Deputy Attorney General</li>
