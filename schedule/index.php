@@ -18,14 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>April 29, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Richard Fyfe</strong>, Deputy Attorney General</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>April 30, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Kash Heed</strong>, Former Minister of Public Safety and Solicitor General; Former Chief Constable, West Vancouver Police Department</li>
@@ -155,6 +147,14 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>April 29, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Richard Fyfe</strong>, Deputy Attorney General</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>April 28, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Rich Coleman</strong>, Former Minister of Public Safety and Solicitor General; Former Minister of Housing and Social Development; Former Minister of Energy and Mines and Minister Responsible for Housing</li>
