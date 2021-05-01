@@ -160,7 +160,7 @@ NEW HEARING TEMPLATE
     <li><strong>Rich Coleman</strong>, Former Minister of Public Safety and Solicitor General; Former Minister of Housing and Social Development; Former Minister of Energy and Mines and Minister Responsible for Housing</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 28, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('543178932'); return false">Watch Video of Session</button>
   </div>
   <p>April 27, 2021</p>
