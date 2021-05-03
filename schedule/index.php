@@ -57,10 +57,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
   <p>May 7, 2021</p>
-  <p style="color: red;"><strong>To accommodate the witness in Uppsala, Sweden, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
+  <div>
+    <p style="color: red;"><strong>To accommodate the witness in Uppsala, Sweden, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
     <ul class="ScheduleListWitnesses">
       <li><strong>Maria Bergstrom</strong>, Associate Professor of European Law, Uppsala University</li>
     </ul>
+  </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
     <div></div>
