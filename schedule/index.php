@@ -154,7 +154,7 @@ NEW HEARING TEMPLATE
     <li><strong>Richard Fyfe</strong>, Deputy Attorney General</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 29, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('543376749'); return false">Watch Video of Session</button>
   </div>
   <p>April 28, 2021</p>
