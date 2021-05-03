@@ -31,10 +31,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   </div>
   <p>May 4, 2021</p>
   <div>
-    <p style="color: red;"><strong>To accommodate the witness in Uppsala, Sweden, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Maria Bergstrom</strong>, Associate Professor of European Law, Uppsala University</li>
-    </ul>
+    <p style="color: red;"><strong>No hearing scheduled.</strong></p>
   </div>
   <div class="ScheduleTranscriptButton">
     <div></div>
@@ -60,7 +57,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div></div>
   </div>
   <p>May 7, 2021</p>
-  <p><strong>TBD</strong></p>
+  <p style="color: red;"><strong>To accommodate the witness in Uppsala, Sweden, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Maria Bergstrom</strong>, Associate Professor of European Law, Uppsala University</li>
+    </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
     <div></div>
