@@ -123,12 +123,9 @@ NEW HEARING TEMPLATE
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
   <p>May 3, 2021</p>
-  <div>
-    <p style="color: red;"><strong>To accommodate the witness in Auckland, New Zealand, the hearing is scheduled to begin at 12 p.m. Pacific Time.</strong></p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Gary Hughes</strong>, Barrister, Akarana Chambers, New Zealand (Mr. Hughes has worked on specialist anti-money laundering/financial crime matters since 2007)</li>
-    </ul>
-  </div>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Gary Hughes</strong>, Barrister, Akarana Chambers, New Zealand (Mr. Hughes has worked on specialist anti-money laundering/financial crime matters since 2007)</li>
+  </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('544854110'); return false">Watch Video of Session</button>
