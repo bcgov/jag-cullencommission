@@ -16,6 +16,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#954</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/954 - Enhanced Customer Due Diligence Guideline - Sept 2020.pdf" target="_blank">Enhanced Customer Due Diligence Guideline - Sept 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#953</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/953 - Report to the Commission of Inquiry into Money Laundering in British Columbia Cnaada by Gary Hughes - April 9 2021_Redacted.pdf" target="_blank">Report to the Commission of Inquiry into Money Laundering in British Columbia, Cnaada, by Gary Hughes - April 9, 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#952</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/952 - Curriculum Vitae of Gary Hughes_Redacted.pdf" target="_blank">Curriculum Vitae of Gary Hughes_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#951</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/951 - Order of the Lieutenant Governor in Council - June 10 2009.pdf" target="_blank">Order of the Lieutenant Governor in Council - June 10, 2009</a></p>
 </div>
@@ -46,6 +58,50 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#940</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/940 - Letter from Richard Fyfe to Peter German re Terms of Reference - Money Laundering Review - Oct 4 2017 and signed Oct 7 2017_Redacted.pdf" target="_blank">Letter from Richard Fyfe to Peter German, re Terms of Reference - Money Laundering Review - Oct 4, 2017 and signed Oct 7, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#939</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/939 - Email from Anna Fitzgerald to Dave Boychuk re Deloitte report 2007 - Oct 14 2015 with attachment_Redacted.pdf" target="_blank">Email from Anna Fitzgerald to Dave Boychuk, re Deloitte report 2007 - Oct 14, 2015, with attachment_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#938</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/938 - Email from Sr. Analyst to Greg Visco re CLIFF ID 166858 with attachment_Redacted.pdf" target="_blank">Email from Sr. Analyst to Greg Visco, re CLIFF ID 166858, with attachment_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#937</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/937 - GPEB report of findings - Failure to Report - Paragon Gaming -dba- Edgewater Casino -  Oct 4 2010_Redacted.pdf" target="_blank">GPEB report of findings - Failure to Report - Paragon Gaming (dba) Edgewater Casino - Oct 4, 2010_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#936</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/936 - Email from Mike Hiller re Form 86 BCLC 2010-0024262 - Jun 22 2010_Redacted.pdf" target="_blank">Email from Mike Hiller, re Form 86 BCLC 2010-0024262 - Jun 22, 2010_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#933</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/933 - Vancouver Sun article - We Cant fight casino money laundering RCMP report by Chad Skelton - Aug 12 2010.pdf" target="_blank">Vancouver Sun article - We Can't fight casino money laundering RCMP report, by Chad Skelton - Aug 12, 2010</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#931</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/931 - Advice to Minister Estimates Note re Anti Money-Laundering and FINTRAC Compliance - June 14 2013_Redacted.pdf" target="_blank">Advice to Minister Estimates Note, re Anti Money-Laundering and FINTRAC Compliance - June 14, 2013_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#930</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/930 - Advice to Minister Issues Note re BCLCs Anti-Money Laundering Measures - Feb 23 2012_Redacted.pdf" target="_blank">Advice to Minister, Issues Note, re BCLC's Anti-Money Laundering Measures - Feb 23, 2012_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#929</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/929 - Advice to Minister Issues Note re Gaming Review AML Measures at BC Facilities - Feb 23 2012_Redacted.pdf" target="_blank">Advice to Minister, Issues Note, re Gaming Review AML Measures at BC Facilities - Feb 23, 2012_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#928</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/928 - Advice to Minister Confidential Issues Note re Anti-money-laundering Strategy Update - Feb 23 2012.pdf" target="_blank">Advice to Minister, Confidential Issues Note, re Anti-money-laundering Strategy Update - Feb 23, 2012</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#927</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/927 - Advice to Minister Issues Note re large Cash Transaction Reporting - Feb 23 2012_Redacted.pdf" target="_blank">Advice to Minister, Issues Note, re large Cash Transaction Reporting - Feb 23, 2012_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#925</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/925 - Directive to BCLC published in the British Columbia Gazette June 26 2003.pdf" target="_blank">Directive to BCLC published in the British Columbia Gazette, June 26, 2003</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#924</p>
@@ -1458,6 +1514,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#576</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/576 - Affidavit no.1 of Michael Graydon made on February 8 2021_Redacted.pdf" target="_blank">Affidavit no. 1 of Michael Graydon made on February 8, 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#575</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/575 - OR Briefing Documents Briefing Notes Issues Notes and Similar Documents Related to Suspicious Cash Transactions and Money Laundering in BC Casinos _Redacted.pdf" target="_blank">Overview Report: Briefing Documents, Briefing Notes, Issues Notes and Similar Documents Related to Suspicious Cash Transactions and Money Laundering in British Columbia Casinos_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#574</p>
