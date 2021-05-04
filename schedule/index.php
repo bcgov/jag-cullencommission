@@ -18,14 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>May 4, 2021</p>
-  <div>
-    <p style="color: red;"><strong>No hearing scheduled.</strong></p>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>May 5, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Melinda Murray</strong>, Executive Director, Criminal Property Forfeiture, Community Safety Division, Manitoba Justice; Former Crown Counsel, Province of Manitoba</li>
