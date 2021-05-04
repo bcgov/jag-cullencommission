@@ -21,7 +21,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#953</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/953 - Report to the Commission of Inquiry into Money Laundering in British Columbia Cnaada by Gary Hughes - April 9 2021_Redacted.pdf" target="_blank">Report to the Commission of Inquiry into Money Laundering in British Columbia, Cnaada, by Gary Hughes - April 9, 2021_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/953 - Report to the Commission of Inquiry into Money Laundering in British Columbia Canada by Gary Hughes - April 9 2021_Redacted.pdf" target="_blank">Report to the Commission of Inquiry into Money Laundering in British Columbia, Canada, by Gary Hughes - April 9, 2021_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#952</p>
