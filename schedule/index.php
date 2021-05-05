@@ -90,7 +90,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div>
     <p style="color: red;"><strong>To accommodate the witness in Delft, the Netherlands, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
     <ul class="ScheduleListWitnesses">
-      <li><strong>Rolf van Wegberg</strong>, Assistant Professor, Faculty of Technology, Policy and Management, Organization & Governance Section, Delft University of Technology </li>
+      <li><strong>Rolf van Wegberg</strong>, Assistant Professor, Faculty of Technology, Policy and Management, Organization & Governance Section, Delft University of Technology</li>
+    </ul>
+    <p style="color: red;"><strong>12 noon - 1 pm Pacific</strong></p>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>(recalled) Rich Coleman</strong>, Former Minister of Public Safety and Solicitor General; Former Minister of Housing and Social Development; Former Minister of Energy and Mines and Minister Responsible for Housing</li>
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
