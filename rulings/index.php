@@ -21,6 +21,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 
 -->
 
+    <p>May 5, 2021</p>
+    <p>#32</p>
+    <p class="RulingTitle"><a href="/files/ApplicationForOrdersAndDirections-Ruling32.pdf" target="_blank">Application for Certain Orders and Directions</a></p>
+
+    <p> </p>
+    <p>#31</p>
+    <p class="RulingTitle"><strong>This ruling is expected to be posted in due course.</strong></p>
+
     <p>March 29, 2021</p>
     <p>#30</p>
     <p class="RulingTitle"><a href="/files/ApplicationForWitnessAccommodation-Ruling30.pdf" target="_blank">Application for Witness Accommodation</a></p>
