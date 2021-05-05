@@ -18,14 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>May 5, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Melinda Murray</strong>, Executive Director, Criminal Property Forfeiture, Community Safety Division, Manitoba Justice; Former Crown Counsel, Province of Manitoba</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>May 6, 2021</p>
   <div>
     <p style="color: red;"><strong>To accommodate the witness in Cambridge, England, the hearing is scheduled to begin at 8 a.m. Pacific Time.</strong></p>
@@ -126,6 +118,14 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>May 5, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Melinda Murray</strong>, Executive Director, Criminal Property Forfeiture, Community Safety Division, Manitoba Justice; Former Crown Counsel, Province of Manitoba</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>May 3, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Gary Hughes</strong>, Barrister, Akarana Chambers, New Zealand (Mr. Hughes has worked on specialist anti-money laundering/financial crime matters since 2007)</li>
