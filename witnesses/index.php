@@ -219,6 +219,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Rich Coleman</strong>, (Former Minister of Public Safety and Solicitor General; Former Minister of Housing and Social Development; Former Minister of Energy and Mines and Minister Responsible for Housing)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">28 April, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Michael Cox</strong>, (Chief Compliance Officer & Finance Director, Vancouver Bullion & Currency Exchange)</p>
     <div class="WitnessHearingsList">
@@ -436,7 +437,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Gary Hughes</strong>, (Barrister, Akarana Chambers, New Zealand (Mr. Hughes has worked on specialist anti-money laundering/financial crime matters since 2007))</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 May, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Raheel Humayun</strong>, (Managing Director, Investigations, Office of the Superintendent of Real Estate)</p>
     <div class="WitnessHearingsList">
