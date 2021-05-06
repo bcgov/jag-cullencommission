@@ -16,6 +16,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#957</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/957 - CBC News - How Crime Pays for Police by Ian Froese - Nov 30 2019.pdf" target="_blank">CBC News - How Crime Pays for Police, by Ian Froese - Nov 30, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#956</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/956 - Bill 58 - The Criminal Property Forfeiture Amendment Act.pdf" target="_blank">Bill 58 - The Criminal Property Forfeiture Amendment Act</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#955</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/955 - Criminal Property Forfeiture Act.pdf" target="_blank">Criminal Property Forfeiture Act</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#954</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/954 - Enhanced Customer Due Diligence Guideline - Sept 2020.pdf" target="_blank">Enhanced Customer Due Diligence Guideline - Sept 2020</a></p>
 </div>
@@ -80,6 +92,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/933 - Vancouver Sun article - We Cant fight casino money laundering RCMP report by Chad Skelton - Aug 12 2010.pdf" target="_blank">Vancouver Sun article - We Can't fight casino money laundering RCMP report, by Chad Skelton - Aug 12, 2010</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#932</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/932 - Incident Report No. IN20100024262 -  Loan Sharking - June 21 2010_Redacted.pdf" target="_blank">Incident Report #IN20100024262 - Loan Sharking - June 21, 2010_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#931</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/931 - Advice to Minister Estimates Note re Anti Money-Laundering and FINTRAC Compliance - June 14 2013_Redacted.pdf" target="_blank">Advice to Minister Estimates Note, re Anti Money-Laundering and FINTRAC Compliance - June 14, 2013_Redacted</a></p>
 </div>
@@ -98,6 +114,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#927</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/927 - Advice to Minister Issues Note re large Cash Transaction Reporting - Feb 23 2012_Redacted.pdf" target="_blank">Advice to Minister, Issues Note, re large Cash Transaction Reporting - Feb 23, 2012_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#926</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/926 - CBC News - Loansharking alleged at B.C. Casinos - June 25 2004.pdf" target="_blank">CBC News - Loansharking alleged at B.C. Casinos - June 25, 2004</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#925</p>
