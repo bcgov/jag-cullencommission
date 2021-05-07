@@ -16,6 +16,46 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#967</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/967 - Bergstrom M. Money Laundering Research Handbook on EU Criminal Law 2016.pdf" target="_blank">Bergström, M., Money Laundering (Research Handbook on EU Criminal Law, 2016</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#966</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/966 - Report on the European Union Anti-Money Laundering Regulation  - Draft by Maria Bergstrom.pdf" target="_blank">Report on the European Union Anti-Money Laundering Regulation - Draft, by Maria Bergstrom</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#965</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/965 - Bergstrom M. Legal Perspectives on Money Laundering -Research Handbook on Transnational Crime 2019.pdf" target="_blank">Bergström, M., Legal Perspectives on Money Laundering (Research Handbook on Transnational Crime, 2019)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#964</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/964 - Bergstrom M. The Many Uses of Anti-Money Laundering Regulation - Over time and into the future -German Law Journal Vol. 19 No. 5 October 2018.pdf" target="_blank">Bergström, M., The Many Uses of Anti-Money Laundering Regulation – Over time and into the future (German Law Journal, Vol. 19 No. 5, October 2018)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#963</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/963 - Curriculum Vitae of Maria Bergstrom_Redacted.pdf" target="_blank">Curriculum Vitae of Maria Bergstrom_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#962</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/962 - Why We Fail to Catch Money Launderers 99.9 Percent of the Time by Kevin Comeau - May 7 2019.pdf" target="_blank">Why We Fail to Catch Money Launderers 99.9 Percent of the Time, by Kevin Comeau - May 7, 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#961</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/961 - A study on Methods of Transferring Assets Outside China by Chinese Corruptors and Monitoring Methods for this Problem - Bank of China - June 2008.pdf" target="_blank">A study on Methods of Transferring Assets Outside China by Chinese Corruptors and Monitoring Methods for this Problem - Bank of China - June 2008</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#960</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/960 - Reviewing Canadas Anti-Money Laundering and Anti-Terrorist Financing Regime - Feb 7 2018.pdf" target="_blank">Reviewing Canada's Anti-Money Laundering and Anti-Terrorist Financing Regime - Feb 7, 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#959</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/959 - Money Laundering and Foreign Corruption Proceeds in British Columbia A Comparative International Policy Assessment by Jason Sharman.pdf" target="_blank">Money Laundering and Foreign Corruption Proceeds in British Columbia A Comparative International Policy Assessment, by Jason Sharman</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#958</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/958 - Curriculum Vitae of Jason Sharman_Redacted.pdf" target="_blank">Curriculum Vitae of Jason Sharman_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#957</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/957 - CBC News - How Crime Pays for Police by Ian Froese - Nov 30 2019.pdf" target="_blank">CBC News - How Crime Pays for Police, by Ian Froese - Nov 30, 2019</a></p>
 </div>
