@@ -18,17 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>May 7, 2021</p>
-  <div>
-    <p style="color: red;"><strong>To accommodate the witness in Uppsala, Sweden, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Maria Bergstrom</strong>, Associate Professor of European Law, Uppsala University</li>
-    </ul>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>May 10, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Stefan Cassella</strong>, Author (money laundering and asset forfeiture); Former Assistant U.S. Attorney, Office of the U.S. Attorney; Former Chief, Asset Forfeiture and Money Laundering, Office of the U.S. Attorney – Baltimore; Former Deputy Chief, Asset Forfeiture and Money Laundering, U.S. Department of Justice (expert on U.S. federal criminal law and asset forfeiture)</li>
@@ -107,6 +96,14 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>May 7, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Maria Bergstrom</strong>, Associate Professor of European Law, Uppsala University</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>May 6, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Jason Sharman</strong>, Sir Patrick Sheehy Professor of International Relations, Politics and International Studies, University of Cambridge</li>
