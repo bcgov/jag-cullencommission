@@ -120,7 +120,7 @@ NEW HEARING TEMPLATE
     <li><strong>Melinda Murray</strong>, Executive Director, Criminal Property Forfeiture, Community Safety Division, Manitoba Justice; Former Crown Counsel, Province of Manitoba</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript May 5, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('545745573'); return false">Watch Video of Session</button>
   </div>
   <p>May 3, 2021</p>
