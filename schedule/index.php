@@ -108,12 +108,9 @@ NEW HEARING TEMPLATE
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
   <p>May 6, 2021</p>
-  <div>
-    <p style="color: red;"><strong>To accommodate the witness in Cambridge, England, the hearing is scheduled to begin at 8 a.m. Pacific Time.</strong></p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Jason Sharman</strong>, Sir Patrick Sheehy Professor of International Relations, Politics and International Studies, University of Cambridge</li>
-    </ul>
-  </div>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Jason Sharman</strong>, Sir Patrick Sheehy Professor of International Relations, Politics and International Studies, University of Cambridge</li>
+  </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('546239375'); return false">Watch Video of Session</button>
