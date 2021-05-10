@@ -101,7 +101,7 @@ NEW HEARING TEMPLATE
     <li><strong>Maria Bergstrom</strong>, Associate Professor of European Law, Uppsala University</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript May 7, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('546643294'); return false">Watch Video of Session</button>
   </div>
   <p>May 6, 2021</p>
@@ -109,7 +109,7 @@ NEW HEARING TEMPLATE
     <li><strong>Jason Sharman</strong>, Sir Patrick Sheehy Professor of International Relations, Politics and International Studies, University of Cambridge</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript May 6, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('546239375'); return false">Watch Video of Session</button>
   </div>
   <p>May 5, 2021</p>
