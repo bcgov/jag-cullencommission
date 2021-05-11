@@ -18,14 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>May 11, 2021</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Stephanie Brooker</strong>, Partner, Gibson, Dunn & Crutcher – Washington, D.C.; Former Director, Enforcement Division, Financial Crimes Enforcement Network (FinCEN), U.S. Department of Treasury; Former Chief, Asset Forfeiture and Money Laundering, U.S. Attorney’s Office, District of Columbia; Former Federal Prosecutor</li>
-  </ul>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>May 12, 2021</p>
   <div>
     <p style="color: red;"><strong>To accommodate the witness in Auckland, New Zealand, the hearing is scheduled to begin at 12 p.m. Pacific Time.</strong></p>
@@ -88,6 +80,14 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>May 11, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Stephanie Brooker</strong>, Partner, Gibson, Dunn & Crutcher – Washington, D.C.; Former Director, Enforcement Division, Financial Crimes Enforcement Network (FinCEN), U.S. Department of Treasury; Former Chief, Asset Forfeiture and Money Laundering, U.S. Attorney’s Office, District of Columbia; Former Federal Prosecutor</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>May 10, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Stefan Cassella</strong>, Author (money laundering and asset forfeiture); Former Assistant U.S. Attorney, Office of the U.S. Attorney; Former Chief, Asset Forfeiture and Money Laundering, Office of the U.S. Attorney – Baltimore; Former Deputy Chief, Asset Forfeiture and Money Laundering, U.S. Department of Justice (expert on U.S. federal criminal law and asset forfeiture)</li>
