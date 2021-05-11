@@ -16,6 +16,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#971</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/971 - Policing for Profit - The Abuse of Civil Asset Forfeiture 3rd Edition - Dec 2020.pdf" target="_blank">Policing for Profit - The Abuse of Civil Asset Forfeiture 3rd Edition - Dec 2020</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#970</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/970 - Addendum - Civil Forfeiture Law in the United States.pdf" target="_blank">Addendum - Civil Forfeiture Law in the United States</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#969</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/969 - Report for the Cullen Commission prepared by Stefan Cassella.pdf" target="_blank">Report for the Cullen Commission, prepared by Stefan Cassella</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#968</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/968 - Curriculum Vitae of Stefan Cassella_Redacted.pdf" target="_blank">Curriculum Vitae of Stefan Cassella_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#967</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/967 - Bergstrom M. Money Laundering Research Handbook on EU Criminal Law 2016.pdf" target="_blank">Bergström, M., Money Laundering (Research Handbook on EU Criminal Law, 2016</a></p>
 </div>
