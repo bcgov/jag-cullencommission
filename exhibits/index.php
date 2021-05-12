@@ -16,6 +16,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#973</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/973 - The Role of FinCEN the US Financial Intelligence Unit in the US AML Regime and Overview of the US AML Structure and Authorities by Stephanie Brooker.pdf" target="_blank">The Role of FinCEN, the US Financial Intelligence Unit, in the US Anti-Money Laundering Regime and Overview of the US Anti-Money Laundering Structure and Authorities, by Stephanie Brooker</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#972</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/972 - Curriculum Vitae of Stephanie Brooker_Redacted.pdf" target="_blank">Curriculum Vitae of Stephanie Brooker_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#971</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/971 - Policing for Profit - The Abuse of Civil Asset Forfeiture 3rd Edition - Dec 2020.pdf" target="_blank">Policing for Profit - The Abuse of Civil Asset Forfeiture 3rd Edition - Dec 2020</a></p>
 </div>
@@ -100,6 +108,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/951 - Order of the Lieutenant Governor in Council - June 10 2009.pdf" target="_blank">Order of the Lieutenant Governor in Council - June 10, 2009</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#950</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/950 - Email exchange between Rob Kroeker and Jim Lightbody re MSBs and other intiatives - for the Task Force - Oct 19 2017_Redacted.pdf" target="_blank">Email exchange between Rob Kroeker and Jim Lightbody, re MSB's and other intiatives - for the Task Force - Oct 19, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#949</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/949 - Handwritten notes of Richard Fyfe - Aug 2 2017 -redacted- -PDF page 33 only is marked as Exhibit 949-.pdf" target="_blank">Handwritten notes of Richard Fyfe - Aug 2, 2017 (redacted) (PDF page 33 only is marked as Exhibit 949)</a></p>
 </div>
@@ -116,12 +128,24 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/946 - Handwritten notes of Richard Fyfe - Aug 2 2017 -redacted- -PDF pages 1-2 only are marked as Exhibit 946-.pdf" target="_blank">Handwritten notes of Richard Fyfe - Aug 2, 2017 (redacted) (PDF pages 1-2 only are marked as Exhibit 946)</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#945</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/945 - Email chain re Meeting with Minister - July 31 2017_Redacted.pdf" target="_blank">Email chain, re Meeting with Minister - July 31, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#944</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/944 - Handwritten notes of Richard Fyfe - 31 July 2017 -redacted- -PDF pages 11-14 only of MR0186 marked as Exhibit 944-.pdf" target="_blank">Handwritten notes of Richard Fyfe - 31 July 2017 (redacted) (PDF pages 11-14 only of MR0186 marked as Exhibit 944)</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#943</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/943 - Email from Jim Lightbody to Douglas Scott re Request by Min of Fin - Apr 13 2018 and Suspicious Transaction Reports and Table Performance - April 12 2018_Redacted.pdf" target="_blank">Email from Jim Lightbody to Douglas Scott, re Request by Min of Fin - Apr 13, 2018 and Suspicious Transaction Reports and Table Performance - April 12, 2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#942</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/942 - Handwritten notes of Richard Fyfe - Jan 17 2018 -redacted- -PDF pages of 18 and 19 only are marked as Exhibit 942-.pdf" target="_blank">Handwritten notes of Richard Fyfe - Jan 17, 2018 (redacted) (PDF pages of 18 and 19 only are marked as Exhibit 942)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#941</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/941 - Email from Suzanne Rowley to Rob Kroeker and others re Notes from Jim Lightbodys conversation with Richard Fyfe - Jan 18 2018_Redacted.pdf" target="_blank">Email from Suzanne Rowley to Rob Kroeker and others, re Notes from Jim Lightbody's conversation with Richard Fyfe - Jan 18, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#940</p>
@@ -142,6 +166,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#936</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/936 - Email from Mike Hiller re Form 86 BCLC 2010-0024262 - Jun 22 2010_Redacted.pdf" target="_blank">Email from Mike Hiller, re Form 86 BCLC 2010-0024262 - Jun 22, 2010_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#935</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/935 - BCLC Board Meeting July 23 2010 Presentation regarding AML and FINTRAC_Redacted.pdf" target="_blank">BCLC Board Meeting July 23, 2010 Presentation regarding AML and FINTRAC_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#934</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/934 - BCLC Minutes from the Board Meeting - July 23 2010.pdf" target="_blank">BCLC Minutes from the Board Meeting - July 23, 2010</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#933</p>
