@@ -11,6 +11,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning&nbsp;October&nbsp;26,&nbsp;2020,&nbsp;onwards.</em></p>
 <div class="WebArchiveMonthDiv">
   <h3>May - 2021</h3>
+  <p class="ArchiveVideoTitle"><strong>May 11</strong>: <a onclick="openVideo('548195314'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>May 10</strong>: <a onclick="openVideo('547698324'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>May 7</strong>: <a onclick="openVideo('546643294'); return false" class="ArchiveVideoLink">Watch Session</a></p>
   <p class="ArchiveVideoTitle"><strong>May 6</strong>: <a onclick="openVideo('546239375'); return false" class="ArchiveVideoLink">Watch Session</a></p>
