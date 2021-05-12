@@ -70,12 +70,9 @@ NEW HEARING TEMPLATE
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
   <p>May 12, 2021</p>
-  <div>
-    <p style="color: red;"><strong>To accommodate the witness in Auckland, New Zealand, the hearing is scheduled to begin at 12 p.m. Pacific Time.</strong></p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Craig Hamilton</strong>, Detective Inspector; Acting Director, Financial Crime Group, New Zealand Police</li>
-    </ul>
-  </div>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Craig Hamilton</strong>, Detective Inspector; Acting Director, Financial Crime Group, New Zealand Police</li>
+  </ul>
   <div class="ScheduleTranscriptButton">
     <div></div>
     <div></div>
