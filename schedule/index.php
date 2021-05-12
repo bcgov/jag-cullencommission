@@ -93,7 +93,7 @@ NEW HEARING TEMPLATE
     <li><strong>Stefan Cassella</strong>, Author (money laundering and asset forfeiture); Former Assistant U.S. Attorney, Office of the U.S. Attorney; Former Chief, Asset Forfeiture and Money Laundering, Office of the U.S. Attorney – Baltimore; Former Deputy Chief, Asset Forfeiture and Money Laundering, U.S. Department of Justice (expert on U.S. federal criminal law and asset forfeiture)</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript May 10, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('547698324'); return false">Watch Video of Session</button>
   </div>
   <p>May 7, 2021</p>
