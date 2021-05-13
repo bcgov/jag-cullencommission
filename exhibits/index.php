@@ -16,6 +16,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#979</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/979 - New Zealand Ministry of Health response - July 13 2017_Redacted.pdf" target="_blank">New Zealand Ministry of Health response - July 13, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#978</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/978 - New Zealand Police Financial Crime Group response - July 10 2017_Redacted.pdf" target="_blank">New Zealand Police Financial Crime Group response - July 10, 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#977</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/977 - Criminal Disclosure Act 2008.pdf" target="_blank">Criminal Disclosure Act 2008</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#975</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/975 - Anti-money Laundering and counter-terrorist financing measures New Zealand - Mutual Evaluation Report - April 2021.pdf" target="_blank">Anti-money Laundering and counter-terrorist financing measures New Zealand - Mutual Evaluation Report - April 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#974</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/974 - Curriculum Vitae of Craig Hamilton_Redacted.pdf" target="_blank">Curriculum Vitae of Craig Hamilton_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#973</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/973 - The Role of FinCEN the US Financial Intelligence Unit in the US AML Regime and Overview of the US AML Structure and Authorities by Stephanie Brooker.pdf" target="_blank">The Role of FinCEN, the US Financial Intelligence Unit, in the US Anti-Money Laundering Regime and Overview of the US Anti-Money Laundering Structure and Authorities, by Stephanie Brooker</a></p>
 </div>
