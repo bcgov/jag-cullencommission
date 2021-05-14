@@ -16,6 +16,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#1023</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1023 - Affidavit no. 1 of Gary Bass made on May 12 2021.pdf" target="_blank">Affidavit no. 1 of Gary Bass made on May 12, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1022</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1022 - Affidavit no. 1 of Craig Callens sworn on May 12 2021.pdf" target="_blank">Affidavit no. 1 of Craig Callens sworn on May 12, 2021</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#1003</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1003 - CBCR Seizures 2017-2018_Redacted.xlsx" target="_blank">CBCR Seizures 2017-2018_Redacted</a></p>
 </div>
