@@ -79,7 +79,7 @@ NEW HEARING TEMPLATE
     <li><strong>Stephanie Brooker</strong>, Partner, Gibson, Dunn & Crutcher – Washington, D.C.; Former Director, Enforcement Division, Financial Crimes Enforcement Network (FinCEN), U.S. Department of Treasury; Former Chief, Asset Forfeiture and Money Laundering, U.S. Attorney’s Office, District of Columbia; Former Federal Prosecutor</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript May 11, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('548195314'); return false">Watch Video of Session</button>
   </div>
   <p>May 10, 2021</p>
