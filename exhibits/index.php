@@ -16,6 +16,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#993</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/993 - Affidavit no. 1 of Joel Rank affirmed April 14 2021.pdf" target="_blank">Affidavit no. 1 of Joel Rank affirmed April 14, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#992</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/992 - Affidavit no. 1 of Gurprit Bains affirmed May 5 2021_Redacted.pdf" target="_blank">Affidavit no. 1 of Gurprit Bains affirmed May 5, 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#991</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/991 - Exhibit A to the Affidavit no. 1 of Annette Ryan - FINTRAC CBCR Reports Data.xlsx" target="_blank">Exhibit A to the Affidavit no. 1 of Annette Ryan - FINTRAC CBCR Reports Data</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#990</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/990 - Affidavit no.1 of Annette Ryan affirmed April 27 2021.pdf" target="_blank">Affidavit no.1 of Annette Ryan affirmed April 27, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#989</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/989 - -Previously marked as EX. J- Manitoba Justice - Annual Report 2019-2020.pdf" target="_blank">(Previously marked as EX. J) - Manitoba Justice - Annual Report 2019-2020</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#988</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/988 - Using Police Reports to Monitor Money Laundering Developments Continuity and Change in 12 Years of Dutch Money Laundering Crime Pattern and Analyses - March 2019.pdf" target="_blank">Using Police Reports to Monitor Money Laundering Developments. Continuity and Change in 12 Years of Dutch Money Laundering Crime Pattern and Analyses - March 2019</a></p>
 </div>
