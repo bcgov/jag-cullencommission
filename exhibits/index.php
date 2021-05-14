@@ -16,6 +16,46 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#1003</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1003 - CBCR Seizures 2017-2018_Redacted.xlsx" target="_blank">CBCR Seizures 2017-2018_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1002</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1002 - CBCR Seizures 2016-2017_Redacted.xlsx" target="_blank">CBCR Seizures 2016-2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1001</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1001 - CBCR Seizures 2015-2016_Redacted.xlsx" target="_blank">CBCR Seizures 2015-2016_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1000</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1000 - Affidavit of Sarah DAmbrogio affirmed May 3 2021.pdf" target="_blank">Affidavit of Sarah D’Ambrogio affirmed May 3, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#999</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/999 - Affidavit no. 1 of Calvin Chrustie affirmed April 27 2021_Redacted.pdf" target="_blank">Affidavit no. 1 of Calvin Chrustie affirmed April 27, 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#998</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/998 - Affidavit no. 2 of Patrick Ennis sworn April 21 2021.pdf" target="_blank">Affidavit no. 2 of Patrick Ennis sworn April 21, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#997</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/997 - Affidavit no. 2 of John Mazure sworn April 30 2021.pdf" target="_blank">Affidavit no. 2 of John Mazure sworn April 30, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#996</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/996 - Affidavit no. 2 of Bud Smith sworn April 8 2021.pdf" target="_blank">Affidavit no. 2 of Bud Smith sworn April 8, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#995</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/995 - Affidavit no. 2 of Brad Desmarais affirmed May 11 2021.pdf" target="_blank">Affidavit no. 2 of Brad Desmarais affirmed May 11, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#994</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/994 - Affidavit no. 1 of Tobias Louie affirmed May 5 2021.pdf" target="_blank">Affidavit no. 1 of Tobias Louie affirmed May 5, 2021</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#993</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/993 - Affidavit no. 1 of Joel Rank affirmed April 14 2021.pdf" target="_blank">Affidavit no. 1 of Joel Rank affirmed April 14, 2021</a></p>
 </div>
