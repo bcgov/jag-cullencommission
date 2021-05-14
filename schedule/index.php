@@ -18,17 +18,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
-  <p>May 13, 2021</p>
-  <div>
-    <p style="color: red;"><strong>To accommodate the witness in Rotterdam, the Netherlands, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Francien Rense</strong>, Partner, NautaDutilh (Ms. Rense concentrates on enforcement and sanctioning related issues companies, institutions, organizations, officers and professionals face, including as relates to anti-money laundering measures.)</li>
-    </ul>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
-  </div>
   <p>May 14, 2021</p>
   <div>
     <p style="color: red;"><strong>To accommodate the witness in Delft, the Netherlands, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
@@ -69,6 +58,14 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>May 13, 2021</p>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Francien Rense</strong>, Partner, NautaDutilh (Ms. Rense concentrates on enforcement and sanctioning related issues companies, institutions, organizations, officers and professionals face, including as relates to anti-money laundering measures.)</li>
+  </ul>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>May 12, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Craig Hamilton</strong>, Detective Inspector; Acting Director, Financial Crime Group, New Zealand Police</li>
