@@ -16,6 +16,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#988</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/988 - Using Police Reports to Monitor Money Laundering Developments Continuity and Change in 12 Years of Dutch Money Laundering Crime Pattern and Analyses - March 2019.pdf" target="_blank">Using Police Reports to Monitor Money Laundering Developments. Continuity and Change in 12 Years of Dutch Money Laundering Crime Pattern and Analyses - March 2019</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#987</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/987 - Bitcoin Money Laundering mixed results by Rolf van Wegberg Jan-Jaap Oerlemans and Oskar van Deventer - 2018.pdf" target="_blank">Bitcoin Money Laundering mixed results by Rolf van Wegberg, Jan-Jaap Oerlemans and Oskar van Deventer - 2018</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#986</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/986 - Anti-Money Laundering efforts in the Netherlands prepared by Rolf van Wegberg.pdf" target="_blank">Anti-Money Laundering efforts in the Netherlands, prepared by Rolf van Wegberg</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#985</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/985 - List of publications authored by Rolf van Wegberg.pdf" target="_blank">List of publications authored by Rolf van Wegberg</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#984</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/984 - Curriculum Vitae of Rolf van Wegberg.pdf" target="_blank">Curriculum Vitae of Rolf van Wegberg</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#983</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/983 - Opinion of the European Banking Authority on the risks of money laundering and terrorist financing affecting the European Unions financial sector - March 3 2021.pdf" target="_blank">Opinion of the European Banking Authority on the risks of money laundering and terrorist financing affecting the European Union's financial sector - March 3, 2021</a></p>
 </div>
