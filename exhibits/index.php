@@ -24,6 +24,46 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1022 - Affidavit no. 1 of Craig Callens sworn on May 12 2021.pdf" target="_blank">Affidavit no. 1 of Craig Callens sworn on May 12, 2021</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#1013</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1013 - BCLC0016998 -referred in paragraph 4 of Affidavit no. 2 of Bradley Rudnicki-.xlsx" target="_blank">BCLC0016998 (referred in paragraph 4 of Affidavit no. 2 of Bradley Rudnicki)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1012</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1012 - BCLC0016968 -referred in paragraph 3b of Affidavit no. 1 of Bradley Rudnicki-.xlsx" target="_blank">BCLC0016968 (referred in paragraph 3b of Affidavit no. 1 of Bradley Rudnicki)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1011</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1011 - BCLC0016967 -referred in paragraph 3a of Affidavit no. 1 of Bradley Rudnicki-.xlsx" target="_blank">BCLC0016967 (referred in paragraph 3a of Affidavit no. 1 of Bradley Rudnicki)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1010</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1010 - BCLC0016966 -referred in paragraph 3d of Affidavit no. 1 of Bradley Rudnicki-.xlsx" target="_blank">BCLC0016966 (referred in paragraph 3d of Affidavit no. 1 of Bradley Rudnicki)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1009</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1009 - BCLC0016965 -referred in paragraph 3c of Affidavit no. 1 of Bradley Rudnicki-.xlsx" target="_blank">BCLC0016965 (referred in paragraph 3c of Affidavit no. 1 of Bradley Rudnicki)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1008</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1008 - Affidavit no. 2 of Bradley Rudnicki affirmed May 5 2021.pdf" target="_blank">Affidavit no. 2 of Bradley Rudnicki affirmed May 5, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1007</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1007 - Affidavit no. 1 of Bradley Rudnicki affirmed April 7 2021.pdf" target="_blank">Affidavit no. 1 of Bradley Rudnicki affirmed April 7, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1006</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1006 - Affidavit of Sherri-Lynn Foran affirmed April 6 2021.pdf" target="_blank">Affidavit of Sherri-Lynn Foran affirmed April 6, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1005</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1005 - CBCR Seizures 2019-2020_Redacted.xlsx" target="_blank">CBCR Seizures 2019-2020_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1004</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1004 - CBCR Seizures 2018-2019_Redacted.xlsx" target="_blank">CBCR Seizures 2018-2019_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#1003</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1003 - CBCR Seizures 2017-2018_Redacted.xlsx" target="_blank">CBCR Seizures 2017-2018_Redacted</a></p>
 </div>
