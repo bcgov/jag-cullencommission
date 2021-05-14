@@ -16,12 +16,48 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#1024</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1024 - CBC Interview with Rich Coleman - Jan 10 2011.pdf" target="_blank">CBC Interview with Rich Coleman - Jan 10, 2011</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#1023</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1023 - Affidavit no. 1 of Gary Bass made on May 12 2021.pdf" target="_blank">Affidavit no. 1 of Gary Bass made on May 12, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#1022</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1022 - Affidavit no. 1 of Craig Callens sworn on May 12 2021.pdf" target="_blank">Affidavit no. 1 of Craig Callens sworn on May 12, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1021</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1021 - -Previously marked as Ex. L- - Overview Report - Miscellaneous Documents.pdf" target="_blank">(Previously marked as Ex. L) - Overview Report – Miscellaneous Documents</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1020</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1020 - Overview Report Information Relating to the FATF and Egmont Group Trade-Based Money Laundering Report.pdf" target="_blank">Overview Report Information Relating to the FATF & Egmont Group Trade-Based Money Laundering Report</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1019</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1019 - Affidavit no. 1 of Lesley Soper affirmed May 11 2021.pdf" target="_blank">Affidavit no. 1 of Lesley Soper affirmed May 11, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1018</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1018 - Affidavit no. 2 of Cheryl Wenezenki-Yolland sworn May 10 2021.pdf" target="_blank">Affidavit no. 2 of Cheryl Wenezenki-Yolland sworn May 10, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1017</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1017 - OR Criminal Intelligence Service of Canada National Criminal Intelligence Estimate on the Canadian Criminal Marketplace Money Laundering and Fraud -2020-.pdf" target="_blank">OR Criminal Intelligence Service of Canada National Criminal Intelligence Estimate on the Canadian Criminal Marketplace Money Laundering and Fraud (2020)</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1016</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1016 - Overview Report  Basel AML Index 9th Public Edition.pdf" target="_blank">Overview Report Basel AML Index 9th Public Edition</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1015</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1015 - Overview Report - Money Laundering and Proceeds of Crime Prosecutions in British.pdf" target="_blank">Overview Report – Money Laundering and Proceeds of Crime Prosecutions in British</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#1014</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1014 - Overview Report - Cash Payments for Building Supplies.pdf" target="_blank">Overview Report – Cash Payments for Building Supplies</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#1013</p>
