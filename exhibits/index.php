@@ -16,6 +16,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <p style="text-align: center; font-size: 2rem"><strong>Witness Exclusion Order In Effect.</strong></p>
 <p style="text-align: center"><em>If you have been notified that you will be testifying, the Commissioner has directed that, unless you have permission, you may not view hearings, read transcripts or review exhibits for the hearings beginning October 26, 2020, onwards.</em></p>
 <div class="ExhibitElement">
+    <p>#983</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/983 - Opinion of the European Banking Authority on the risks of money laundering and terrorist financing affecting the European Unions financial sector - March 3 2021.pdf" target="_blank">Opinion of the European Banking Authority on the risks of money laundering and terrorist financing affecting the European Union's financial sector - March 3, 2021</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#982</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/982 - Understanding Bank De-risking and Its Effects on Financial Inclusion by Tracey Durner and Liat Shetret - Nov 2015.pdf" target="_blank">Understanding Bank De-risking and Its Effects on Financial Inclusion, by Tracey Durner and Liat Shetret - Nov 2015</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#981</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/981 - Profile of Francien Rense_Redacted.pdf" target="_blank">Profile of Francien Rense_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
+    <p>#980</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/980 - Overview Report Documents Related to Anti-Money Laundering Initiatives in the Netherlands.pdf" target="_blank">Overview Report Documents Related to Anti-Money Laundering Initiatives in the Netherlands</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#979</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/979 - New Zealand Ministry of Health response - July 13 2017_Redacted.pdf" target="_blank">New Zealand Ministry of Health response - July 13, 2017_Redacted</a></p>
 </div>
