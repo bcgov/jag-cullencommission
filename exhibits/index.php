@@ -136,10 +136,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/995 - Affidavit no. 2 of Brad Desmarais affirmed May 11 2021.pdf" target="_blank">Affidavit no. 2 of Brad Desmarais affirmed May 11, 2021</a></p>
 </div>
 <div class="ExhibitElement">
-    <p>#994</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/994 - Affidavit no. 1 of Tobias Louie affirmed May 5 2021.pdf" target="_blank">Affidavit no. 1 of Tobias Louie affirmed May 5, 2021</a></p>
-</div>
-<div class="ExhibitElement">
     <p>#993</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/993 - Affidavit no. 1 of Joel Rank affirmed April 14 2021.pdf" target="_blank">Affidavit no. 1 of Joel Rank affirmed April 14, 2021</a></p>
 </div>
