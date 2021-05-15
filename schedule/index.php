@@ -15,23 +15,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <!--  UPCOMING HEARINGS  -->
 
 <div class="ScheduleList">
-  <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>UPCOMING HEARINGS</strong></p>
-  <p><strong><u>Date</u></strong></p>
-  <p><strong><u>Witness Name</u></strong></p>
-  <p>May 14, 2021</p>
-  <div>
-    <p style="color: red;"><strong>To accommodate the witness in Delft, the Netherlands, the hearing is scheduled to begin at 7 a.m. Pacific Time.</strong></p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Rolf van Wegberg</strong>, Assistant Professor, Faculty of Technology, Policy and Management, Organization & Governance Section, Delft University of Technology</li>
-    </ul>
-    <p style="color: red;"><strong>12 noon - 1 pm Pacific</strong></p>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>(recalled) Rich Coleman</strong>, Former Minister of Public Safety and Solicitor General; Former Minister of Housing and Social Development; Former Minister of Energy and Mines and Minister Responsible for Housing</li>
-    </ul>
-  </div>
-  <div class="ScheduleTranscriptButton">
-    <div></div>
-    <div></div>
+  <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>CLOSING STATEMENTS</strong></p>
+  <!-- <p><strong><u>Date</u></strong></p>
+  <p><strong><u>Witness Name</u></strong></p> -->
+  <div style="grid-column: 1 / span 2; border-style: solid; border-width: 0px 0px 1px 0px; border-color: #999; padding-bottom: 30px">
+    <p><strong>Closing statements will be made by counsel for participants on July 6, 7 and 8, 2021.</strong></p>
+    <p><strong>The anticipated order for these lawyers' oral presentations will be posted here in due course.</strong></p>
   </div>
 </div>
 
@@ -58,6 +47,19 @@ NEW HEARING TEMPLATE
   <p style="background-color: rgb(204, 204, 204); text-align: center; padding: 5px; grid-column: 1 / span 2;"><strong>PAST HEARINGS</strong></p>
   <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p>
+  <p>May 14, 2021</p>
+  <div>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Rolf van Wegberg</strong>, Assistant Professor, Faculty of Technology, Policy and Management, Organization & Governance Section, Delft University of Technology</li>
+    </ul>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>(recalled) Rich Coleman</strong>, Former Minister of Public Safety and Solicitor General; Former Minister of Housing and Social Development; Former Minister of Energy and Mines and Minister Responsible for Housing</li>
+    </ul>
+  </div>
+  <div class="ScheduleTranscriptButton">
+    <div></div>
+    <div></div>
+  </div>
   <p>May 13, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Francien Rense</strong>, Partner, NautaDutilh (Ms. Rense concentrates on enforcement and sanctioning related issues companies, institutions, organizations, officers and professionals face, including as relates to anti-money laundering measures.)</li>
