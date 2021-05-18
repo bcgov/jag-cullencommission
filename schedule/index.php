@@ -56,7 +56,9 @@ NEW HEARING TEMPLATE
     </ul>
   </div>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <div>
+      <a href="/data/transcripts/Transcript May 14, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
+    </div>
     <div>
       <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('549501808'); return false">Watch Video of Session 1</button></p>
       <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('549498999'); return false">Watch Video of Session 2</button></p>
@@ -67,7 +69,7 @@ NEW HEARING TEMPLATE
     <li><strong>Francien Rense</strong>, Partner, NautaDutilh (Ms. Rense concentrates on enforcement and sanctioning related issues companies, institutions, organizations, officers and professionals face, including as relates to anti-money laundering measures.)</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript May 13, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('549045345'); return false">Watch Video of Session</button>
   </div>
   <p>May 12, 2021</p>
@@ -75,7 +77,7 @@ NEW HEARING TEMPLATE
     <li><strong>Craig Hamilton</strong>, Detective Inspector; Acting Director, Financial Crime Group, New Zealand Police</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript May 12, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('548656350'); return false">Watch Video of Session</button>
   </div>
   <p>May 11, 2021</p>
