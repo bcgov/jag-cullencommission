@@ -57,7 +57,8 @@ NEW HEARING TEMPLATE
   </div>
   <div class="ScheduleTranscriptButton">
     <div>
-      <a href="/data/transcripts/Transcript May 14, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
+      <p><a href="/data/transcripts/Transcript May 14, 2021 - Session 1.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Session 1 Transcript</button></a></p>
+      <p><a href="/data/transcripts/Transcript May 14, 2021 - Session 2.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Session 2 Transcript</button></a></p>
     </div>
     <div>
       <p><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('549501808'); return false">Watch Video of Session 1</button></p>
