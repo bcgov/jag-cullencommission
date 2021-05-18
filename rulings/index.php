@@ -20,7 +20,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="RulingTitle"><a href="/files/" target="_blank"></a></p>
 
 -->
-    ApplicationToExcludeEvidenceAndMaintainInformationConfidentiality-Ruling31.pdf
     <p>May 5, 2021</p>
     <p>#32</p>
     <p class="RulingTitle"><a href="/files/ApplicationForOrdersAndDirections-Ruling32.pdf" target="_blank">Application for Certain Orders and Directions</a></p>
