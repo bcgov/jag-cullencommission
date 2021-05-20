@@ -208,6 +208,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/977 - Criminal Disclosure Act 2008.pdf" target="_blank">Criminal Disclosure Act 2008</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#976</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/976 -  Dashboard - CPRA -Criminal Proceeds -Recovery- Act 2009- - April 30 2021_Redacted.pdf" target="_blank">Dashboard - CPRA (Criminal Proceeds (Recovery) Act 2009) - April 30, 2021_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#975</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/975 - Anti-money Laundering and counter-terrorist financing measures New Zealand - Mutual Evaluation Report - April 2021.pdf" target="_blank">Anti-money Laundering and counter-terrorist financing measures New Zealand - Mutual Evaluation Report - April 2021</a></p>
 </div>
