@@ -191,7 +191,7 @@ NEW HEARING TEMPLATE
     <li><strong>Kevin Begg</strong>, Former Assistant Deputy Minister, Policing and Community Safety Branch; Former Director of Police Services</li>
   </ul>
   <div class="ScheduleTranscriptButton">
-    <div></div>
+    <a href="/data/transcripts/Transcript April 21, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('539832170'); return false">Watch Video of Session</button>
   </div>
   <p>April 20, 2021</p>
