@@ -189,7 +189,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Charlene Cieslik</strong>, (Chief Compliance Officer, Localcoin, Principal, Complifact AML Inc., former Chief Compliance Officer, Chief Anti-Money Laundering Officer, and Privacy Officer, Coinsquare Ltd and subsidiaries)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">26 November, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Ward Clapham</strong>, (Former Officer-in-Charge, Richmond RCMP Detachment)</p>
     <div class="WitnessHearingsList">
@@ -282,7 +281,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Giles Dixon</strong>, (Senior Manager, Grant Thornton, Toronto)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">26 November, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Terrance Doyle</strong>, (President, Strategic Growth and Chief Compliance Officer, Great Canadian Gaming Corporation)</p>
     <div class="WitnessHearingsList">
@@ -637,7 +635,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Ryan Mueller</strong>, (Chief Compliance Officer, Netcoins)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">26 November, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Inspector Chris Mullin</strong>, (New Westminster Police Department)</p>
     <div class="WitnessHearingsList">
@@ -945,7 +942,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Peter Warrack</strong>, (Chief Compliance Officer, Bitfinex)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">26 November, 2020</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Ryland Wellwood</strong>, (Civilian Member Analyst, RCMP)</p>
     <div class="WitnessHearingsList">
