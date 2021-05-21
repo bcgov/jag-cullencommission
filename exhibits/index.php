@@ -777,15 +777,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#833</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/833%20-%20Dirty%20Money%20-%20Part%202%20Turning%20the%20Tide%20-%20An%20Independent%20Review%20of%20Money%20Laundering%20in%20B.C.%20by%20Peter%20German%20QC%20March%2031%202019.pdf" target="_blank">“Dirty Money – Part 2 Turning the Tide – An Independent Review of Money Laundering in B.C. Real Estate, Luxury Vehicle Sales & Horse Racing”, by Peter German, QC, March 31, 2019</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/833 - Dirty Money - Part 2 Turning the Tide - An Independent Review of Money Laundering in B.C. by Peter German QC March 31 2019.pdf" target="_blank">“Dirty Money – Part 2 Turning the Tide – An Independent Review of Money Laundering in B.C. Real Estate, Luxury Vehicle Sales & Horse Racing”, by Peter German, QC, March 31, 2019</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#832</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/832%20-%20Dirty%20Money%20Report%20by%20Peter%20German%20March%2031%202018.pdf" target="_blank">Dirty Money Report by Peter German March 31, 2018</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/832 - Dirty Money Report by Peter German March 31 2018.pdf" target="_blank">Dirty Money Report by Peter German March 31, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#831</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/831%20-%20Bio%20Peter%20German%20-long-.pdf" target="_blank">Biography of Peter German</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/831 - Bio Peter German -long-.pdf" target="_blank">Biography of Peter German</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#830</p>
@@ -905,19 +905,19 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#801</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/801%20-%20Briefing%20Note%20-%20Current%20state%20of%20police%20response%20to%20money%20laundering%20in%20BC%20Feb.%2010%202020_Redacted.pdf" target="_blank">Briefing Note - Current state of police response to money laundering in BC, Feb. 10, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/801 - Briefing Note - Current state of police response to money laundering in BC Feb. 10 2020_Redacted.pdf" target="_blank">Briefing Note - Current state of police response to money laundering in BC, Feb. 10, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#800</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/800%20-%20Ministry%20of%20Public%20Safety%20and%20Solicitor%20General%20Policing%20and%20Security%20Branch%20-%20Decision%20Note%20June%207%202019_Redacted.pdf" target="_blank">Ministry of Public Safety and Solicitor General Policing and Security Branch – Decision Note, June 7, 2019_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/800 - Ministry of Public Safety and Solicitor General Policing and Security Branch - Decision Note June 7 2019_Redacted.pdf" target="_blank">Ministry of Public Safety and Solicitor General Policing and Security Branch – Decision Note, June 7, 2019_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#799</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/799%20-%20Joint%20Briefing%20Note%20-%20Issue%20Govt%20has%20directed%20the%20PPSG%20Min%20of%20Fin%20and%20Min%20of%20AG%20to%20examine%20options%20to%20combat%20ML%20in%20BC%20Feb%207%202018_Redacted.pdf" target="_blank">Joint Briefing Note - Issue: Government has directed the PPSG, Ministry of Finance, and the Ministry of AG to examine options to combat money laundering in British Columbia, February 7, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/799 - Joint Briefing Note - Issue Govt has directed the PPSG Min of Fin and Min of AG to examine options to combat ML in BC Feb 7 2018_Redacted.pdf" target="_blank">Joint Briefing Note - Issue: Government has directed the PPSG, Ministry of Finance, and the Ministry of AG to examine options to combat money laundering in British Columbia, February 7, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#798</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/798%20-%20Letter%20from%20ADM%20Pecknold%20to%20Deputy%20Commissioner%20Butterworth-Carr%20Nov.%2022%202017_Redacted.pdf" target="_blank">Letter from ADM Pecknold to Deputy Commissioner Butterworth-Carr, Nov. 22 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/798 - Letter from ADM Pecknold to Deputy Commissioner Butterworth-Carr Nov. 22 2017_Redacted.pdf" target="_blank">Letter from ADM Pecknold to Deputy Commissioner Butterworth-Carr, Nov. 22 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#797</p>
@@ -945,11 +945,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#791</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/791%20-%20Briefing%20Note%20to%20Minister%20Farnworth%20Organized%20Crime%20Priorities%20April%2030%202018_Redacted.pdf" target="_blank">Briefing Note to Minister Farnworth, Organized Crime Priorities, April 30, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/791 - Briefing Note to Minister Farnworth Organized Crime Priorities April 30 2018_Redacted.pdf" target="_blank">Briefing Note to Minister Farnworth, Organized Crime Priorities, April 30, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#790</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/790%20-%20Email%20from%20L.%20Wanamaker%20to%20C.%20Pecknold%20re%20fwd%20German%20Money%20Laundering%2C%20Dec.%2015%202018_Redacted.pdf" target="_blank">Email from L. Wanamaker to C. Pecknold re fwd: German Money Laundering, Dec. 15, 2018_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/790 - Email from L. Wanamaker to C. Pecknold re fwd German Money Laundering, Dec. 15 2018_Redacted.pdf" target="_blank">Email from L. Wanamaker to C. Pecknold re fwd: German Money Laundering, Dec. 15, 2018_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#789</p>
@@ -985,7 +985,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#781</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/781%20-%20Affidavit%20no.1%20of%20Anna%20Fitzgerald%20made%20on%20March%203%202021.pdf" target="_blank">Affidavit no. 1 of Anna Fitzgerald, made on March 3, 2021</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/781 - Affidavit no.1 of Anna Fitzgerald made on March 3 2021.pdf" target="_blank">Affidavit no. 1 of Anna Fitzgerald, made on March 3, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#780</p>
@@ -997,7 +997,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#778</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/778%20-%20Affidavit%20no.1%20of%20Norman%20Shields%20made%20on%20March%2026%202021.pdf" target="_blank"> Affidavit no. 1 of Norman Shields made on March 26, 2021</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/778 - Affidavit no.1 of Norman Shields made on March 26 2021.pdf" target="_blank"> Affidavit no. 1 of Norman Shields made on March 26, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#777</p>
@@ -1053,7 +1053,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#764</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/764%20-%20Email%20chain%20re%20Illegal%20Gaming%20Houses%20-%20July%2023%202015%20-redacted-.pdf" target="_blank">Email chain re Illegal Gaming Houses - July 23, 2015 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/764 - Email chain re Illegal Gaming Houses - July 23 2015 -redacted-.pdf" target="_blank">Email chain re Illegal Gaming Houses - July 23, 2015 (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#763</p>
@@ -1157,7 +1157,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#738</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/738 - Details of Deficiencies Report Deficiency No.5 Act 6 Record Keeping Prescribed Records - May 2020 -redacted-.pdf" target="_blank">Details of Deficiencies Report Deficiency #5 Act 6 Record Keeping Prescribed Records - May 2020 (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/738 - FINTRAC Real Estate Sector Presentation - Toronto Real Estate Board Toronto - Apr 26 2018.pdf" target="_blank">FINTRAC Real Estate Sector Presentation - Toronto Real Estate Board Toronto - Apr 26, 2018</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#737</p>
@@ -1169,7 +1169,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#735</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/735%20-%20Reporting%20Entity%20Sector%20Profiles%20Money%20laundering%20and%20terrorist%20financing%20vulnerability%20assessments%20-%20Mar%2031%202014.pdf" target="_blank">Reporting Entity Sector Profiles Money laundering and terrorist financing vulnerability assessments - Mar 31, 2014</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/735 - Reporting Entity Sector Profiles Money laundering and terrorist financing vulnerability assessments - Mar 31 2014.pdf" target="_blank">Reporting Entity Sector Profiles Money laundering and terrorist financing vulnerability assessments - Mar 31, 2014</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#734</p>
@@ -1193,7 +1193,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#729</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/729%20-%20Affidavit%20of%20Adam%20Ross%20made%20on%20March%209%202021.pdf" target="_blank">Affidavit of Adam Ross made on March 9, 2021</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/729 - Affidavit of Adam Ross made on March 9 2021.pdf" target="_blank">Affidavit of Adam Ross made on March 9, 2021</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#728</p>
@@ -2585,7 +2585,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#389</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/389%20-%20Affidavit%20No.1%20of%20P.%20Tawtel%20made%20December%2014%202020_Redacted.pdf" target="_blank">Affidavit #1 of P. Tawtel, made December 14, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/389 - Affidavit No.1 of P. Tawtel made December 14 2020_Redacted.pdf" target="_blank">Affidavit #1 of P. Tawtel, made December 14, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#388</p>
@@ -2905,7 +2905,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#309</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/309%20-%20MOF2403.0001%20to%20MOF2448.001_Redacted.pdf" target="_blank">A collection of emails – Beneficial Ownership Transparency consultation submissions_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/309 - MOF2403.0001 to MOF2448.001_Redacted.pdf" target="_blank">A collection of emails – Beneficial Ownership Transparency consultation submissions_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#308</p>
