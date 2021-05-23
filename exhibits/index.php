@@ -28,10 +28,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1022 - Affidavit no. 1 of Craig Callens sworn on May 12 2021.pdf" target="_blank">Affidavit no. 1 of Craig Callens sworn on May 12, 2021</a></p>
 </div>
 <div class="ExhibitElement">
-    <p>#1021</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1021 - -Previously marked as Ex. L- - Overview Report - Miscellaneous Documents.pdf" target="_blank">(Previously marked as Ex. L) - Overview Report – Miscellaneous Documents</a></p>
-</div>
-<div class="ExhibitElement">
     <p>#1020</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1020 - Overview Report Information Relating to the FATF and Egmont Group Trade-Based Money Laundering Report.pdf" target="_blank">Overview Report Information Relating to the FATF & Egmont Group Trade-Based Money Laundering Report</a></p>
 </div>
