@@ -573,7 +573,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#884</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/884 - Establishment of the Organized Crime Agency of BC - Attorney General - Briefing No.3 - Feb 23 1999.pdf" target="_blank">Email from Michael Graydon to Lori Wanamaker- May 15, 2012_redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/884 - Establishment of the Organized Crime Agency of BC - Attorney General - Briefing No.3 - Feb 23 1999.pdf" target="_blank">Establishment of the Organized Crime Agency of BC - Attorney General - Briefing #3 - Feb 23, 1999</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#883</p>
@@ -2610,10 +2610,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="ExhibitElement">
     <p>#383</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/383 - Curriculum Vitae of Colin King.pdf" target="_blank">Curriculum Vitae of Colin King</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#382</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/382 - Unexplained Wealth Orders - UK Experience and Lessons for BC October 2020 -002-_Redacted.pdf" target="_blank">Unexplained Wealth Orders - UK Experience and Lessons for BC October 2020 (002)_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#381</p>
