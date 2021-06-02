@@ -290,7 +290,7 @@ NEW HEARING TEMPLATE
       <p class="SchedulePanelName">Joint Illegal Gaming Investigation Team Panel:</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>S/Sgt. Joel Hussey</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
-        <li><strong>Insp. Stephen Cocks</strong>, Combined Forces Special Enforcement Unit – BC, Joint Illegal Gaming Investigation Team</li>
+        <li><strong>Insp. Stephen Cocks</strong>, Superintendent in charge of E division RCMP, Special Investigative and Operational Techniques (SIOT)</li>
       </ul>
     </div>
   </div>
