@@ -2612,6 +2612,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/383 - Curriculum Vitae of Colin King.pdf" target="_blank">Curriculum Vitae of Colin King</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#382</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/382 - Unexplained Wealth Orders - UK Experience and Lessons for BC October 2020 -002-_Redacted.pdf" target="_blank">Unexplained Wealth Orders - UK Experience and Lessons for BC October 2020 (002)_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#381</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/381 - Curriculum Vitae of Anton Moiseienko_Redacted.pdf" target="_blank">Curriculum Vitae of Anton Moiseienko</a></p>
 </div>
