@@ -207,7 +207,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
     </div>
-    <p class="NamesOfWitnesses"><strong>Insp. Stephen Cocks</strong>, (Superintendent in charge of E division RCMP, Special Investigative and Operational Techniques (SIOT))</p>
+    <p class="NamesOfWitnesses"><strong>Supt. Stephen Cocks</strong>, (Superintendent in charge of E division RCMP, Special Investigative and Operational Techniques (SIOT))</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">7 April, 2021</strong></p>
     </div>
