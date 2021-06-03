@@ -2612,6 +2612,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/383 - Curriculum Vitae of Colin King.pdf" target="_blank">Curriculum Vitae of Colin King</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#382</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/382 - Unexplained Wealth Orders - UK Experience and Lessons for BC October 2020 -002-_Redacted.pdf" target="_blank">Unexplained Wealth Orders - UK Experience and Lessons for BC October 2020 (002)_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#381</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/381 - Curriculum Vitae of Anton Moiseienko_Redacted.pdf" target="_blank">Curriculum Vitae of Anton Moiseienko</a></p>
 </div>
@@ -3469,11 +3473,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#167</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/167 - Applied_BCLC0011939.pdf" target="_blank">Mike Hiller notebook #2 – June 1, 2009 to June 16, 2010_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/167 - Mike Hiller notebook No.2 - June 1 2009 to June 16 2010_Redacted.pdf" target="_blank">Mike Hiller notebook #2 – June 1, 2009 to June 16, 2010_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#166</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/166 - Applied_Affidavit No.1 of Michael Hiller.pdf" target="_blank">Affidavit no. 1 of Michael Hiller, sworn November 8, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/166 - Affidavit no. 1 of Michael Hiller sworn November 8 2020_Redacted.pdf" target="_blank">Affidavit no. 1 of Michael Hiller, sworn November 8, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#165</p>
@@ -3557,7 +3561,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#145</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/145 - Affidavit No.1 of  Robert Barber made on October 29 2020_Redacted.pdf" target="_blank">Affidavit #1 of Robert Barber, made on October 29, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/145 - Affidavit No.1 of Robert Barber made on October 29 2020_Redacted.pdf" target="_blank">Affidavit #1 of Robert Barber, made on October 29, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#144</p>
@@ -3565,7 +3569,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#143</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/143 - Exhibit 143_Applied_Affidavit No. 1 of Bal Bamra.pdf" target="_blank">Affidavit #1 of Bal Bamra, affirmed October 14, 2020_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/143 - Affidavit No.1 of Bal Bamra affirmed October 14 2020_Redacted.pdf" target="_blank">Affidavit #1 of Bal Bamra, affirmed October 14, 2020_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#142</p>
@@ -3605,7 +3609,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#133</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/133 - Applied_BCLC7039.pdf" target="_blank">Email from Tottenham to John Karlovcec, re Lisa Gao Summary – December 5, 2017_Redacted</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/133 - Email from Tottenham to John Karlovcec re Lisa Gao Summary - December 5 2017_Redacted.pdf" target="_blank">Email from Tottenham to John Karlovcec, re Lisa Gao Summary – December 5, 2017_Redacted</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#132</p>
@@ -3645,7 +3649,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 </div>
 <div class="ExhibitElement">
     <p>#123</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/123 - Applied_BCLC7905-BCLC7914.pdf" target="_blank">A collection of 10 target sheets (redacted)</a></p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/123 - A collection of 10 target sheets -redacted-.pdf" target="_blank">A collection of 10 target sheets (redacted)</a></p>
 </div>
 <div class="ExhibitElement">
     <p>#122</p>
