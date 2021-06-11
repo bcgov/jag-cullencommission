@@ -145,7 +145,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
                 <p><strong>BCLC</strong></p>
             </div>
             <div class="rTableCell">
-                <p>William B. Smart, QC<br />Shannon P. Ramsay<br />Susan Humphrey</p>
+                <p>William B. Smart, QC<br />K. Michael Stephens<br />Susan Humphrey</p>
             </div>
             <div class="rTableCell">
                 <p>Hunter Litigation Chambers Law Corporation</p>
