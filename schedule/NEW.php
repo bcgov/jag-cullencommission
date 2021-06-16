@@ -553,8 +553,8 @@ NEW HEARING TEMPLATE
   </div>
   <p>February 25, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>Michael Scott</strong>, Director, Compliance and Investigations, Real Estate Council of British Columbia</li>
     <li><strong>Raheel Humayun</strong>, Managing Director, Investigations, Office of the Superintendent of Real Estate</li>
+    <li><strong>Michael Scott</strong>, Director, Compliance and Investigations, Real Estate Council of British Columbia</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <a href="/data/transcripts/Transcript February 25, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
@@ -742,8 +742,8 @@ NEW HEARING TEMPLATE
   <p>January 29, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Jim Lightbody</strong> (cont’d), Chief Executive Officer and President, British Columbia Lottery Corporation</li>
-    <li><strong>Kevin Sweeney</strong>, Director of Security, Privacy and Compliance, Legal, Compliance, Security Division, British Columbia Lottery Corporation</li>
     <li><strong>Terry Towns</strong>, Former Vice President of Corporate Security and Compliance, British Columbia Lottery Corporation</li>
+    <li><strong>Kevin Sweeney</strong>, Director of Security, Privacy and Compliance, Legal, Compliance, Security Division, British Columbia Lottery Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <a href="/data/transcripts/Transcript January 29, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
