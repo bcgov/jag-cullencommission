@@ -30,7 +30,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Gurmit Aujla</strong>, (Director, Internal Audit, Audit Service Department, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">21 January, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">21 January, 2021 (Affidavit #1) – Ex. 481</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Don Avison</strong>, (QC, Executive Director / CEO, Law Society of British Columbia)</p>
     <div class="WitnessHearingsList">
@@ -51,7 +51,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">19 November, 2020</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #1) – Ex. 992</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Rob Barber</strong>, (Former Gaming Policy and Enforcement Branch (GPEB) Investigator, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
@@ -71,7 +71,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Gary Bass</strong>, <strong style="color: red;">(NEED TITLE)</strong></p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #1) – Ex. 1023</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Barry Baxter</strong>, (Former RCMP)</p>
     <div class="WitnessHearingsList">
@@ -108,7 +108,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Cpl. Karen Best</strong>, (RCMP)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">23 February, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 March, 2021 (Affidavit #2) – Ex. 765</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Sue Birge</strong>, (Former Executive Director, Policy and Legislation Division, Gaming Policy Enforcement Branch; Former Acting Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch)</p>
     <div class="WitnessHearingsList">
@@ -120,7 +120,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Richard Block</strong>, (Senior Specialist, Regulatory Reporting and Fixed Assets, BCLC)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021 (Affidavit #1) – Ex. 785</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Shirley Bond</strong>, (Leader of the Opposition; Former Minister of Public Safety and Solicitor General; Former Attorney General and Minister of Justice)</p>
     <div class="WitnessHearingsList">
@@ -158,7 +158,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Craig Callens</strong>, <strong style="color: red;">(NEED TITLE)</strong></p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #1) – Ex. 1022</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Chris Carter</strong>, (Deputy Registrar of Mortgage Brokers, BCFSA)</p>
     <div class="WitnessHearingsList">
@@ -195,7 +195,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Calvin Chrustie</strong>, (Former RCMP)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">9 April, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #1) – Ex. 999</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Charlene Cieslik</strong>, (Chief Compliance Officer, Localcoin, Principal, Complifact AML Inc., former Chief Compliance Officer, Chief Anti-Money Laundering Officer, and Privacy Officer, Coinsquare Ltd and subsidiaries)</p>
     <div class="WitnessHearingsList">
@@ -242,7 +242,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Caterina Cuglietta</strong>, (AML Business Intelligence Analyst, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">21 January, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021 (Affidavit #2) – Ex. 784</strong></p>
     </div>
   </div>
 </div>
@@ -251,7 +251,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Sarah D’Ambrogio</strong>, <strong style="color: red;">(NEED TITLE)</strong></p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit & Attachments) – Ex. 1000-1005</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Reuben Danakody</strong>, (Director, Land Owner Transparency Registry)</p>
     <div class="WitnessHearingsList">
@@ -284,7 +284,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">1 February, 2021</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 February, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #2) – Ex. 995</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Beth Dewitt</strong>, (National Leader, Data Protection and Privacy, Deloitte LLP)</p>
     <div class="WitnessHearingsList">
@@ -332,7 +332,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">3 February, 2021</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">4 February, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #2) – Ex. 998</strong></p>
     </div>
   </div>
 </div>
@@ -350,11 +350,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Anna Fitzgerald</strong>, (Executive Director, Compliance Division, Gaming Policy and Enforcement Branch (GPEB))</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021 (Affidavit #1) - Ex 781</strong></p>
     </div>
-    <p class="NamesOfWitnesses"><strong>Sherri-Lynn Foran</strong> (Affidavit) – Ex. 1006, <strong style="color: red;">(NEED TITLE)</strong></p>
+    <p class="NamesOfWitnesses"><strong>Sherri-Lynn Foran</strong>, <strong style="color: red;">(NEED TITLE)</strong></p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit) – Ex. 1006</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Gord Friesen</strong>, (Former British Columbia Lottery Corporation (BCLC) Manager of Investigations, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
@@ -409,7 +409,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Marko Goluza</strong>, (Director, Professional Conduct, Insurance Council of British Columbia)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021 (Affidavit #1) – Ex. 777</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Professor Joshua Gordon</strong>, (Simon Fraser University)</p>
     <div class="WitnessHearingsList">
@@ -489,7 +489,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Robin Jomha</strong>, (Director, Corporate Registration Unit, Licensing, Registration and Certification Division, GPEB)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021 (Affidavit #1) – Ex. 782</strong></p>
     </div>
   </div>
 </div>
@@ -513,7 +513,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 January, 2021</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">26 January, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021 (Affidavit #2) – Ex. 783</strong></p>
     </div>
   </div>
 </div>
@@ -526,7 +526,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Bill Lang</strong>, (Executive Director, VIP, Gateway Casinos & Entertainment Ltd.)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">21 January, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">21 January, 2021 (Affidavit #1 – Ex. 480)</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Tim Law</strong>, (UK Consultant, Co-Author of <em>Towards a Global Norm of Beneficial Ownership Transparency</em>)</p>
     <div class="WitnessHearingsList">
@@ -534,7 +534,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Michelle Lee</strong>, (Executive Director, Consumer Taxation Programs Branch, Revenue Division, Ministry of Finance of British Columbia)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021 (Affidavit #1) – Ex. 779</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Stone Lee</strong>, (British Columbia Lottery Corporation (BCLC) Investigator, Former Great Canadian Gaming Corporation (GCGC) Surveillance Manager)</p>
     <div class="WitnessHearingsList">
@@ -574,7 +574,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Tobias Louie</strong>, <strong style="color: red;">(NEED TITLE)</strong></p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #1) – Ex. 994</strong></p>
     </div>
   </div>
 </div>
@@ -606,7 +606,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 February, 2021</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">11 February, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #2)  - Ex. 997</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Haig McCarrell</strong>, (Director of Investment, Science and Technology, Statistics Canada)</p>
     <div class="WitnessHearingsList">
@@ -750,7 +750,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <div class="WitnessList">
     <p class="NamesOfWitnesses"><strong>Joel Rank</strong>, <strong style="color: red;">(NEED TITLE)</strong></p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #1) – Ex. 993</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Deputy Chief Constable Laurence Rankin</strong>, (Vancouver Police Department)</p>
     <div class="WitnessHearingsList">
@@ -780,18 +780,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Adam Ross</strong>, <strong style="color: red;">(NEED TITLE)</strong></p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">12 March, 2021 (Affidavit) – Ex. 729</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Brad Rudnicki</strong>, (Anti-Money Laundering Intelligence Specialist, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 March, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavits #1 & #2) – Ex. 1007 & 1008</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Annette Ryan</strong>, (Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 January, 2021</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">12 March, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 March, 2021 (Affidavit #1 and Ex. A) – Ex. 990-991</strong></p>
     </div>
   </div>
 </div>
@@ -832,7 +832,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Norman Shields</strong>, (Vice President, Finance and Administration, BMW Canada)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021 (Affidavit #1) – Ex. 778</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Jeffrey Simser</strong>, (Co-Author of <em>Civil Asset Forfeiture in Canada</em>)</p>
     <div class="WitnessHearingsList">
@@ -855,7 +855,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Bud Smith</strong>, (Former Board Chair, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">4 February, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #2) – Ex. 996</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Professor Tsur Somerville</strong>, (University of British Columbia)</p>
     <div class="WitnessHearingsList">
@@ -867,7 +867,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Lesley Soper</strong>, <strong style="color: red;">(NEED TITLE)</strong></p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #1) – Ex. 1019</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Jesse Spiro</strong>, (Global Head of Policy & Regulatory Affairs Chainalysis)</p>
     <div class="WitnessHearingsList">
@@ -892,7 +892,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     </div>
     <p class="NamesOfWitnesses"><strong>Beatrice Sturtevant</strong>, (Managing Director, Canadian Jewellers Association)</p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021 (Affidavit #1) – Ex. 776</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Derek Sturko</strong>, (Former Assistant Deputy Minister and General Manager, Gaming Policy and Enforcement Branch)</p>
     <div class="WitnessHearingsList">
@@ -928,7 +928,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
       <p class="HearingDateLink"><strong class="WitnessHearingDate">4 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">5 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">10 November, 2020</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">31 March, 2021 (Affidavit #3) – Ex. 780</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Terry Towns</strong>, (Former Vice President of Corporate Security and Compliance, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
@@ -984,9 +984,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">25 November, 2020</strong></p>
     </div>
-    <p class="NamesOfWitnesses"><strong>Jiang Wei Liang</strong> (Affidavit #1) – Ex. 766, <strong style="color: red;">(NEED TITLE)</strong></p>
+    <p class="NamesOfWitnesses"><strong>Jiang Wei Liang</strong>, <strong style="color: red;">(NEED TITLE)</strong></p>
     <div class="WitnessHearingsList">
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 March, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">30 March, 2021 (Affidavit #1) – Ex. 766</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Ryland Wellwood</strong>, (Civilian Member Analyst, RCMP)</p>
     <div class="WitnessHearingsList">
@@ -996,7 +996,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Cheryl Wenezenki-Yolland</strong>, (Former Associate Deputy Minister of Finance)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">27 April, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #2) – Ex. 1018</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Frederica Wilson</strong>, (Executive Director and Deputy CEO, Federation of Law Societies of Canada)</p>
     <div class="WitnessHearingsList">
