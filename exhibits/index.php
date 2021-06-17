@@ -60,26 +60,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1014 - Overview Report - Cash Payments for Building Supplies.pdf" target="_blank">Overview Report – Cash Payments for Building Supplies</a></p>
 </div>
 <div class="ExhibitElement">
-    <p>#1013</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1013 - BCLC0016998 -referred in paragraph 4 of Affidavit no. 2 of Bradley Rudnicki-.xlsx" target="_blank">BCLC0016998 (referred in paragraph 4 of Affidavit no. 2 of Bradley Rudnicki)</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#1012</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1012 - BCLC0016968 -referred in paragraph 3b of Affidavit no. 1 of Bradley Rudnicki-.xlsx" target="_blank">BCLC0016968 (referred in paragraph 3b of Affidavit no. 1 of Bradley Rudnicki)</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#1011</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1011 - BCLC0016967 -referred in paragraph 3a of Affidavit no. 1 of Bradley Rudnicki-.xlsx" target="_blank">BCLC0016967 (referred in paragraph 3a of Affidavit no. 1 of Bradley Rudnicki)</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#1010</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1010 - BCLC0016966 -referred in paragraph 3d of Affidavit no. 1 of Bradley Rudnicki-.xlsx" target="_blank">BCLC0016966 (referred in paragraph 3d of Affidavit no. 1 of Bradley Rudnicki)</a></p>
-</div>
-<div class="ExhibitElement">
-    <p>#1009</p>
-    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1009 - BCLC0016965 -referred in paragraph 3c of Affidavit no. 1 of Bradley Rudnicki-.xlsx" target="_blank">BCLC0016965 (referred in paragraph 3c of Affidavit no. 1 of Bradley Rudnicki)</a></p>
-</div>
-<div class="ExhibitElement">
     <p>#1008</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/1008 - Affidavit no. 2 of Bradley Rudnicki affirmed May 5 2021.pdf" target="_blank">Affidavit no. 2 of Bradley Rudnicki affirmed May 5, 2021</a></p>
 </div>
