@@ -55,7 +55,7 @@ NEW HEARING TEMPLATE
       <li><strong>(recalled) Rich Coleman</strong>, Former Minister of Public Safety and Solicitor General; Former Minister of Housing and Social Development; Former Minister of Energy and Mines and Minister Responsible for Housing</li>
     </ul>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Testified previously, additional affidavits entered.</p>
+      <p class="SchedulePanelName">Testified previously, additional affidavits entered. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Annette Ryan</strong> (Affidavit #1 and Ex. A) – Ex. 990-991, (Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC)</li>
         <li><strong>Gurprit Bains</strong> (Affidavit #1) – Ex. 992, (Deputy Chief Legal Officer, Law Society of British Columbia)</li>
@@ -69,7 +69,7 @@ NEW HEARING TEMPLATE
       </ul>
     </div>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Witnesses did not testify. Affadavit entered instead.</p>
+      <p class="SchedulePanelName">Witnesses did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Joel Rank</strong> (Affidavit #1) – Ex. 993, <strong style="color: red;">NEED TITLE</strong></li>
         <li><strong>Tobias Louie</strong> (Affidavit #1) – Ex. 994, <strong style="color: red;">NEED TITLE</strong></li>
@@ -346,7 +346,7 @@ NEW HEARING TEMPLATE
   <p>March 31, 2021</p>
   <div>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Testified previously, additional affidavits entered.</p>
+      <p class="SchedulePanelName">Testified previously, additional affidavits entered. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Daryl Tottenham</strong> (Affidavit #3) – Ex. 780, British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer</li>
         <li><strong>Robert Kroeker</strong> (Affidavit #2) – Ex. 783, Former Officer, RCMP; Former Director of Civil Forfeiture and Former Vice President, Compliance and Legal, Great Canadian Gaming Corporation; Former Vice President, Legal, Compliance and Security/Chief Compliance Officer, British Columbia Lottery Corporation</li>
@@ -354,7 +354,7 @@ NEW HEARING TEMPLATE
       </ul>
     </div>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead.</p>
+      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Beatrice Sturtevant</strong> (Affidavit #1) – Ex. 776, Managing Director, Canadian Jewellers Association</li>
         <li><strong>Marko Goluza</strong> (Affidavit #1) – Ex. 777, Director, Professional Conduct, Insurance Council of British Columbia</li>
@@ -382,13 +382,13 @@ NEW HEARING TEMPLATE
       </ul>
     </div>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Testified previously, additional affidavits entered.</p>
+      <p class="SchedulePanelName">Testified previously, additional affidavits entered. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Cpl. Karen Best</strong> (Affidavit #2) – Ex. 765, RCMP</li>
       </ul>
     </div>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead.</p>
+      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Jiang Wei Liang</strong> (Affidavit #1) – Ex. 766, <strong style="color: red;">NEED TITLE</strong></li>
       </ul>
@@ -426,7 +426,7 @@ NEW HEARING TEMPLATE
       </ul>
     </div>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead.</p>
+      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Adam Ross</strong> (Affidavit) – Ex. 729, <strong style="color: red;">NEED TITLE</strong></li>
       </ul>
@@ -800,7 +800,7 @@ NEW HEARING TEMPLATE
       <li><strong>Kevin deBruyckere</strong>, Director, AML & Investigations, Legal Compliance, Security Division, British Columbia Lottery Corporation</li>
     </ul>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead.</p>
+      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Bill Lang</strong> (Affidavit #1) – Ex. 480, Executive Director, VIP, Gateway Casinos & Entertainment Ltd.</li>
         <li><strong>Gurmit Aujla</strong> (Affidavit #1) – Ex. 481, Director, Internal Audit, Audit Service Department, British Columbia Lottery Corporation</li>
