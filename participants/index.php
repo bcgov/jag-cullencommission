@@ -56,6 +56,20 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         </div>
         <div class="rTableRow">
             <div class="rTableCell">
+                <p>Ross Alderson</p>
+            </div>
+            <div class="rTableCell">
+                <p><strong>Ross Alderson</strong></p>
+            </div>
+            <div class="rTableCell">
+                <p>Jaffe, Paul E</p>
+            </div>
+            <div class="rTableCell">
+                <p>Jaffe, Paul E</p>
+            </div>
+        </div>
+        <div class="rTableRow">
+            <div class="rTableCell">
                 <p>Government of Canada</p>
             </div>
             <div class="rTableCell">
