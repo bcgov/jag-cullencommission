@@ -19,28 +19,33 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p>#</p>
     <p class="RulingTitle"><a href="/files/" target="_blank"></a></p>
 
--->
-    <p>May 5, 2021</p>
+    -->
+
+    <p>25 June, 2021</p>
+    <p>#33</p>
+    <p class="RulingTitle"><a href="/files/ApplicationForParticipantStatus-Ruling33.pdf" target="_blank">Renewed Application for Participant Status</a></p>
+
+    <p>5 May, 2021</p>
     <p>#32</p>
     <p class="RulingTitle"><a href="/files/ApplicationForOrdersAndDirections-Ruling32.pdf" target="_blank">Application for Certain Orders and Directions</a></p>
 
-    <p>April 22, 2021</p>
+    <p>22 April, 2021</p>
     <p>#31</p>
     <p class="RulingTitle"><a href="/files/ApplicationToExcludeEvidenceAndMaintainInformationConfidentiality-Ruling31.pdf" target="_blank">Application to Exclude Evidence and Maintain Information Confidentiality</a></p>
 
-    <p>March 29, 2021</p>
+    <p>29 March, 2021</p>
     <p>#30</p>
     <p class="RulingTitle"><a href="/files/ApplicationForWitnessAccommodation-Ruling30.pdf" target="_blank">Application for Witness Accommodation</a></p>
 
-    <p>March 12, 2021</p>
+    <p>12 March, 2021</p>
     <p>#29</p>
     <p class="RulingTitle"><a href="/files/BCGEUApplicationToAdmitEvidenceThroughPanel-Ruling29.pdf" target="_blank">Application to Admit Evidence Through a Panel</a></p>
 
-    <p>February 23, 2021</p>
+    <p>23 February, 2021</p>
     <p>#28</p>
     <p class="RulingTitle"><a href="/files/ApplicationForWitnessSafetyMeasuresRuling28.pdf" target="_blank">Application for Witness Safety Measures</a></p>
 
-    <p>February 23, 2021</p>
+    <p>23 February, 2021</p>
     <p>#27</p>
     <p class="RulingTitle"><a href="/files/ApplicationForAccessToSurveillanceFootageRuling27.pdf" target="_blank">Application for Access to Surveillance Footage</a></p>
 
