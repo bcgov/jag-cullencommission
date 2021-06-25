@@ -7,6 +7,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 ?>
 <h1>Media</h1>
 <div class="ExpandableSectionAccordion">
+<div class="ExpandableSectionTitleContainer" id="ExpandableSection27">
+        <p class="ExpandableSectionTitle">Announces Additional Witnesses, Adjusted Closing Submission Dates and New Participant</p>
+        <p class="ExpandableSectionUnderTitleLeft">For Immediate Release </p>
+        <p class="ExpandableSectionUnderTitleRight">June 25, 2021</p>
+    </div>
+    <div class="ExpandableSection" id="ExpandableSectionContent27">
+        <h2>Announces Additional Witnesses, Adjusted Closing Submission Dates and New Participant</h2>
+        <p><strong>Vancouver, B.C.</strong> - The Commission of Inquiry into Money Laundering in British Columbia has adjusted the dates for closing submissions to accommodate developments that include additional witnesses, a recent application for participant status, the desire on the part of some participants for additional time to prepare closing submissions, and the ability to address any notices of misconduct (under the <em>Public Inquiry Act</em>) prior to closing submissions.</p>
+        <p>The revised dates for closing submissions are being determined in consultation with participants and are expected to occur in September 2021. They will be posted on the Commission’s website in due course. Hearing dates for additional witness testimony are expected to be announced in the next several weeks.</p>
+        <p>In addition, Commissioner Cullen has just released a Ruling on an application for participant status submitted by Ross Alderson, former Director of Anti-Money Laundering at the British Columbia Lottery Corporation. Mr. Alderson has been granted participant status. The Ruling can be found here: <a href="http://cs-site:3001/files/ApplicationForParticipantStatus-Ruling33.pdf">Ruling #33</a>.</p>
+        <p>The additional witnesses are Mr. Alderson and Robert (Bob) Boyle, of Ernst & Young, the author of two expert reports that were furnished by BCLC to the Commission near the end of the evidence hearings, which ran from October 2020 to May 2021. These reports have not been marked or entered into evidence to date. The dates for the testimony of these two witnesses will be provided in due course.</p>
+        <p>The timeline for submission of the final report to the Province by December 15, 2021 remains unchanged.</p>
+        <p><strong>About the Commission</strong></p>
+        <p>The Commission of Inquiry into Money Laundering in British Columbia was announced on May 15, 2019 by Premier John Horgan. It is independent of government. Led by Commissioner Austin Cullen, a judge of the British Columbia Supreme Court, the Commission is looking at the full scope of money laundering in British Columbia, including real estate, gaming, financial institutions, and the corporate and professional sectors. The Commission is also examining regulatory authorities and barriers to effective law enforcement of money laundering activities. The Commission has the ability to compel witnesses and order the production of documents and records.</p>
+        <p>The Commissioner’s final report will be delivered to the Provincial Government by December 15, 2021.</p>
+    </div>
     <div class="ExpandableSectionTitleContainer" id="ExpandableSection26">
         <p class="ExpandableSectionTitle">End of Witness Testimony and Closing Statements</p>
         <p class="ExpandableSectionUnderTitleLeft"></p>
@@ -869,6 +885,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
         });
         $('#ExpandableSection26').click(function() {
             $('#ExpandableSectionContent26').slideToggle(time);
+        });
+        $('#ExpandableSection27').click(function() {
+            $('#ExpandableSectionContent27').slideToggle(time);
         });
         let openSection = null;
         if (typeof(window.URLSearchParams) != "undefined") {
