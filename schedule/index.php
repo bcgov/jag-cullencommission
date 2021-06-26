@@ -18,7 +18,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
   <!-- <p><strong><u>Date</u></strong></p>
   <p><strong><u>Witness Name</u></strong></p> -->
   <div style="grid-column: 1 / span 2; border-style: solid; border-width: 0px 0px 1px 0px; border-color: #999; padding-bottom: 30px">
-    <p><strong>Closing statements will be made by counsel for participants on July 6, 7 and 8, 2021.</strong></p>
+    <p><strong>Closing statements are expected to be made by counsel for participants in September. Dates will be posted here in due course.</strong></p>
     <p><strong>The anticipated order for these lawyers' oral presentations will be posted here in due course.</strong></p>
   </div>
 </div>
