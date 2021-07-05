@@ -1290,9 +1290,17 @@ NEW HEARING TEMPLATE
     <div><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('475295245'); return false">Watch Video of Session</button></div>
   </div>
   <p>November 2, 2020</p>
-  <ul class="ScheduleListWitnesses">
-    <li><strong>Ken Ackles</strong>, Gaming Policy and Enforcement Branch (GPEB) Manager of Investigations, Former RCMP Officer</li>
-  </ul>
+  <div>
+    <ul class="ScheduleListWitnesses">
+      <li><strong>Ken Ackles</strong>, Gaming Policy and Enforcement Branch (GPEB) Manager of Investigations, Former RCMP Officer</li>
+    </ul>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Witnesses did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Bal Bamra</strong> (Affidavit #1) – Ex. 143, <strong style="color: red;">NEED TITLE</strong></li>
+      </ul>
+    </div>
+  </div>
   <div class="ScheduleTranscriptButton">
     <a href="/data/transcripts/Transcript November 2, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <div><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('475195357'); return false">Watch Video of Session</button></div>

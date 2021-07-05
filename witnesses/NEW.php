@@ -47,11 +47,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
 <div class="WitnessListContainer">
   <h2 class="WitnessAlphabetTitle">B</h2>
   <div class="WitnessList">
-    <p class="NamesOfWitnesses"><strong>Gurprit Bains</strong>, (Deputy Chief Legal Officer, Law Society of British Columbia)</p>
+  <p class="NamesOfWitnesses"><strong>Gurprit Bains</strong>, (Deputy Chief Legal Officer, Law Society of British Columbia)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">18 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">19 November, 2020</strong></p>
       <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavit #1) – Ex. 992</strong></p>
+    </div>
+    <p class="NamesOfWitnesses"><strong>Bal Bamra</strong>, <strong style="color: red;">(NEED TITLE)</strong></p>
+    <div class="WitnessHearingsList">
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">2 November, 2020 (Affidavit #1) – Ex. 143</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Rob Barber</strong>, (Former Gaming Policy and Enforcement Branch (GPEB) Investigator, Former RCMP Officer)</p>
     <div class="WitnessHearingsList">
