@@ -71,13 +71,13 @@ NEW HEARING TEMPLATE
     <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Witnesses did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
-        <li><strong>Joel Rank</strong> (Affidavit #1) – Ex. 993, <strong style="color: red;">NEED TITLE</strong></li>
-        <li><strong>Tobias Louie</strong> (Affidavit #1) – Ex. 994, <strong style="color: red;">NEED TITLE</strong></li>
-        <li><strong>Sarah D’Ambrogio</strong> (Affidavit & Attachments) – Ex. 1000-1005, <strong style="color: red;">NEED TITLE</strong></li>
-        <li><strong>Sherri-Lynn Foran</strong> (Affidavit) – Ex. 1006, <strong style="color: red;">NEED TITLE</strong></li>
-        <li><strong>Lesley Soper</strong> (Affidavit #1) – Ex. 1019, <strong style="color: red;">NEED TITLE</strong></li>
-        <li><strong>Craig Callens</strong> (Affidavit #1) – Ex. 1022, <strong style="color: red;">NEED TITLE</strong></li>
-        <li><strong>Gary Bass</strong> (Affidavit #1) – Ex. 1023, <strong style="color: red;">NEED TITLE</strong></li>
+        <li><strong>Joel Rank</strong> (Affidavit #1) – Ex. 993, Manager in the Project Management Office of the Canada Border Services Agency (CBSA) Assessment and Revenue Manager (CARM) Project</li>
+        <li><strong>Tobias Louie</strong> (Affidavit #1) – Ex. 994, Executive Director of the BC Ferry Authority and the former Executive Director of the Corporate Policy and Planning Office (CPPO) in the Ministry of Public Safety and Solicitor General (PSSG)</li>
+        <li><strong>Sarah D’Ambrogio</strong> (Affidavit & Attachments) – Ex. 1000-1005, Policy Analyst for Canada Border Services Agency (CBSA)</li>
+        <li><strong>Sherri-Lynn Foran</strong> (Affidavit) – Ex. 1006, Director of the Appeals & Enforcement Litigation Division of the Recourse Directorate, in the Finance and Corporate Management Branch of the Canada Border Services Agency (CBSA)</li>
+        <li><strong>Lesley Soper</strong> (Affidavit #1) – Ex. 1019, Director-General in the National and Cyber Security Branch of Public Safety Canada</li>
+        <li><strong>Craig Callens</strong> (Affidavit #1) – Ex. 1022, Retired Deputy Commissioner of RCMP</li>
+        <li><strong>Gary Bass</strong> (Affidavit #1) – Ex. 1023, Former member of RCMP</li>
       </ul>
     </div>
   </div>
@@ -390,7 +390,7 @@ NEW HEARING TEMPLATE
     <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
-        <li><strong>Jiang Wei Liang</strong> (Affidavit #1) – Ex. 766, <strong style="color: red;">NEED TITLE</strong></li>
+        <li><strong>Jiang Wei Liang</strong> (Affidavit #1) – Ex. 766, Businessman</li>
       </ul>
     </div>
   </div>
@@ -428,7 +428,7 @@ NEW HEARING TEMPLATE
     <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
-        <li><strong>Adam Ross</strong> (Affidavit) – Ex. 729, <strong style="color: red;">NEED TITLE</strong></li>
+        <li><strong>Adam Ross</strong> (Affidavit) – Ex. 729, Consultant, White Label Insights</li>
       </ul>
     </div>
   </div>
@@ -1297,7 +1297,7 @@ NEW HEARING TEMPLATE
     <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Witnesses did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
       <ul class="ScheduleListWitnesses">
-        <li><strong>Bal Bamra</strong> (Affidavit #1) – Ex. 143, <strong style="color: red;">NEED TITLE</strong></li>
+        <li><strong>Bal Bamra</strong> (Affidavit #1) – Ex. 143, Manager, Anti-Money Laundering Intelligence for British Columbia Lottery Corporation</li>
       </ul>
     </div>
   </div>
