@@ -54,32 +54,6 @@ NEW HEARING TEMPLATE
     <ul class="ScheduleListWitnesses">
       <li><strong>(recalled) Rich Coleman</strong>, Former Minister of Public Safety and Solicitor General; Former Minister of Housing and Social Development; Former Minister of Energy and Mines and Minister Responsible for Housing</li>
     </ul>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Testified previously, additional affidavits entered. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Annette Ryan</strong> (Affidavit #1 and Ex. A) – Ex. 990-991, (Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC)</li>
-        <li><strong>Gurprit Bains</strong> (Affidavit #1) – Ex. 992, (Deputy Chief Legal Officer, Law Society of British Columbia)</li>
-        <li><strong>Brad Desmarais</strong> (Affidavit #2) – Ex. 995, (Chief Operating Officer, Vice President of Casino and Community Gaming, Interim Vice President of Legal Compliance and Security, British Columbia Lottery Corporation)</li>
-        <li><strong>Bud Smith</strong> (Affidavit #2) – Ex. 996, (Former Board Chair, British Columbia Lottery Corporation)</li>
-        <li><strong>John Mazure</strong> (Affidavit #2)  - Ex. 997, (Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch)</li>
-        <li><strong>Patrick Ennis</strong> (Affidavit #2) – Ex. 998, (Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Corporation)</li>
-        <li><strong>Calvin Chrustie</strong> (Affidavit #1) – Ex. 999, (Former RCMP)</li>
-        <li><strong>Brad Rudnicki</strong> (Affidavits #1 & #2) – Ex. 1007 & 1008, (Anti-Money Laundering Intelligence Specialist, British Columbia Lottery Corporation)</li>
-        <li><strong>Cheryl Wenezenki-Yolland</strong> (Affidavit #2) – Ex. 1018, (Former Associate Deputy Minister of Finance)</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Witnesses did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Joel Rank</strong> (Affidavit #1) – Ex. 993, Manager in the Project Management Office of the Canada Border Services Agency (CBSA) Assessment and Revenue Manager (CARM) Project</li>
-        <li><strong>Tobias Louie</strong> (Affidavit #1) – Ex. 994, Executive Director of the BC Ferry Authority and the former Executive Director of the Corporate Policy and Planning Office (CPPO) in the Ministry of Public Safety and Solicitor General (PSSG)</li>
-        <li><strong>Sarah D’Ambrogio</strong> (Affidavit & Attachments) – Ex. 1000-1005, Policy Analyst for Canada Border Services Agency (CBSA)</li>
-        <li><strong>Sherri-Lynn Foran</strong> (Affidavit) – Ex. 1006, Director of the Appeals & Enforcement Litigation Division of the Recourse Directorate, in the Finance and Corporate Management Branch of the Canada Border Services Agency (CBSA)</li>
-        <li><strong>Lesley Soper</strong> (Affidavit #1) – Ex. 1019, Director-General in the National and Cyber Security Branch of Public Safety Canada</li>
-        <li><strong>Craig Callens</strong> (Affidavit #1) – Ex. 1022, Retired Deputy Commissioner of RCMP</li>
-        <li><strong>Gary Bass</strong> (Affidavit #1) – Ex. 1023, Former member of RCMP</li>
-      </ul>
-    </div>
   </div>
   <div class="ScheduleTranscriptButton">
     <div>
@@ -346,23 +320,23 @@ NEW HEARING TEMPLATE
   <p>March 31, 2021</p>
   <div>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Testified previously, additional affidavits entered. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
+      <p class="SchedulePanelName">Luxury Goods:</p>
       <ul class="ScheduleListWitnesses">
-        <li><strong>Daryl Tottenham</strong> (Affidavit #3) – Ex. 780, British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer</li>
-        <li><strong>Robert Kroeker</strong> (Affidavit #2) – Ex. 783, Former Officer, RCMP; Former Director of Civil Forfeiture and Former Vice President, Compliance and Legal, Great Canadian Gaming Corporation; Former Vice President, Legal, Compliance and Security/Chief Compliance Officer, British Columbia Lottery Corporation</li>
-        <li><strong>Cathy Cuglietta</strong> (Affidavit #2) – Ex. 784, AML Business Intelligence Analyst, British Columbia Lottery Corporation</li>
+        <li><strong>Beatrice Sturtevant</strong>, Managing Director, Canadian Jewellers Association</li>
+        <li><strong>Michelle Lee</strong>, Executive Director, Consumer Taxation Programs Branch, Revenue Division, Ministry of Finance of British Columbia</li>
+        <li><strong>Marko Goluza</strong>, Director, Professional Conduct, Insurance Council of British Columbia</li>
+        <li><strong>Norman Shields</strong>, Vice President, Finance and Administration, BMW Canada</li>
       </ul>
     </div>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
+      <p class="SchedulePanelName">Gaming:</p>
       <ul class="ScheduleListWitnesses">
-        <li><strong>Beatrice Sturtevant</strong> (Affidavit #1) – Ex. 776, Managing Director, Canadian Jewellers Association</li>
-        <li><strong>Marko Goluza</strong> (Affidavit #1) – Ex. 777, Director, Professional Conduct, Insurance Council of British Columbia</li>
-        <li><strong>Norman Shields</strong> (Affidavit #1) – Ex. 778, Vice President, Finance and Administration, BMW Canada</li>
-        <li><strong>Michelle Lee</strong> (Affidavit #1) – Ex. 779, Executive Director, Consumer Taxation Programs Branch, Revenue Division, Ministry of Finance of British Columbia</li>
-        <li><strong>Anna Fitzgerald</strong> (Affidavit  #1) - Ex 781, Executive Director, Compliance Division, Gaming Policy and Enforcement Branch (GPEB)</li>
-        <li><strong>Robin Jomha</strong> (Affidavit #1) – Ex. 782, Director Corporate Registration Unit, Licensing, Registration and Certification Division, GPEB</li>
-        <li><strong>Richard Block</strong> (Affidavit #1) – Ex. 785, Senior Specialist, Regulatory Reporting and Fixed Assets, BCLC</li>
+        <li><strong>Daryl Tottenham</strong>, British Columbia Lottery Corporation (BCLC) Manager Anti-Money Laundering (AML) Programs, Former New Westminster Police Department Officer</li>
+        <li><strong>Robert Kroeker</strong>, Former Officer, RCMP; Former Director of Civil Forfeiture and Former Vice President, Compliance and Legal, Great Canadian Gaming Corporation; Former Vice President, Legal, Compliance and Security/Chief Compliance Officer, British Columbia Lottery Corporation</li>
+        <li><strong>Cathy Cuglietta</strong>, AML Business Intelligence Analyst, British Columbia Lottery Corporation</li>
+        <li><strong>Richard Block</strong>, Senior Specialist, Regulatory Reporting and Fixed Assets, BCLC</li>
+        <li><strong>Anna Fitzgerald</strong>, Executive Director, Compliance Division, Gaming Policy and Enforcement Branch (GPEB)</li>
+        <li><strong>Robin Jomha</strong>, Director Corporate Registration Unit, Licensing, Registration and Certification Division, GPEB</li>
       </ul>
     </div>
   </div>
@@ -372,25 +346,13 @@ NEW HEARING TEMPLATE
   </div>
   <p>March 30, 2021</p>
   <div>
-  <div class="ScheduleListPanel">
+    <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Municipal Policing Panel:</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Deputy Chief Constable Laurence Rankin</strong>, Vancouver Police Department</li>
         <li><strong>Inspector Mike Heard</strong>, Vancouver Police Department</li>
         <li><strong>Deputy Chief Constable Brett Crosby-Jones</strong>, Abbotsford Police Department</li>
         <li><strong>Inspector Chris Mullin</strong>, New Westminster Police Department</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Testified previously, additional affidavits entered. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Cpl. Karen Best</strong> (Affidavit #2) – Ex. 765, RCMP</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Jiang Wei Liang</strong> (Affidavit #1) – Ex. 766, Businessman</li>
       </ul>
     </div>
   </div>
@@ -423,12 +385,6 @@ NEW HEARING TEMPLATE
         <li><strong>Carlos MacDonald</strong>, Director of Land Titles, Land Title and Survey Authority of British Columbia (LTSA)</li>
         <li><strong>Gregory Steves</strong>, Vice President, Policy and Legal Services, Land Title and Survey Authority of British Columbia (LTSA)</li>
         <li><strong>Reuben Danakody</strong>, Director, Land Owner Transparency Registry</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Adam Ross</strong> (Affidavit) – Ex. 729, Consultant, White Label Insights</li>
       </ul>
     </div>
   </div>
@@ -553,8 +509,8 @@ NEW HEARING TEMPLATE
   </div>
   <p>February 25, 2021</p>
   <ul class="ScheduleListWitnesses">
-    <li><strong>Raheel Humayun</strong>, Managing Director, Investigations, Office of the Superintendent of Real Estate</li>
     <li><strong>Michael Scott</strong>, Director, Compliance and Investigations, Real Estate Council of British Columbia</li>
+    <li><strong>Raheel Humayun</strong>, Managing Director, Investigations, Office of the Superintendent of Real Estate</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <a href="/data/transcripts/Transcript February 25, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
@@ -742,8 +698,8 @@ NEW HEARING TEMPLATE
   <p>January 29, 2021</p>
   <ul class="ScheduleListWitnesses">
     <li><strong>Jim Lightbody</strong> (cont’d), Chief Executive Officer and President, British Columbia Lottery Corporation</li>
-    <li><strong>Terry Towns</strong>, Former Vice President of Corporate Security and Compliance, British Columbia Lottery Corporation</li>
     <li><strong>Kevin Sweeney</strong>, Director of Security, Privacy and Compliance, Legal, Compliance, Security Division, British Columbia Lottery Corporation</li>
+    <li><strong>Terry Towns</strong>, Former Vice President of Corporate Security and Compliance, British Columbia Lottery Corporation</li>
   </ul>
   <div class="ScheduleTranscriptButton">
     <a href="/data/transcripts/Transcript January 29, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
@@ -793,20 +749,13 @@ NEW HEARING TEMPLATE
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('503714075'); return false">Watch Video of Session</button>
   </div>
   <p>January 21, 2021</p>
-  <div>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Maggie Chiu</strong>, Manager, VIP Development, Gateway Casinos & Entertainment Ltd.</li>
-      <li><strong>Caterina Cuglietta</strong>, AML Business Intelligence Analyst, British Columbia Lottery Corporation</li>
-      <li><strong>Kevin deBruyckere</strong>, Director, AML & Investigations, Legal Compliance, Security Division, British Columbia Lottery Corporation</li>
-    </ul>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Witness did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Bill Lang</strong> (Affidavit #1) – Ex. 480, Executive Director, VIP, Gateway Casinos & Entertainment Ltd.</li>
-        <li><strong>Gurmit Aujla</strong> (Affidavit #1) – Ex. 481, Director, Internal Audit, Audit Service Department, British Columbia Lottery Corporation</li>
-      </ul>
-    </div>
-  </div>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Maggie Chiu</strong>, Manager, VIP Development, Gateway Casinos & Entertainment Ltd.</li>
+    <li><strong>Bill Lang</strong>, Executive Director, VIP, Gateway Casinos & Entertainment Ltd.</li>
+    <li><strong>Gurmit Aujla</strong>, Director, Internal Audit, Audit Service Department, British Columbia Lottery Corporation</li>
+    <li><strong>Caterina Cuglietta</strong>, AML Business Intelligence Analyst, British Columbia Lottery Corporation</li>
+    <li><strong>Kevin deBruyckere</strong>, Director, AML & Investigations, Legal Compliance, Security Division, British Columbia Lottery Corporation</li>
+  </ul>
   <div class="ScheduleTranscriptButton">
     <a href="/data/transcripts/Transcript January 21, 2021.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('503299881'); return false">Watch Video of Session</button>
@@ -1290,17 +1239,9 @@ NEW HEARING TEMPLATE
     <div><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('475295245'); return false">Watch Video of Session</button></div>
   </div>
   <p>November 2, 2020</p>
-  <div>
-    <ul class="ScheduleListWitnesses">
-      <li><strong>Ken Ackles</strong>, Gaming Policy and Enforcement Branch (GPEB) Manager of Investigations, Former RCMP Officer</li>
-    </ul>
-    <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Witnesses did not testify. Affadavit entered instead. Affidavits can be found on the <a href="/exhibits/">Exhibits page</a>.</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Bal Bamra</strong> (Affidavit #1) – Ex. 143, Manager, Anti-Money Laundering Intelligence for British Columbia Lottery Corporation</li>
-      </ul>
-    </div>
-  </div>
+  <ul class="ScheduleListWitnesses">
+    <li><strong>Ken Ackles</strong>, Gaming Policy and Enforcement Branch (GPEB) Manager of Investigations, Former RCMP Officer</li>
+  </ul>
   <div class="ScheduleTranscriptButton">
     <a href="/data/transcripts/Transcript November 2, 2020.pdf" target="_blank" class="ScheduleTranscriptLink"><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight">Download Transcript</button></a>
     <div><button class="Button TonedDownButton ButtonMarginLeft ButtonMarginRight" onclick="openVideo('475195357'); return false">Watch Video of Session</button></div>
