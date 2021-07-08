@@ -793,7 +793,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p class="NamesOfWitnesses"><strong>Brad Rudnicki</strong>, (Anti-Money Laundering Intelligence Specialist, British Columbia Lottery Corporation)</p>
     <div class="WitnessHearingsList">
       <p class="HearingDateLink"><strong class="WitnessHearingDate">2 March, 2021</strong></p>
-      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavits #1 & #2) – Ex. 1007 & 1008</strong></p>
+      <p class="HearingDateLink"><strong class="WitnessHearingDate">14 May, 2021 (Affidavits #1 & #2 and Attachments) – Ex. 1007-1013</strong></p>
     </div>
     <p class="NamesOfWitnesses"><strong>Annette Ryan</strong>, (Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC)</p>
     <div class="WitnessHearingsList">
