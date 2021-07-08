@@ -64,7 +64,7 @@ NEW HEARING TEMPLATE
         <li><strong>John Mazure</strong> (Affidavit #2)  - Ex. 997, (Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch)</li>
         <li><strong>Patrick Ennis</strong> (Affidavit #2) – Ex. 998, (Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Corporation)</li>
         <li><strong>Calvin Chrustie</strong> (Affidavit #1) – Ex. 999, (Former RCMP)</li>
-        <li><strong>Brad Rudnicki</strong> (Affidavits #1 & #2) – Ex. 1007 & 1008, (Anti-Money Laundering Intelligence Specialist, British Columbia Lottery Corporation)</li>
+        <li><strong>Brad Rudnicki</strong> (Affidavits #1 & #2 and Attachments) – Ex. 1007-1013, (Anti-Money Laundering Intelligence Specialist, British Columbia Lottery Corporation)</li>
         <li><strong>Cheryl Wenezenki-Yolland</strong> (Affidavit #2) – Ex. 1018, (Former Associate Deputy Minister of Finance)</li>
       </ul>
     </div>
