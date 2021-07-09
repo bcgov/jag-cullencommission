@@ -476,6 +476,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/includes/navbar.php');
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/905 - BCLC Briefing - July 31 2017.pdf" target="_blank">BCLC Briefing - July 31, 2017</a></p>
 </div>
 <div class="ExhibitElement">
+    <p>#904</p>
+    <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/904 - Binder of briefing documents prepared by ADM and presented to Minister Eby - Aug 2017_Redacted.pdf" target="_blank">Binder of briefing documents prepared by ADM and presented to Minister Eby - Aug 2017_Redacted</a></p>
+</div>
+<div class="ExhibitElement">
     <p>#903</p>
     <p><a href="https://ag-pssg-sharedservices-ex.objectstore.gov.bc.ca/ag-pssg-cc-exh-prod-bkt-ex/903 - Email exchange between Brittney Speed and Len Meilleur re AML Strategy language - draft BCLC mandate letter - Nov 19 2015_Redacted.pdf" target="_blank">Email exchange between Brittney Speed and Len Meilleur, re AML Strategy language - draft BCLC mandate letter - Nov 19, 2015_Redacted</a></p>
 </div>
