@@ -61,7 +61,7 @@ NEW HEARING TEMPLATE
         <li><strong>Gurprit Bains</strong> (Affidavit #1) – Ex. 992, (Deputy Chief Legal Officer, Law Society of British Columbia)</li>
         <li><strong>Brad Desmarais</strong> (Affidavit #2) – Ex. 995, (Chief Operating Officer, Vice President of Casino and Community Gaming, Interim Vice President of Legal Compliance and Security, British Columbia Lottery Corporation)</li>
         <li><strong>Bud Smith</strong> (Affidavit #2) – Ex. 996, (Former Board Chair, British Columbia Lottery Corporation)</li>
-        <li><strong>John Mazure</strong> (Affidavit #2)  - Ex. 997, (Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch)</li>
+        <li><strong>John Mazure</strong> (Affidavit #2) - Ex. 997, (Former Assistant Deputy Minister and General Manager, Gaming Policy Enforcement Branch)</li>
         <li><strong>Patrick Ennis</strong> (Affidavit #2) – Ex. 998, (Former Vice President, Corporate Security and Compliance, Great Canadian Gaming Corporation)</li>
         <li><strong>Calvin Chrustie</strong> (Affidavit #1) – Ex. 999, (Former RCMP)</li>
         <li><strong>Brad Rudnicki</strong> (Affidavits #1 & #2 and Attachments) – Ex. 1007-1013, (Anti-Money Laundering Intelligence Specialist, British Columbia Lottery Corporation)</li>
@@ -360,7 +360,7 @@ NEW HEARING TEMPLATE
         <li><strong>Marko Goluza</strong> (Affidavit #1) – Ex. 777, Director, Professional Conduct, Insurance Council of British Columbia</li>
         <li><strong>Norman Shields</strong> (Affidavit #1) – Ex. 778, Vice President, Finance and Administration, BMW Canada</li>
         <li><strong>Michelle Lee</strong> (Affidavit #1) – Ex. 779, Executive Director, Consumer Taxation Programs Branch, Revenue Division, Ministry of Finance of British Columbia</li>
-        <li><strong>Anna Fitzgerald</strong> (Affidavit  #1) - Ex 781, Executive Director, Compliance Division, Gaming Policy and Enforcement Branch (GPEB)</li>
+        <li><strong>Anna Fitzgerald</strong> (Affidavit #1) - Ex 781, Executive Director, Compliance Division, Gaming Policy and Enforcement Branch (GPEB)</li>
         <li><strong>Robin Jomha</strong> (Affidavit #1) – Ex. 782, Director Corporate Registration Unit, Licensing, Registration and Certification Division, GPEB</li>
         <li><strong>Richard Block</strong> (Affidavit #1) – Ex. 785, Senior Specialist, Regulatory Reporting and Fixed Assets, BCLC</li>
       </ul>
@@ -372,7 +372,7 @@ NEW HEARING TEMPLATE
   </div>
   <p>March 30, 2021</p>
   <div>
-  <div class="ScheduleListPanel">
+    <div class="ScheduleListPanel">
       <p class="SchedulePanelName">Municipal Policing Panel:</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Deputy Chief Constable Laurence Rankin</strong>, Vancouver Police Department</li>
@@ -847,19 +847,19 @@ NEW HEARING TEMPLATE
   <p>January 18, 2021</p>
   <div>
     <div class="ScheduleListPanel">
-      <p class="SchedulePanelName">Money Services Business (MSB) – Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) Panel:</p>
-      <ul class="ScheduleListWitnesses">
-        <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, FINTRAC</li>
-        <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
-        <li><strong>Annette Ryan</strong>, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</li>
-      </ul>
-    </div>
-    <div class="ScheduleListPanel">
       <p class="SchedulePanelName">MSB – Industry and Policing Panel:</p>
       <ul class="ScheduleListWitnesses">
         <li><strong>Megan Nettleton</strong>, Supervisor, RCMP National Headquarters (NHQ) Financial Crime Analysis Unit</li>
         <li><strong>Michael Cox</strong>, Chief Compliance Officer & Finance Director, Vancouver Bullion & Currency Exchange</li>
         <li><strong>Joseph Iuso</strong>, Executive Director, Canadian Money Service Business Association</li>
+      </ul>
+    </div>
+    <div class="ScheduleListPanel">
+      <p class="SchedulePanelName">Money Services Business (MSB) – Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) Panel:</p>
+      <ul class="ScheduleListWitnesses">
+        <li><strong>Barry MacKillop</strong>, Deputy Director, Intelligence Sector, FINTRAC</li>
+        <li><strong>Donna Achimov</strong>, Deputy Director and Chief Compliance Officer, Compliance Sector, FINTRAC</li>
+        <li><strong>Annette Ryan</strong>, Deputy Director and Chief Financial Officer, Enterprise Policy, Research and Programs Sector, FINTRAC</li>
       </ul>
     </div>
   </div>
